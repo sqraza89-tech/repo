@@ -1,6 +1,6 @@
 ---
 date: 2026-08-25
-tags: [nepra, xloop, website, seo, copywriting, figma]
+tags: [nepra, xloop, website, seo, aeo, copywriting, figma, compliance, competitive-research, blocker]
 ---
 
 # NEPRA homepage notice + landing page — copy deck & placement brief

@@ -23,7 +23,7 @@ tags: [nepra, xloop, outreach, letters]
 - Round-2 copy edits: closing link written in full as `https://www.xloopdigital.com/services/cyber-security-service` (plain text, not a hyperlink field, matching the printed-letter convention); first paragraph says "our earlier **letter**", not "note"
 - Reuse each company's exact address block + salutation from its own first letter (not from the spreadsheet)
 - Output location: `Projects/NEPRA Follow-Up Letters/` in this vault
-- **Status: DONE — 86 letters final in `Projects/NEPRA Follow-Up Letters/`.** Round 1 generated 87; round 2 applied the three copy edits and deleted the GEPCO duplicate. QA passed on all 86: new subject 86/86, https link 86/86, "earlier letter" 86/86, phone line 86/86; zero occurrences of the old subject, the word "note", the bare `www.` URL, or leftover `{{placeholders}}`. Poppins / gold rule / navy heading / anchored signature graphic all byte-identical to the source template. Round 3 standardised the signature-block colours — verified on 100% of files (uniform `3A3A3A` 86/86, navy name 86/86, italic title 86/86, zero `6E6E6E` left).
+- **Status: DONE — 86 letters final in `Projects/NEPRA Follow-Up Letters/`.** Round 1 generated 87; round 2 applied the three copy edits and deleted the GEPCO duplicate. QA passed on all 86: new subject 86/86, https link 86/86, "earlier letter" 86/86, phone line 86/86; zero occurrences of the old subject, the word "note", the bare `www.` URL, or leftover `{{placeholders}}`. Poppins / gold rule / navy heading / anchored signature graphic all byte-identical to the source template. Round 3 standardised the signature-block colours — verified on 100% of files (uniform `3A3A3A` 86/86, navy name 86/86, italic title 86/86, zero `6E6E6E` left). Round 4 removed justification and made the closing URL a live hyperlink — 86/86 on every check (no `w:jc both`, one External hyperlink with the Hyperlink char style, trailing period gone).
 
 ## Data issues found in the existing first-round letters
 - **#65 `65_Quaid_e_Azam_Solar_Power_Pvt_Ltd.docx` has the wrong address block** — shows PEDO's details (Engineer Anwarul Haq, PEDO House, Peshawar) while the salutation correctly reads "Dear Muhammad Amjad,". Follow-up will use the correct block: Muhammad Amjad / CEO / Quaid-e-Azam Solar Power Pvt Ltd / 3rd Floor, 83A-E1, Gulberg III, Main Boulevard, Lahore. **Worth checking whether the first letter was physically mailed with PEDO's address.**
@@ -45,14 +45,16 @@ All of the above were fixed in the follow-up batch; the *first-round* letters st
 - Salutation drops a trailing parenthetical, so "Danish Iqbal (Alimohamed)" reads "Dear Danish Iqbal," while mid-name ones like "Lt Gen (R) Muhammad Saeed" stay intact
 - Scripts kept in session scratchpad: `build_template.ps1`, `generate_letters.ps1` (takes an optional count arg for a pilot run)
 - Pilot of 3 passed clean before the full run
-- Scripts are per-round and idempotent: `apply_edits.ps1` (copy edits), `fix_sig_color.ps1` (signature colours, sets `Font.Color` so it also ADDS a colour to runs that had none). Pattern that works: match a paragraph by its exact trimmed text, then `$r.MoveEnd(1,-1)` before touching formatting so the paragraph mark is left alone
+- Scripts are per-round and idempotent: `apply_edits.ps1` (copy edits), `fix_sig_color.ps1` (signature colours, sets `Font.Color` so it also ADDS a colour to runs that had none), `fix_align_link.ps1` (alignment + hyperlink; guards on `$doc.Hyperlinks.Count -eq 0` so a re-run will not double-link). Pattern that works: match a paragraph by its exact trimmed text, then `$r.MoveEnd(1,-1)` before touching formatting so the paragraph mark is left alone
 - Round-2 edits used a separate `apply_edits.ps1` (idempotent — skips files already carrying the new wording, so it is safe to re-run)
+- QA gotcha: `TargetMode="External"` lives in `word/_rels/document.xml.rels`, NOT in `word/document.xml` — grepping the wrong file makes a correct hyperlink look broken
 - `zip` is NOT on PATH, so docx cannot be repacked from bash; `unzip -p file.docx word/document.xml` is however the fast way to READ/grep a docx for QA without opening Word
 
 ## Next steps
 - [x] Generate and QA all 87 letters
 - [x] Round-2 edits (subject, https link, "letter" wording) + GEPCO dedup — 86 final
 - [x] Round-3: signature-block colours made uniform across all 86
+- [x] Round-4: left-aligned (un-justified) + live hyperlink on the closing URL
 - [ ] Confirm with Huzaifa whether #65's first letter went out with the wrong (PEDO) address
 - [x] GEPCO duplicate resolved — one letter only
 - [ ] Back-port the corrections into `v2` of the spreadsheet: #11 duplicated "Thatta District", #51 stray "(inferred, shares HUBCO office)" note in the address field, and the #65 Quaid-e-Azam / PEDO mix-up

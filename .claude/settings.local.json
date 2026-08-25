@@ -6,7 +6,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "node \"${CLAUDE_PROJECT_DIR}/.claude/hooks/big-read-gate.mjs\"",
+            "command": "\"C:\\Program Files\\nodejs\\node.exe\" \"${CLAUDE_PROJECT_DIR}/.claude/hooks/big-read-gate.mjs\"",
             "timeout": 5,
             "statusMessage": "Bari file ka gate"
           }
@@ -18,7 +18,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "node \"${CLAUDE_PROJECT_DIR}/.claude/hooks/delegate-reminder.mjs\"",
+            "command": "\"C:\\Program Files\\nodejs\\node.exe\" \"${CLAUDE_PROJECT_DIR}/.claude/hooks/delegate-reminder.mjs\"",
             "timeout": 5
           }
         ]

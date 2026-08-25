@@ -1,0 +1,47 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Read",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"${CLAUDE_PROJECT_DIR}/.claude/hooks/big-read-gate.mjs\"",
+            "timeout": 5,
+            "statusMessage": "Bari file ka gate"
+          }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"${CLAUDE_PROJECT_DIR}/.claude/hooks/delegate-reminder.mjs\"",
+            "timeout": 5
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"${CLAUDE_PROJECT_DIR}/.claude/hooks/auto-note-check.sh\"",
+            "timeout": 15,
+            "statusMessage": "Checking for notes to save"
+          },
+          {
+            "type": "command",
+            "command": "bash \"${CLAUDE_PROJECT_DIR}/.claude/hooks/auto-commit.sh\"",
+            "timeout": 30,
+            "statusMessage": "Git par mehfooz kar raha hoon"
+          }
+        ]
+      }
+    ]
+  },
+  "description": "PreToolUse: bari-file Read gate -> free-model CLI. UserPromptSubmit: delegation reminder (2 darjay). Stop: note check + git auto-commit."
+}

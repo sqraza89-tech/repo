@@ -1,0 +1,22 @@
+# ── Secrets — yeh kabhi GitHub par nahi jani chahiyen ─────────────────────────
+Tools/llm/.env
+Tools/llm/.env.*
+Tools/llm/keys.txt
+Tools/llm/keys.txt.*
+*.env
+!*.env.example
+
+# ── Claude Code ki transient state ───────────────────────────────────────────
+.claude/hooks/state/
+
+# ── Delegation ke natije (dobara ban sakte hain, bhaari hote hain) ───────────
+Tools/llm/jobs/*/out/
+Tools/llm/jobs/*/pilot/
+
+# ── OS ka kachra ─────────────────────────────────────────────────────────────
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ── Build / dependency folders ───────────────────────────────────────────────
+node_modules/

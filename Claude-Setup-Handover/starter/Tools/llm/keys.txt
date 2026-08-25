@@ -1,0 +1,81 @@
+========================================================
+  API KEYS  —  sirf yeh file aap edit karenge
+========================================================
+
+Hidayaat:
+  * "=" ke aage key paste karein. Bas.
+  * Quotes ("" ya '') ki zaroorat NAHI hai.
+  * Jo abhi nahi chahiye, usay khaali chhod dein — purani key mitegi nahi.
+  * Paste karne ke baad Claude ko bolein: "keys sync kar do"
+    (ya khud chalayein: node Tools/llm/sync-keys.mjs)
+  * "#" se shuru hone wali lines sirf notes hain, unko chhod dein.
+  * Sahi section mein paste karein: Groq ki key "gsk_" se shuru hoti hai,
+    Google ki "AIza" ya "AQ." se. Ghalat jagah ho to sync warning deta hai.
+  * EK SE ZYADA KEY: bas wohi line dobara likh dein aur nayi key paste kar dein.
+    Misal (yeh do lines sirf namoona hain):
+# Groq api key =gsk_pehli
+# Groq api key =gsk_dusri
+    Har key ka apna rozana budget hota hai. Ek khatam ho to tool khud agli par
+    chala jata hai. Kitni bhi daal sakte hain.
+    ⚠ Alag account par key banayein — ek hi account ki kai keys wohi quota
+      share karti hain, faida nahi hota.
+
+
+--------------------------------------------------------
+1. GROQ          (sab se zaroori — default yehi chalta hai)
+--------------------------------------------------------
+   Link  : https://console.groq.com
+   Rasta : Sign in  ->  left menu "API Keys"  ->  "Create API Key"
+   Key   : gsk_ se shuru hoti hai
+   Card  : nahi maangta
+   Note  : key sirf EK BAAR dikhti hai, window band karne se pehle copy karein
+
+Groq api key =
+
+Groq api key =
+
+
+--------------------------------------------------------
+2. GOOGLE GEMINI   (bade files ke liye — 1M context)
+--------------------------------------------------------
+   Link  : https://aistudio.google.com/apikey
+   Rasta : Google se sign in  ->  "Create API key"
+           ->  project maange to "Create API key in new project"
+   Key   : AIza (ya AQ.) se shuru hoti hai
+   Card  : nahi maangta
+   Note  : bari files (>14 KB) yehi sambhalta hai (1M context). Iska rozana
+           quota sab se pehle khatam hota hai — doosri key sab se ziyada yahan
+           kaam aati hai.
+
+Google Gemini api key =
+
+Google Gemini api key =
+
+
+--------------------------------------------------------
+3. OPENROUTER      (optional — failover ke liye)
+--------------------------------------------------------
+   Link  : https://openrouter.ai/keys
+   Rasta : Sign in  ->  "Create Key"
+   Key   : sk-or-v1- se shuru hoti hai
+   Card  : nahi maangta
+   Note  : free tier sirf ~50 requests/din deta hai. Ek baar $10 credit daalne
+           se 1000 req/din hamesha ke liye khul jate hain.
+
+OpenRouter api key =
+
+
+--------------------------------------------------------
+4. OLLAMA          (laptop pe — KOI KEY NAHI CHAHIYE)
+--------------------------------------------------------
+   Link  : https://ollama.com/download/windows
+   Rasta : download -> install -> phir: ollama pull qwen3:8b
+   Key   : koi nahi, koi signup nahi
+   Note  : yeh sab se aakhir mein use hota hai (jab baaki sab fail hon,
+           internet band ho, ya `--private` wala kaam ho)
+
+
+========================================================
+  Sirf Groq (#1) se bhi shuru ho sakta hai.
+  Baaki teen baad mein add kar sakte hain.
+========================================================

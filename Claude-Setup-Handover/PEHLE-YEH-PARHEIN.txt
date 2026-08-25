@@ -1,0 +1,68 @@
+========================================================
+  TEEN QADAM — bas itna hi karna hai
+========================================================
+
+QADAM 1 — Zip kholein (extract karein)
+--------------------------------------
+Us folder ke andar jahan aap rozana kaam karte hain (ya ek naya folder banayein,
+misal:  D:\Kaam\  ya  C:\Users\<aap>\Documents\Kaam\ ).
+
+Extract ke baad wahan ek folder banega:  Claude-Setup-Handover
+
+⚠ Zip ko chat mein paste karne ki koshish na karein — kaam nahi karegi.
+  Claude Code files computer se parhta hai, chat se nahi.
+
+
+QADAM 2 — Claude Code kholein USI folder mein
+---------------------------------------------
+Desktop app mein: wo folder select karein (jisme abhi Claude-Setup-Handover aaya).
+Terminal mein:    us folder mein `cd` kar ke `claude` chalayein.
+
+
+QADAM 3 — Claude ko shuru karne ko kahein
+-----------------------------------------
+Chat mein bas yeh EK line likh dein aur Enter dabayein:
+
+    Claude-Setup-Handover/BOOTSTRAP-PROMPT.md parho aur usme jo instructions
+    likhi hain un par amal karo
+
+Bas. Aage Claude khud sab karega.
+
+(Agar kisi wajah se yeh kaam na kare: `Claude-Setup-Handover\BOOTSTRAP-PROMPT.md`
+Notepad mein kholein, usme ``` ``` ke darmiyan jo bara matn hai wo POORA copy
+kar ke chat mein paste kar dein. Nateeja ek hi hai.)
+
+
+========================================================
+  AAGE KYA HOGA (taake hairat na ho)
+========================================================
+
+* Claude pehle aap se 7 sawal poochega — folder kaunsa, kaam kya hai, zaban
+  kaunsi, backup chahiye ya nahi, waghera. Seedhe jawab de dein.
+
+* Command chalane ki ijazat maangega — "Allow" karein. Yeh normal hai.
+
+* API keys aap ko KHUD banani hongi (browser mein, 5 minute ka kaam, koi card
+  nahi maangta). Claude aap ko link aur poora rasta dega, aur batayega ke kis
+  file mein paste karni hain. Keys chat mein paste na karein.
+
+* Node ya Git installed na hua to Claude bata dega — ek baar install kar lein:
+     Node : https://nodejs.org         (LTS wala button)
+     Git  : https://git-scm.com/download/win
+
+* Aakhir mein Claude kahega "Claude Code restart karein" — YEH ZAROORI HAI.
+  Hooks (jo asal token bachate hain) sirf restart ke baad zinda hote hain.
+
+* Connectors (Figma, Google Drive waghera) sab se aakhir mein — un ka login
+  aap khud browser mein karenge, Claude wo nahi kar sakta.
+
+
+========================================================
+  Kuch samajh na aaye to
+========================================================
+
+Claude se hi poochh lein:
+   "Claude-Setup-Handover/README.md parho aur mujhe asaan alfaz mein batao
+    ke yeh sab kya hai"
+
+Wo poora setup samjha dega.

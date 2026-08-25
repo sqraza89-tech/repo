@@ -19,8 +19,25 @@ of the same 87-company mailing.
 ## Deliverables produced
 - `Projects/NEPRA Website Campaign/2026-08-25-nepra-website-copy-deck.docx` — all copy
   (homepage, landing page, CTA), metadata, correction log, removal runbook, open items.
+- `Projects/NEPRA Website Campaign/2026-08-25-nepra-landing-page-content-spec.docx` —
+  **the handoff doc for the design team.** Nine blocks in build order, final copy with
+  live character counts, type-role mapping to existing homepage components, layout and
+  responsive notes, asset list, "must not happen" rules.
 - Design/placement brief (Artifact, mockups in xLoop's dark style):
   https://claude.ai/code/artifact/bef0ec0e-1a13-4c03-b944-73b711e1139f
+
+## Revisions after first review (2026-08-25)
+- **Removed the letter-recipient acknowledgement** ("Received our letter? You're in the
+  right place") from the landing page — Sana's call.
+- **Removed the "How the audit runs" seven-stage section** — stays in the proposal only.
+- Consequence flagged and handled: that cut also removed the **"non-intrusive by design"**
+  callout, which is the first objection a plant manager raises. The assurance was folded
+  into the VAPT service copy (block 03) and it is already answered in the FAQ (block 08).
+  **Do not let either line get edited away.**
+- **Fixed an inconsistency:** the hero CTA said "Book a scoping call", contradicting the
+  phone-and-email-only decision. Hero buttons are now the phone and email themselves.
+- Final landing page = 9 blocks: Hero / The obligation (+ 3 stat tiles) / Four services /
+  Coverage table / Mid-page CTA / What you receive / Why xLoop / FAQ / Closing CTA.
 
 ## Decisions
 - **Add three components, replace nothing.**

@@ -23,8 +23,39 @@ of the same 87-company mailing.
   **the handoff doc for the design team.** Nine blocks in build order, final copy with
   live character counts, type-role mapping to existing homepage components, layout and
   responsive notes, asset list, "must not happen" rules.
+- `Projects/NEPRA Website Campaign/2026-08-25-nepra-landing-page-seo-aeo-content.docx` —
+  keyword strategy, competitor landscape, answer capsules per section, full JSON-LD
+  (Service / FAQPage / BreadcrumbList), AEO levers, internal linking, alt text,
+  measurement plan. **Section 1 carries the Category-1 blocker.**
 - Design/placement brief (Artifact, mockups in xLoop's dark style):
   https://claude.ai/code/artifact/bef0ec0e-1a13-4c03-b944-73b711e1139f
+
+## ⚠ BLOCKER found during SEO research (2026-08-25)
+- A competitor (Ebryx, on LinkedIn) claims **NEPRA licensees must use a Category-1 audit
+  firm recognised by the National CERT** for the third-party audit.
+- Checked `pkcert.gov.pk/registered-firms.asp`: **xLoop is NOT on that register in any
+  category.** Only 3 firms hold **OT Security CAT-I**: Phitech Solutions, NECOP,
+  Risk Associates. IT Security CAT-I includes Catalyic Security and Ebryx.
+- Two caveats: the PKCERT page says those firms support "Federal Ministries, Divisions
+  and Departments" and **does not mention NEPRA at all**; and the Category-1 claim comes
+  from a competitor who is themselves on the list (incentive to overstate).
+- **Unverified but high-stakes** — it goes to whether the headline "NEPRA Compliance
+  Audit" can be sold as advertised, and 87 letters have already gone out saying it.
+- If true, honest options: partner with a listed OT Security CAT-I firm and say so, or
+  reposition the page from "audit" to readiness / gap assessment / policy / VAPT /
+  training (all deliverable regardless). If false, consider applying to the register —
+  "CERT-recognised" would be the strongest differentiator available.
+
+## Correction to earlier competitive claim
+- I earlier wrote "very little strong Pakistani competition". **That was too optimistic.**
+  Real competitors: **SPS** (`nepra.spsnet.com` — dedicated subdomain, "NEPRA Compliance
+  as a Service", productised at $1k/$3k/month), **Catalyic Security** (ranking explainer),
+  **Ebryx**, **INTECH Automation** ("NEPRA-Compliant OT Cybersecurity"), **Supersecure**,
+  **Cyberisk**.
+- **The gap is still real and now precisely defined:** none of them publish a
+  clause-by-clause Regulation 4–11 table, and nepra.spsnet.com has **no FAQ section at
+  all**. Everyone sells the service; nobody has published the requirement. That is the
+  entire SEO/AEO strategy.
 
 ## Revisions after first review (2026-08-25)
 - **Removed the letter-recipient acknowledgement** ("Received our letter? You're in the
@@ -101,6 +132,12 @@ of the same 87-company mailing.
   generated with the `docx` npm package.
 
 ## Next steps
+- [ ] **FIRST: confirm with NEPRA whether the Regulation 8 audit must be done by a
+      CERT-recognised Category-1 firm** — supersedes everything else below
+- [ ] Decide whether AI crawlers (GPTBot, ClaudeBot, PerplexityBot, Google-Extended) are
+      allowed in robots.txt — blocking them makes the page uncitable by assistants
+- [ ] Run the four primary keywords through Ahrefs/Semrush for real volumes (none of my
+      figures are volume-based; I had no keyword tool)
 - [ ] Confirm the gazetted short title of the regulations and use it consistently
 - [ ] Confirm the 72-hour significant-incident reporting deadline against the gazetted text
 - [ ] Confirm the anonymised "30 MW wind IPP" reference is permitted under ACT Wind's engagement terms

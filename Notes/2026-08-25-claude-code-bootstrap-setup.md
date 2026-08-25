@@ -22,7 +22,10 @@ tags: [claude-code, setup, bootstrap, hooks, git, delegation]
 - Figma MCP connector confirmed working (tools loaded mid-session)
 
 ## Next steps
-- [ ] User to restart Claude Code once more so the hardcoded node-path fix in `.claude/settings.local.json` takes effect
-- [ ] Re-verify `big-read-gate.mjs` actually blocks a >40KB Read after that restart
-- [ ] Confirm MS Outlook connector (mentioned as wanted, not yet verified working)
-- [ ] Optional: install Ollama if offline/private delegation is needed later
+- [x] User restarted Claude Code — hardcoded node-path fix in `.claude/settings.local.json` confirmed active
+- [x] Re-verified `big-read-gate.mjs` blocks a >40KB Read (test file created + removed)
+- [ ] MS Outlook connector — not yet connected. Must be added at claude.ai → Settings → Connectors (same place Figma was added, which is why Figma's tools appeared automatically mid-session)
+- [ ] Optional: install Ollama if offline/private delegation is needed later (`ollama pull qwen3:8b`)
+
+## Status: setup complete
+All 4 hooks confirmed working (big-read-gate, delegate-reminder, auto-note-check, auto-commit). Groq/Gemini/OpenRouter healthy. Repo pushed to `https://github.com/sqraza89-tech/repo.git`.

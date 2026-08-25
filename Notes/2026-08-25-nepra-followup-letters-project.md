@@ -18,13 +18,17 @@ tags: [nepra, xloop, outreach, letters]
 - Huzaifa Valika's phone number added beneath his email: 0322-2009713
 - Reuse each company's exact address block + salutation from its own first letter (not from the spreadsheet)
 - Output location: `Projects/NEPRA Follow-Up Letters/` in this vault
-- Final draft text staged at scratchpad `draft_letter_preview.md`; awaiting user go-ahead before generating all 87
+- **Status: all 87 generated, 0 failures.** QA passed — no unreplaced placeholders, new subject in all 87, old subject in none, phone line in all 87, all 87 Sr numbers present with no duplicates, Poppins / gold rule / navy heading formatting intact
 
 ## Data issues found in the existing first-round letters
 - **#65 `65_Quaid_e_Azam_Solar_Power_Pvt_Ltd.docx` has the wrong address block** — shows PEDO's details (Engineer Anwarul Haq, PEDO House, Peshawar) while the salutation correctly reads "Dear Muhammad Amjad,". Follow-up will use the correct block: Muhammad Amjad / CEO / Quaid-e-Azam Solar Power Pvt Ltd / 3rd Floor, 83A-E1, Gulberg III, Main Boulevard, Lahore. **Worth checking whether the first letter was physically mailed with PEDO's address.**
 - `62_Patrind_O_M_K_Water_Global.docx` and `72_Star_Hydro_Power_Company.docx` are corrupted / unreadable by Word. Use `62 Patrind O&M redone.docx` and `72Star Hydro redone.docx` instead.
-- #11 CACHO Wind Energy address has a duplicated fragment: "Jhimpir, Thatta District, Thatta District, Sindh" — to be corrected.
-- #21 and #22 are both GEPCO (duplicate entry in the source list, same address/CEO).
+- #11 CACHO Wind Energy address had a duplicated fragment: "Jhimpir, Thatta District, Thatta District, Sindh" — corrected.
+- #25 Gul Ahmed Wind Power: "Danish Iqbal (Ali mohamed)" — corrected to "(Alimohamed)".
+- #26 Harappa Solar: "Rana Uzair Nasipm" — corrected to "Nasim".
+- #21 and #22 are both GEPCO (duplicate entry in the source list, same address/CEO) — both currently get a letter; user to decide.
+
+All of the above were fixed in the follow-up batch; the *first-round* letters still carry the errors.
 
 ## Environment notes (this machine)
 - No python, node, pandoc, zip, or LibreOffice on PATH — Word/Excel COM automation via PowerShell is the working approach for .docx/.xlsx here
@@ -38,6 +42,7 @@ tags: [nepra, xloop, outreach, letters]
 - Pilot of 3 passed clean before the full run
 
 ## Next steps
-- [ ] QA the generated 87 (check log, spot-check the fixed records #11, #25, #26, #62, #65, #72)
+- [x] Generate and QA all 87 letters
 - [ ] Confirm with Huzaifa whether #65's first letter went out with the wrong (PEDO) address
 - [ ] Decide whether #21/#22 duplicate GEPCO entry should really get two letters
+- [ ] Consider back-porting the address corrections (#11, #25, #26, #65) into the spreadsheet, which is now the least accurate copy of the recipient data

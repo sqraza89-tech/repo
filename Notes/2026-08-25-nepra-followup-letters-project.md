@@ -58,3 +58,26 @@ All of the above were fixed in the follow-up batch; the *first-round* letters st
 - [ ] Confirm with Huzaifa whether #65's first letter went out with the wrong (PEDO) address
 - [x] GEPCO duplicate resolved — one letter only
 - [ ] Back-port the corrections into `v2` of the spreadsheet: #11 duplicated "Thatta District", #51 stray "(inferred, shares HUBCO office)" note in the address field, and the #65 Quaid-e-Azam / PEDO mix-up
+
+## Round 5 — letterhead baked in (they ran out of pre-printed letterhead stock)
+- Source art: `C:\Users\Sana Qazi\Downloads\Letterhead.jpg` — 2480x3508 px @ 300 DPI = exactly A4, print-ready. A `Letterhead.pdf` also exists in Downloads.
+- Measured ink bounds so margins clear the art: **logo occupies 1.30–3.24 cm from top; footer contact strip 26.65–28.30 cm.** Clear band = 3.24–26.65 cm. Logo ink starts 1.24 cm from left, footer ink 1.47 cm.
+- Applied: A4 21x29.7 cm, margins **T 3.90 / B 3.50 / L 1.94 / R 1.94 cm**, header+footer distance 0. Art inserted into the **section header** as a shape named `LetterheadArt`, full-bleed, `WrapFormat.Type=3` (none) + `ZOrder(5)` (behind text), positioned relative to *page* at 0,0. Header placement keeps it un-nudgeable and repeats per page.
+- Old footer grey top-border disabled — it clashed with the letterhead's own footer.
+- **Two latent defects found and fixed:** letters were **US Letter (21.59 x 27.94 cm), not A4**, and every letter silently ran to **2 pages** with only the `Phone:` line on page 2 (would have been 172 printed sheets).
+- One-page fit is **adaptive, not a fixed index**: loop deletes blank spacer paragraphs between "Warm regards," and "Huzaifa Valika", skipping the paragraph the `Straight Connector` signature rule is anchored to, repaginating until `ComputeStatistics(2)` returns 1. Shorter letters keep more signature whitespace.
+
+## Decisions (round 5)
+- **Deliverable for the print shop = PDF only** (user's call). Reason: body font is **Poppins**; a print shop without Poppins would get font substitution and reflow. PDF embeds fonts.
+- Letterhead applied **in place** to the existing `.docx` (same filenames); `.docx` sources kept rather than deleted — deleting was not requested and is destructive.
+- Layout approved from a rendered sample before bulk.
+
+## Environment notes (round 5)
+- **No `pdftoppm`/poppler**, so the Read tool cannot render a PDF. Working substitute: `scratchpad/pdf2png.ps1` renders page 1 via the **WinRT `Windows.Data.Pdf`** API from PowerShell. Note `[Windows.Data.Pdf.PdfPage]` has **no `.Close()`** — that line throws *after* the PNG is already written, so a non-zero exit there is harmless.
+- Word COM `ExportAsFixedFormat($path, 17, $false, 0)` = PDF, don't open after, optimise for print.
+
+## Next steps (updated)
+- [x] Round-5: letterhead embedded, A4, one page, PDFs exported
+- [ ] Confirm with Huzaifa whether #65's first letter went out with the wrong (PEDO) address
+- [ ] Back-port corrections into spreadsheet `v2`: #11 duplicated "Thatta District", #51 stray "(inferred, shares HUBCO office)" in the address field, #65 Quaid-e-Azam / PEDO mix-up
+- [ ] Decide whether the `.docx` sources stay in the folder alongside the print PDFs

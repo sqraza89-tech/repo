@@ -30,7 +30,14 @@ tags: [nepra, xloop, outreach, letters]
 - No python, node, pandoc, zip, or LibreOffice on PATH — Word/Excel COM automation via PowerShell is the working approach for .docx/.xlsx here
 - Word COM over the 87 OneDrive letters takes several minutes; run it as a background task
 
+## Generation method (works on this machine)
+- Master placeholder template built from the follow-up draft with tokens `{{ADDR1..4}}`, `{{COMPANY}}`, `{{SALUT}}`; per-recipient copies made and tokens find/replaced via Word COM
+- Address block has two shapes: 4-line when a name is known (Name / CEO / Company / Address), 3-line otherwise (The Chief Executive Officer / Company / Address) — the `{{ADDR4}}` paragraph is deleted for the 3-line case
+- Salutation drops a trailing parenthetical, so "Danish Iqbal (Alimohamed)" reads "Dear Danish Iqbal," while mid-name ones like "Lt Gen (R) Muhammad Saeed" stay intact
+- Scripts kept in session scratchpad: `build_template.ps1`, `generate_letters.ps1` (takes an optional count arg for a pilot run)
+- Pilot of 3 passed clean before the full run
+
 ## Next steps
-- [ ] Get user sign-off on the final follow-up draft
-- [ ] Generate all 87 personalized .docx letters into `Projects/NEPRA Follow-Up Letters/`
+- [ ] QA the generated 87 (check log, spot-check the fixed records #11, #25, #26, #62, #65, #72)
 - [ ] Confirm with Huzaifa whether #65's first letter went out with the wrong (PEDO) address
+- [ ] Decide whether #21/#22 duplicate GEPCO entry should really get two letters

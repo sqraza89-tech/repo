@@ -71,6 +71,7 @@ All of the above were fixed in the follow-up batch; the *first-round* letters st
 - **Deliverable for the print shop = PDF only** (user's call). Reason: body font is **Poppins**; a print shop without Poppins would get font substitution and reflow. PDF embeds fonts.
 - Letterhead applied **in place** to the existing `.docx` (same filenames); `.docx` sources kept rather than deleted — deleting was not requested and is destructive.
 - Layout approved from a rendered sample before bulk.
+- **Delivered state: 86 .docx + 86 PDF in `Projects/NEPRA Follow-Up Letters/`, ~91 MB total (PDFs 10.2 MB, ~121 KB each).** QA on 100% of files: letterhead media embedded 86/86, A4 (`w:w="11906"`) 86/86, PDF twin per docx 86/86, **PDF page count == 1 on 86/86** (verified by loading every PDF through WinRT `PdfDocument.PageCount`, not by trusting Word). Worst cases read visually: longest address (24 Gul Ahmed Electric) and longest company name (62 Patrind O&M (Pvt.) Ltd. (K-Water Global)), plus both address-block shapes.
 
 ## Environment notes (round 5)
 - **No `pdftoppm`/poppler**, so the Read tool cannot render a PDF. Working substitute: `scratchpad/pdf2png.ps1` renders page 1 via the **WinRT `Windows.Data.Pdf`** API from PowerShell. Note `[Windows.Data.Pdf.PdfPage]` has **no `.Close()`** — that line throws *after* the PNG is already written, so a non-zero exit there is harmless.
@@ -81,3 +82,4 @@ All of the above were fixed in the follow-up batch; the *first-round* letters st
 - [ ] Confirm with Huzaifa whether #65's first letter went out with the wrong (PEDO) address
 - [ ] Back-port corrections into spreadsheet `v2`: #11 duplicated "Thatta District", #51 stray "(inferred, shares HUBCO office)" in the address field, #65 Quaid-e-Azam / PEDO mix-up
 - [ ] Decide whether the `.docx` sources stay in the folder alongside the print PDFs
+- [ ] Optional: signature whitespace is currently uneven between letters (adaptive trim removed 1 blank on short letters, 2 on long ones) — standardise if it matters

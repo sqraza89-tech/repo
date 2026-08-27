@@ -16,6 +16,36 @@ of the same 87-company mailing.
 - CEO's assumption: the whole thing comes down after 20–30 days. Sana disagrees and
   wants long-term value.
 
+## ⭐ AUTHORITATIVE DOC (start here)
+`Projects/NEPRA Website Campaign/2026-08-25-nepra-landing-page-FINAL-content.docx`
+Single source of truth for the landing page. 9 blocks; each block = final copy →
+build notes → SEO/AEO notes. Plus metadata, full JSON-LD, global build rules, assets,
+alt text, internal links, open items.
+
+**Supersedes** the landing-page sections of the other three docs. The copy deck still
+owns two things this does not: **homepage placement options** and the **day-30 removal
+runbook**.
+
+**Decisions locked 2026-08-25 (Sana):**
+- Format: one merged Word doc (not HTML)
+- Audit framing: **full-strength "NEPRA Compliance Audit"** — Sana chose this after I
+  raised the Category-1 risk. Recorded in the doc as a deliberate decision.
+- Unconfirmed facts: written through with inline markers, not omitted
+- Scope: copy + build notes together in one doc
+
+**Inline marker convention** — 〔V1〕…〔V6〕 mark unconfirmed strings in the copy:
+| Mark | What | Owner |
+|---|---|---|
+| 〔V1〕 | Gazetted short title of the regulations | Security practice |
+| 〔V2〕 | 72-hour significant-incident deadline | Security practice |
+| 〔V3〕 | Anonymised "30 MW wind IPP" reference | Legal / account owner |
+| 〔V4〕 | NIST / IEC 62443 / MITRE ATT&CK claim (drafted, held) | Security practice |
+| 〔V5〕 | Audit duration ("roughly three weeks") | Sales |
+| 〔V6〕 | Category-1 / CERT-recognised firm requirement | Security practice / NEPRA |
+
+If 〔V6〕 comes back positive, **only four things change**: the H1, hero subhead,
+service card 1, and the block 03 answer capsule. All marked 〔V6〕 in the doc.
+
 ## Deliverables produced
 - `Projects/NEPRA Website Campaign/2026-08-25-nepra-website-copy-deck.docx` — all copy
   (homepage, landing page, CTA), metadata, correction log, removal runbook, open items.

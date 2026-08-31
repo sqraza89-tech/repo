@@ -107,12 +107,40 @@ All of the above were fixed in the follow-up batch; the *first-round* letters st
 - Letter claims offices in **"Pakistan, the USA, UAE, and Qatar" (four)**; the ACT Wind
   proposal and the landing page copy say **nine countries**. One is wrong.
 
+## Round 7 — ISMO long-form letter re-letterheaded (2026-08-31)
+- Sana sent **4 files** to letterhead, with "if any is already on the letterhead, leave that one".
+  Only **one** actually needed it — always check before acting on a batch like this:
+  | file | what it is | action |
+  |---|---|---|
+  | `With letterhead/33_ISMO.docx` | round-5 follow-up, 1 pg, art present | left |
+  | `With letterhead/26_Harappa_Solar_Pvt_Ltd.docx` | round-5 follow-up, 1 pg, art present | left |
+  | `26_Harappa_Solar_Pvt_Ltd_LETTERHEAD.docx` | round-6 long-form, 3 pg, art present | left |
+  | **`33_ISMO.docx`** (OneDrive root) | **long-form first-round, 3 pg, 2 tables, no art, US Letter** | **done** |
+- Tell-tale for "already done" without opening Word: `unzip -l file.docx | grep media` —
+  a letterheaded file carries `word/media/image1.jpg` at exactly **946741 bytes** and weighs ~970 KB;
+  a bare one is ~26 KB with no media.
+- Output `33_ISMO_LETTERHEAD.docx` + `.pdf` beside the source; original `33_ISMO.docx` untouched.
+  `_LETTERHEAD` suffix + OneDrive-root location copies the round-6 convention.
+- **Round-5's Word COM method worked fine here — no need for the round-6 jszip repack.**
+  Open → set A4 + margins → `Headers.Item(1)` add picture → `ConvertToShape` → wrap 3, ZOrder 5,
+  relative-to-page 0,0, 21x29.7 cm → `ExportAsFixedFormat($pdf,17,$false,0)`. Idempotent via a
+  shape named `LetterheadArt`.
+- Verified against the round-6 model rather than assumed: model's `pgMar top=2211 bottom=1984
+  left/right=1100 header=0 footer=0` and `extent 7560000x10692000` — matched exactly.
+- **Do NOT run round 5's one-page squeeze on long-form letters** — they are legitimately 3 pages.
+  Applied page setup only; page count stayed 3.
+- `Table.PreferredWidth` reads a bogus sentinel (~352777 cm) when the table is auto-width — an
+  overflow check built on it gives false positives. Rendered all 3 pages and read them instead; tables fit.
+
 ## Next steps (updated)
 - [ ] **Fix "wind energy generation companies" → solar/generic in the Harappa letter, and
       scan the other 85 for the same template carry-over**
 - [ ] Reinstate the phone line in the round-6 sign-off, or confirm its removal was deliberate
 - [ ] Resolve four-offices vs nine-countries — affects [[2026-08-25-nepra-homepage-notice-and-landing-page]]
 - [x] Round-5: letterhead embedded, A4, one page, PDFs exported
+- [x] Round-7: `33_ISMO_LETTERHEAD.docx` + `.pdf` created; other 3 files already had the art
+- [ ] Footer-hairline inconsistency: round 5/7 files have the old grey footer rule DISABLED, the round-6 `26_Harappa_..._LETTERHEAD.docx` still HAS it. Barely visible, but pick one and make the set consistent
+- [ ] The long-form first-round letters still carry pre-round-2 copy — justified text, bare `www.` URL, no `Phone:` line, original subject. Decide whether the round 2–4 improvements should be applied to them too
 - [ ] Confirm with Huzaifa whether #65's first letter went out with the wrong (PEDO) address
 - [ ] Back-port corrections into spreadsheet `v2`: #11 duplicated "Thatta District", #51 stray "(inferred, shares HUBCO office)" in the address field, #65 Quaid-e-Azam / PEDO mix-up
 - [ ] Decide whether the `.docx` sources stay in the folder alongside the print PDFs

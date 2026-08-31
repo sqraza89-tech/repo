@@ -46,6 +46,35 @@ runbook**.
 If 〔V6〕 comes back positive, **only four things change**: the H1, hero subhead,
 service card 1, and the block 03 answer capsule. All marked 〔V6〕 in the doc.
 
+## 🔴 ERROR IN MY OWN DELIVERABLES — found 2026-08-31
+Reading `26_Harappa_Solar_Pvt_Ltd.docx` (the long-form advisory letter) revealed the
+regulations run to **Regulation 12**, not 11. **Reg. 12 = PowerCERT Coordination** —
+alignment with PowerCERT guidelines and threat advisories, coordination with National CERT.
+
+**Every landing-page deliverable says "Regulations 4–11" and is therefore wrong.** Must
+change to **4–12** in all of these:
+- FINAL content doc — H2 of block 04, its answer capsule, the coverage table (add row 12),
+  block 01 subhead, block 03 card 1 + capsule, block 06 capsule, the Service schema
+  OfferCatalog name "NEPRA Compliance Audit (Regulations 4-11)"
+- SEO/AEO doc — heading hierarchy table, capsules, keyword mapping
+- Copy deck — section 4.3/4.4, correction log in section 6
+- Artifact — landing page structure table + the correction callout
+
+## ✅ TWO VERIFY ITEMS RESOLVED — 2026-08-31 (same source)
+- **〔V1〕 RESOLVED.** The instrument is made by **SRO 1708(I)/2022**. Cite as: *NEPRA
+  (Security of Information Technology and Operational Technology) Regulations, 2022,
+  SRO 1708(I)/2022*. Use identically everywhere.
+- **〔V2〕 RESOLVED.** Confirmed: breaches reported to NEPRA **quarterly** (per Schedule);
+  **major incidents within 72 hours of discovery**. The 72-hour hook is safe to publish.
+
+**New material worth adding to the page** (from the letter, not previously in my copy):
+**ISMO has begun issuing formal compliance-status reminders and conducting unannounced
+inspections.** That is a stronger, more concrete urgency hook than anything currently in
+block 02 — it is happening now, not a hypothetical audit power.
+
+**Also unresolved:** letter says four offices (Pakistan, USA, UAE, Qatar); landing page
+block 07 says "nine countries". See [[2026-08-25-nepra-followup-letters-project]].
+
 ## Deliverables produced
 - `Projects/NEPRA Website Campaign/2026-08-25-nepra-website-copy-deck.docx` — all copy
   (homepage, landing page, CTA), metadata, correction log, removal runbook, open items.
@@ -162,6 +191,11 @@ service card 1, and the block 03 answer capsule. All marked 〔V6〕 in the doc.
   generated with the `docx` npm package.
 
 ## Next steps
+- [ ] **Correct Regulations 4–11 → 4–12 across all four deliverables, add the PowerCERT
+      row (Reg. 12) to the coverage table** — my error, found 2026-08-31
+- [ ] Swap 〔V1〕 placeholders for the SRO 1708(I)/2022 citation and 〔V2〕 for the
+      confirmed 72-hour wording; drop those two markers
+- [ ] Consider adding the ISMO unannounced-inspections hook to block 02
 - [ ] **FIRST: confirm with NEPRA whether the Regulation 8 audit must be done by a
       CERT-recognised Category-1 firm** — supersedes everything else below
 - [ ] Decide whether AI crawlers (GPTBot, ClaudeBot, PerplexityBot, Google-Extended) are

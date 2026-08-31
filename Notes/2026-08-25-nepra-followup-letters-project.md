@@ -77,7 +77,41 @@ All of the above were fixed in the follow-up batch; the *first-round* letters st
 - **No `pdftoppm`/poppler**, so the Read tool cannot render a PDF. Working substitute: `scratchpad/pdf2png.ps1` renders page 1 via the **WinRT `Windows.Data.Pdf`** API from PowerShell. Note `[Windows.Data.Pdf.PdfPage]` has **no `.Close()`** — that line throws *after* the PNG is already written, so a non-zero exit there is harmless.
 - Word COM `ExportAsFixedFormat($path, 17, $false, 0)` = PDF, don't open after, optimise for print.
 
+## Round 6 — long-form letter re-letterheaded (2026-08-31)
+- Source: `26_Harappa_Solar_Pvt_Ltd.docx` in the OneDrive folder — a **new, much longer**
+  letter (73 body lines vs the round-5 follow-up's 21). Full advisory: SRO citation,
+  Reg. 4–12 clause table, services table. Arrived **with no letterhead** and as
+  **US Letter**, same latent defect as round 5.
+- Output: `26_Harappa_Solar_Pvt_Ltd_LETTERHEAD.docx` + `.pdf` (3 pages), written
+  **beside** the source in OneDrive. Source untouched.
+- **Method that worked (faster than round 5's COM shape insertion):** lift the already-
+  embedded letterhead straight out of a round-5 file rather than re-importing the art —
+  `word/media/image1.jpg` (946 KB) + `word/header2.xml` from
+  `Projects/NEPRA Follow-Up Letters/01_Finergy.docx`. Overwrite the new file's blank
+  default header (`word/header1.xml`, already wired to `rId7`), add
+  `word/_rels/header1.xml.rels` → `media/image1.jpg`, add `<Default Extension="jpg"
+  ContentType="image/jpeg"/>` to `[Content_Types].xml`, then set
+  `pgSz 11906x16838` and `pgMar top=2211 bottom=1984 left/right=1100 header=0 footer=0`
+  (identical to round 5's 3.90/3.50 cm). Header art is `behindDoc="1"`,
+  `extent cx=7560000 cy=10692000` = full-bleed A4.
+- **No `titlePg`** → default header repeats on all pages. Correct for a multi-page letter.
+- **No `zip` binary on this machine.** Used `jszip` via node (`scratchpad/zipit.mjs`);
+  `[Content_Types].xml` must be the first archive entry, images STOREd not deflated.
+- Word COM opened the result with no repair prompt = the real package validation.
+
+## Content defects in the round-6 letter (NOT fixed — need Sana's call)
+- **"wind energy generation companies" appears twice** in a letter to **Harappa Solar**.
+  Template carry-over from a wind IPP. Likely present in other solar/thermal/hydro
+  letters in this batch — worth scanning all 86.
+- Sign-off lost the `Phone: 0322-2009713` line the round-5 letters carried.
+- Letter claims offices in **"Pakistan, the USA, UAE, and Qatar" (four)**; the ACT Wind
+  proposal and the landing page copy say **nine countries**. One is wrong.
+
 ## Next steps (updated)
+- [ ] **Fix "wind energy generation companies" → solar/generic in the Harappa letter, and
+      scan the other 85 for the same template carry-over**
+- [ ] Reinstate the phone line in the round-6 sign-off, or confirm its removal was deliberate
+- [ ] Resolve four-offices vs nine-countries — affects [[2026-08-25-nepra-homepage-notice-and-landing-page]]
 - [x] Round-5: letterhead embedded, A4, one page, PDFs exported
 - [ ] Confirm with Huzaifa whether #65's first letter went out with the wrong (PEDO) address
 - [ ] Back-port corrections into spreadsheet `v2`: #11 duplicated "Thatta District", #51 stray "(inferred, shares HUBCO office)" in the address field, #65 Quaid-e-Azam / PEDO mix-up

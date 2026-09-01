@@ -75,6 +75,23 @@ block 02 — it is happening now, not a hypothetical audit power.
 **Also unresolved:** letter says four offices (Pakistan, USA, UAE, Qatar); landing page
 block 07 says "nine countries". See [[2026-08-25-nepra-followup-letters-project]].
 
+## 🔴 THE PAGE IS LIVE — AND STILL WRONG (confirmed 2026-09-01)
+
+Verified against `https://www.xloopdigital.com/services/nepra` during the Marketing Brain build
+— see [[2026-09-01-xloop-marketing-brain-release-1]].
+
+- **The page shipped at `/services/nepra`**, not `/services/nepra-it-ot-compliance` as planned.
+  Every internal doc pointing at the old path is now wrong.
+- **The live page still says "Regulations 4–11".** The 4→12 correction found on 2026-08-31 was
+  never applied to the web. It is publicly wrong on the page all 87 letters point at.
+- Live page also publishes **"roughly three weeks"** (〔V5〕, still unconfirmed by sales) and the
+  anonymised **30 MW wind IPP** reference (still pending confirmation it is permitted).
+- 〔V4〕 tension worth resolving: NIST / IEC 62443 / MITRE ATT&CK alignment is **claimed in the
+  ACT Wind proposal to clients** but withheld from the website. Either substantiate and publish,
+  or take it out of the proposal too.
+- **ISMO unannounced-inspections hook is still not in the copy.** It remains the strongest
+  urgency line available.
+
 ## Deliverables produced
 - `Projects/NEPRA Website Campaign/2026-08-25-nepra-website-copy-deck.docx` — all copy
   (homepage, landing page, CTA), metadata, correction log, removal runbook, open items.
@@ -191,6 +208,7 @@ block 07 says "nine countries". See [[2026-08-25-nepra-followup-letters-project]
   generated with the `docx` npm package.
 
 ## Next steps
+- [ ] **Fix Regulations 4–11 → 4–12 on the LIVE page** (not just the deliverables) — found 2026-09-01
 - [ ] **Correct Regulations 4–11 → 4–12 across all four deliverables, add the PowerCERT
       row (Reg. 12) to the coverage table** — my error, found 2026-08-31
 - [ ] Swap 〔V1〕 placeholders for the SRO 1708(I)/2022 citation and 〔V2〕 for the

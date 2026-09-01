@@ -1,0 +1,67 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "xloop/marketing-brain/buyer_schema.json",
+  "title": "Buyer",
+  "description": "An individual at an account. CONTAINS PERSONAL DATA - governed by 08_governance/privacy_rules.md. Never published, never enriched from third-party sources without a documented basis, never used to seed a public asset. public_use is fixed to RESTRICTED.",
+  "type": "object",
+  "required": ["buyer_id", "account_id", "role_category", "public_use", "audit"],
+  "properties": {
+    "buyer_id": { "type": "string" },
+    "account_id": { "type": "string" },
+    "full_name": { "type": "string" },
+    "job_title": { "type": "string" },
+    "role_category": {
+      "type": "string",
+      "enum": ["ECONOMIC_BUYER","TECHNICAL_VALIDATOR","FINANCIAL_APPROVER","CHAMPION","INFLUENCER","BLOCKER","UNKNOWN"]
+    },
+    "matched_persona": { "$ref": "_common.json#/definitions/icp" },
+    "seniority": { "type": "string", "enum": ["C_LEVEL","VP_DIRECTOR","HEAD_MANAGER","INDIVIDUAL_CONTRIBUTOR","UNKNOWN"] },
+    "contact": {
+      "type": "object",
+      "description": "Business contact details only. Collected for a stated purpose; purpose limitation applies.",
+      "properties": {
+        "business_email": { "type": "string" },
+        "business_phone": { "type": "string" },
+        "linkedin_url": { "type": "string", "format": "uri" },
+        "mailing_address": { "type": "string" },
+        "collection_purpose": { "type": "string" },
+        "consent_basis": { "type": "string", "enum": ["INBOUND_ENQUIRY","GATED_ASSET","EXPLICIT_CONSENT","LEGITIMATE_BUSINESS_COMMUNICATION","NONE"] }
+      }
+    },
+    "research_confidence": {
+      "type": "string",
+      "enum": ["HIGH_VERIFIED","MEDIUM_INFERRED","LOW_UNVERIFIED"],
+      "description": "Mirrors the confidence convention already used in the NEPRA register. A MEDIUM or LOW row must never be presented as verified."
+    },
+    "inferred_attributes": {
+      "type": "object",
+      "description": "Inferences about a person are recorded as inference with their basis, never as fact.",
+      "properties": {
+        "likely_budget_authority": { "type": "boolean" },
+        "basis": { "type": "string" },
+        "evidence_class": { "$ref": "_common.json#/definitions/evidence_class" }
+      }
+    },
+    "known_concerns": { "type": "array", "items": { "type": "string" } },
+    "engagement_history": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "date": { "type": "string", "format": "date" },
+          "channel": { "type": "string", "enum": ["POST","EMAIL","PHONE","MEETING","EVENT","WEBSITE_FORM","LINKEDIN"] },
+          "direction": { "type": "string", "enum": ["INBOUND","OUTBOUND"] },
+          "human_approved": { "type": "boolean", "const": true, "description": "All outbound contact is human-sent. No exceptions." },
+          "summary": { "type": "string" }
+        }
+      }
+    },
+    "source": { "$ref": "_common.json#/definitions/source" },
+    "evidence_class": { "$ref": "_common.json#/definitions/evidence_class" },
+    "confidence": { "$ref": "_common.json#/definitions/confidence" },
+    "public_use": { "const": "RESTRICTED" },
+    "retention_review_date": { "type": "string", "format": "date" },
+    "recommended_action": { "$ref": "_common.json#/definitions/recommended_action" },
+    "audit": { "$ref": "_common.json#/definitions/audit" }
+  }
+}

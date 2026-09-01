@@ -1,0 +1,69 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "xloop/marketing-brain/account_schema.json",
+  "title": "Account",
+  "description": "A target or existing organisation. Designed for machine processing by future market-intelligence workflows. Contains no personal data - people belong in buyer_schema.json.",
+  "type": "object",
+  "required": ["account_id", "legal_name", "icp_fit", "audit"],
+  "properties": {
+    "account_id": { "type": "string" },
+    "legal_name": { "type": "string" },
+    "trading_names": { "type": "array", "items": { "type": "string" } },
+    "website": { "type": "string", "format": "uri" },
+    "linkedin_url": { "type": "string", "format": "uri" },
+    "country": { "type": "string" },
+    "market_tier": {
+      "type": "string",
+      "enum": ["CURRENT_PRIORITY", "EXISTING_PRESENCE", "EMERGING", "EXPERIMENTAL", "NOT_PRIORITY"]
+    },
+    "industry": {
+      "type": "string",
+      "enum": ["BANKING_FINANCIAL_SERVICES","ENERGY_UTILITIES","RETAIL_CONSUMER","HEALTHCARE","LOGISTICS_SUPPLY_CHAIN","GOVERNMENT_PUBLIC","TELCO_ICT","MANUFACTURING","IT_SAAS","EDUCATION","OTHER"]
+    },
+    "industry_priority": { "type": "integer", "minimum": 1, "maximum": 4 },
+    "employee_band": { "type": "string", "enum": ["LT_500","500_1000","1000_5000","5000_10000","GT_10000","UNKNOWN"] },
+    "revenue_band": { "type": "string", "enum": ["LT_50M","50M_100M","100M_500M","GT_500M","UNKNOWN"] },
+    "icp_fit": {
+      "type": "object",
+      "required": ["primary_icp", "fit_gate_passed"],
+      "properties": {
+        "primary_icp": { "$ref": "_common.json#/definitions/icp" },
+        "secondary_icps": { "type": "array", "items": { "$ref": "_common.json#/definitions/icp" } },
+        "fit_gate_passed": { "type": "boolean" },
+        "disqualifiers": {
+          "type": "array",
+          "description": "Codes from 03_icp/disqualifiers.md, e.g. H1, S4",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "regulatory_context": {
+      "type": "object",
+      "description": "Populated for regulated accounts. NEPRA is the first supported regime.",
+      "properties": {
+        "regime": { "type": "string", "enum": ["NEPRA_IT_OT_2022", "NONE", "OTHER"] },
+        "nepra_segment": { "type": "string", "enum": ["STATE_UTILITY_SYSTEM_OPERATOR","LARGE_IPP_GROUP","RENEWABLES_SPV","CAPTIVE_INDUSTRIAL","UNKNOWN"] },
+        "in_scope_confirmed": { "type": "boolean", "description": "False for captive generators until the scope question is resolved" },
+        "delivery_risk_note": { "type": "string", "description": "e.g. Category-1 / PKCERT question unresolved" }
+      }
+    },
+    "relationship": {
+      "type": "object",
+      "properties": {
+        "status": { "type": "string", "enum": ["UNKNOWN","TARGET","CONTACTED","ENGAGED","OPPORTUNITY","CLIENT","PAST_CLIENT","DISQUALIFIED"] },
+        "owner": { "type": "string" },
+        "first_contact_date": { "type": "string", "format": "date" },
+        "last_contact_date": { "type": "string", "format": "date" },
+        "public_reference_permitted": { "type": "boolean", "description": "Default false. Only true with documented account-owner and legal approval" }
+      }
+    },
+    "signals": { "type": "array", "items": { "type": "string", "description": "opportunity_signal ids" } },
+    "notes": { "type": "string" },
+    "source": { "$ref": "_common.json#/definitions/source" },
+    "evidence_class": { "$ref": "_common.json#/definitions/evidence_class" },
+    "confidence": { "$ref": "_common.json#/definitions/confidence" },
+    "public_use": { "$ref": "_common.json#/definitions/public_use" },
+    "recommended_action": { "$ref": "_common.json#/definitions/recommended_action" },
+    "audit": { "$ref": "_common.json#/definitions/audit" }
+  }
+}

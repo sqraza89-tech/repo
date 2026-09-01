@@ -1,0 +1,46 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "xloop/marketing-brain/meeting_insight_schema.json",
+  "title": "Meeting Insight",
+  "description": "Structured learning captured from a real conversation with a prospect or client. This is the feedback loop that turns the ICP and messaging from inference into evidence - currently the single largest missing input, since xLoop has no CRM and no win/loss record.",
+  "type": "object",
+  "required": ["insight_id", "meeting_date", "account_id", "meeting_type", "audit"],
+  "properties": {
+    "insight_id": { "type": "string" },
+    "meeting_date": { "type": "string", "format": "date" },
+    "account_id": { "type": "string" },
+    "buyer_ids": { "type": "array", "items": { "type": "string" } },
+    "meeting_type": { "type": "string", "enum": ["DISCOVERY","SCOPING","DEMO","PROPOSAL_REVIEW","NEGOTIATION","QBR","LOSS_REVIEW","REFERRAL_INTRO"] },
+    "pillar_discussed": { "type": "array", "items": { "$ref": "_common.json#/definitions/pillar" } },
+    "matched_icp": { "$ref": "_common.json#/definitions/icp" },
+    "stated_problem": { "type": "string", "description": "In the buyer's own words wherever possible" },
+    "stated_trigger": { "type": "string" },
+    "objections_raised": { "type": "array", "items": { "type": "string" } },
+    "objections_unanswered": { "type": "array", "items": { "type": "string" }, "description": "The highest-value field in this schema - it names the gaps in messaging and proof" },
+    "proof_requested": { "type": "array", "items": { "type": "string" }, "description": "What evidence the buyer asked for and whether xLoop had it" },
+    "proof_gap_identified": { "type": "boolean" },
+    "content_referenced_by_buyer": { "type": "array", "items": { "type": "string" }, "description": "Content the buyer mentions having read - the only reliable evidence of content-assisted influence" },
+    "competitors_mentioned": { "type": "array", "items": { "type": "string" }, "description": "INTERNAL ONLY. Never published." },
+    "how_they_found_us": { "type": "string", "enum": ["SEARCH","AI_ANSWER_ENGINE","LINKEDIN","REFERRAL","EVENT","OUTBOUND_LETTER","PARTNER","EXISTING_RELATIONSHIP","UNKNOWN"] },
+    "outcome": { "type": "string", "enum": ["PROGRESSED","STALLED","DISQUALIFIED","LOST","WON","PENDING"] },
+    "loss_reason": { "type": "string", "enum": ["PRICE","CAPABILITY_GAP","PROOF_GAP","CREDENTIAL_GAP","TIMING","INCUMBENT","NO_DECISION","OTHER","NA"] },
+    "marketing_implications": {
+      "type": "array",
+      "description": "What this conversation should change in the Marketing Brain",
+      "items": {
+        "type": "object",
+        "properties": {
+          "affects": { "type": "string", "enum": ["POSITIONING","ICP","PERSONA","MESSAGING","PROOF","OFFERING","QUALIFICATION","CONTENT","DISQUALIFIERS"] },
+          "observation": { "type": "string" },
+          "recommended_change": { "type": "string" }
+        }
+      }
+    },
+    "source": { "$ref": "_common.json#/definitions/source" },
+    "evidence_class": { "$ref": "_common.json#/definitions/evidence_class" },
+    "confidence": { "$ref": "_common.json#/definitions/confidence" },
+    "public_use": { "const": "INTERNAL" },
+    "recommended_action": { "$ref": "_common.json#/definitions/recommended_action" },
+    "audit": { "$ref": "_common.json#/definitions/audit" }
+  }
+}

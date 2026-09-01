@@ -1,0 +1,59 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "xloop/marketing-brain/content_schema.json",
+  "title": "Content Asset",
+  "description": "Any marketing content asset. Enforces the rule from the Q3 2026 review that every content piece must map to a service - here expressed as required pillar, ICP and offer fields.",
+  "type": "object",
+  "required": ["content_id", "title", "format", "pillar", "target_icp", "funnel_stage", "status", "audit"],
+  "properties": {
+    "content_id": { "type": "string" },
+    "title": { "type": "string" },
+    "url": { "type": "string" },
+    "format": {
+      "type": "string",
+      "enum": ["PILLAR_PAGE","SERVICE_PAGE","PRODUCT_PAGE","INDUSTRY_PAGE","CASE_STUDY","BLOG","LEAD_MAGNET","PR_ARTICLE","SOCIAL_POST","VIDEO","DECK","BROCHURE","PODCAST","LANDING_PAGE","EMAIL"]
+    },
+    "pillar": { "$ref": "_common.json#/definitions/pillar" },
+    "target_icp": { "type": "array", "minItems": 1, "items": { "$ref": "_common.json#/definitions/icp" } },
+    "linked_offering_id": { "type": "string", "description": "Required for anything below top-of-funnel. Content with no offering is not permitted to be published." },
+    "funnel_stage": { "type": "string", "enum": ["TOFU", "MOFU", "BOFU"] },
+    "buyer_question_answered": { "type": "string", "description": "The question this asset answers, in the buyer's words" },
+    "answer_capsule": { "type": "string", "maxLength": 500, "description": "The 40-60 word answer-first opening. Drives AI answer-engine extractability." },
+    "target_query_cluster": { "type": "string", "enum": ["NEPRA_COMPLIANCE","AI_SECURITY_GOVERNANCE","DATA_MODERNISATION","ENTERPRISE_AI_CONSULTING","VISUAL_INTELLIGENCE","ENGINEERING_CAPACITY","BRAND","NONE"] },
+    "query_intent": { "type": "string", "enum": ["COMMERCIAL","RESEARCH","BRAND","NAVIGATIONAL"] },
+    "claims_used": { "type": "array", "items": { "type": "string", "description": "Claim ids from 05_brand/approved_claims.md, e.g. A4, B1" } },
+    "proof_ids": { "type": "array", "items": { "type": "string" } },
+    "cta": { "type": "string" },
+    "structured_data": { "type": "array", "items": { "type": "string", "enum": ["FAQPage","Service","Article","Organization","BreadcrumbList","None"] } },
+    "governance": {
+      "type": "object",
+      "required": ["approved_by", "unsourced_statistics_present"],
+      "properties": {
+        "approved_by": { "type": "string" },
+        "approved_at": { "type": "string", "format": "date-time" },
+        "prohibited_claims_checked": { "type": "boolean" },
+        "jargon_checked": { "type": "boolean" },
+        "substitution_test_passed": { "type": "boolean" },
+        "unsourced_statistics_present": { "type": "boolean", "const": false, "description": "Must be false to publish." }
+      }
+    },
+    "performance": {
+      "type": "object",
+      "properties": {
+        "impressions": { "type": "integer" },
+        "clicks": { "type": "integer" },
+        "non_brand_clicks": { "type": "integer" },
+        "sessions": { "type": "integer" },
+        "assisted_leads": { "type": "integer" },
+        "ai_citations_observed": { "type": "integer" },
+        "measured_at": { "type": "string", "format": "date" }
+      }
+    },
+    "status": { "type": "string", "enum": ["IDEA","DRAFT","IN_REVIEW","APPROVED","PUBLISHED","NEEDS_UPDATE","RETIRED"] },
+    "source": { "$ref": "_common.json#/definitions/source" },
+    "evidence_class": { "$ref": "_common.json#/definitions/evidence_class" },
+    "public_use": { "$ref": "_common.json#/definitions/public_use" },
+    "recommended_action": { "$ref": "_common.json#/definitions/recommended_action" },
+    "audit": { "$ref": "_common.json#/definitions/audit" }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "xloop/marketing-brain/_common.json",
+  "title": "Shared definitions for xLoop Marketing Brain schemas",
+  "description": "Common field definitions reused across all xLoop marketing schemas. Every record in this system carries provenance (source), an evidence class, a confidence, dates, a status, an owner and a recommended action.",
+  "definitions": {
+    "evidence_class": {
+      "type": "string",
+      "description": "Evidence discipline class. See 08_governance/evidence_rules.md.",
+      "enum": [
+        "VERIFIED_INTERNAL_FACT",
+        "VERIFIED_EXTERNAL_FACT",
+        "SUPPORTED_INFERENCE",
+        "UNVERIFIED",
+        "EVIDENCE_REQUIRED",
+        "OUTDATED_VERIFY"
+      ]
+    },
+    "source": {
+      "type": "object",
+      "description": "Provenance for any asserted fact. Required on every claim.",
+      "required": ["level", "reference", "date_accessed"],
+      "properties": {
+        "level": {
+          "type": "string",
+          "enum": ["L1_INTERNAL_PRIMARY", "L2_EXTERNAL_PRIMARY", "L3_SECONDARY", "L4_GENERAL"]
+        },
+        "reference": { "type": "string", "description": "File path, URL, system name or person" },
+        "excerpt": { "type": "string", "description": "Verbatim supporting text where a claim depends on wording" },
+        "date_accessed": { "type": "string", "format": "date" },
+        "source_date": { "type": "string", "format": "date", "description": "When the source itself was created or last modified" }
+      }
+    },
+    "confidence": {
+      "type": "string",
+      "enum": ["HIGH", "MEDIUM", "LOW"],
+      "description": "Confidence in this record as a whole, independent of evidence class."
+    },
+    "public_use": {
+      "type": "string",
+      "enum": ["PUBLIC_APPROVED", "PUBLIC_ANONYMISED_ONLY", "INTERNAL", "RESTRICTED", "UNKNOWN"],
+      "description": "Default is UNKNOWN, which must be treated as INTERNAL."
+    },
+    "pillar": {
+      "type": "string",
+      "enum": ["MAKE_AI_WORK", "MAKE_AI_SAFE", "MAKE_AI_POSSIBLE", "XLAB", "XTALENT", "XCELERATE"]
+    },
+    "icp": {
+      "type": "string",
+      "enum": [
+        "ICP1_AI_TRANSFORMATION_SPONSOR",
+        "ICP2_DATA_MODERNIZATION_OWNER",
+        "ICP3_AI_SECURITY_CHAMPION",
+        "ICP4_REGULATED_COMPLIANCE_OWNER",
+        "ICP5_PRODUCT_PLATFORM_BUILDER",
+        "LOB_OPERATIONS_OWNER"
+      ]
+    },
+    "recommended_action": {
+      "type": "object",
+      "description": "What a human should do next. Never executed autonomously.",
+      "required": ["action", "requires_human_approval"],
+      "properties": {
+        "action": { "type": "string" },
+        "rationale": { "type": "string" },
+        "priority": { "type": "string", "enum": ["URGENT", "HIGH", "MEDIUM", "LOW"] },
+        "requires_human_approval": { "type": "boolean", "const": true },
+        "approver_role": { "type": "string" }
+      }
+    },
+    "audit": {
+      "type": "object",
+      "required": ["created_at", "created_by", "status"],
+      "properties": {
+        "created_at": { "type": "string", "format": "date-time" },
+        "created_by": { "type": "string", "description": "Human name or workflow identifier" },
+        "updated_at": { "type": "string", "format": "date-time" },
+        "owner": { "type": "string", "description": "Accountable human" },
+        "status": { "type": "string", "enum": ["DRAFT", "ACTIVE", "NEEDS_REVIEW", "ARCHIVED", "BLOCKED"] },
+        "review_due": { "type": "string", "format": "date" }
+      }
+    }
+  }
+}

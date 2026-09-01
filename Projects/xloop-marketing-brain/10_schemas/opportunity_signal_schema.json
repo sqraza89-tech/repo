@@ -1,0 +1,50 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "xloop/marketing-brain/opportunity_signal_schema.json",
+  "title": "Opportunity Signal",
+  "description": "An observed event or behaviour suggesting an account may be entering a buying cycle. Specification for Release 2 - no detection is built in Release 1. A signal never triggers autonomous outreach.",
+  "type": "object",
+  "required": ["signal_id", "signal_type", "observed_at", "strength", "source", "evidence_class", "audit"],
+  "properties": {
+    "signal_id": { "type": "string" },
+    "account_id": { "type": "string" },
+    "buyer_id": { "type": "string", "description": "Optional. If set, privacy rules apply to the record." },
+    "signal_class": { "type": "string", "enum": ["TRIGGER", "BEHAVIOURAL", "NEGATIVE"] },
+    "signal_type": {
+      "type": "string",
+      "enum": [
+        "ISMO_COMPLIANCE_REMINDER","ISMO_INSPECTION","NEPRA_AUDIT_DIRECTION","NEPRA_ENFORCEMENT_PEER",
+        "NEPRA_LICENCE_EVENT","QUARTERLY_REPORTING_DEADLINE","SECURITY_INCIDENT_SECTOR",
+        "COPILOT_GENAI_ROLLOUT","AI_INITIATIVE_ANNOUNCED","AI_INCIDENT_PUBLIC","NEW_COMPLIANCE_REQUIREMENT",
+        "LEADERSHIP_APPOINTMENT_CIO_CTO_CDO","LEADERSHIP_APPOINTMENT_CISO",
+        "DATA_PLATFORM_HIRING","DATA_PLATFORM_ADOPTION","CLOUD_MIGRATION_PROGRAMME",
+        "AI_ML_ROLE_POSTING","FUNDING_ROUND","PRODUCT_LAUNCH_COMMITMENT","ENTERPRISE_CUSTOMER_WIN",
+        "SCOPING_CALL_REQUEST","DEMO_REQUEST","ASSESSMENT_COMPLETED","LETTER_REPLY",
+        "INBOUND_EMAIL","INBOUND_CALL","FORM_SUBMISSION","GATED_ASSET_DOWNLOAD",
+        "REPEAT_SITE_VISIT","MULTI_PAGE_PILLAR_SESSION","COMMERCIAL_SEARCH_ARRIVAL",
+        "LINKEDIN_ENGAGEMENT","EVENT_ATTENDANCE",
+        "NEG_CAREERS_TRAFFIC","NEG_BOOTCAMP_TRAFFIC","NEG_COMPETITOR_RESEARCH","NEG_ACADEMIC","NEG_BRAND_CONFUSION",
+        "OTHER"
+      ]
+    },
+    "related_icp": { "$ref": "_common.json#/definitions/icp" },
+    "related_pillar": { "$ref": "_common.json#/definitions/pillar" },
+    "observed_at": { "type": "string", "format": "date-time" },
+    "detected_by": { "type": "string", "enum": ["HUMAN", "WORKFLOW", "ANALYTICS", "PARTNER"] },
+    "strength": { "type": "string", "enum": ["VERY_HIGH", "HIGH", "MEDIUM", "LOW", "NEGATIVE"] },
+    "intent_points": { "type": "integer", "minimum": 0, "maximum": 10, "description": "Contribution to the intent score in 03_icp/qualification_framework.md" },
+    "decay_days": { "type": "integer", "description": "After this many days the signal should no longer contribute to intent scoring" },
+    "description": { "type": "string" },
+    "source": { "$ref": "_common.json#/definitions/source" },
+    "evidence_class": { "$ref": "_common.json#/definitions/evidence_class" },
+    "confidence": { "$ref": "_common.json#/definitions/confidence" },
+    "public_use": { "const": "INTERNAL" },
+    "recommended_action": { "$ref": "_common.json#/definitions/recommended_action" },
+    "outreach_permitted": {
+      "type": "boolean",
+      "const": false,
+      "description": "Always false at the record level. Outreach is authorised by a named human, never by a signal."
+    },
+    "audit": { "$ref": "_common.json#/definitions/audit" }
+  }
+}

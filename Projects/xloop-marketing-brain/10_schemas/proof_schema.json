@@ -1,0 +1,61 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "xloop/marketing-brain/proof_schema.json",
+  "title": "Proof Item",
+  "description": "A substantiable claim about xLoop delivery. Governed by 08_governance/evidence_rules.md. Default public_use is UNKNOWN, which must be treated as INTERNAL. A proof item is public only if it appears in 06_proof/proof_library.md.",
+  "type": "object",
+  "required": ["proof_id", "title", "evidence_grade", "public_use", "source", "audit"],
+  "properties": {
+    "proof_id": { "type": "string" },
+    "title": { "type": "string" },
+    "client_name": { "type": "string", "description": "Internal only unless public_reference_permitted is true" },
+    "client_anonymised_descriptor": { "type": "string", "description": "The exact approved public wording, e.g. 'a 30 MW wind IPP'" },
+    "public_reference_permitted": { "type": "boolean", "default": false },
+    "permission_evidence": { "type": "string", "description": "Where the permission is recorded. Absence means no permission." },
+    "industry": { "type": "string" },
+    "geography": { "type": "string" },
+    "pillar": { "$ref": "_common.json#/definitions/pillar" },
+    "offering_ids": { "type": "array", "items": { "type": "string" } },
+    "problem": { "type": "string" },
+    "intervention": { "type": "string" },
+    "technology": { "type": "array", "items": { "type": "string" } },
+    "outcome_narrative": { "type": "string" },
+    "measured_results": {
+      "type": "array",
+      "description": "Every numeric result must carry source, period and method. A result missing any of the three is not publishable.",
+      "items": {
+        "type": "object",
+        "required": ["metric", "value", "measurement_source", "measurement_period", "measurement_method"],
+        "properties": {
+          "metric": { "type": "string" },
+          "value": { "type": "string" },
+          "measurement_source": { "type": "string" },
+          "measurement_period": { "type": "string" },
+          "measurement_method": { "type": "string" },
+          "publishable": { "type": "boolean" }
+        }
+      }
+    },
+    "third_party_ownership": {
+      "type": "object",
+      "description": "Set whenever partner or licensed technology is involved. If xLoop did not do the work, xLoop does not claim the outcome.",
+      "properties": {
+        "involves_third_party": { "type": "boolean" },
+        "third_party_name": { "type": "string" },
+        "outcome_owner": { "type": "string", "enum": ["XLOOP", "PARTNER", "CLIENT", "UNRESOLVED"] },
+        "attribution_required": { "type": "boolean" }
+      }
+    },
+    "evidence_grade": {
+      "type": "string",
+      "enum": ["A", "B", "C", "D", "E", "X"],
+      "description": "A=named+measured+approved; B=named+measured, not approved; C=anonymised+described; D=capability only; E=unsourced; X=may belong to a third party, do not publish."
+    },
+    "restrictions": { "type": "array", "items": { "type": "string" } },
+    "source": { "$ref": "_common.json#/definitions/source" },
+    "evidence_class": { "$ref": "_common.json#/definitions/evidence_class" },
+    "public_use": { "$ref": "_common.json#/definitions/public_use" },
+    "recommended_action": { "$ref": "_common.json#/definitions/recommended_action" },
+    "audit": { "$ref": "_common.json#/definitions/audit" }
+  }
+}

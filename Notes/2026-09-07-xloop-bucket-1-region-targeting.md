@@ -8,6 +8,10 @@ tags: [xloop, sales, lead-gen, market-research, xtalent, geography]
 Research prepared for the meeting with the Head of Sales. Deliverable:
 `2026-09-07-xloop-bucket-1-region-targeting.docx` (same folder).
 
+Positioning, approved claims and the proof-gap position all come from
+[[2026-09-01-xloop-marketing-brain-release-1]], which stays the source of truth for any
+xLoop content built on this.
+
 ## Brief as received
 
 > "1) region division based on two factors

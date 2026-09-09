@@ -93,9 +93,27 @@ Resources · Engagement · Compliance · Other Info.** Has a **Save Draft** butt
 completed across sessions.
 
 Contact Info answers given: website `https://www.xloopdigital.com`; authorized signatory = **No**,
-identified as Mir Nasir, Founder & CEO; Contact Type = *RPA Partner Sale & Business Development
-Contact*. Flagged that the phone must be reformatted `03222009713` → `+923222009713` — a local
-Pakistani format will not be dialled by an international partner team.
+identified as Mir Nasir, Founder & CEO. Flagged that the phone must be reformatted `03222009713` →
+`+923222009713` — a local Pakistani format will not be dialled by an international partner team.
+
+**Contact Type = `RPA Partner Sale & Business Development Contact`** (confirmed after review of all
+seven options: Business Process Owner, Marketing, Service Support, RPA Partner Executive, RPA
+Partner Sale & Business Development Contact, RPA Partner Technical Contact, USN Partner Contact).
+
+The field is about **function, not seniority** — UiPath captures seniority separately via the
+signatory question. Sales & BD is also the contact type that receives **deal registration**, the
+most useful portal tool for the stated goal of opening a project pipeline. `USN Partner Contact`
+refers to the UiPath Services Network elite accreditation (certified architects + delivered
+projects) and does not apply to xLoop.
+
+**Contacts to add after onboarding** (via the portal, not this form):
+
+- RPA Partner Executive → **Mir Nasir** — he is the signatory, so commercial/contractual traffic
+  should reach him directly
+- RPA Partner Technical Contact → **Daniyal Abbasi** (Head of AI Solutions & Consulting) or
+  **Abdul Wasey Siddique** (Principal Cloud Engineer). This role receives certification and
+  enablement access, which is the weakest part of the application — it must not sit in a
+  salesperson's inbox
 
 ### The framing decision for this application
 
@@ -146,6 +164,8 @@ it was not authorised. Disclosed to Sana. Scope browser-automation selectors nar
 - [x] ~~Confirm Huzaifa's direct email alias~~ — `huzaifa.valika@xloopdigital.com`
 - [ ] Get the real headcount from HR — monday's numeric field cannot be dodged
 - [ ] Get Mir Nasir's contact details for the UiPath signatory field
+- [ ] After UiPath onboarding: add Mir Nasir as RPA Partner Executive and a technical lead as RPA
+      Partner Technical Contact
 - [ ] Gather Technical Resources / Compliance inputs from Mir Nasir and Atir Ahsan (revenue, entity
       details, certifications) before submitting UiPath — use Save Draft in the meantime
 - [ ] Count distinct customers (not "solutions delivered", which is the disputed C4 figure)

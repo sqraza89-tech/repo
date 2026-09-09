@@ -159,6 +159,24 @@ Answers Huzaifa entered on the second half of Company Info:
 - Logo: use the approved mark from `xLoop - Brand Guidelines_v1e.pdf`, transparent PNG — it lands in
   UiPath's public partner directory.
 
+**"Where are your customers located?" (single-select) → Middle East, or UAE if country-level only.**
+Another routing decision — it sets which UiPath geo team and distributor pick up the application.
+
+- **Not the United States.** UiPath's most saturated partner market; xLoop has a San Mateo HQ but no
+  evidenced US customer base and no US sales motion (the Marketing Brain flags exactly this gap).
+  A US partner manager opens with "show me your US pipeline."
+- **Not Pakistan.** Smallest UiPath market of the three, low licence volume, mandatory distributor
+  hop — the least resourced conversation available.
+- **Middle East wins on budget and credibility:** Gulf government and enterprise automation spend
+  (UAE federal programmes, Saudi Vision 2030) is among the strongest RPA markets globally; xLoop has
+  registered entities at Dubai IFZA and Doha QFC plus the Saudi xServe deployment (approved claim
+  B5); partner coverage is thinner than the US; and eGuardian, Westcon and KCC are all ME
+  distributors, so any existing relationship will surface there.
+- Consistent with [[2026-09-07-xloop-bucket-1-region-targeting]], which put the GCC first as the
+  fastest place to test the thesis.
+- Pakistan as business country + Middle East as customer market is **coherent, not contradictory** —
+  Pakistani delivery base selling into the Gulf is xLoop's actual shape.
+
 🔴 **Catch worth keeping: the two distributor questions list different distributors.** The first
 asks about Carahsoft / Ingram / eGuardian / **Marvel**; the second about Ingram Micro / Carahsoft /
 **Westcon** / Eguardian / **KCC**. Westcon and KCC are significant Middle East and Africa

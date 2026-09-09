@@ -185,10 +185,16 @@ Westcon or KCC relationship exists via the Dubai or Doha entities, **both answer
 
 ### Section 3 — RPA Practice (two dropdowns, options not yet captured)
 
-- **Business Model → services-led, not resale-led.** Preference order: `Systems Integrator` /
-  `Services Partner` / `Consulting` / `Solution Provider` → `Managed Services Partner` →
-  `Reseller` only as a last resort. Section 2 allowed multi-select (Reseller + MSP); this is single,
-  and the services side must lead or it undercuts the rest of the application.
+- **Business Model — options are `Resell` / `Managed Services` / `Implementation` / `Consultant`.
+  Answer: `Implementation`.** It is the motion actually being applied for and the one UiPath routes
+  delivery work and enablement to. `Resell` (the pre-selected default) competes on margin against
+  distributors and contradicts the rest of the application; `Consultant` understates the engineering
+  capability; `Managed Services` invites SLA / 24-7 / NOC questions with no estate to manage yet —
+  a year-two answer.
+- **Reconciling with Section 2:** that question's list offered only BPO / Reseller / MSP, with no
+  Implementation option, so MSP was the closest proxy. Not a contradiction — *Type of Partner* is
+  the commercial classification (will transact licences, can operate services), *Business Model* is
+  the primary motion.
 - **"Do you have an existing RPA Practice?" → No.** Answer it cleanly and do not soften it. The next
   section (Technical Resources) asks for certified developer counts and delivered automation
   projects, so a "yes" that cannot survive it reads as careless or dishonest at the exact moment

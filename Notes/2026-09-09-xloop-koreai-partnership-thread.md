@@ -51,10 +51,14 @@ worth more than three cold application forms. **If bandwidth is short, this take
 offer marketing support. Any drafting for her should be short and stay behind his lead — a full
 follow-up written for her to send would overstep.
 
-Short intro email drafted for Sana: introduces her as Head of Marketing & AI Transformation, names
-the go-to-market support she can offer (joint campaigns, case studies, events, co-branded work
-across Pakistan and the GCC), and offers either to join a call or stay in the background. Four
-short paragraphs, no agenda-setting.
+**Huzaifa does not want the ownership split stated explicitly in writing** — no "Huzaifa is leading
+this from our side" in any email to Kore.ai. Keep it implicit. Applies to future correspondence on
+this thread too, not just the intro.
+
+Final intro email for Sana: a warm hello, one line on her role, an offer of go-to-market support
+(joint campaigns, case studies, events, co-branded work across Pakistan and the GCC), and an open
+invitation to talk. Three short paragraphs, no agenda-setting and no deference stated outright —
+the conditional phrasing ("if it's useful at any point") signals the supporting role on its own.
 
 Points raised with Sana **offline rather than in the email**: the signing-ceremony message is worth
 a quiet word with Huzaifa, since he may not have clocked why the thread went quiet; and Chat Genie

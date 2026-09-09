@@ -183,6 +183,23 @@ asks about Carahsoft / Ingram / eGuardian / **Marvel**; the second about Ingram 
 distributors that the first list omitted, so the `No` was given against an incomplete list. If a
 Westcon or KCC relationship exists via the Dubai or Doha entities, **both answers must change.**
 
+### Section 3 — RPA Practice (two dropdowns, options not yet captured)
+
+- **Business Model → services-led, not resale-led.** Preference order: `Systems Integrator` /
+  `Services Partner` / `Consulting` / `Solution Provider` → `Managed Services Partner` →
+  `Reseller` only as a last resort. Section 2 allowed multi-select (Reseller + MSP); this is single,
+  and the services side must lead or it undercuts the rest of the application.
+- **"Do you have an existing RPA Practice?" → No.** Answer it cleanly and do not soften it. The next
+  section (Technical Resources) asks for certified developer counts and delivered automation
+  projects, so a "yes" that cannot survive it reads as careless or dishonest at the exact moment
+  credibility is being assessed. A "no RPA practice, strong AI practice" profile is a shape UiPath
+  is actively recruiting for post-agentic-pivot — partners who can build and integrate intelligence
+  are scarcer to them than partners who can build classic bots.
+- **Check first:** ask Daniyal Abbasi whether any delivery has used **Power Automate / Power
+  Platform** or similar workflow automation (plausible given the Microsoft partnership). If real and
+  the dropdown allows naming vendors, that is a legitimate partial yes and a stronger answer.
+- No process mining or process discovery tooling in use today — answer accordingly.
+
 ### The framing decision for this application
 
 *RPA Practice*, *Customer Landscape* and *Technical Resources* all assess an existing RPA business —
@@ -240,6 +257,8 @@ it was not authorised. Disclosed to Sana. Scope browser-automation selectors nar
 - [ ] Warn Mir Nasir and Atir Ahsan that the `Yes` on financial documentation commits them to
       producing financials for a distributor credit check
 - [ ] Narrow the revenue figure within $1M–$5M for the Pipedrive form's finer bands
+- [ ] **Daniyal Abbasi:** does any delivery work use Power Automate / Power Platform or similar
+      workflow automation? Changes the RPA Practice answer if so
 - [ ] Verify the Clifton Block 4 postal code against xLoop letterhead
 - [ ] Check whether any xLoop engagement has previously touched UiPath in another geography
 - [ ] After UiPath onboarding: add Mir Nasir as RPA Partner Executive and a technical lead as RPA

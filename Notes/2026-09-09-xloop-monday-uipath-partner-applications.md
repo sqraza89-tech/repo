@@ -36,6 +36,34 @@ Decisions taken:
 Field 8 (company size) is a **free numeric field**, not a band — so the unresolved headcount
 conflict (80+ / 100 / 120+, blocked as C2) cannot be dodged the way it was on Pipedrive.
 
+## Corporate facts resolved (update)
+
+- **Huzaifa Valika's direct email: `huzaifa.valika@xloopdigital.com`** — confirmed from the UiPath
+  form itself. This was the open item blocking all three applications; use it on the monday.com and
+  Pipedrive forms too, not the `xsecurity@` shared inbox.
+- **Authorized signatory for xLoop: Mir Nasir, Founder & CEO.**
+
+**Leadership roster** (from `xloopdigital.com/insights/about-us` — note the About page lives under
+`/insights/`, not `/about-us`, which 404s):
+
+| Name | Role |
+|---|---|
+| Mir Nasir | Founder / CEO |
+| Ali Abbasi | VP Training & Development |
+| Atir Ahsan | General Manager Finance |
+| Sarosh Syed | Head of Sales |
+| Daniyal Abbasi | Head of AI Solutions & Consulting |
+| Sana Qazi | Head of Marketing & AI Transformation |
+| Omema Kamran | People & Culture Lead |
+| Farrukh Feroze | Head of AI Security |
+| Faraz Ahmed | Manager Administration |
+| Abdul Wasey Siddique | Principal Cloud Engineer |
+| Hasan Haider Jafri | Client Enablement & AI Insights Lead |
+| Huzaifa Valika | VP Enterprise Sales |
+
+Sarosh Syed is the Head of Sales who set the Bucket 1 brief in
+[[2026-09-07-xloop-bucket-1-region-targeting]].
+
 ## UiPath — blocked at step 1, and the routing problem
 
 Landing page `https://www.uipath.com/partners/become-a-partner/business` is marketing only. The real
@@ -57,6 +85,31 @@ Two findings worth keeping:
 - Correct track is **Services / Solution Provider (implementation)**, not reseller, since licences
   flow through the distributor anyway. Expect to be asked about certified UiPath developers on
   staff — xLoop has none today, and UiPath Academy certifications are free.
+
+### Step 2 opened — form structure now known
+
+Eight sections: **Contact Info · Company Info · RPA Practice · Customer Landscape · Technical
+Resources · Engagement · Compliance · Other Info.** Has a **Save Draft** button, so it can be
+completed across sessions.
+
+Contact Info answers given: website `https://www.xloopdigital.com`; authorized signatory = **No**,
+identified as Mir Nasir, Founder & CEO; Contact Type = *RPA Partner Sale & Business Development
+Contact*. Flagged that the phone must be reformatted `03222009713` → `+923222009713` — a local
+Pakistani format will not be dialled by an international partner team.
+
+### The framing decision for this application
+
+*RPA Practice*, *Customer Landscape* and *Technical Resources* all assess an existing RPA business —
+certified developers, RPA revenue, automation customers. **xLoop's honest answers there are close to
+zero.** Two possible framings:
+
+1. "We are an RPA firm" — the form's default assumption. Fails on evidence.
+2. **"We are an enterprise AI and data engineering firm building an automation practice, and
+   UiPath's agentic pivot is why now."** ← **chosen.** True, aligned with the Marketing Brain
+   positioning, and matches who UiPath is actively recruiting (AI-capable partners, not more classic
+   RPA shops).
+
+Framing 2 must be consistent across **every** free-text box in the form.
 
 ## Strategic position given to Sana
 
@@ -90,8 +143,11 @@ it was not authorised. Disclosed to Sana. Scope browser-automation selectors nar
 
 ## Next steps
 
-- [ ] Confirm Huzaifa's direct email alias (not the `xsecurity@` shared inbox) — blocks all three
+- [x] ~~Confirm Huzaifa's direct email alias~~ — `huzaifa.valika@xloopdigital.com`
 - [ ] Get the real headcount from HR — monday's numeric field cannot be dodged
+- [ ] Get Mir Nasir's contact details for the UiPath signatory field
+- [ ] Gather Technical Resources / Compliance inputs from Mir Nasir and Atir Ahsan (revenue, entity
+      details, certifications) before submitting UiPath — use Save Draft in the meantime
 - [ ] Count distinct customers (not "solutions delivered", which is the disputed C4 figure)
 - [ ] Ask internally whether any xLoop team already uses monday.com (field 11 — `Yes` is a much
       stronger answer if true)

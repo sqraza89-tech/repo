@@ -141,6 +141,30 @@ Answers given: address split as `1st Floor, Marine Tower` / `Block 4, Clifton` /
 - **"Years in business" now forces the founding-year conflict (C1: 2020 vs 2022 → 6 or 4 years).**
   A blocked claim has become a contractual field. Settle it permanently from the incorporation date.
 
+Answers Huzaifa entered on the second half of Company Info:
+
+- Existing UiPath relationship in another geo: **No**
+- Existing distributor relationship: **No**
+- **Annual revenue past 5 years: `$1M to $5M`** ← first hard revenue figure recorded anywhere.
+  Partially fills the Pipedrive and monday.com revenue fields, though Pipedrive splits this range
+  into four bands (1–1.5M, 1.5–2M, 2–3M, 3–4M, 4–6M) so it still needs narrowing with Atir Ahsan.
+- Willingness to provide financial documentation for a credit line: **Yes** — a `No` would remove
+  reseller status and force prepayment on every licence. Commits Mir Nasir and Atir Ahsan to
+  producing financials later; they need warning.
+- Established credit with a distributor: **None of the above**
+- Company Description drafted, closing on the line that converts the missing RPA practice into the
+  reason for applying: *"Our clients increasingly need the intelligence we build to act on the
+  systems they already run… so that models and decisions become executed work rather than
+  recommendations."*
+- Logo: use the approved mark from `xLoop - Brand Guidelines_v1e.pdf`, transparent PNG — it lands in
+  UiPath's public partner directory.
+
+🔴 **Catch worth keeping: the two distributor questions list different distributors.** The first
+asks about Carahsoft / Ingram / eGuardian / **Marvel**; the second about Ingram Micro / Carahsoft /
+**Westcon** / Eguardian / **KCC**. Westcon and KCC are significant Middle East and Africa
+distributors that the first list omitted, so the `No` was given against an incomplete list. If a
+Westcon or KCC relationship exists via the Dubai or Doha entities, **both answers must change.**
+
 ### The framing decision for this application
 
 *RPA Practice*, *Customer Landscape* and *Technical Resources* all assess an existing RPA business —
@@ -192,8 +216,12 @@ it was not authorised. Disclosed to Sana. Scope browser-automation selectors nar
 - [ ] Get Mir Nasir's contact details for the UiPath signatory field
 - [ ] **Atir Ahsan:** exact SECP-registered legal entity name, incorporation date (settles C1),
       annual revenue for the past 5 years, and the sales / technical / marketing headcount split
-- [ ] **Check existing distributor relationships** — Carahsoft, Ingram, eGuardian, Marvel. Highest
-      leverage item on the UiPath application
+- [ ] **Check existing distributor relationships** — Carahsoft, Ingram Micro, eGuardian, Marvel,
+      **Westcon, KCC**. Highest leverage item on the UiPath application; the last two were missing
+      from the first question's list, so re-check before submitting
+- [ ] Warn Mir Nasir and Atir Ahsan that the `Yes` on financial documentation commits them to
+      producing financials for a distributor credit check
+- [ ] Narrow the revenue figure within $1M–$5M for the Pipedrive form's finer bands
 - [ ] Verify the Clifton Block 4 postal code against xLoop letterhead
 - [ ] Check whether any xLoop engagement has previously touched UiPath in another geography
 - [ ] After UiPath onboarding: add Mir Nasir as RPA Partner Executive and a technical lead as RPA

@@ -115,6 +115,32 @@ projects) and does not apply to xLoop.
   enablement access, which is the weakest part of the application — it must not sit in a
   salesperson's inbox
 
+### Section 2 — Company Info
+
+Answers given: address split as `1st Floor, Marine Tower` / `Block 4, Clifton` / Karachi / **75600**
+(postal code to be verified against letterhead); Company Industry = IT Services / Technology.
+
+- **Type of Partner (checkboxes: BPO / Reseller / MSP): tick Reseller + MSP.** There is **no
+  "Solution Provider" or "Services Partner" option**, which is the label that actually fits. MSP is
+  the closest available and is consistent with the scoped managed-delivery model in
+  [[2026-09-07-xloop-bucket-1-region-targeting]]. Reseller alone would frame xLoop as a licence
+  box-shifter and contradict the AI-practice framing.
+- **"Do you have an advanced solution(s) or new technology practice?" = Yes.** This is the most
+  important field on the page — it is where the AI-firm-entering-automation framing lands. Text
+  drafted covering GenAI/LLM, agentic and multi-agent, computer vision, data platform engineering
+  (Snowflake/AWS/Databricks) and the AI security practice, closing on UiPath's agentic pivot as the
+  reason for applying now.
+- **Legal Company Name must be the SECP-registered entity name**, not the "xLoop Digital" brand.
+  Likely `xLoop Digital (Private) Limited` — must be confirmed, it carries into contracts.
+- **Distributor question (Carahsoft, Ingram, eGuardian, Marvel) is the highest-value field on the
+  page.** Marvel is a Pakistani IT distributor and eGuardian a Middle East VAD, so an existing
+  relationship is plausible. Given that UiPath onboards Pakistan partners *through* an authorised
+  distributor, a `Yes` means arriving with a distributor rather than waiting to be assigned one —
+  potentially the difference between fast onboarding and a stalled application. Check with Atir
+  Ahsan and procurement, not from memory.
+- **"Years in business" now forces the founding-year conflict (C1: 2020 vs 2022 → 6 or 4 years).**
+  A blocked claim has become a contractual field. Settle it permanently from the incorporation date.
+
 ### The framing decision for this application
 
 *RPA Practice*, *Customer Landscape* and *Technical Resources* all assess an existing RPA business —
@@ -164,6 +190,12 @@ it was not authorised. Disclosed to Sana. Scope browser-automation selectors nar
 - [x] ~~Confirm Huzaifa's direct email alias~~ — `huzaifa.valika@xloopdigital.com`
 - [ ] Get the real headcount from HR — monday's numeric field cannot be dodged
 - [ ] Get Mir Nasir's contact details for the UiPath signatory field
+- [ ] **Atir Ahsan:** exact SECP-registered legal entity name, incorporation date (settles C1),
+      annual revenue for the past 5 years, and the sales / technical / marketing headcount split
+- [ ] **Check existing distributor relationships** — Carahsoft, Ingram, eGuardian, Marvel. Highest
+      leverage item on the UiPath application
+- [ ] Verify the Clifton Block 4 postal code against xLoop letterhead
+- [ ] Check whether any xLoop engagement has previously touched UiPath in another geography
 - [ ] After UiPath onboarding: add Mir Nasir as RPA Partner Executive and a technical lead as RPA
       Partner Technical Contact
 - [ ] Gather Technical Resources / Compliance inputs from Mir Nasir and Atir Ahsan (revenue, entity

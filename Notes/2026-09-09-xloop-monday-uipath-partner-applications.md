@@ -185,16 +185,19 @@ Westcon or KCC relationship exists via the Dubai or Doha entities, **both answer
 
 ### Section 3 — RPA Practice (two dropdowns, options not yet captured)
 
-- **Business Model — options are `Resell` / `Managed Services` / `Implementation` / `Consultant`.
-  Answer: `Implementation`.** It is the motion actually being applied for and the one UiPath routes
-  delivery work and enablement to. `Resell` (the pre-selected default) competes on margin against
-  distributors and contradicts the rest of the application; `Consultant` understates the engineering
-  capability; `Managed Services` invites SLA / 24-7 / NOC questions with no estate to manage yet —
-  a year-two answer.
-- **Reconciling with Section 2:** that question's list offered only BPO / Reseller / MSP, with no
-  Implementation option, so MSP was the closest proxy. Not a contradiction — *Type of Partner* is
-  the commercial classification (will transact licences, can operate services), *Business Model* is
-  the primary motion.
+- **Business Model — options `Resell` / `Managed Services` / `Implementation` / `Consultant`, and it
+  turned out to be MULTI-select. Answer: `Implementation` + `Managed Services` + `Resell`.**
+  - *Implementation* is the substance — the motion being applied for and where the projects are.
+  - *Managed Services* keeps Section 2's MSP tick consistent and is genuinely true via the
+    fixed-scope managed delivery pods in [[2026-09-07-xloop-bucket-1-region-targeting]] — a
+    managed-services motion, just not RPA-estate management.
+  - *Resell* keeps the commercial answers coherent: Reseller was ticked under Type of Partner and
+    the credit-line question was answered Yes, both of which only make sense if transacting
+    licences.
+  - **`Consultant` deliberately left off** — it is the only one of the four that sits awkwardly
+    against "existing RPA practice = No". xLoop's AI consulting is mature, but *RPA* consulting is
+    not, and Implementation already covers front-end assessment work.
+- General principle applied here: **a multi-select rewards a coherent set, not a complete one.**
 - **"Do you have an existing RPA Practice?" → No.** Answer it cleanly and do not soften it. The next
   section (Technical Resources) asks for certified developer counts and delivered automation
   projects, so a "yes" that cannot survive it reads as careless or dishonest at the exact moment

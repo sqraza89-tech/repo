@@ -45,20 +45,20 @@ list, unlike the SMB motion behind Pipedrive and monday.com. Sits directly on th
 pillar from [[2026-09-01-xloop-marketing-brain-release-1]]. Plus a warm SVP introduction, which is
 worth more than three cold application forms. **If bandwidth is short, this takes priority.**
 
-## Follow-up email drafted
+## Ownership — Huzaifa's thread, Sana supports only
 
-Sent under Huzaifa's name (thread continuity); variant noted for Sana. Structure:
+**Sana is not driving this.** Huzaifa owns the Kore.ai relationship; Sana is cc'd and her role is to
+offer marketing support. Any drafting for her should be short and stay behind his lead — a full
+follow-up written for her to send would overstep.
 
-- Requests 30 minutes, with **three concrete agenda items**: partnership framework and which tier
-  fits a services/implementation partner in Pakistan and the GCC; the live Pakistan opportunities
-  Usman named; onboarding prerequisites (certification, enablement, commitments).
-- Substance paragraph uses approved claims only — Karachi delivery centre, Dubai IFZA and Doha QFC
-  entities, conversational/generative AI as a core practice, the 40+ page fund-report assistant
-  (claim A12), and the BFSI / healthcare / energy / government client base.
-- **Dubai 21–22 Sep reframed** as an open offer to meet in person, explicitly "no agenda beyond
-  that", with the call positioned as the more useful next step regardless.
-- Closes with **three specific time slots in GST** — roughly doubles reply rate versus "let me know
-  what works".
+Short intro email drafted for Sana: introduces her as Head of Marketing & AI Transformation, names
+the go-to-market support she can offer (joint campaigns, case studies, events, co-branded work
+across Pakistan and the GCC), and offers either to join a call or stay in the background. Four
+short paragraphs, no agenda-setting.
+
+Points raised with Sana **offline rather than in the email**: the signing-ceremony message is worth
+a quiet word with Huzaifa, since he may not have clocked why the thread went quiet; and Chat Genie
+positioning is genuinely her turf and needs a line ready before it comes up live.
 
 ## Prepared positions
 
@@ -72,8 +72,14 @@ Sent under Huzaifa's name (thread continuity); variant noted for Sana. Structure
 
 ## Next steps
 
-- [ ] Insert three concrete GST time slots and send the follow-up to Prerna
-- [ ] Agree the Chat Genie vs Kore.ai positioning line internally before any call
+**Sana's:**
+
+- [ ] Send the short intro email to Prerna, cc Huzaifa
+- [ ] Draft the Chat Genie vs Kore.ai positioning line — marketing's call, needed before any call
+- [ ] Quiet word with Huzaifa about the signing-ceremony framing, if the moment allows
+
+**Huzaifa's (track, don't action):**
+
+- [ ] Follow up with Prerna — thread quiet since ~1 Sep
 - [ ] Confirm whether Mir Nasir's 21–22 Sep Dubai trip has room for a Kore.ai meeting
 - [ ] If no reply: one short follow-up ~19 Sep, then re-engage Usman
-- [ ] Prepare the two Pakistan banking references for the opportunities conversation

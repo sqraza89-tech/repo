@@ -183,7 +183,37 @@ asks about Carahsoft / Ingram / eGuardian / **Marvel**; the second about Ingram 
 distributors that the first list omitted, so the `No` was given against an incomplete list. If a
 Westcon or KCC relationship exists via the Dubai or Doha entities, **both answers must change.**
 
-### Section 3 — RPA Practice (two dropdowns, options not yet captured)
+### 🔴 SUPERSEDING FACT — xLoop *does* have an RPA practice
+
+**10 Sep, from Huzaifa:** *"We currently have a few customers that we're working with on RPA, as we
+have built our own product. We want to take UiPath to our other customers — that's the reason we're
+applying for partnership."*
+
+**This contradicts the offering inventory in [[2026-09-01-xloop-marketing-brain-release-1]], which
+lists no RPA product** (xVision, xServe, Chat Genie, HR App Pilot, App Pilot, Meta Human, xCrowdIQ,
+xVoltIQ). Either the product is newer than Release 1 or it was missed — worth chasing separately, as
+it means the offering inventory is incomplete.
+
+**It invalidates the Section 3 and Section 8 answers recorded below.** Three fields must flip:
+
+| Section | Field | Was | Now |
+|---|---|---|---|
+| RPA Practice | Do you have an existing RPA Practice? | No | **Yes** + name vendors/tools in use |
+| Other Info | Do you currently use/Resell/Deploy RPA Products | No | **Yes** |
+| Technical Resources | Top 5 Technical Certifications | none | whichever platforms those customers run on |
+
+Left "No" as-is, the form says *no RPA practice* in section 3 and *we have RPA customers and our own
+product* in section 8 — a contradiction inside one document a partner manager reads end to end,
+which parks an application rather than progressing it.
+
+**Channel-vs-competitor question now live.** "We built our own product" invites: *is xLoop a channel
+for UiPath or a competitor?* Answer to prepare — our product serves a narrow specific use case,
+UiPath is the enterprise platform for larger and regulated accounts, and having built automation
+ourselves is why we can implement it credibly. **This is the same question Chat Genie raises for
+Kore.ai** ([[2026-09-09-xloop-koreai-partnership-thread]]) — Huzaifa should have one consistent
+answer for both.
+
+### Section 3 — RPA Practice (answers below now SUPERSEDED — see above)
 
 - **Business Model — options `Resell` / `Managed Services` / `Implementation` / `Consultant`, and it
   turned out to be MULTI-select. Answer: `Implementation` + `Managed Services` + `Resell`.**
@@ -352,13 +382,16 @@ Huzaifa.
 - **Marketing communications checkbox** — recommended tick. Partner news, enablement announcements
   and event invitations are genuinely useful when building a practice from zero.
 - **"What other information would you like us to know?"** — optional but filled; the closing
-  argument for the whole application. Three points: (1) applying as an AI/data engineering firm
-  entering automation, stating the missing UiPath practice plainly and pointing at the six-month
-  enablement commitment; (2) Karachi delivery + Dubai/Doha entities into a Gulf market with strong
-  demand and thin partner coverage, with CEO-level access evidenced by the 87-CEO NEPRA compliance
-  campaign; (3) agentic automation as the reason for applying *now*. Closes on **"happy to start
-  small and be measured on delivered outcomes"** — the same posture used on the Pipedrive and
-  monday.com applications, which invites a cheap test rather than a bet.
+  argument for the whole application. **Revised 10 Sep on Huzaifa's instruction:** opening line
+  ("Three things that may not be obvious…") removed, and his RPA-customers/own-product sentence
+  worked into paragraph 2. Final structure: (1) AI and data engineering firm extending into
+  automation; (2) existing RPA customers and own product, wanting to take UiPath to the *other*
+  customers, with the missing **UiPath-specific** practice stated plainly against the six-month
+  enablement commitment; (3) Karachi delivery + Dubai/Doha entities into a Gulf market with strong
+  demand and thin partner coverage, CEO-level access evidenced by the 87-CEO NEPRA campaign;
+  (4) agentic automation as the reason for applying *now*. Closes on **"happy to start small and be
+  measured on delivered outcomes"** — the same posture used on the Pipedrive and monday.com
+  applications, inviting a cheap test rather than a bet.
 
 ### The framing decision for this application
 
@@ -413,7 +446,7 @@ Blocked on inputs from four people. Three emails, best sent together so answers 
 | **Atir Ahsan** | Legal entity name (SECP), incorporation date (settles C1 / years in business), Tax ID (NTN), annual revenue detail, sales/technical/marketing headcount split, # of distinct customers |
 | **Mir Nasir** | The four compliance declarations; sign-off on the 3–6 month enablement commitment |
 | **Daniyal Abbasi** | Power Automate in use? Selenium in QA? (affects three separate fields) |
-| **Huzaifa Valika** | Any live opportunity to attach; any UiPath referrer to name |
+| **Huzaifa Valika** | Any live opportunity to attach; any UiPath referrer to name; **which RPA product xLoop built, which platforms the existing RPA customers run on, and the channel-vs-competitor line** |
 
 ## Next steps
 
@@ -435,6 +468,12 @@ Blocked on inputs from four people. Three emails, best sent together so answers 
 - [ ] **Daniyal Abbasi:** does any delivery work use **Power Automate**? And does QA use
       **Selenium**? Both are tickable options on the UiPath certifications field and both are
       plausible — confirm rather than assume
+- [ ] **Flip the three RPA answers to Yes** (RPA Practice, Resell/Deploy RPA Products, and the
+      certifications field) so sections 3 and 8 stop contradicting each other
+- [ ] Chase the RPA product itself — it is missing from the Release 1 offering inventory, so that
+      inventory is incomplete and needs correcting at source
+- [ ] Agree one channel-vs-competitor line covering both the RPA product (UiPath) and Chat Genie
+      (Kore.ai)
 - [ ] Scroll up in the "Top 5 Technical Certifications" dropdown to check for a `None` option and
       whether it is multi-select
 - [ ] Nominate the two developers for the UiPath Academy track

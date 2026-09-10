@@ -341,6 +341,25 @@ Huzaifa.
   or reserve military position, or a role at a body like the UN or World Bank. Given xLoop's energy
   and public-sector work in Pakistan, where SOEs are common, this deserves five real minutes.
 
+### Section 8 — Other Information (final section)
+
+- **"Do you currently use/Resell/Deploy RPA Products" → `No`, and it MUST match the RPA Practice
+  answer** — the two questions ask the same thing in different words and a mismatch invites a query.
+  If Daniyal confirms Power Automate, both answers change together.
+- **"How were you made aware/referred"** — `UiPath event, publication or website` is accurate (came
+  in via their partner page). **Switch to the referral option if anyone at UiPath actually pointed
+  Huzaifa there** — referred applications get routed rather than queued. Ask him.
+- **Marketing communications checkbox** — recommended tick. Partner news, enablement announcements
+  and event invitations are genuinely useful when building a practice from zero.
+- **"What other information would you like us to know?"** — optional but filled; the closing
+  argument for the whole application. Three points: (1) applying as an AI/data engineering firm
+  entering automation, stating the missing UiPath practice plainly and pointing at the six-month
+  enablement commitment; (2) Karachi delivery + Dubai/Doha entities into a Gulf market with strong
+  demand and thin partner coverage, with CEO-level access evidenced by the 87-CEO NEPRA compliance
+  campaign; (3) agentic automation as the reason for applying *now*. Closes on **"happy to start
+  small and be measured on delivered outcomes"** — the same posture used on the Pipedrive and
+  monday.com applications, which invites a cheap test rather than a bet.
+
 ### The framing decision for this application
 
 *RPA Practice*, *Customer Landscape* and *Technical Resources* all assess an existing RPA business —
@@ -384,6 +403,17 @@ once reads as a firm broadening out — the opposite of what the Marketing Brain
 While probing the UiPath country list, a too-broad button selector clicked the cookie banner's
 "Accept and continue" on `partnerportal.uipath.com`. Nothing was submitted and no data entered, but
 it was not authorised. Disclosed to Sana. Scope browser-automation selectors narrowly in future.
+
+## UiPath form status: all 8 sections drafted, saved as draft, NOT submitted
+
+Blocked on inputs from four people. Three emails, best sent together so answers return at once:
+
+| Owner | Needed |
+|---|---|
+| **Atir Ahsan** | Legal entity name (SECP), incorporation date (settles C1 / years in business), Tax ID (NTN), annual revenue detail, sales/technical/marketing headcount split, # of distinct customers |
+| **Mir Nasir** | The four compliance declarations; sign-off on the 3–6 month enablement commitment |
+| **Daniyal Abbasi** | Power Automate in use? Selenium in QA? (affects three separate fields) |
+| **Huzaifa Valika** | Any live opportunity to attach; any UiPath referrer to name |
 
 ## Next steps
 

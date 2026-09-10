@@ -287,6 +287,36 @@ Five fields. This is the section the whole application turns on.
 has certified people — it is asking whether they will get them. That is a far easier question to
 answer well, provided the commitment behind the `Yes` is genuine.
 
+### Section 6 — Engagement
+
+The section where xLoop is genuinely strong.
+
+- **Joint business planning → `Yes`.** Standard quarterly planning; a `No` signals a partner who
+  wants a discount code, not a relationship.
+- **Segments sold into → `Emerging Enterprise` + `Enterprise`.** SMB left off — it contradicts the
+  rest of the application and is the segment the positioning deliberately avoids. **KAP left off** —
+  those are UiPath's named key accounts and claiming access xLoop does not have invites an
+  unanswerable question.
+- **C-level access to RPA decision makers → `Yes`.** One of the strongest honest answers on the
+  form. The NEPRA campaign was explicitly an executive sale: 87 companies approached at CEO level
+  precisely because there were almost no CISOs to sell to. Plus banking and asset-management
+  relationships and a VP Enterprise Sales running the motion. Many applicants overstate this; xLoop
+  does not have to.
+- **Self-sufficient at lead generation → `Yes`.** A `No` says "we cannot sell without you" and is
+  disqualifying. Defensible via the NEPRA outbound campaign. **Internal caveat:** the Marketing
+  Brain found non-brand organic clicks at zero and no measured funnel, so xLoop generates leads
+  through *outbound and referral, not inbound* — if a partner manager asks how pipeline is sourced,
+  lead with NEPRA, not anything digital.
+- **Close 2–3 opportunities in year 1 at ~$15k average (EMEA) → `Yes`.** Middle East falls under
+  EMEA, so the benchmark is roughly **$30–45k of first-year licence revenue**. A low bar,
+  comfortably achievable.
+
+🟠 **Raise with Mir Nasir alongside the enablement sign-off:** first-year revenue expectation is
+$30–45k while the commitment is six people through certification. Academy training is free but exam
+fees and time out of billable work are not. **Year one is an investment year, not a profit year** —
+the return comes from implementation services attached to those licences, not the licences
+themselves. Better raised now than discovered in month four.
+
 ### The framing decision for this application
 
 *RPA Practice*, *Customer Landscape* and *Technical Resources* all assess an existing RPA business —
@@ -345,7 +375,9 @@ it was not authorised. Disclosed to Sana. Scope browser-automation selectors nar
       producing financials for a distributor credit check
 - [ ] Narrow the revenue figure within $1M–$5M for the Pipedrive form's finer bands
 - [ ] **Mir Nasir: sign off the 3–6 month enablement commitment** (2 developers, 1 SA/tech seller,
-      3 sellers) before that field is ticked — it is the pivotal answer on the form
+      3 sellers) before that field is ticked — it is the pivotal answer on the form. Present it with
+      the year-one economics: ~$30–45k licence revenue against six certifications, i.e. an
+      investment year whose return is attached implementation services
 - [ ] **Daniyal Abbasi:** does any delivery work use **Power Automate**? And does QA use
       **Selenium**? Both are tickable options on the UiPath certifications field and both are
       plausible — confirm rather than assume

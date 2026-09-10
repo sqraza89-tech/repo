@@ -262,14 +262,26 @@ Five fields. This is the section the whole application turns on.
     architect / technical seller, 3 sellers. Academy training is free and self-paced but exams are
     paid per head and the developer track is a serious time investment — real capacity out of
     billable work. Daniyal Abbasi should nominate the two developers.
-- **Top 5 Technical Certifications** — certain ground is **ISO 27001 Lead Auditor** and **ISO 42001
-  Lead Auditor** (claim A4, confirmed at individual level). Check actual AWS / Microsoft-Azure certs
-  held by *named people* with Abdul Wasey Siddique and Daniyal Abbasi. **Being an AWS or Microsoft
-  partner is not the same as having certified individuals** — this field asks for the latter.
-- **UiPath Technical Certifications** — none. Look for a `None` / `N/A` option; do not pick a real
-  certification name if no null option exists.
-- **# of technically certified individuals** — ambiguous scope: zero if UiPath-specific, a real
-  number if general. Get the count from Daniyal either way.
+- **Top 5 Technical Certifications** — options confirmed as **automation and test-automation
+  platforms only**, NOT general certifications: `BP` (Blue Prism), `AA` (Automation Anywhere),
+  `Celonis`, `K2`, `Pega`, `PowerAutomate`, `Selenium`, `Tosca`, `ABBYY`, `UiPath` (list may
+  continue above BP — scroll up to check for a `None` / `N/A` / `Other` option, and whether it is
+  multi-select; "Top 5" implies it is).
+  - ISO 27001 / ISO 42001 / AWS / Azure are **not options here** — earlier guidance pointing at them
+    for this field does not apply.
+  - **Two genuinely plausible ticks, both to confirm with Daniyal Abbasi, not assume:**
+    **`PowerAutomate`** (xLoop is a Microsoft partner; Power Automate work is common in that orbit —
+    the best available answer, since it makes RPA entry look like a step rather than a leap) and
+    **`Selenium`** (web/app development is xLoop's most mature offering at M5, and Selenium is the
+    standard test-automation tool in that work — an honest tick that demonstrates automation
+    engineering discipline).
+- **UiPath Technical Certifications** — options are just `Yes` / `No`. Answer **`No`**.
+- **# of technically certified individuals** — bands `0 - 10` / `11 - 24` / `25 - 49` / `50+`.
+  Answer **`0 - 10`**. The field sits beneath the automation-platform list and beside the UiPath
+  certification question, so it is almost certainly scoped to automation tooling. A higher band
+  could be argued on cloud/security certs under a general reading, but claiming 25–49 certified
+  individuals two fields after declaring no RPA practice and no UiPath certifications would read as
+  incoherent, and later sections may probe it.
 
 **Why the application is winnable despite the RPA gap:** UiPath is not asking whether xLoop already
 has certified people — it is asking whether they will get them. That is a far easier question to
@@ -334,10 +346,11 @@ it was not authorised. Disclosed to Sana. Scope browser-automation selectors nar
 - [ ] Narrow the revenue figure within $1M–$5M for the Pipedrive form's finer bands
 - [ ] **Mir Nasir: sign off the 3–6 month enablement commitment** (2 developers, 1 SA/tech seller,
       3 sellers) before that field is ticked — it is the pivotal answer on the form
-- [ ] **Daniyal Abbasi:** does any delivery work use Power Automate / Power Platform or similar
-      workflow automation? Changes the RPA Practice answer if so
-- [ ] **Daniyal Abbasi / Abdul Wasey Siddique:** list actual AWS and Azure certifications held by
-      named individuals, plus a total count of technically certified staff
+- [ ] **Daniyal Abbasi:** does any delivery work use **Power Automate**? And does QA use
+      **Selenium**? Both are tickable options on the UiPath certifications field and both are
+      plausible — confirm rather than assume
+- [ ] Scroll up in the "Top 5 Technical Certifications" dropdown to check for a `None` option and
+      whether it is multi-select
 - [ ] Nominate the two developers for the UiPath Academy track
 - [ ] Verify the Clifton Block 4 postal code against xLoop letterhead
 - [ ] Check whether any xLoop engagement has previously touched UiPath in another geography

@@ -317,6 +317,30 @@ fees and time out of billable work are not. **Year one is an investment year, no
 the return comes from implementation services attached to those licences, not the licences
 themselves. Better raised now than discovered in month four.
 
+### Section 7 — Compliance ⚠️ legal attestations, not positioning
+
+**Not Sana's or Huzaifa's to answer.** These are representations about xLoop's legal standing made to
+a NYSE-listed company — OFAC sanctions rules and the US Foreign Corrupt Practices Act flow down from
+UiPath to its partners. **Mir Nasir should answer them**, which is exactly what the earlier
+"authorized signatory" question was asked for. Recommended: Save Draft, send the four questions
+verbatim to Mir Nasir and Atir Ahsan, let them return the answers. Removes personal exposure for
+Huzaifa.
+
+- **Tax Id** → Pakistan **NTN** from Atir Ahsan (try without dashes if the field rejects it; STRN may
+  be requested separately later).
+- Four declarations, all expected `No` but **requiring verification, not assumption**: (1) sanctions
+  lists — OFAC / BIS / EU / UN; (2) nationals or residents of comprehensively sanctioned countries;
+  (3) criminal or enforcement actions; (4) government / military / political party / public
+  international organization / state-affiliated representatives.
+- **A `Yes` does not disqualify — it triggers enhanced due diligence. An incorrect `No` discovered
+  later is materially worse.** Worth stating plainly to whoever answers.
+- 🟠 **Question 4 needs real thought, not a reflex.** It is *not* asking whether xLoop serves
+  government clients (it does, and Government is ticked as an area of focus) — it asks whether anyone
+  at xLoop **is** a government-affiliated person. Triggers: a government advisory board or
+  regulatory committee seat, a state-owned enterprise directorship, political party office, serving
+  or reserve military position, or a role at a body like the UN or World Bank. Given xLoop's energy
+  and public-sector work in Pakistan, where SOEs are common, this deserves five real minutes.
+
 ### The framing decision for this application
 
 *RPA Practice*, *Customer Landscape* and *Technical Resources* all assess an existing RPA business —
@@ -384,6 +408,10 @@ it was not authorised. Disclosed to Sana. Scope browser-automation selectors nar
 - [ ] Scroll up in the "Top 5 Technical Certifications" dropdown to check for a `None` option and
       whether it is multi-select
 - [ ] Nominate the two developers for the UiPath Academy track
+- [ ] **Send the four Compliance declarations verbatim to Mir Nasir and Atir Ahsan** — they answer,
+      not Huzaifa. Include the NTN request in the same email
+- [ ] Screen officers/directors properly for question 4 (government / SOE / military / political
+      affiliations) rather than answering by reflex
 - [ ] Verify the Clifton Block 4 postal code against xLoop letterhead
 - [ ] Check whether any xLoop engagement has previously touched UiPath in another geography
 - [ ] After UiPath onboarding: add Mir Nasir as RPA Partner Executive and a technical lead as RPA

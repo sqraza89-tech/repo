@@ -209,6 +209,43 @@ Westcon or KCC relationship exists via the Dubai or Doha entities, **both answer
   the dropdown allows naming vendors, that is a legitimate partial yes and a stronger answer.
 - No process mining or process discovery tooling in use today — answer accordingly.
 
+### Section 4 — Customer Landscape
+
+**Area of focus.** Pre-ticked by Huzaifa: Banking & Financial Services, Energy and Utilities,
+Government, Logistics, Manufacturing, Retail, Technology, Other. Two corrections given:
+
+- 🔴 **Add Healthcare** — it was unticked despite being the vertical with the *strongest* evidence
+  of any: claims A10 (national immunisation platform, 1bn+ records, 4,000+ health workers), A7
+  (200+ domain VAPT for a healthcare platform) and A13 (RAG video-transcription search). Leaving it
+  off understated xLoop more than any other box on the page.
+- **Untick "Other"** — with Healthcare added, every served vertical is on the list by name; a vague
+  free-text entry reads worse than no tick.
+- Manufacturing is thinner than the rest but defensible: many NEPRA licensees are captive power
+  plants at textile, cement and sugar mills.
+- Public Sector left off deliberately — Government already covers it, and double-claiming adds
+  nothing.
+
+**Internal Business Units sold into → `Information Technology` + `Finance & Accounting` +
+`Contact Center`.** IT is the honest primary (buyer is CIO/CTO/CISO). F&A is where UiPath deals most
+often land and is backed by the LLM investment assistant and banking/asset-management clients.
+Contact Center is backed by the conversational AI practice. **Human Resources** optional via HR App
+Pilot — real but weakest. **Legal** and **Supply Chain Management** left off: no evidence that would
+survive a follow-up.
+
+**Subject matter experts supporting the verticals → `Yes`.** Name the roles, not abstract
+capabilities: Farrukh Feroze (Head of AI Security), Daniyal Abbasi (Head of AI Solutions &
+Consulting), certified ISO 27001 / ISO 42001 Lead Auditors, plus the NEPRA energy-compliance
+specialisation.
+
+**"Is the request based on a pending opportunity you want to transact?"** — likely `No`, but **ask
+Huzaifa first.** Same question monday.com asked, and the highest-leverage field on the form: a `Yes`
+with a real opportunity moves the application from a queue to a revenue event, and is the fastest
+route *past* the certification gap — UiPath pairs you with a distributor to land the deal rather
+than waiting for a practice to be built.
+
+**`# of customers`** is a free number field, still blocked on the real distinct-client count. Must
+match whatever goes on the monday.com form.
+
 ### The framing decision for this application
 
 *RPA Practice*, *Customer Landscape* and *Technical Resources* all assess an existing RPA business —
@@ -274,7 +311,10 @@ it was not authorised. Disclosed to Sana. Scope browser-automation selectors nar
       Partner Technical Contact
 - [ ] Gather Technical Resources / Compliance inputs from Mir Nasir and Atir Ahsan (revenue, entity
       details, certifications) before submitting UiPath — use Save Draft in the meantime
-- [ ] Count distinct customers (not "solutions delivered", which is the disputed C4 figure)
+- [ ] Count distinct customers (not "solutions delivered", which is the disputed C4 figure) — use
+      the same number on both the UiPath and monday.com forms
+- [ ] **Ask Huzaifa whether any live opportunity exists** that could be attached to the UiPath
+      application (and the equivalent monday.com field) — highest-leverage answer on either form
 - [ ] Ask internally whether any xLoop team already uses monday.com (field 11 — `Yes` is a much
       stronger answer if true)
 - [ ] Check whether Huzaifa has any live opportunity evaluating a work-management tool (field 16 —

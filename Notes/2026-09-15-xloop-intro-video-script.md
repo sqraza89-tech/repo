@@ -3,51 +3,65 @@ date: 2026-09-15
 tags: [xloop, video, script, linkedin, recruitment, draft]
 ---
 
-# xLoop 60-second intro video — script draft v1
+# xLoop 60-second intro video — script v2
+
+Related: [[xloop-marketing-brain]]
 
 ## Brief
 
-- **Length:** 60 seconds, about 140 words of voiceover
+- **Length:** 60 seconds, about 135 words of voiceover
+- **Format:** voiceover over a mix of existing footage, logos and motion graphics
 - **Audience:** LinkedIn followers, new recruits, consultants
-- **Job:** what we do → what we've achieved → what it's like to work here → an ending that makes people excited
-- **Claims:** checked against `Projects/xloop-marketing-brain/05_brand/approved_claims.md` and `prohibited_claims.md`. v1 uses only approved claims. Numbers that are still blocked are listed under "Optional swaps"
+- **Story:** the xLoop journey, told as chapters. The thread running through it is *early adopters, forward thinking*
+- **Tone:** dynamic and forward-looking, working on local and international projects
+- **Device:** a running year counter (2022 → 2026) gives the video a timeline spine, echoing the deck
+
+## Decisions confirmed by Sana (2026-09-15)
+
+- **Headcount:** 70+ engineers
+- **Founded:** 2022
+- **Europe:** resources in Hungary, plus several partnerships signed there. Say "Europe", not "office"
+- **Majid Al Futtaim, Kayali:** resource augmentation clients. **Internal only — never name publicly.** Public wording is general only ("global brands")
+- **The board deck slides** are for context, not approved public copy
+- **Ending:** no product teaser. Theme is continuous learning, adaptation, evolution, change-makers
 
 ## Script
 
-| Time | Voiceover | On screen |
-|---|---|---|
-| 0:00–0:05 | Everyone is talking about AI. At xLoop, we build it — and put it to work. | Quick cuts: xServe avatar saying *"Go ahead! I am listening…"*, then the team at the whiteboard |
-| 0:05–0:17 | We're an AI engineering and consulting firm. We build AI platforms, modernize data and cloud, secure the systems businesses rely on, and train the next generation of AI talent. | Product screens: Chat Genie, App Pilot, xVision, xServe. Text: **xLab · xTend · xSecurity · xCelerate** |
-| 0:17–0:35 | From Karachi to San Mateo, Dubai and Doha, we work with banks, energy companies, retailers and healthcare platforms. We've scaled a national health platform past a billion immunization records. And this year, we've worked with HBL Asset Management and trained AI cohorts with Mari Energies. | Animated map with 4 city pins. Text: **1 billion+ health records**. Strip of approved logos only. Photo from the Mari Energies ceremony |
-| 0:35–0:48 | Being part of xLoop means an n+1 mindset: always looking one step beyond the obvious. You'll solve real problems for real clients, learn fast, and experiment boldly. | Team moments: certificate ceremony, bootcamp, client meeting. Text: **The n+1 mindset** |
-| 0:48–1:00 | The most exciting work in AI is still ahead of us. Come build it with us. | Slow push-in on the team, then the xLoop logo. End card: *Follow us · Careers link* |
+| Time | Chapter | Voiceover | On screen |
+|---|---|---|---|
+| 0:00–0:05 | Cold open | In 2022, most businesses were still asking what AI could do. We decided not to wait. | Black screen, then quick cuts of the team. Year counter appears: **2022** |
+| 0:05–0:13 | 1 · Talent | We started by training engineers in AI with Emeritus, and sending them to work on international projects. | Whiteboard session, classroom and bootcamp footage. Emeritus logo. Globe animation with arcs going outward |
+| 0:13–0:20 | 2 · Services | That talent grew into our service lines: AI, LLMs, data, and expert teams for global brands. | Kinetic text: **AI · LLMs · Data · Team augmentation**. Approved logo strip (HBL Asset Management, Mari Energies, Alfalah, Abhi, Serefin…). Counter: **2023** |
+| 0:20–0:28 | 3 · Products | We listened to our clients' hardest problems, and built products to solve them: xVision, Chat Genie and App Pilot. | Client meeting footage, then UI screens for each product with its name. Counter: **2024** |
+| 0:28–0:35 | 4 · AI-native | Then we turned AI on ourselves, and became an AI-native company. | Screen-recordings of internal AI workflows, dashboards, xServe avatar. Fast-paced edit |
+| 0:35–0:44 | 5 · Security & trust | We launched AI security with certified ISO 27001 and 42001 lead auditors, and partnered with AWS, Microsoft, Snowflake and Databricks. | Security motion graphic (shield/scan). Text: **ISO 27001 & ISO 42001 Lead Auditors**. Partner logos animate in. Counter: **2025** |
+| 0:44–0:50 | Today | Today, we're more than 70 engineers, working from Pakistan to the Gulf, the US and Europe. | Map: Karachi, Dubai, Doha, San Mateo, Hungary light up. Text: **70+ engineers**. Counter: **2026** |
+| 0:50–1:00 | Close | Still learning. Still evolving. Still moving first. Because the future of AI belongs to the people who build it. Welcome to xLoop. | Montage builds in speed (ceremonies, team, products). Counter keeps ticking past 2026 into **→**. xLoop logo. End card: *Follow us · Careers* |
 
-**Other closing line to consider:** *"AI's biggest chapter hasn't been written yet. Let's write it together. xLoop."*
+### Other closing lines to consider
 
-## Optional swaps (only after the facts are approved)
+- *"We don't wait for the future of work. We build it. Welcome to xLoop."*
+- *"The next change in AI is coming. We plan to lead it — together. Welcome to xLoop."*
 
-| If approved | Replace or add |
-|---|---|
-| Headcount settled | "…with 100+ AI and cloud engineers" in the 0:05 section |
-| Client and country count settled | "40 clients in 8 countries" in place of the city list |
-| Founding year settled | Open with "Since 2022…" |
-| Majid Al Futtaim and Kayali cleared to name | Add them to the "this year" line and the logo strip |
-| Hungary expansion public | "…and now Europe" after Doha |
+## Wording rules in this script
 
-## Compliance flags
+- **Certifications:** "certified ISO 27001 and 42001 lead auditors" — these are individual certifications. Never say "xLoop is ISO certified"
+- **Resource augmentation:** "expert teams for global brands". No names, no project details
+- **Europe:** "working from… Europe", not "offices in Europe"
+- **Logos on screen:** only approved public logos. Don't reuse the "Our Edge" slide (it has Standard Bank, SS&C, ICICI Lombard)
+- **Numbers:** no "40 clients / 8 countries" — not confirmed
 
-- **Majid Al Futtaim:** the brain lists it as a pipeline entry, not a confirmed client (`prohibited_claims.md` §5)
-- **Kayali:** not on the approved list
-- **100+ engineers / 40 clients / 8 countries / founded 2022:** blocked, because the sources don't agree (Tier 3: C1–C3)
-- **Hungary / Europe:** not on the approved office list
-- **Logo slide from the deck:** includes Standard Bank, SS&C and ICICI Lombard, which are flagged as pipeline. Don't reuse that slide as it is
-- **HBL AM + "AI assistant for an asset manager":** don't put these side by side. That would reveal who the anonymized case-study client is
+## Open checks
+
+- **xServe:** not in the voiceover list you gave. Shown only in the visuals for chapter 4. Confirm you're happy with that
+- **Year stamps:** taken from the deck timeline. Confirm the AI-native shift belongs around 2024–2025
+- **Emeritus:** confirm the partnership can be shown publicly with its logo
 
 ## Next steps
 
-- [ ] Confirm permission to name Majid Al Futtaim and Kayali
-- [ ] Head of Marketing to settle headcount, client/country count and founding year
-- [ ] Confirm whether the Hungary expansion is public
-- [ ] Decide the format: voiceover over footage, or Mir Nasir on camera
-- [ ] Pick the teaser for the ending: a specific upcoming launch, or keep it general
+- [ ] Sana to review v2 script
+- [ ] Confirm xServe placement, the year stamps and the Emeritus logo
+- [ ] Gather footage: bootcamp, ceremonies, client meetings, product UIs, internal AI workflows
+- [ ] Collect approved logo files (clients + AWS, Microsoft, Snowflake, Databricks, Emeritus)
 - [ ] Add the careers URL for the end card
+- [ ] Decide whether to add confirmed facts (70+, 2022, Hungary) to `approved_claims.md`

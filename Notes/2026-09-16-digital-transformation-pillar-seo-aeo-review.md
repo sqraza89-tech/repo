@@ -12,34 +12,61 @@ Checked against: marketing brain (`approved_claims`, `prohibited_claims`, `messa
 ## Verdict in one line
 
 The positioning is right and the narrative section is the best thing in it — but as specified the
-page **cannot hit the traffic goal**, because it targets a term xLoop has no signal for, it
-**duplicates a page that is already live and ranking** (`/digital-engineering`), and it leaves the
-strongest proof xLoop owns sitting on another URL.
+page **cannot hit the traffic goal**: it targets a term xLoop has no signal for, it overlaps
+`/digital-engineering` (resolved 2026-09-16 — see §1), and it leaves the strongest proof xLoop
+owns sitting on another URL.
 
 ---
 
-## 1. The blocker nobody has flagged: this page cannibalises `/digital-engineering`
+## 1. Cluster architecture — RESOLVED 2026-09-16 (Sana)
 
-`/digital-engineering` is live today and already does this job:
+**Decision: coexist, not 301.** Digital Engineering becomes a *service page inside* the Digital
+Transformation cluster, not a competing hub. Sana's distinction: digital transformation is the
+broader business change including data work; digital engineering is code and creation of new
+software.
 
-- H1 "Explore Digital Engineering for Your Business"
-- H2 **"Facing Digital Transformation Challenges?"** — already targeting the phrase
-- Six services: Web & Mobile App, Software Dev, AI & ML, Cloud, Data & Analytics, POC & MVP
-- **Ten case-study cards with numbers**
-- **Three engagement models** with individual CTAs
-- **An existing FAQ**, with Load More
+**The distinction is sound but the live page does not reflect it.** `/digital-engineering` today
+carries Data & Analytics, Cloud Services and AI & ML cards, plus the H2 "Facing Digital
+Transformation Challenges?" — i.e. the whole umbrella. Narrow it, or the cannibalisation survives
+the reshuffle.
 
-The brief proposes `/services/digital-transformation` covering four of those same six services,
-under the same phrase, with *less* proof. Shipping it as written creates two pages competing for
-one intent, splitting internal links and authority — the classic cannibalisation pattern, on a site
-that already has a duplicate-metadata problem.
+The split that holds is **buyer**, not topic:
 
-**Recommendation: consolidate, do not add.** Make `/services/digital-transformation` the single
-pillar and **301 `/digital-engineering` into it**, carrying forward its case studies and engagement
-models. "Digital engineering" is a vendor-invented category; "digital transformation" is what
-buyers type. One page, one entity, all the authority.
+| | Digital Transformation | Digital Engineering |
+|---|---|---|
+| Role | Cluster hub | Service page inside the cluster |
+| Buyer | CDO / CIO / sponsor (ICP 1–2) | Product & platform builder (ICP 5) |
+| Question | *What has to change for AI to work here?* | *Can you build and ship this?* |
+| Sells | Data, cloud, modernisation | How we build — engineering practice |
+| Targets | digital transformation services, AI-ready data/infrastructure, data modernization consulting | software product engineering, MVP development, product engineering services |
 
-This is a decision for you, not for me — see Questions at the end.
+### Agreed cluster
+
+```
+/services/digital-transformation          ← cluster hub
+├── /services/data-analytics
+├── /services/cloud-and-hyperscaling
+├── /services/legacy-system-modernization   [new — confirmed scope]
+├── /services/web-and-app-development       ← WHAT we build
+└── /digital-engineering                    ← HOW we build
+```
+
+### De-cannibalisation edits required on `/digital-engineering`
+
+1. Drop H2 "Facing Digital Transformation Challenges?" — that phrase belongs to the hub.
+   Replace with a build-side framing, e.g. "Facing product delivery challenges?"
+2. Remove three of six service cards — Data & Analytics, Cloud Services, AI & ML. Point them at
+   the hub and at Applied AI instead. Keep Web & Mobile App, Software Development, POC & MVP;
+   add Platform/DevOps and QA.
+3. Move its data and cloud case cards to the hub; keep the product/app ones.
+4. **Do not target app-dev head terms.** `/services/web-and-app-development` earns 2,597
+   impressions at position 3.2 and must keep them. DE targets product/software engineering.
+5. Retitle: `Software & Product Engineering | xLoop` — "digital engineering" alone is a vendor
+   term with thin demand and should not carry the title on its own.
+
+⚠️ **Watch item for the revamp:** DE and Web & App Development sit adjacent. The boundary is
+*practice* vs *deliverable*. If DE starts listing app types again, merge it into Web & App
+Development and keep only the stronger URL.
 
 ---
 
@@ -160,10 +187,11 @@ It passes the substitution test where the current live pages don't.
 
 **Three problems:**
 
-1. **The primary CTA may not exist.** "Get Your AI Readiness Score" is claim **B4 — approved only
-   once the diagnostic is actually built.** The CTA is already live sitewide; the tool is not
-   confirmed. Pointing the highest-intent traffic on the site at a form that returns nothing is
-   worse than no CTA.
+1. **The primary CTA does not exist — confirmed by Sana 2026-09-16.** The AI Readiness Assessment
+   is work in progress; only the AI Security Assessment is built. The site promotes AI readiness
+   sitewide with nothing behind it, which undercuts exactly the trust this positioning is built on.
+   Interim CTA: *"Book a Data & Infrastructure Review"* — human-delivered and deliverable today.
+   See Decisions §3.
 2. **One CTA for two buyers.** ICP 2 (Head of Data / CDO) will take a readiness score. ICP 5
    (platform builder) will not — they want an architecture review or a migration assessment. Add a
    second, lower-commitment path.
@@ -279,9 +307,9 @@ Capgemini, Cognizant, Deloitte Digital, Argano).
 
 | # | Item | Reason |
 |---|---|---|
-| 1 | **A second page competing with `/digital-engineering`** | Consolidate. See §1 |
+| 1 | **Overlap with `/digital-engineering`** | Resolved: coexist as hub + child, with the narrowing edits in §1. Do not ship until those edits land |
 | 2 | **Competing on the "digital transformation" head term** | Accenture, IBM, Deloitte, Capgemini and 10Pearls hold it. xLoop cannot win it, and the brief already admits there's no query signal. Win on AI-ready infrastructure, data modernisation and legacy modernisation instead |
-| 3 | **Card 4 (Legacy System Modernization) — unless the leaf page ships first** | The brief's own sequencing rule. It is also the single best keyword opportunity in the pillar, so build it rather than cut it |
+| 3 | ~~Card 4 (Legacy System Modernization)~~ — **confirmed scope, keep it** | Being built in the current revamp. Best keyword opportunity in the pillar. Sequencing rule stands: leaf live before the hub links to it |
 | 4 | **The blog cited as a proof item** | A framework post is not proof. Move it to a resources block |
 | 5 | **The 216-char meta and 88-char title** | Rewritten above |
 | 6 | **Any inherited unsourced percentage** from `/digital-engineering` | Graded E in the proof library |
@@ -297,9 +325,14 @@ the argument. The page just needs to structure it so a machine can quote it.
 
 ## Next steps
 
-- [ ] Decide: consolidate `/digital-engineering` into this pillar (301), or keep both — blocks everything else
-- [ ] Confirm whether Legacy System Modernization is real scope; if yes, build the leaf page before this page references it
-- [ ] Confirm whether the AI Readiness Assessment diagnostic actually exists (claim B4) before the primary CTA points at it
+- [x] ~~Decide: consolidate or keep both~~ — **coexist**, DE becomes a child of the DT cluster (§1)
+- [x] ~~Confirm Legacy System Modernization scope~~ — **confirmed**, being built in the revamp
+- [x] ~~Confirm the AI Readiness Assessment exists~~ — **it does not**; swap the primary CTA
+- [ ] Apply the five de-cannibalisation edits to `/digital-engineering` (§1) before the hub ships
+- [ ] Build `/services/legacy-system-modernization` and get it live before the hub links to it
+- [ ] Swap the primary CTA to "Book a Data & Infrastructure Review" until the diagnostic ships
+- [ ] Add real HTML text (or alt text) to the partner logo band — currently invisible to answer engines
+- [ ] Answer the two Microsoft Fabric questions (production workload? Solutions Partner designation?)
 - [ ] Dev: fix the doubled `| xLoop Digital | xLoop Digital` title suffix sitewide
 - [ ] Dev: canonical tags sitewide; single H1 per page; server-render the FAQ accordion
 - [ ] Re-run the Screaming Frog crawl — the Sept 2025 audit is stale, titles are no longer 100% duplicate
@@ -311,13 +344,45 @@ the argument. The page just needs to structure it so a machine can quote it.
 - [ ] Add engagement models, partner band, industry cuts, second CTA and one disqualifier
 - [ ] Fix the Web & App Development title/meta for CTR independently of this launch
 
-## Open questions with Sana (asked 2026-09-16, unanswered)
+## Decisions — answered by Sana 2026-09-16
 
-1. Consolidate `/digital-engineering` into this pillar via 301, or keep both?
-2. Is Legacy System Modernization real, sellable scope?
-3. Does the AI Readiness Assessment diagnostic actually exist yet (claim B4)?
-4. Microsoft Fabric — capability gap or marketing gap? Named as required buyer evidence in xLoop's
-   own ICP research, absent from the entire corpus. Affects FAQ Q4.
+1. **Cluster vs 301 — resolved.** Coexist. Digital Engineering becomes a service page inside the
+   Digital Transformation cluster. Full structure and the required de-cannibalisation edits in §1.
+2. **Legacy System Modernization — confirmed real scope.** Being built as part of the current site
+   revamp, as a service page in the DT cluster. Card 4 stays, FAQ Q3 publishes.
+   Sequencing rule stands: **leaf live before the hub links to it.**
+   - URL `/services/legacy-system-modernization`
+   - Title `Legacy System Modernization Services | xLoop` (44 chars)
+   - H1 `Legacy System Modernization`
+   - Targets: legacy system modernization · legacy application modernization services ·
+     mainframe/RPG migration · application modernization consulting
+   - Proof available: A14 (RPG applications to private cloud, minimal operational disruption)
+3. **AI Readiness Assessment — does not exist yet, work in progress.** The **AI Security
+   Assessment is built** and goes on the homepage and security pages. The rest of the site
+   currently promotes AI readiness with nothing behind it.
+   - **The DT pillar's primary CTA must change until it ships.** Interim: *"Book a Data &
+     Infrastructure Review"* — human-delivered, honest, converts ICP 2 better than a score.
+   - Alternative: ship a thin version (≈10 scored questions + human follow-up) before the revamp
+     goes live.
+   - **FAQ Q2's link stays gated** until the diagnostic exists (claim B4).
+
+## Still open
+
+4. **Microsoft Fabric.** The partner screenshot confirms the five A2 partnerships (Snowflake, AWS,
+   Microsoft, Databricks, Salesforce) but does not answer the Fabric question — "Microsoft Partner"
+   is a broad designation; Fabric is a specific product. Two narrow questions outstanding:
+   - Has anyone at xLoop delivered a **production Microsoft Fabric workload**?
+   - Does xLoop hold any **Microsoft Solutions Partner designation** (e.g. Data & AI on Azure),
+     or only base partner status?
+
+   If yes to either → marketing gap, add to FAQ Q4 and the Data Analytics page.
+   If no → leave Fabric out entirely. xLoop's own ICP research names it as evidence buyers check
+   for, which means they will check.
+
+5. **AEO defect found in the partner band.** The partner logos render as **images with no adjacent
+   HTML text** — an answer engine reading the page cannot see the partner names at all. Add real
+   HTML text alongside the band (alt text at minimum). The brain already makes "real HTML text,
+   never images" a sitewide rule; this is the highest-value place it is currently broken.
 
 ## Related
 

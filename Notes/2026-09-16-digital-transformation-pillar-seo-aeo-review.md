@@ -1,6 +1,6 @@
 ---
 date: 2026-09-16
-tags: [xloop, seo, aeo, pillar-page, digital-transformation, content-review]
+tags: [xloop, seo, aeo, pillar-page, digital-transformation, content-review, site-revamp]
 ---
 
 # Digital Transformation Pillar Page — SEO / AEO / Positioning Review

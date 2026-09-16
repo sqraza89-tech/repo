@@ -32,6 +32,10 @@ Workbook: `Notes/2026-09-16-genai-readiness-assessment-v2.xlsx` (9 tabs). It rep
 - UAE is crowded (Kudo, HEMOdata, Orange Club, Avanade); HEMOdata leads on GCC regulation
 - Accenture already uses a 2×2 in its research, so xLoop's axes must stay different (Build vs Safe does)
 
+## Related
+- [[2026-09-16-digital-transformation-pillar-seo-aeo-review]]: interim CTA and the confirmation that the tool doesn't exist yet
+- [[2026-09-01-xloop-marketing-brain-release-1]]: approved claims, ICPs, qualification framework
+
 ## Next steps
 - [ ] Practice leads confirm 4 entry offers: use-case prioritisation session, Data & Infrastructure Review, technical scoping call, production readiness review
 - [ ] Confirm an ISO 42001 Lead Auditor can take "Talk to a Lead Auditor" calls

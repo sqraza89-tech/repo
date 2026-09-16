@@ -239,10 +239,16 @@ to everything around it, which is what the assessment establishes first.
 
 ### Q4. Can you work with our existing cloud provider, or do you require a specific platform?
 
+*(Final — updated 2026-09-16 after the Fabric question resolved. Do not name Microsoft Fabric.)*
+
 We work with what you already have. xLoop's technology partners are AWS, Microsoft, Snowflake,
-Databricks and Salesforce, and delivery has spanned Snowflake medallion lakehouses on AWS, private
+Databricks and Salesforce. Delivered work spans Snowflake medallion lakehouses on AWS, private
 cloud migrations and real-time Power BI. Platform choice should follow your data residency,
 existing licences and team skills — not a vendor preference.
+
+Our deepest delivery history is Snowflake on AWS and Power BI reporting. If your stack sits
+elsewhere we'll say so at scoping rather than after — the architecture review establishes what we
+can take on directly and what needs a specialist alongside us.
 
 ### Q5. What's the difference between digital transformation and AI implementation?
 
@@ -332,7 +338,9 @@ the argument. The page just needs to structure it so a machine can quote it.
 - [ ] Build `/services/legacy-system-modernization` and get it live before the hub links to it
 - [ ] Swap the primary CTA to "Book a Data & Infrastructure Review" until the diagnostic ships
 - [ ] Add real HTML text (or alt text) to the partner logo band — currently invisible to answer engines
-- [ ] Answer the two Microsoft Fabric questions (production workload? Solutions Partner designation?)
+- [x] ~~Answer the two Microsoft Fabric questions~~ — **both no**; Fabric stays off the site (Decisions §4)
+- [ ] Put the Fabric position in the sales battlecard, not on any page
+- [ ] Raise the Fabric capability gap with the data practice owner — invest or formally deprioritise
 - [ ] Dev: fix the doubled `| xLoop Digital | xLoop Digital` title suffix sitewide
 - [ ] Dev: canonical tags sitewide; single H1 per page; server-render the FAQ accordion
 - [ ] Re-run the Screaming Frog crawl — the Sept 2025 audit is stale, titles are no longer 100% duplicate
@@ -366,23 +374,29 @@ the argument. The page just needs to structure it so a machine can quote it.
      goes live.
    - **FAQ Q2's link stays gated** until the diagnostic exists (claim B4).
 
+4. **Microsoft Fabric — resolved 2026-09-16.** Irfan Shaikh confirmed: **no Microsoft Solutions
+   Partner designation** ("definitely no"), and **no production Fabric implementation** ("I believe
+   we haven't... maybe something was done some time back, not sure" — not evidence, treat as no).
+   - **Do not name Fabric on the website.** Raising "Do you work with Microsoft Fabric?" as an FAQ
+     and answering it evasively volunteers a gap to a buyer who had not asked. Handle platform
+     questions inside FAQ Q4 instead (rewritten above).
+   - **The honest Fabric answer belongs in the sales battlecard, not the page:** *"We're a Microsoft
+     partner and work across the Azure data stack; we haven't run a production Fabric
+     implementation — we'll tell you at scoping which parts we can own."* Say it in a call; do not
+     publish a quotable sentence a competitor can lift.
+   - **Guardrail:** "Microsoft Partner" is accurate and live (claim A2). Nothing may imply a
+     **Solutions Partner designation** — that is verifiable by anyone who checks.
+   - **Strategic item, above the website:** this is a capability gap, not a marketing gap. xLoop's
+     own ICP research names Fabric as evidence buyers check for. Either invest in Fabric capability
+     plus the Data & AI designation, or accept losing Fabric-led deals and lean harder on
+     Snowflake, where the proof exists. Decision belongs to whoever owns the data practice.
+
 ## Still open
 
-4. **Microsoft Fabric.** The partner screenshot confirms the five A2 partnerships (Snowflake, AWS,
-   Microsoft, Databricks, Salesforce) but does not answer the Fabric question — "Microsoft Partner"
-   is a broad designation; Fabric is a specific product. Two narrow questions outstanding:
-   - Has anyone at xLoop delivered a **production Microsoft Fabric workload**?
-   - Does xLoop hold any **Microsoft Solutions Partner designation** (e.g. Data & AI on Azure),
-     or only base partner status?
-
-   If yes to either → marketing gap, add to FAQ Q4 and the Data Analytics page.
-   If no → leave Fabric out entirely. xLoop's own ICP research names it as evidence buyers check
-   for, which means they will check.
-
-5. **AEO defect found in the partner band.** The partner logos render as **images with no adjacent
-   HTML text** — an answer engine reading the page cannot see the partner names at all. Add real
-   HTML text alongside the band (alt text at minimum). The brain already makes "real HTML text,
-   never images" a sitewide rule; this is the highest-value place it is currently broken.
+5. **AEO defect in the partner band.** The partner logos render as **images with no adjacent HTML
+   text** — an answer engine reading the page cannot see the partner names at all. Add real HTML
+   text alongside the band (alt text at minimum). The brain already makes "real HTML text, never
+   images" a sitewide rule; this is the highest-value place it is currently broken.
 
 ## Related
 

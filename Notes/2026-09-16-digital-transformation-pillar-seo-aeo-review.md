@@ -239,16 +239,24 @@ to everything around it, which is what the assessment establishes first.
 
 ### Q4. Can you work with our existing cloud provider, or do you require a specific platform?
 
-*(Final — updated 2026-09-16 after the Fabric question resolved. Do not name Microsoft Fabric.)*
+*(Final — updated 2026-09-16 after Irfan's platform input. Do not name Microsoft Fabric.)*
 
-We work with what you already have. xLoop's technology partners are AWS, Microsoft, Snowflake,
-Databricks and Salesforce. Delivered work spans Snowflake medallion lakehouses on AWS, private
-cloud migrations and real-time Power BI. Platform choice should follow your data residency,
-existing licences and team skills — not a vendor preference.
+We work with what you already have, and we have a point of view. Our technology partners are AWS,
+Microsoft, Snowflake, Databricks and Salesforce, and our deepest delivery history is Snowflake and
+Databricks — including a medallion lakehouse migration off SAP onto Snowflake and AWS, feeding
+real-time Power BI.
 
-Our deepest delivery history is Snowflake on AWS and Power BI reporting. If your stack sits
-elsewhere we'll say so at scoping rather than after — the architecture review establishes what we
-can take on directly and what needs a specialist alongside us.
+The architecture matters more than the badge. Medallion layering, governance and pipeline design
+carry across the major lakehouse platforms; what changes is the ecosystem around them. We recommend
+the platform your data residency, existing licences and team skills actually support — and we tell
+you at scoping which parts we take on directly and where you would want a platform specialist
+alongside us.
+
+**Why this wording.** Irfan Shaikh, 2026-09-16: *"we push for snowflake or databricks for our
+client… fabric is Microsoft offering of the same… fundamentals for all are the same just go by
+different names and eco systems."* That makes "we're platform-agnostic" the weaker answer — a firm
+with a recommended stack and a portable architecture is a stronger position than one that claims
+to work with anything. It also answers the Fabric question honestly without naming Fabric.
 
 ### Q5. What's the difference between digital transformation and AI implementation?
 
@@ -397,6 +405,14 @@ the argument. The page just needs to structure it so a machine can quote it.
    text** — an answer engine reading the page cannot see the partner names at all. Add real HTML
    text alongside the band (alt text at minimum). The brain already makes "real HTML text, never
    images" a sitewide rule; this is the highest-value place it is currently broken.
+
+## Deliverable
+
+**`Notes/2026-09-16-digital-transformation-page-content-spec.docx`** — built 2026-09-16, sent to
+Sana for design and dev. Contains the full page copy (hero, definition block, five service cards,
+failure narrative, decision table, proof, partner band, engagement models, industries, nine FAQs,
+CTA band, disqualifier), the technical spec, internal linking, launch dependencies and a
+do-not-publish list. Final copy sits in blue-edged boxes; everything else is build instruction.
 
 ## Related
 

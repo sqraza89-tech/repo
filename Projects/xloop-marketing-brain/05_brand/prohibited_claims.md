@@ -113,9 +113,16 @@ Confirmed by Irfan Shaikh, 2026-09-16.
 Fabric is named in xLoop's own ICP research as evidence buyers check for, which makes it exactly
 the claim a buyer would test.
 
-**Handling platform questions publicly:** answer platform-agnostically — partners are AWS,
-Microsoft, Snowflake, Databricks and Salesforce; deepest delivery history is Snowflake on AWS and
-Power BI. The candid Fabric answer belongs in the **sales battlecard**, not on any page.
+**Handling platform questions publicly:** do not answer "we are platform-agnostic" — answer with a
+point of view. Per Irfan Shaikh (2026-09-16): xLoop pushes **Snowflake or Databricks**; Fabric is
+Microsofts equivalent offering; the fundamentals are the same across all three and only the names
+and ecosystems differ. So the approved public framing is: partners are AWS, Microsoft, Snowflake,
+Databricks and Salesforce; deepest delivery history is Snowflake and Databricks; the architecture
+(medallion layering, governance, pipeline design) is portable across the major lakehouse platforms;
+platform choice follows the clients data residency, licences and team skills.
+
+This is stronger than agnosticism and it answers the Fabric question without naming Fabric.
+The candid Fabric answer belongs in the **sales battlecard**, not on any page.
 
 This is a standing **capability** gap, not a marketing gap. Escalated to the data practice owner:
 invest in Fabric capability plus the designation, or formally deprioritise Fabric-led deals.

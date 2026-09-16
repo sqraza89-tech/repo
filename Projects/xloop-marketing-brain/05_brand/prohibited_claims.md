@@ -96,3 +96,28 @@ Level 2/3 publication and cited before use. Uncited, they fall under this sectio
 
 The test: *if a client's compliance officer, a regulator, or a journalist read this and asked for
 the evidence, could xLoop produce it within an hour?* If not, do not publish it.
+
+---
+
+## 9. Microsoft designations and Fabric — added 2026-09-16
+
+Confirmed by Irfan Shaikh, 2026-09-16.
+
+| ❌ Never say | ✅ Say instead |
+|---|---|
+| "Microsoft Solutions Partner" / "Solutions Partner for Data & AI (Azure)" | "Microsoft Partner" — base status only, as per claim A2 |
+| Any implication that xLoop has delivered **Microsoft Fabric** | Nothing. There is **no production Fabric implementation**. Do not name Fabric on the website at all |
+| "Fabric consulting" / "Fabric implementation" as a service | — |
+
+**Why this matters:** the designation is publicly verifiable on Microsoft's partner directory.
+Fabric is named in xLoop's own ICP research as evidence buyers check for, which makes it exactly
+the claim a buyer would test.
+
+**Handling platform questions publicly:** answer platform-agnostically — partners are AWS,
+Microsoft, Snowflake, Databricks and Salesforce; deepest delivery history is Snowflake on AWS and
+Power BI. The candid Fabric answer belongs in the **sales battlecard**, not on any page.
+
+This is a standing **capability** gap, not a marketing gap. Escalated to the data practice owner:
+invest in Fabric capability plus the designation, or formally deprioritise Fabric-led deals.
+
+Full context: `Notes/2026-09-16-digital-transformation-pillar-seo-aeo-review.md` §Decisions 4.

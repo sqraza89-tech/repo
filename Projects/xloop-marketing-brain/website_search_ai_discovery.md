@@ -189,3 +189,25 @@ and AI answer engines. Given the duplicate-title finding, this is worth a full r
 **Note on ordering:** items 1–5 are development work worth more than the next fifty blog posts.
 Publishing more content onto a site where every page shares a title is pouring water into a bucket
 with no bottom.
+
+---
+
+## ⚠️ Correction — 2026-09-16 (live check)
+
+The "page titles: duplicate, 32 URLs, 100%" finding above is **stale**. A live check on
+2026-09-16 found per-route titles now render (e.g. `Data Analytics Services | Business
+Intelligence & Predictive Insights | xLoop Digital`).
+
+**The live defect is different:** the template appends the site name to titles that already
+contain it, producing a doubled suffix on every page —
+`AI Consultancy Services | xLoop Digital | xLoop Digital` and
+`Web & App Development Services | Enterprise Applications | xLoop Digital | xLoop Digital`.
+This pushes real titles past the truncation point.
+
+Also confirmed live: `/services/data-analytics` and `/services/web-and-app-development` still
+have **no FAQ section**, and `/digital-engineering` does — and `/digital-engineering` already
+targets "digital transformation" in its own H2, which makes the drafted pillar page a
+cannibalisation risk.
+
+Re-run the crawl before acting on any other figure in §2.
+Full analysis: `Notes/2026-09-16-digital-transformation-pillar-seo-aeo-review.md`

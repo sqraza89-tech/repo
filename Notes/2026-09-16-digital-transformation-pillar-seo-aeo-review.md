@@ -310,3 +310,17 @@ the argument. The page just needs to structure it so a machine can quote it.
 - [ ] Pull Serefin and Cloud Titans testimonials and the A9/A10/A11/A14 case studies onto the page
 - [ ] Add engagement models, partner band, industry cuts, second CTA and one disqualifier
 - [ ] Fix the Web & App Development title/meta for CTR independently of this launch
+
+## Open questions with Sana (asked 2026-09-16, unanswered)
+
+1. Consolidate `/digital-engineering` into this pillar via 301, or keep both?
+2. Is Legacy System Modernization real, sellable scope?
+3. Does the AI Readiness Assessment diagnostic actually exist yet (claim B4)?
+4. Microsoft Fabric — capability gap or marketing gap? Named as required buyer evidence in xLoop's
+   own ICP research, absent from the entire corpus. Affects FAQ Q4.
+
+## Related
+
+- [[2026-09-01-xloop-marketing-brain-release-1]] — source of truth for claims and positioning
+- `Projects/xloop-marketing-brain/website_search_ai_discovery.md` — corrected 2026-09-16 with the
+  live title-suffix bug; its "100% duplicate titles" finding is stale

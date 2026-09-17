@@ -90,9 +90,11 @@ Do not publish any of these until resolved. Each is tracked in `positioning_conf
 | A24 | Has migrated PHP applications and delivered cloud-to-cloud migrations | Solutions architects, 2026-09-17. Capability statement only — no named case |
 
 ### P-10 (RPG → private cloud) — descriptor decision
-Sana believes the client was **Thyme Bank**; an engineer believes the platform was **IBM** (i.e. IBM i).
-**Neither confirmed.** Public descriptor stays **"a financial services firm"**. Never name the client;
-never state IBM i / AS/400 as the delivered platform.
+**Client confirmed by Sana 2026-09-17: SS&C** (she corrected an earlier "Thyme Bank" — project register row 14
+appears mislabelled). This matches the deck descriptor and register row 23 ("2nd case study in corp deck").
+An engineer believes the platform was **IBM** (i.e. IBM i) — **unconfirmed**. Public descriptor stays
+**"a financial services firm"**. **Never name SS&C** — no naming permission exists. Never state IBM i /
+AS/400 as the delivered platform.
 
 ### Legacy capability boundary — BLOCKED claims
 Per solutions architects (2026-09-17): **no delivery** on .NET Framework, Java EE, Oracle, COBOL,

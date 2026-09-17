@@ -20,7 +20,7 @@ Related: [[2026-09-16-digital-transformation-pillar-seo-aeo-review]] ·
 
 | Question | Answer (Sana, via delivery) | Change in the final spec |
 |---|---|---|
-| RPG client | Believed Thyme Bank; an engineer believes IBM. Neither confirmed; sales unresponsive | Descriptor stays "a financial services firm". IBM i / AS/400 not stated. RPG article dropped from cluster |
+| RPG client | **SS&C** (Sana corrected "Thyme Bank" later on 2026-09-17); an engineer believes IBM platform — unconfirmed | Descriptor stays "a financial services firm". IBM i / AS/400 not stated. RPG article dropped from cluster |
 | AWS ecommerce case | Approve for publication; "no downtime" is probably marketing language | Card published; outcome = "a foundation for scalable operations"; downtime wording banned |
 | Legacy stacks delivered | Architect 1: none of .NET / Java / Oracle / COBOL / VB6 / Azure — mostly simple cloud-to-cloud migrations and advisory. Architect 2: PHP migrations | **Capability is narrower than competitors claim.** From→To table limited to 4 delivered rows + a PHP and cloud-to-cloud line. Mainframe/COBOL named as *not a fit*. Paid-search negatives added. GCC core-banking angle removed |
 | AI tooling | Yes — Cursor and Claude | §3.8 kept and names the tools. New FAQ: "Will you use AI tools on our codebase?" Launch dependency: AI-use agreement at kickoff + confirm data controls |

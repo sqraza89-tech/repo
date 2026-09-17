@@ -64,7 +64,7 @@ Asia, the Middle East, Africa, Europe and North America."* True under every vers
 | Naming **Thames Water** or any client from `Projects xLoop.xlsx` not already public | Internal register. Public naming requires permission |
 | Naming any NEPRA target company as a prospect or client | The 87-row register is restricted personal and commercial data |
 | Naming **Meezan**, or any client appearing only in a demo video | No permission evidence found |
-| Naming Majid Al Futtaim, Standard Bank, ABSA, Lombard Insurance, SS&C, WeFi Tech | Internal pipeline entries, not confirmed clients |
+| Naming Majid Al Futtaim, Standard Bank, ABSA, Lombard Insurance, SS&C, WeFi Tech | Internal pipeline entries, not confirmed clients. **Update 2026-09-17:** SS&C *is* a delivered client (the RPG-to-private-cloud case, per Sana) — but there is still no naming permission. Anonymized use only |
 
 **Approved to name:** only clients with a live portfolio page, a live logo placement, or a signed
 testimonial — Alfalah Investments, Beythak, Eatsy, HBL Asset Management, Serefin, Skillforte,

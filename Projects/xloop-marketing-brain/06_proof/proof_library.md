@@ -196,9 +196,9 @@ for marketing effectiveness than any campaign.
 **P-10 descriptor conflict.** `Projects xLoop.xlsx` row 14 lists **Thyme Bank** as "RPG Applications
 to private cloud". This file describes the P-10 client as "a financial services firm specialising in
 asset management" (from Corporate Deck V10 slide 9). Row 23 (SS&C) is noted as "2nd case study in
-corp deck, right after Pick n Pay" — so the deck's RPG case may be a different engagement. **Until
-resolved, use only "a financial services firm"** — true under either reading. Never name either.
-Asked Sana 2026-09-17.
+corp deck, right after Pick n Pay" — so the deck's RPG case may be a different engagement. **RESOLVED 2026-09-17: the client is SS&C** (Sana; she first said Thyme Bank, then corrected it). The
+deck's RPG case and register row 23 are the same engagement; row 14 appears mislabelled. Public
+descriptor remains **"a financial services firm"**. Never name SS&C.
 
 **Candidate P-16 — single-server ecommerce to AWS (NOT YET APPROVED).** Source: `Case Studies for
 Inner Cards.docx` (Oct 2025): *"We helped an ecommerce brand modernize its infrastructure by

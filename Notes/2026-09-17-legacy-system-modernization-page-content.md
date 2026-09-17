@@ -7,7 +7,7 @@ tags: [xloop, seo, aeo, service-page, legacy-modernization, digital-transformati
 
 **URL:** `/services/legacy-system-modernization`
 **Cluster:** Digital Transformation (child of `/services/digital-transformation`)
-**Status:** Questions answered 2026-09-17. **Current build spec is `Notes/2026-09-17-legacy-system-modernization-page-spec-v1.1.docx`** (v1 superseded) — it supersedes the page copy in Part D below, which is kept as the v1 draft record.
+**Status:** Questions answered 2026-09-17. **Current build spec is `Notes/2026-09-17-legacy-system-modernization-page-spec-v1.2.docx`** (v1 and v1.1 superseded). Digital Transformation spec current version: **v2.2** — it supersedes the page copy in Part D below, which is kept as the v1 draft record.
 **Spelling:** US throughout (brand rule, `terminology.md` §9). "Legacy System Modernization" is the
 entity name — use it identically in title, H1, nav, schema and body.
 
@@ -57,6 +57,21 @@ xLoop's ICPs; goal is lead gen.
 
 **Method claims added in v1.1 for delivery review:** role card 1 (parallel pipelines until numbers
 reconcile), discovery outputs per role (incl. leadership readout), FAQ Q15.
+
+---
+
+### v1.2 — CTO corrections to case studies (2026-09-17)
+
+Source: xLoop CTO, relayed by Sana. **Overrides** the earlier solutions-architect answer that no COBOL or Java work had been delivered.
+
+| Case | CTO input | Change |
+|---|---|---|
+| SS&C (RPG) | RPG application modernization; COBOL migrated to Java **using AI** | Lead case card; COBOL→Java row in From→To; proof added to §3.8 AI section, FAQ Q3/Q8, role card 3. COBOL removed from not-a-fit and paid negatives; not-a-fit now "large mainframe replacement programs". *Assumption:* same engagement as the deck's RPG→private cloud case (register row 23) |
+| Pick n Pay | Data from SAP ERP, SAP BW, app databases; problem was **no unified view / competing sources of truth**, not delays or manual pulls; results **not real-time** — reporting, analysis, data science, AI from one source | Card, role card 1, FAQ Q15, From→To corrected. **Also fixed in DT spec (v2.2)** and in the brain: approved_claims A9, proof_library P-01, messaging.md, messaging_hierarchy.md |
+| Water utility | Correct factually; make it business- and impact-oriented | Rewritten: teams couldn't count on complete, timely data → root causes found and code re-engineered without replacing the platform → dependable data for decisions, more value from the existing platform |
+| IRD (new) | Complete migration & modernization, Java 8 → Java 19 | New card + From→To row, published as "a modern Java release" (Java 19 is non-LTS and out of support — a technical buyer would question it). Two content cards article 9 (COBOL→Java with AI) and 10 (Java 8 upgrade) added to the cluster |
+
+**Open:** IRD's industry descriptor (placeholder in the spec). Confirm whether the Java 19 platform has since moved to an LTS release (17/21) — if so, publish the number.
 
 ---
 
@@ -720,6 +735,7 @@ revamp should replace them with the RPG and AWS migration cases.
 - [x] ~~Get answers to the five questions~~ — answered 2026-09-17
 - [x] ~~Update draft and produce design/dev .docx~~ — `2026-09-17-legacy-system-modernization-page-spec.docx`
 - [ ] Assign triage-reply owner and internal response target
+- [ ] Confirm IRD industry descriptor for the Java 8 case card (placeholder in spec v1.2)
 - [ ] Seek SS&C permission to name them on the RPG-to-private-cloud case — would be the strongest proof on the page
 - [ ] Add AI-tool use agreement to engagement kickoff; confirm Cursor/Claude data controls for client code
 

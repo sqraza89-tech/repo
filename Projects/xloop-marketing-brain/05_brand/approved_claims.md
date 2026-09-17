@@ -22,12 +22,12 @@ Additions require the Head of Marketing plus, for delivery claims, the relevant 
 | A6 | NEPRA (Security of IT and OT) Regulations 2022, SRO 1708(I)/2022; major incidents reportable within **72 hours**; breaches reported **quarterly** | Gazette / source advisory letter |
 | A7 | Conducted VAPT across **200+ domains** for a healthcare platform; **25% of findings high-risk**; confirmed PII exposure remediated | Case study, anonymised |
 | A8 | Secured mobile banking applications, guiding the client toward **PCI-DSS and State Bank compliance** | Case study, anonymised |
-| A9 | Migrated an enterprise from SAP and fragmented databases to a **Snowflake medallion lakehouse on AWS**, enabling real-time Power BI | Case study, anonymised |
+| A9 | Consolidated data from SAP ERP, SAP BW and application databases into a **single Snowflake source of truth**, so reporting, data analysis, data science models and AI use cases run from one trusted source | Case study, anonymised. **Corrected by CTO 2026-09-17:** the problem was *no unified view / competing sources of truth*, not delays or manual pulls; the result is *not real-time*. ❌ "real-time Power BI" and "data pulled manually" are wrong — never use |
 | A10 | Scaled a national digital immunisation platform managing **over a billion health records** for **4,000+ frontline health workers** | Case study, anonymised |
 | A11 | Built a cross-border financial wellness platform scaling to **10,000+ users at 99.9% uptime** | Internal project register, anonymised |
 | A12 | Delivered an LLM-powered investment assistant that reads 40+ page fund reports for an asset management firm | Case study; client has a portfolio page |
 | A13 | Delivered a RAG-based video-transcription search system for a healthcare platform | Case study, anonymised |
-| A14 | Migrated legacy RPG applications to private cloud with minimal operational disruption | Case study, anonymised |
+| A14 | Modernized legacy RPG applications and **migrated COBOL code to Java using AI-assisted engineering**, moving to private cloud with minimal operational disruption | Case study, anonymised. Client: SS&C (never name). COBOL→Java with AI confirmed by CTO 2026-09-17 |
 | A15 | Named client testimonials: Skillforte, FitLynk, Beythak, Cloud Titans (John Waterhouse), Serefin | Testimonials document |
 | A16 | Publicly referenceable portfolio clients: Alfalah Investments, Beythak, Eatsy, HBL Asset Management | Live portfolio pages |
 | A17 | Publicly displayed client logos as currently on the site | Live site — *periodic re-confirmation recommended* |
@@ -96,8 +96,12 @@ An engineer believes the platform was **IBM** (i.e. IBM i) — **unconfirmed**. 
 **"a financial services firm"**. **Never name SS&C** — no naming permission exists. Never state IBM i /
 AS/400 as the delivered platform.
 
-### Legacy capability boundary — BLOCKED claims
-Per solutions architects (2026-09-17): **no delivery** on .NET Framework, Java EE, Oracle, COBOL,
-mainframe, VB6/Access, or Microsoft Azure as a migration target. One architect characterized legacy
-work as "simple cloud to cloud migrations and some advisory". **Do not publish any of these as
-capabilities.** Mainframe/COBOL conversion programs are stated publicly as **not a fit**.
+### Legacy capability boundary — BLOCKED claims (revised 2026-09-17 after CTO input)
+**The CTO overrides the earlier architect answer.** COBOL→Java (SS&C, AI-assisted) and Java 8→Java 19
+(IRD) **are delivered**. Still **no delivery evidence** for .NET Framework, Oracle, VB6/Access,
+mainframe, or Microsoft Azure as a migration target — do not publish these as capabilities.
+Public not-a-fit wording is now **"large mainframe replacement programs"** (COBOL removed).
+
+| # | Claim | Evidence / condition |
+|---|---|---|
+| A25 | Completed the migration and modernization of a platform from Java 8 to a modern Java release | CTO, 2026-09-17. Client: IRD — **never name; industry descriptor still unconfirmed**. ⚠️ Publish as "a modern Java release", not "Java 19" — 19 is a non-LTS release out of support, which a technical buyer would question |

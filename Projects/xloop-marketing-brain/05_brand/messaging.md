@@ -86,7 +86,7 @@ because they are the buyer speaking, not marketing.
 | Claim | Approved wording |
 |---|---|
 | Health platform scale | "We scaled a national digital immunisation platform managing over a billion health records for more than four thousand frontline health workers." |
-| Data migration | "We migrated an enterprise retailer from SAP and fragmented databases to a Snowflake medallion lakehouse on AWS, enabling real-time Power BI reporting from a single source." |
+| Data migration | "We brought an enterprise retailer's SAP ERP, SAP BW and application databases into a single Snowflake source of truth for reporting, analytics, data science and AI." *(corrected 2026-09-17 — not real-time)* |
 | Healthcare security | "We assessed a healthcare platform spanning 200+ domains and found 25% of issues to be high-risk, including confirmed PII exposure — then delivered a prioritised remediation plan." |
 | Banking security | "We secured a bank's customer and administrator mobile applications against reverse engineering, insecure APIs and data leakage, and guided them to PCI-DSS and State Bank compliance." |
 | Fintech scale | "We built a cross-border financial wellness platform that scaled past 10,000 users at 99.9% uptime." |

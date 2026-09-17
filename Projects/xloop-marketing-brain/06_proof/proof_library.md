@@ -23,10 +23,10 @@ available.
 |---|---|
 | Client | **Anonymised** — "a leading South African retailer" |
 | Industry | Retail | **Geography** South Africa |
-| Problem | Data manually pulled from SAP and disparate databases; delays caused inaccurate Power BI reporting and poor decisions |
+| Problem | **Corrected 2026-09-17 (CTO):** data spread across SAP ERP, SAP BW and application databases with no unified view — several competing sources of truth. (Earlier "manually pulled / delays" wording was wrong) |
 | Intervention | Centralised data warehouse on Snowflake using medallion architecture; migration from traditional databases to a cloud lakehouse on Snowflake and AWS; end-to-end pipeline optimisation |
 | Technology | Snowflake, AWS, Power BI, medallion architecture |
-| Outcome | Real-time Power BI dashboards from a single source of truth |
+| Outcome | **Corrected 2026-09-17 (CTO):** a single source of truth driving reporting, data analysis, data science models and AI use cases. **Not real-time** |
 | Measured result | None stated | **Evidence** C | **Source** Corporate Deck V10 slide 8 |
 | Public use | ✅ Anonymised as written |
 
@@ -112,7 +112,7 @@ available.
 | Client | **Anonymised** — "a water utility company" ⚠️ **do not name** |
 | Industry | Government & utilities |
 | Intervention | Root-cause analysis and performance tuning of PySpark, SQL and stored procedures; curated dataset delivery |
-| Outcome | Improved data efficiency and low latency; reliable datasets for operational monitoring |
+| Outcome | Improved data efficiency and low latency; reliable datasets for operational monitoring. **Business framing for decision-makers (approved style, 2026-09-17):** operations teams couldn't count on complete, timely data; xLoop traced the slowdowns to root causes in the existing pipeline code and re-engineered it without replacing the platform — faster, dependable data for monitoring and decisions, and more value from the platform the utility already owned |
 | Measured result | An internal card claims "**boost efficiency by 30%**" — `EVIDENCE REQUIRED` |
 | Evidence | C (narrative) / E (the 30%) | **Source** Corporate Deck V10 slide 13 |
 | Public use | ✅ Narrative. ❌ The 30% figure |
@@ -122,7 +122,7 @@ available.
 |---|---|
 | Client | **Anonymised** — "a financial services firm specialising in asset management" |
 | Problem | Legacy on-premise infrastructure: limited scalability, high maintenance cost, security exposure |
-| Intervention | Migrated RPG applications and data to a private cloud platform with minimal operational disruption |
+| Intervention | Modernized RPG applications; **migrated COBOL code to Java using AI** (CTO, 2026-09-17); moved applications and data to private cloud with minimal operational disruption |
 | Evidence | C | **Source** Corporate Deck V10 slide 9 |
 | Public use | ✅ Anonymised |
 

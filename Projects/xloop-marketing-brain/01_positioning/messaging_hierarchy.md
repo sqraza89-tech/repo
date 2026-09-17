@@ -78,7 +78,7 @@ Each offer needs five fields. Filled here where evidence exists; marked where it
 | NEPRA IT/OT Compliance Audit | Statutory obligation under NEPRA Regs 2022, with ISMO inspections active | Power-sector licensee CEO/CTO | 30 MW wind IPP, head office + two plant sites | Scoping call → audit |
 | AI Security Audit | "Our teams deployed AI faster than security could evaluate it" | CISO / Head of Risk | AI red team achieved 87% success in controlled model-takeover on a production CV system `EVIDENCE REQUIRED` on permission | Assessment → remediation |
 | AI Red Teaming | "We don't know if our model can be manipulated" | CISO / Head of AI | Prompt-injection detection in a live LLM; jailbreak remediation on a 10,000-user chatbot | Engagement |
-| Data platform modernisation | "Nobody trusts our reports and AI makes it worse" | Head of Data / CDO | Snowflake lakehouse migration off SAP, real-time Power BI | Architecture review |
+| Data platform modernisation | "Nobody trusts our reports and AI makes it worse" | Head of Data / CDO | Single Snowflake source of truth from SAP ERP, SAP BW and app databases *(corrected 2026-09-17 — not real-time)* | Architecture review |
 | xVision | Branch/site operations run blind on CCTV nobody watches | Retail/bank ops director | `EVIDENCE REQUIRED` — two conflicting stat sets, must be resolved | Pilot at one site |
 | xServe | Order errors and peak-hour queueing in QSR | QSR operations director | Saudi fast-food chain deployment `EVIDENCE REQUIRED` on the 45%/78% figures | Pilot |
 | HR App Pilot | HR drowning in policy Q&A, leave, letters and tickets | CHRO / Head of HR Ops | Odoo-integrated deployment; `EVIDENCE REQUIRED` on outcomes | Pilot |

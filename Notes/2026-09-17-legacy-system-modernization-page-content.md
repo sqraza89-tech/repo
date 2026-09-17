@@ -698,6 +698,7 @@ revamp should replace them with the RPG and AWS migration cases.
 - [x] ~~Get answers to the five questions~~ — answered 2026-09-17
 - [x] ~~Update draft and produce design/dev .docx~~ — `2026-09-17-legacy-system-modernization-page-spec.docx`
 - [ ] Assign triage-reply owner and internal response target
+- [ ] Seek SS&C permission to name them on the RPG-to-private-cloud case — would be the strongest proof on the page
 - [ ] Add AI-tool use agreement to engagement kickoff; confirm Cursor/Claude data controls for client code
 
 - [ ] Delivery lead reviews method claims in sections 7 and 12

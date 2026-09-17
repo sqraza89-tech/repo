@@ -216,3 +216,10 @@ Full analysis: `Notes/2026-09-16-digital-transformation-pillar-seo-aeo-review.md
 **prohibited statistics** — xVision 99.7% / $50M recalls, Meta Human 40% / 60%, xServe 45% / 78%,
 Canadian health platform 80% search-time reduction — and none of the four are cloud cases. Replace
 during the revamp with the RPG-to-private-cloud and single-server-to-AWS migration cases.
+
+**Added 2026-09-17 — blog claims audit (8 of 61 posts read, legacy-modernization relevant):**
+- `/insights/blogs/enterprise-Data-Transformation-Building-Future-Proof-AI-Driven-Strategies` publishes an **unsourced xLoop client outcome** — a retail client able to "predict seasonal demand with over 90% accuracy, significantly reducing inventory costs". Not on approved_claims; conflicts with the CTO-corrected retailer case (A9). Also a **mixed-case URL** — move to lowercase with a 301.
+- `/insights/blogs/common-data-challenges-in-ai-projects`: unsourced "20–30% better model performance" and "cut costs by 50% or more".
+- `/insights/blogs/ai-led-data-migration-reduce-carbon-footprint`: three unsourced statistics, including a third party's (HCLTech) results.
+- Sitewide boilerplate says xLoop serves **"Fortune 500s"** — not an approved claim; needs evidence or removal.
+- The other 53 posts were not audited.

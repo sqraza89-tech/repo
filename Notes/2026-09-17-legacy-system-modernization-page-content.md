@@ -7,7 +7,7 @@ tags: [xloop, seo, aeo, service-page, legacy-modernization, digital-transformati
 
 **URL:** `/services/legacy-system-modernization`
 **Cluster:** Digital Transformation (child of `/services/digital-transformation`)
-**Status:** Questions answered 2026-09-17. **Current build spec is `Notes/2026-09-17-legacy-system-modernization-page-spec-v1.3.docx`** (v1–v1.2 superseded). Digital Transformation spec current version: **v2.2** — it supersedes the page copy in Part D below, which is kept as the v1 draft record.
+**Status:** Questions answered 2026-09-17. **Current build spec is `Notes/2026-09-17-legacy-system-modernization-page-spec-v1.4.docx`** (v1–v1.3 superseded). Digital Transformation spec current version: **v2.2** — it supersedes the page copy in Part D below, which is kept as the v1 draft record.
 **Spelling:** US throughout (brand rule, `terminology.md` §9). "Legacy System Modernization" is the
 entity name — use it identically in title, H1, nav, schema and body.
 
@@ -74,6 +74,27 @@ Source: xLoop CTO, relayed by Sana. **Overrides** the earlier solutions-architec
 **v1.3 (2026-09-17):** IRD is the immunization NGO behind proof P-02/A10 (Sana). The Java 8 card is now "A national immunization platform, from Java 8 to modern Java" — one of Pakistan's leading NGOs; over a billion immunization records; 4,000+ frontline health workers; healthcare (non-profit). WHO association (Sana's belief) unconfirmed — banned. "Real-time analytics" from old deck copy banned. *Assumption:* the Java migration was the immunization platform itself.
 
 **Open:** Confirm whether the Java 19 platform has since moved to an LTS release (17/21) — if so, publish the number.
+
+---
+
+### v1.4 — existing articles audit (2026-09-17)
+
+Sana asked which proposed cluster articles already exist. **None of the 10 proposed titles exist.** The sitemap has 61 blog URLs; 8 overlap and were read in full.
+
+| Live article | Verdict | Why |
+|---|---|---|
+| the-role-of-generative-ai-in-accelerating-legacy-system-modernization (Jul 2025) | **Link now** | Directly on topic; one stat, sourced. Only third-party stories (Khan Academy, Citi) — refresh with xLoop's COBOL→Java case |
+| why-enterprise-ai-projects-stall (Dec 2025) | **Link now** | Headline stats sourced; ranks #1 with 0 clicks. Some illustrative example numbers unsourced — low-priority cleanup |
+| building-scalable-ai-infrastructure-real-world-lessons (Dec 2025) | **Link now** | Mostly sourced; has a legacy vs AI-first infrastructure section. Two unsourced ("over $50 billion", "60% project failures from data silos") |
+| why-data-quality-is-the-real-backbone-of-ai-success (Nov 2025) | **Link now** | Well sourced; no xLoop claims |
+| the-unheard-benefits-of-cloud-migration-for-your-business (Feb 2025) | **Link now** | Sourced (Forbes, TechTarget, Accenture) |
+| enterprise-Data-Transformation-Building-Future-Proof-AI-Driven-Strategies (Jul 2025) | **Fix first** | Unsourced xLoop client claim: retail client "predict seasonal demand with over 90% accuracy, significantly reducing inventory costs" — conflicts with CTO's retailer case. "90% of organizations" unsourced. Mixed-case URL |
+| common-data-challenges-in-ai-projects (Sep 2025) | **Fix first** | Unsourced "20–30% better model performance" and "cut costs by 50% or more" |
+| ai-led-data-migration-reduce-carbon-footprint (Nov 2024) | **Don't link** | Off-angle; three unsourced stats incl. HCLTech's results |
+
+**Cannibalization rule applied:** proposed "What AI can and can't do" and "many sources of truth to one" dropped as new articles — they become refreshes of the generative AI and enterprise data transformation posts. New-article list is now 8, renumbered 1–8 (the v1.3 table was out of order).
+
+**Side finding:** sitewide footer/author boilerplate says xLoop serves "Fortune 500s" — not on the approved claims list.
 
 ---
 
@@ -738,6 +759,10 @@ revamp should replace them with the RPG and AWS migration cases.
 - [x] ~~Update draft and produce design/dev .docx~~ — `2026-09-17-legacy-system-modernization-page-spec.docx`
 - [ ] Assign triage-reply owner and internal response target
 - [x] ~~Confirm IRD industry descriptor~~ — immunization NGO (healthcare, non-profit); merged in v1.3
+- [ ] Fix enterprise-Data-Transformation blog: remove 90% retail claim, source/remove 90% of orgs, lowercase URL + 301
+- [ ] Fix common-data-challenges blog: source or remove the two unsourced stats
+- [ ] Add links back to the Legacy page from the five link-now articles
+- [ ] Refresh the generative AI legacy modernization blog with the anonymized COBOL-to-Java case
 - [ ] Seek SS&C permission to name them on the RPG-to-private-cloud case — would be the strongest proof on the page
 - [ ] Add AI-tool use agreement to engagement kickoff; confirm Cursor/Claude data controls for client code
 

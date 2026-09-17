@@ -104,4 +104,4 @@ Public not-a-fit wording is now **"large mainframe replacement programs"** (COBO
 
 | # | Claim | Evidence / condition |
 |---|---|---|
-| A25 | Completed the migration and modernization of a platform from Java 8 to a modern Java release | CTO, 2026-09-17. Client: IRD — **never name; industry descriptor still unconfirmed**. ⚠️ Publish as "a modern Java release", not "Java 19" — 19 is a non-LTS release out of support, which a technical buyer would question |
+| A25 | Completed the migration and modernization of a platform from Java 8 to a modern Java release | CTO, 2026-09-17. Client: IRD — **never name**. **Resolved 2026-09-17 (Sana): IRD is the P-02 / A10 immunization NGO**, so this is the national immunization platform. Public descriptor: "one of Pakistan's leading NGOs"; industry healthcare (non-profit). Pair with A10 (over a billion records, 4,000+ health workers). ⚠️ Publish as "a modern Java release", not "Java 19" — 19 is a non-LTS release out of support, which a technical buyer would question |

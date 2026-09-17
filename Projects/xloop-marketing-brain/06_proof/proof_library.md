@@ -33,10 +33,10 @@ available.
 ## P-02 · National immunisation platform at scale
 | Field | Value |
 |---|---|
-| Client | **Anonymised** — "one of Pakistan's leading NGOs" |
+| Client | **Anonymised** — "one of Pakistan's leading NGOs". Internal: **IRD** (confirmed by Sana 2026-09-17). Sana believes the drive ran in association with **WHO — unconfirmed; never publish** (implies endorsement) |
 | Industry | Healthcare / non-profit | **Geography** Pakistan |
 | Problem | Scaling a digital health platform for frontline health workers in zero-connectivity regions, across multiple geographies |
-| Intervention | Scaled the immunisation platform; optimised real-time analytics; scaled data infrastructure |
+| Intervention | Scaled the immunisation platform; **completed the migration and modernization from Java 8 to Java 19** (CTO, 2026-09-17 — publish as "a modern Java release"); scaled data infrastructure. ⚠️ "optimised real-time analytics" is deck wording, **unverified** — do not publish (the same "real-time" wording proved wrong on P-01) |
 | Technology | Java, DevOps, database administration |
 | Measured result | **Over a billion immunisation records** managed and secured; **4,000+ frontline health workers** supported |
 | Evidence | C — strongest scale claim xLoop has | **Source** Corporate Deck V10 slide 16 |

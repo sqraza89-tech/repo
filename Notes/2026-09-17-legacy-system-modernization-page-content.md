@@ -7,7 +7,7 @@ tags: [xloop, seo, aeo, service-page, legacy-modernization, digital-transformati
 
 **URL:** `/services/legacy-system-modernization`
 **Cluster:** Digital Transformation (child of `/services/digital-transformation`)
-**Status:** Questions answered 2026-09-17. **Current build spec is `Notes/2026-09-17-legacy-system-modernization-page-spec-v1.2.docx`** (v1 and v1.1 superseded). Digital Transformation spec current version: **v2.2** — it supersedes the page copy in Part D below, which is kept as the v1 draft record.
+**Status:** Questions answered 2026-09-17. **Current build spec is `Notes/2026-09-17-legacy-system-modernization-page-spec-v1.3.docx`** (v1–v1.2 superseded). Digital Transformation spec current version: **v2.2** — it supersedes the page copy in Part D below, which is kept as the v1 draft record.
 **Spelling:** US throughout (brand rule, `terminology.md` §9). "Legacy System Modernization" is the
 entity name — use it identically in title, H1, nav, schema and body.
 
@@ -71,7 +71,9 @@ Source: xLoop CTO, relayed by Sana. **Overrides** the earlier solutions-architec
 | Water utility | Correct factually; make it business- and impact-oriented | Rewritten: teams couldn't count on complete, timely data → root causes found and code re-engineered without replacing the platform → dependable data for decisions, more value from the existing platform |
 | IRD (new) | Complete migration & modernization, Java 8 → Java 19 | New card + From→To row, published as "a modern Java release" (Java 19 is non-LTS and out of support — a technical buyer would question it). Two content cards article 9 (COBOL→Java with AI) and 10 (Java 8 upgrade) added to the cluster |
 
-**Open:** IRD's industry descriptor (placeholder in the spec). Confirm whether the Java 19 platform has since moved to an LTS release (17/21) — if so, publish the number.
+**v1.3 (2026-09-17):** IRD is the immunization NGO behind proof P-02/A10 (Sana). The Java 8 card is now "A national immunization platform, from Java 8 to modern Java" — one of Pakistan's leading NGOs; over a billion immunization records; 4,000+ frontline health workers; healthcare (non-profit). WHO association (Sana's belief) unconfirmed — banned. "Real-time analytics" from old deck copy banned. *Assumption:* the Java migration was the immunization platform itself.
+
+**Open:** Confirm whether the Java 19 platform has since moved to an LTS release (17/21) — if so, publish the number.
 
 ---
 
@@ -735,7 +737,7 @@ revamp should replace them with the RPG and AWS migration cases.
 - [x] ~~Get answers to the five questions~~ — answered 2026-09-17
 - [x] ~~Update draft and produce design/dev .docx~~ — `2026-09-17-legacy-system-modernization-page-spec.docx`
 - [ ] Assign triage-reply owner and internal response target
-- [ ] Confirm IRD industry descriptor for the Java 8 case card (placeholder in spec v1.2)
+- [x] ~~Confirm IRD industry descriptor~~ — immunization NGO (healthcare, non-profit); merged in v1.3
 - [ ] Seek SS&C permission to name them on the RPG-to-private-cloud case — would be the strongest proof on the page
 - [ ] Add AI-tool use agreement to engagement kickoff; confirm Cursor/Claude data controls for client code
 

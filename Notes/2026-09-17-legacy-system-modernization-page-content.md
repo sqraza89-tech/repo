@@ -7,7 +7,7 @@ tags: [xloop, seo, aeo, service-page, legacy-modernization, digital-transformati
 
 **URL:** `/services/legacy-system-modernization`
 **Cluster:** Digital Transformation (child of `/services/digital-transformation`)
-**Status:** Questions answered 2026-09-17. **Final build spec is `Notes/2026-09-17-legacy-system-modernization-page-spec.docx`** — it supersedes the page copy in Part D below, which is kept as the v1 draft record.
+**Status:** Questions answered 2026-09-17. **Current build spec is `Notes/2026-09-17-legacy-system-modernization-page-spec-v1.1.docx`** (v1 superseded) — it supersedes the page copy in Part D below, which is kept as the v1 draft record.
 **Spelling:** US throughout (brand rule, `terminology.md` §9). "Legacy System Modernization" is the
 entity name — use it identically in title, H1, nav, schema and body.
 
@@ -35,6 +35,28 @@ competes on discovery-led candor and the AI-readiness argument — not on breadt
 ### New pipeline risk
 Sales responsiveness is low. The triage form promises a solutions-architect reply — without a named
 owner it will generate dead leads. Launch dependency #1 in the spec.
+
+---
+
+### v1.1 — ICP-targeted revision (2026-09-17, Sana's feedback)
+
+**Feedback:** H1 "Legacy System Modernization Without the Big-Bang Rebuild" read as gimmicky. Write for
+xLoop's ICPs; goal is lead gen.
+
+| Change | Detail |
+|---|---|
+| H1 | **Legacy System Modernization for Data, Cloud and AI** — exact search term + what the buyer is fixing; no wordplay |
+| Subhead | Opens with ICP-research symptoms: reports that don't match, integrations that take months, AI pilots stalling at the data |
+| Meta | Drops "big-bang"; names data, technology and engineering leaders |
+| Role cards (new, below hero) | Card 1 Heads of Data/CDOs (ICP 2, primary) · Card 2 CIOs/CTOs/transformation leads (ICP 1) · Card 3 Engineering/platform leaders (ICP 5). Each: headline in their words, problem, what we do + matched proof, CTA carrying a hidden role tag |
+| Discovery per role (new) | What each role leaves the two-week discovery with — the conversion point, in each buyer's terms. Adds a leadership readout for ICP 1 |
+| FAQ | +Q14 business case (ICP 1) · +Q15 migrating data sources without breaking reports (ICP 2) |
+| Forms and routing | Company size field added; routing by size + role + trigger + timeline; under 50 employees → nurture |
+| Content cluster | Each article tagged to a buyer; "Six signs" replaced with a business-case article; new article on migrating data sources without breaking reports |
+| Tone | Removed "weekend of hoping", "moved by Friday", "the conversion is the easier half", "the option most vendors won't mention", "no big-bang cutover" |
+
+**Method claims added in v1.1 for delivery review:** role card 1 (parallel pipelines until numbers
+reconcile), discovery outputs per role (incl. leadership readout), FAQ Q15.
 
 ---
 

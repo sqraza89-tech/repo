@@ -416,6 +416,8 @@ do-not-publish list. Final copy sits in blue-edged boxes; everything else is bui
 
 **v2.1 issued 2026-09-17:** `Notes/2026-09-16-digital-transformation-page-content-spec-v2.1.docx` — identical content, corrected to US spelling (brand rule, `terminology.md` §9). The v2 file used British spelling in page copy and should not be sent onward.
 
+**v2.2 issued 2026-09-17:** `Notes/2026-09-16-digital-transformation-page-content-spec-v2.2.docx` — CTO corrections: retailer case is a single Snowflake source of truth from SAP ERP, SAP BW and app databases (**not real-time**, problem was no unified view); legacy proof now includes COBOL-to-Java with AI. v2.1 must not be sent onward.
+
 Next page in the cluster: [[2026-09-17-legacy-system-modernization-page-content]]
 
 ## Related

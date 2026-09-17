@@ -211,3 +211,8 @@ cannibalisation risk.
 
 Re-run the crawl before acting on any other figure in §2.
 Full analysis: `Notes/2026-09-16-digital-transformation-pillar-seo-aeo-review.md`
+
+**Added 2026-09-17:** the live `/services/cloud-and-hyperscaling` page shows four case cards with
+**prohibited statistics** — xVision 99.7% / $50M recalls, Meta Human 40% / 60%, xServe 45% / 78%,
+Canadian health platform 80% search-time reduction — and none of the four are cloud cases. Replace
+during the revamp with the RPG-to-private-cloud and single-server-to-AWS migration cases.

@@ -188,3 +188,26 @@ RTW (AI in ERP for supply chains) · Itiner Digital · Optimaze (Europe) · Brid
 **Recommended first action:** obtain client permission for **two** references — one AI security
 (the red-team engagement) and one applied AI. Even anonymised-but-specific, these would do more
 for marketing effectiveness than any campaign.
+
+---
+
+## Proof flags — added 2026-09-17 (Legacy System Modernization page work)
+
+**P-10 descriptor conflict.** `Projects xLoop.xlsx` row 14 lists **Thyme Bank** as "RPG Applications
+to private cloud". This file describes the P-10 client as "a financial services firm specialising in
+asset management" (from Corporate Deck V10 slide 9). Row 23 (SS&C) is noted as "2nd case study in
+corp deck, right after Pick n Pay" — so the deck's RPG case may be a different engagement. **Until
+resolved, use only "a financial services firm"** — true under either reading. Never name either.
+Asked Sana 2026-09-17.
+
+**Candidate P-16 — single-server ecommerce to AWS (NOT YET APPROVED).** Source: `Case Studies for
+Inner Cards.docx` (Oct 2025): *"We helped an ecommerce brand modernize its infrastructure by
+migrating from a legacy single-server setup to AWS. By decoupling application layers and updating
+the codebase, we ensured uninterrupted performance and laid the foundation for scalable
+operations."* Referenced in `icp_by_service.md` as "AWS ecommerce migration". Anonymized, evidence
+class C. **Not on approved_claims.md.** "Uninterrupted performance" / "eliminates downtime" is an
+outcome claim needing confirmation. Asked Sana 2026-09-17.
+
+**Cloud Titans testimonial scope.** A15 covers "core application modernization and SIEM migration
+with compliance standardization" — the only *named* modernization proof xLoop has. Use it on the
+Legacy System Modernization page.

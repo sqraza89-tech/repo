@@ -77,3 +77,25 @@ Do not publish any of these until resolved. Each is tracked in `positioning_conf
 6. Add it here with a date.
 
 **A claim published without going through this list is a governance failure, not a style choice.**
+
+---
+
+## Additions — 2026-09-17 (Sana, via delivery team; Legacy System Modernization page)
+
+| # | Claim | Evidence / condition |
+|---|---|---|
+| A21 | Migrated an ecommerce brand from a legacy single-server setup to AWS, decoupling the application layers and updating the codebase, as a foundation for scalable operations | `Case Studies for Inner Cards.docx`; **approved for publication by Sana 2026-09-17**. Anonymized. ❌ "uninterrupted performance" / "eliminates downtime" **rejected** — Sana: likely marketing language |
+| A22 | Our engineers use AI coding assistants, including Cursor and Claude, on modernization work; every AI-assisted change is reviewed and tested by an engineer | Confirmed by Sana 2026-09-17. ⚠️ Any promise that AI-tool use is **agreed with the client first** requires that step to exist in engagement kickoff. No partnership with Anthropic or Cursor may be implied |
+| A23 | Legacy modernization engagements start with a **two-week discovery**, followed by planning and phased implementation | Delivery input, 2026-09-17. No per-phase pricing or estimate commitment confirmed — do not publish one |
+| A24 | Has migrated PHP applications and delivered cloud-to-cloud migrations | Solutions architects, 2026-09-17. Capability statement only — no named case |
+
+### P-10 (RPG → private cloud) — descriptor decision
+Sana believes the client was **Thyme Bank**; an engineer believes the platform was **IBM** (i.e. IBM i).
+**Neither confirmed.** Public descriptor stays **"a financial services firm"**. Never name the client;
+never state IBM i / AS/400 as the delivered platform.
+
+### Legacy capability boundary — BLOCKED claims
+Per solutions architects (2026-09-17): **no delivery** on .NET Framework, Java EE, Oracle, COBOL,
+mainframe, VB6/Access, or Microsoft Azure as a migration target. One architect characterized legacy
+work as "simple cloud to cloud migrations and some advisory". **Do not publish any of these as
+capabilities.** Mainframe/COBOL conversion programs are stated publicly as **not a fit**.

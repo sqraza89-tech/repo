@@ -7,13 +7,34 @@ tags: [xloop, seo, aeo, service-page, legacy-modernization, digital-transformati
 
 **URL:** `/services/legacy-system-modernization`
 **Cluster:** Digital Transformation (child of `/services/digital-transformation`)
-**Status:** Draft. Five items marked **[CONFIRM]** need delivery sign-off before build — see
-"Questions" at the end. Everything unmarked is checked against `approved_claims.md`.
+**Status:** Questions answered 2026-09-17. **Final build spec is `Notes/2026-09-17-legacy-system-modernization-page-spec.docx`** — it supersedes the page copy in Part D below, which is kept as the v1 draft record.
 **Spelling:** US throughout (brand rule, `terminology.md` §9). "Legacy System Modernization" is the
 entity name — use it identically in title, H1, nav, schema and body.
 
 Related: [[2026-09-16-digital-transformation-pillar-seo-aeo-review]] ·
 [[2026-09-01-xloop-marketing-brain-release-1]]
+
+---
+
+## Resolved 2026-09-17 — answers and what changed
+
+| Question | Answer (Sana, via delivery) | Change in the final spec |
+|---|---|---|
+| RPG client | Believed Thyme Bank; an engineer believes IBM. Neither confirmed; sales unresponsive | Descriptor stays "a financial services firm". IBM i / AS/400 not stated. RPG article dropped from cluster |
+| AWS ecommerce case | Approve for publication; "no downtime" is probably marketing language | Card published; outcome = "a foundation for scalable operations"; downtime wording banned |
+| Legacy stacks delivered | Architect 1: none of .NET / Java / Oracle / COBOL / VB6 / Azure — mostly simple cloud-to-cloud migrations and advisory. Architect 2: PHP migrations | **Capability is narrower than competitors claim.** From→To table limited to 4 delivered rows + a PHP and cloud-to-cloud line. Mainframe/COBOL named as *not a fit*. Paid-search negatives added. GCC core-banking angle removed |
+| AI tooling | Yes — Cursor and Claude | §3.8 kept and names the tools. New FAQ: "Will you use AI tools on our codebase?" Launch dependency: AI-use agreement at kickoff + confirm data controls |
+| Delivery commitments | Initial 2-week discovery, then planning and implementation | Primary CTA = "Book a 2-Week Legacy Discovery". Process rebuilt as Discovery → Planning → Implementation (prove, then phase) → Handover. Per-phase estimate claim removed. Triage reply has no SLA; needs a named owner |
+
+### Strategic correction to Part B
+The v1 draft said GCC financial-services modernization pressure aligns with xLoop's Priority 1 industry.
+Given delivered capability, that angle points at core-banking and mainframe programs xLoop cannot serve.
+**Withdrawn.** The page targets mid-market application, infrastructure and data modernization, and
+competes on discovery-led candor and the AI-readiness argument — not on breadth of stacks.
+
+### New pipeline risk
+Sales responsiveness is low. The triage form promises a solutions-architect reply — without a named
+owner it will generate dead leads. Launch dependency #1 in the spec.
 
 ---
 
@@ -674,9 +695,12 @@ revamp should replace them with the RPG and AWS migration cases.
 
 ## Next steps
 
-- [ ] Get answers to the five questions above (delivery lead / Irfan)
+- [x] ~~Get answers to the five questions~~ — answered 2026-09-17
+- [x] ~~Update draft and produce design/dev .docx~~ — `2026-09-17-legacy-system-modernization-page-spec.docx`
+- [ ] Assign triage-reply owner and internal response target
+- [ ] Add AI-tool use agreement to engagement kickoff; confirm Cursor/Claude data controls for client code
+
 - [ ] Delivery lead reviews method claims in sections 7 and 12
-- [ ] Update draft, remove all [CONFIRM] markers, produce design/dev .docx
 - [ ] Build the Decision Guide PDF from sections 4, 5, 6 and 11
 - [ ] Set up triage form routing rule in CRM
 - [ ] Publish this page **before** the Digital Transformation hub links to it

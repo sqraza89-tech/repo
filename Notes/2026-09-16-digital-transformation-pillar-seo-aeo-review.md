@@ -27,7 +27,7 @@ software.
 
 **The distinction is sound but the live page does not reflect it.** `/digital-engineering` today
 carries Data & Analytics, Cloud Services and AI & ML cards, plus the H2 "Facing Digital
-Transformation Challenges?" — i.e. the whole umbrella. Narrow it, or the cannibalisation survives
+Transformation Challenges?" — i.e. the whole umbrella. Narrow it, or the cannibalization survives
 the reshuffle.
 
 The split that holds is **buyer**, not topic:
@@ -37,7 +37,7 @@ The split that holds is **buyer**, not topic:
 | Role | Cluster hub | Service page inside the cluster |
 | Buyer | CDO / CIO / sponsor (ICP 1–2) | Product & platform builder (ICP 5) |
 | Question | *What has to change for AI to work here?* | *Can you build and ship this?* |
-| Sells | Data, cloud, modernisation | How we build — engineering practice |
+| Sells | Data, cloud, modernization | How we build — engineering practice |
 | Targets | digital transformation services, AI-ready data/infrastructure, data modernization consulting | software product engineering, MVP development, product engineering services |
 
 ### Agreed cluster
@@ -51,7 +51,7 @@ The split that holds is **buyer**, not topic:
 └── /digital-engineering                    ← HOW we build
 ```
 
-### De-cannibalisation edits required on `/digital-engineering`
+### De-cannibalization edits required on `/digital-engineering`
 
 1. Drop H2 "Facing Digital Transformation Challenges?" — that phrase belongs to the hub.
    Replace with a build-side framing, e.g. "Facing product delivery challenges?"
@@ -88,7 +88,7 @@ duplicate as the Sept 2025 crawl said; that finding is stale. Re-run the crawl.)
 
 ### 2.2 Meta description — 216 characters, will be rewritten by Google
 
-**Rewrite (152):** `Cloud, data and application modernisation that makes enterprise AI work — migration, data platforms, custom applications and legacy modernisation.`
+**Rewrite (152):** `Cloud, data and application modernization that makes enterprise AI work — migration, data platforms, custom applications and legacy modernization.`
 
 ### 2.3 Keyword/entity mismatch across the page
 
@@ -163,7 +163,7 @@ quoted by GPT). This page is being written as a classic marketing page, not an e
    |---|---|---|
    | Reports contradict each other; nobody trusts the numbers | Data platform | /services/data-analytics |
    | Models train fine, then can't be served or scaled | Cloud architecture | /services/cloud-and-hyperscaling |
-   | Core system has no API; every integration is a custom job | Legacy modernisation | /services/legacy-system-modernization |
+   | Core system has no API; every integration is a custom job | Legacy modernization | /services/legacy-system-modernization |
    | The workflow itself doesn't exist yet | Application engineering | /services/web-and-app-development |
 
 4. **Only 4 FAQs, and they are instructions rather than answers.** Fixed in §5 below. 8–9 is the
@@ -214,9 +214,9 @@ outputs trustworthy. Applications are the layer your users and AI systems touch.
 the one above it inherits the problem.
 
 In practice you rarely need all three at once. We scope which layer is actually blocking your first
-use case and start there — not with a full-stack programme.
+use case and start there — not with a full-stack program.
 
-### Q2. Do we need to modernise our infrastructure before starting an AI project?
+### Q2. Do we need to modernize our infrastructure before starting an AI project?
 
 Not always. But every AI initiative surfaces infrastructure gaps, usually fragmented data or
 compute that can't support training and inference. Finding them during a readiness assessment costs
@@ -225,7 +225,7 @@ needs, not a rebuild.
 
 → [AI Readiness Assessment] *(gate: only link if the diagnostic exists — claim B4)*
 
-### Q3. What does legacy system modernisation actually involve?
+### Q3. What does legacy system modernization actually involve?
 
 *(Publish only if Card 4 is confirmed scope and the leaf page is live.)*
 
@@ -248,7 +248,7 @@ real-time Power BI.
 
 The architecture matters more than the badge. Medallion layering, governance and pipeline design
 carry across the major lakehouse platforms; what changes is the ecosystem around them. We recommend
-the platform your data residency, existing licences and team skills actually support — and we tell
+the platform your data residency, existing licenses and team skills actually support — and we tell
 you at scoping which parts we take on directly and where you would want a platform specialist
 alongside us.
 
@@ -262,7 +262,7 @@ to work with anything. It also answers the Fabric question honestly without nami
 
 AI implementation builds the model or agent. Digital transformation builds what it runs on — the
 data pipelines, cloud architecture and applications underneath. They are usually sold separately
-and fail together: most stalled AI programmes are infrastructure problems wearing an AI label.
+and fail together: most stalled AI programs are infrastructure problems wearing an AI label.
 
 → [Applied AI Solutions pillar]
 
@@ -282,13 +282,13 @@ environments that can't support training, inference or scaling efficiently. Mono
 with no APIs, so the model has nowhere to plug in.
 
 None of these are model problems, and none are visible from a proof of concept — which is why so
-many programmes clear the pilot and stall at production.
+many programs clear the pilot and stall at production.
 
 ### Q8. How do engagements work — fixed scope, embedded team, or ongoing advisory?
 
 All three. Fixed-scope projects where we take ownership of delivery to a defined budget and
 timeline. Embedded specialists who join your team when you need capability rather than a project.
-Retainer-based advisory for organisations running several initiatives at once. The assessment
+Retainer-based advisory for organizations running several initiatives at once. The assessment
 determines which fits.
 
 ### Q9. Will your team replace ours, or work with it?
@@ -322,7 +322,7 @@ Capgemini, Cognizant, Deloitte Digital, Argano).
 | # | Item | Reason |
 |---|---|---|
 | 1 | **Overlap with `/digital-engineering`** | Resolved: coexist as hub + child, with the narrowing edits in §1. Do not ship until those edits land |
-| 2 | **Competing on the "digital transformation" head term** | Accenture, IBM, Deloitte, Capgemini and 10Pearls hold it. xLoop cannot win it, and the brief already admits there's no query signal. Win on AI-ready infrastructure, data modernisation and legacy modernisation instead |
+| 2 | **Competing on the "digital transformation" head term** | Accenture, IBM, Deloitte, Capgemini and 10Pearls hold it. xLoop cannot win it, and the brief already admits there's no query signal. Win on AI-ready infrastructure, data modernization and legacy modernization instead |
 | 3 | ~~Card 4 (Legacy System Modernization)~~ — **confirmed scope, keep it** | Being built in the current revamp. Best keyword opportunity in the pillar. Sequencing rule stands: leaf live before the hub links to it |
 | 4 | **The blog cited as a proof item** | A framework post is not proof. Move it to a resources block |
 | 5 | **The 216-char meta and 88-char title** | Rewritten above |
@@ -330,7 +330,7 @@ Capgemini, Cognizant, Deloitte Digital, Argano).
 
 ### Where the competitive gap actually is
 
-Every firm in this set says "we modernise data, cloud and applications". **None of them lead with
+Every firm in this set says "we modernize data, cloud and applications". **None of them lead with
 the failure argument** — that AI fails because of what's underneath it — and none publish a
 symptom-level answer to *which layer do I fix first*. xLoop's narrative section already contains
 the argument. The page just needs to structure it so a machine can quote it.
@@ -342,7 +342,7 @@ the argument. The page just needs to structure it so a machine can quote it.
 - [x] ~~Decide: consolidate or keep both~~ — **coexist**, DE becomes a child of the DT cluster (§1)
 - [x] ~~Confirm Legacy System Modernization scope~~ — **confirmed**, being built in the revamp
 - [x] ~~Confirm the AI Readiness Assessment exists~~ — **it does not**; swap the primary CTA
-- [ ] Apply the five de-cannibalisation edits to `/digital-engineering` (§1) before the hub ships
+- [ ] Apply the five de-cannibalization edits to `/digital-engineering` (§1) before the hub ships
 - [ ] Build `/services/legacy-system-modernization` and get it live before the hub links to it
 - [ ] Swap the primary CTA to "Book a Data & Infrastructure Review" until the diagnostic ships
 - [ ] Add real HTML text (or alt text) to the partner logo band — currently invisible to answer engines
@@ -363,7 +363,7 @@ the argument. The page just needs to structure it so a machine can quote it.
 ## Decisions — answered by Sana 2026-09-16
 
 1. **Cluster vs 301 — resolved.** Coexist. Digital Engineering becomes a service page inside the
-   Digital Transformation cluster. Full structure and the required de-cannibalisation edits in §1.
+   Digital Transformation cluster. Full structure and the required de-cannibalization edits in §1.
 2. **Legacy System Modernization — confirmed real scope.** Being built as part of the current site
    revamp, as a service page in the DT cluster. Card 4 stays, FAQ Q3 publishes.
    Sequencing rule stands: **leaf live before the hub links to it.**
@@ -413,6 +413,10 @@ Sana for design and dev. Contains the full page copy (hero, definition block, fi
 failure narrative, decision table, proof, partner band, engagement models, industries, nine FAQs,
 CTA band, disqualifier), the technical spec, internal linking, launch dependencies and a
 do-not-publish list. Final copy sits in blue-edged boxes; everything else is build instruction.
+
+**v2.1 issued 2026-09-17:** `Notes/2026-09-16-digital-transformation-page-content-spec-v2.1.docx` — identical content, corrected to US spelling (brand rule, `terminology.md` §9). The v2 file used British spelling in page copy and should not be sent onward.
+
+Next page in the cluster: [[2026-09-17-legacy-system-modernization-page-content]]
 
 ## Related
 

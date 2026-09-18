@@ -27,7 +27,7 @@ Additions require the Head of Marketing plus, for delivery claims, the relevant 
 | A11 | Built a cross-border financial wellness platform scaling to **10,000+ users at 99.9% uptime** | Internal project register, anonymised |
 | A12 | Delivered an LLM-powered investment assistant that reads 40+ page fund reports for an asset management firm | Case study; client has a portfolio page |
 | A13 | Delivered a RAG-based video-transcription search system for a healthcare platform | Case study, anonymised |
-| A14 | Modernized legacy RPG applications and **migrated COBOL code to Java using AI-assisted engineering**, moving to private cloud with minimal operational disruption | Case study, anonymised. Client: SS&C (never name). COBOL→Java with AI confirmed by CTO 2026-09-17 |
+| A14 | Modernized legacy RPG applications and **migrated COBOL code to Java using AI-assisted engineering**, moving to private cloud with minimal operational disruption | Case study. Client: SS&C — **"SSC" is on the public logo wall**, so it may be named under A17 once Sana confirms SSC = SS&C Technologies (2026-09-18); otherwise "a financial services firm". COBOL→Java with AI confirmed by CTO 2026-09-17 |
 | A15 | Named client testimonials: Skillforte, FitLynk, Beythak, Cloud Titans (John Waterhouse), Serefin | Testimonials document |
 | A16 | Publicly referenceable portfolio clients: Alfalah Investments, Beythak, Eatsy, HBL Asset Management | Live portfolio pages |
 | A17 | Publicly displayed client logos as currently on the site | Live site — *periodic re-confirmation recommended* |
@@ -105,3 +105,18 @@ Public not-a-fit wording is now **"large mainframe replacement programs"** (COBO
 | # | Claim | Evidence / condition |
 |---|---|---|
 | A25 | Completed the migration and modernization of a platform from Java 8 to a modern Java release | CTO, 2026-09-17. Client: IRD — **never name**. **Resolved 2026-09-17 (Sana): IRD is the P-02 / A10 immunization NGO**, so this is the national immunization platform. Public descriptor: "one of Pakistan's leading NGOs"; industry healthcare (non-profit). Pair with A10 (over a billion records, 4,000+ health workers). ⚠️ Publish as "a modern Java release", not "Java 19" — 19 is a non-LTS release out of support, which a technical buyer would question |
+
+
+---
+
+## Additions — 2026-09-18 (homepage review)
+
+| # | Claim | Evidence / condition |
+|---|---|---|
+| A26 | Ran an AWS-to-Azure migration **discovery and plan** for a large retail and real estate group: mapped the full application, workload and data estate including Vertica, assessed feasibility per workload, built a TCO model, sequenced migration waves; delivered jointly with Microsoft | `Teams Chat Files/MAF_Wefi_Case_Studies.pptx`. Client **Majid Al Futtaim** — **internal-only as of 2026-09-15**; CTO wants it named on the homepage; **naming pending Sana's confirmation of client permission**. ⚠️ A plan, not an executed migration — never "migrated to Azure"; does not count as Azure delivery evidence |
+| A27 | Advisory design of a Snowflake data platform modernization for a technology company (workflow-app SQL cache + ERP data) — current-state mapping, target architecture, procedures and views | Same deck. Client **Wefi Tech** — not approved to name |
+| A28 | Pick n Pay may be **named** on the website | On the public logo wall — A17 rule. Case-study detail must use the CTO-corrected A9 wording |
+
+**Testimonial rule (2026-09-18):** quotes must be **verbatim** from `OneDrive - xLoop/Desktop/Client Testimonials/Client testimonials xLoop.docx`. Paraphrases inside quotation marks were found in two specs and fixed. P-13's "delivered complex projects on time and within budget" is a paraphrase — the signed text reads "their ability to deliver complex projects on time and within budget".
+
+**Harmony Gold (mining):** named by the CTO as a client for a new Mining industry tile. **No record in any file, deck or on the logo wall.** Not approved until details and naming permission are confirmed.

@@ -1,172 +1,163 @@
 ---
 date: 2026-09-23
-tags: [xloop, marketing-plan, q2, q3, ceo, transition, team]
+tags: [xloop, marketing-plan, q2, q3, ceo, team, capacity]
 ---
 
-# Marketing Scrum with the CEO (Fri 25 Sep): Status, Q2–Q3 Plan and Transition
+# xLoop Marketing: Where We Are, Where We Need to Be, and How We Get There (Q2–Q3)
 
-## What the CEO asked for
+For the Marketing Scrum with the CEO on Fri 25 Sep 2026. Covers **Q2 (Oct–Dec 2026)** and
+**Q3 (Jan–Mar 2027)**.
 
-- The updated decks and digital assets
-- What marketing needs to deliver in Q2 and Q3
-- How the work is split across the team
-- "Come prepared with updates and the latest briefs"
+Related: [[2026-09-18-xloop-homepage-revamp-review]] · [[2026-09-16-genai-readiness-assessment-v2]] ·
+[[2026-09-23-maf-wefi-case-studies-sky47-terminology]] · [[2026-09-15-xloop-intro-video-script]]
 
-## Assumptions (confirm before Friday)
+## 1. Where we are
 
-- **Fiscal quarters.** Q2 = **Oct–Dec 2026**, Q3 = **Jan–Mar 2027**. Last January's
-  "Marketing Q3 2026" report was labeled Jan–Mar, so xLoop uses a July–June year
-- **Sana moves to a consulting role**, paid hourly, 2–3 h/day (**~10–15 h/week, ~45–65 h/month**)
-- The team named in the Sana x Hiba plan (Hiba, Noshad, Shafay) is still in place
+### The team
 
-## Meeting flow (45 min)
-
-1. **Show and approve** (15 min): decks, pages, tools, HR video. Get a decision on each
-2. **Where marketing stands** (10 min): what shipped, what's blocked, why
-3. **Q2–Q3 plan** (10 min)
-4. **Team and transition** (10 min): consulting role, the execution hire, who owns what
-
-## 1. Assets to show, and the decision needed on each
-
-| Asset | Status | Decision needed from the CEO |
+| Person | Role | Time on xLoop marketing |
 |---|---|---|
-| Updated corporate deck | Updated | Approve as the sales master deck |
-| Case study: HBL Asset Management | Done (Phase 2 still in progress) | OK to name HBL in sales decks? On the website? |
-| Case studies: MAF + Wefi | v2 done with Sky 47 migration terms (Irfan's feedback applied) | MAF is **internal only** today. Can sales show it under NDA? Will anyone ask MAF for public permission? |
-| Case study: Kayali / Huda Beauty | **Waiting on content** | Who sends the content, and by when? Kayali is internal-only too |
-| Homepage v2 | Content done after sales + CTO review | Approve. Assign a developer and a go-live date |
-| Service cluster pages (Digital Transformation hub, Legacy System Modernization, etc.) | Specs done (DT v2.3, Legacy v1.5) | Same: developer and go-live date |
-| Mining industry page | [status] | OK to name Harmony Gold? We have no written record of that work yet |
-| AI Security Assessment | Built | Approve for the homepage and security pages |
-| Data & AI Readiness tool | [status] | Approve. **Keep the site CTA on "book a 30-minute review" until the tool is live** |
-| HR video | Ready for review | **Approve, or give feedback** |
+| Sana | Marketing head: strategy, content, web, PR, campaigns, reporting | Moving to 2–3 h/day from October |
+| Omais | Graphic designer and creative lead | Shared with other requests |
+| Rafay | UI/UX designer | Shared: client projects and internal software come first. Helps on the website when he can |
 
-## 2. Status: the honest picture
+- Earlier requests for a content executive, an SEO specialist and a PR/community executive were
+  turned down. The answer was to use AI
+- **We did.** Sana now runs marketing on Claude, backed by the xLoop Marketing Brain (one source
+  of truth for positioning, approved claims and proof). That setup produced most of what's
+  listed below
 
-### What shipped since the last report
+### What's ready to show
 
-- Marketing Brain: one source of truth for positioning, approved claims and proof
-- Page specs for homepage v2, the Digital Transformation cluster and Legacy Modernization
-- New case studies (HBL, MAF, Wefi) and an updated deck
-- Two diagnostic tools (the Q3 report promised one)
-- NEPRA campaign: 87 CEO letters, a landing page and follow-up letters
-- Plus support work for other teams: Mari bootcamp graduation, Townhall PR, partner
-  applications (Pipedrive, monday, UiPath, Kore.ai), Geshidocon booth, resource augmentation
-  proposal, intro video script
+| Asset | Status |
+|---|---|
+| Updated deck + case study slides: HBL Asset Management, MAF, Wefi | Done. MAF and Wefi use Sky 47 migration terms (Irfan's feedback applied) |
+| Case study: Kayali / Huda Beauty | Waiting on content |
+| Homepage v2 | Content done after sales and CTO review. Not live yet |
+| Service cluster pages (Digital Transformation hub, Legacy System Modernization, and more) | Content specs done. Not live yet |
+| Mining industry page | In progress. Not built yet |
+| AI Security Assessment | Designed. Per sales feedback it goes on the security pages, not the homepage |
+| Data & AI Readiness Assessment | Being widened from GenAI readiness to cover data **and** AI. With Farrukh for review |
+| HR brand video (for new recruits: who we are, what we've achieved, pride in joining) | Ready for CEO approval |
+
+### Also delivered for other teams
+
+- NEPRA campaign: letters to 87 CEOs, a landing page and follow-up letters
+- Mari Energies bootcamp graduation, Townhall PR, intro video script
+- Partner applications and material: Pipedrive, monday.com, UiPath, Kore.ai
+- Geshidocon booth, resource augmentation proposal
 
 ### Challenges
 
-- **Capacity.** The January report said it: marketing gets pulled into delivery and support
-  work, not growth. Most of the list above is support work
-- **Proof we can't publish.** Our best work (MAF, Kayali, SS&C, Pick n Pay) has no naming
-  permission. Every public case study is anonymized, which weakens it
-- **Slow approvals.** Content waits on fact checks from sales and tech. Kayali content is still
-  pending
-- **The website doesn't bring new buyers yet.** Almost all search clicks come from people
-  typing "xLoop". Non-brand clicks are close to zero. Average position was page 9
-- **We can't measure pipeline.** No CRM or lead tracker, so we can't say which leads came from
-  marketing or what they were worth
-- **Specs are done, pages aren't live.** Launch depends on developer time we don't control
-- **Small bug with an outsized effect:** every page title shows "xLoop Digital | xLoop Digital"
+1. **Capacity.** Three people, two of them shared, and the head of marketing drops to 2–3 hours
+   a day. Our January report already said marketing was "stuck in delivery rather than growth".
+   The support work above is the reason
+2. **AI speeds up the writing. It doesn't do the running.** It can't publish, run ads, get
+   approvals, work with developers or turn up to meetings. Right now, all of that is Sana
+3. **The website depends on other teams.** Rafay's time is shared and we have no dedicated
+   developer, so finished content waits to go live
+4. **Proof we can't publish.** Our strongest work (MAF, Kayali, SS&C, Pick n Pay) has no naming
+   permission, so every public case study is anonymized
+5. **Slow fact checks.** Content waits on sales and tech. Kayali content is still pending
+6. **The website doesn't bring new buyers yet.** Almost every search click comes from people
+   typing "xLoop". Last recorded average position: page 9
+7. **We can't measure pipeline.** With no CRM or lead tracker, we can't show which leads came
+   from marketing
 
-## 3. The plan
+## 2. Where we need to be by end of March 2027
 
-### Q2 (Oct–Dec 2026): ship and measure
+- The new website is live: homepage, service clusters, Mining, case studies
+- Two diagnostic tools are live and capturing leads: Data & AI Readiness on the homepage,
+  AI Security on the security pages
+- Every lead is tracked from source to sales outcome, and results are reported monthly
+- A steady flow of search and LinkedIn content that points buyers to a service or a tool
+- The HR brand video and the Life at xLoop video are live and used by HR, the site and LinkedIn
+- Real lead targets are set from one quarter of baseline data
 
-**Goal: everything already built goes live, and every lead gets tracked.**
+## 3. How we get there
 
-| Month | Deliverables |
-|---|---|
-| **Oct** | Homepage v2, cluster pages and Mining page go live · AI Security Assessment live on security pages · fix the title bug · lead tracker set up, with UTM links and a "What problem are you trying to solve?" form field · sales kit done (master deck, 4 case study slides, one-pagers) · HR video published |
-| **Nov** | Data & AI Readiness tool launch campaign (LinkedIn ads + posts + email) · NEPRA follow-ups to non-responders · case studies published on the site (anonymized where needed) · Kayali/Huda case study if content arrives |
-| **Dec** | Apply for 2–3 awards · Q2 report with first baseline numbers · Q3 briefs signed off |
+### Q2 (Oct–Dec 2026): launch and track
 
-**Every week:** 1 new blog and 1 updated blog (per the 2026 plan), LinkedIn 3x a week, each
-post linked to a service page or a diagnostic tool
+| When | Action | Owner | Depends on |
+|---|---|---|---|
+| **Oct, wks 1–2** | HR brand video: apply CEO feedback, release to HR and LinkedIn | Omais, Sana | CEO approval Friday |
+| Oct, wks 1–2 | Data & AI Readiness: add Farrukh's review and finish the data section | Sana | Farrukh's review |
+| Oct, wks 1–2 | Deck: final version as the sales master. Chase Kayali/Huda content | Sana, Omais | Content from the account team |
+| **Oct, wks 2–4** | **Website release 1:** homepage v2, cluster pages, fix the "xLoop Digital \| xLoop Digital" title bug | Rafay (design), developer | **A developer assigned** |
+| Oct, wks 3–4 | AI Security Assessment live on the security pages | Rafay, developer | Developer |
+| Oct, wk 4 | Lead tracker (a simple sheet is enough), UTM links, "What problem are you trying to solve?" on forms | Sana | Sales agrees to confirm leads weekly |
+| **Nov** | **Website release 2:** Mining page, case study pages (anonymized where needed) | Rafay, developer | Developer. Client naming decision |
+| Nov | Data & AI Readiness tool built and live on the homepage | Rafay, developer | Developer |
+| Nov | Life at xLoop video: script, then filming (how we work, culture, what AI-native means) | Sana (script), Omais (production) | Team availability for filming |
+| **Dec** | Launch campaign for the Data & AI Readiness tool: LinkedIn posts + ads | Sana, Omais | Ad budget |
+| Dec | Release the Life at xLoop video | Omais | — |
+| Dec | Q2 report with the first baseline numbers. Q3 briefs signed off | Sana | — |
+
+**Ongoing (only if an executor is hired, see §4):** 1 blog a week, 2–3 LinkedIn posts a week,
+each linked to a service page or a tool
 
 ### Q3 (Jan–Mar 2027): generate demand
 
-**Goal: turn the new site and tools into qualified leads.**
+| When | Action |
+|---|---|
+| **Jan** | Set lead targets from Q2 baseline · one LinkedIn campaign per offer (Data & AI Readiness, AI Security, Legacy Modernization), each going to its own tool or page |
+| Jan–Mar | Leadership LinkedIn: marketing drafts posts for 2–3 leaders, aimed at a named list of target accounts |
+| **Feb** | GCC push: Qatar/UAE/KSA location pages, Google Business Profiles, regional case studies |
+| Feb–Mar | Partner co-marketing: one joint asset each with Microsoft, Kore.ai and Emeritus |
+| **Mar** | Award entries + PR · Q3 report · Q4 plan |
 
-- **Campaigns by buyer:** one quarterly LinkedIn campaign each for Data & AI Readiness,
-  AI Security and Legacy Modernization. Each goes to its own tool or page
-- **Account-based marketing:** leaders post on LinkedIn to a named account list (the 2026 plan
-  named Sarosh/Danny and Wassay or Nasir). Marketing writes the drafts, the leaders post them
-- **GCC push:** Qatar/UAE/KSA location pages, updated Google Business Profiles, case studies
-  for the region
-- **Partner co-marketing:** Microsoft, Kore.ai, Emeritus, with one joint asset each
-- **Events:** choose 1–2 GCC tech events in Q2 so booth and material are ready in time
-- **Set real targets.** By January we'll have a quarter of baseline data. Set lead and pipeline
-  targets then, not now
+## 4. The resource decision
 
-### What we'll report every month
+### The math (estimates)
 
-- Qualified leads (confirmed by sales) and their source
-- Diagnostic tool completions
-- Non-brand organic clicks (the most honest website number we have)
-- Assets shipped against plan
+- **Q2 plan needs:** ~110–130 hours a month of marketing work outside design and development
+  (content ~30, social ~15, campaigns and ads ~10, video coordination ~10, tools and case
+  studies ~10, publishing/QA/approvals ~20, tracking and reporting ~6, requests from other
+  teams ~10–20)
+- **Available from Sana:** ~45–65 hours a month
+- **Gap: ~60 hours a month**, before any requests from other teams
 
-## 4. Team and transition
+### Options for the CEO
 
-### What changes
-
-I move to a consulting role at **2–3 hours a day**. That covers direction, quality and
-decisions, but **not execution**. xLoop needs one person to own day-to-day marketing.
-
-### Recommended setup
-
-| Role | Who | Owns |
+| Option | What it is | What we get |
 |---|---|---|
-| **Marketing consultant** | Sana (10–15 h/week) | Strategy and quarterly plan · positioning and claims · writing and approving briefs · final review of anything client-facing · monthly report to the CEO · CEO/CTO alignment |
-| **Marketing lead (execution)** | **New hire, or an internal promotion plus a junior hire** | Calendar and deadlines · coordinating dev, sales and tech · publishing · campaign operations · lead tracker · pulling report data |
-| Content + SEO | Shafay | Blogs, page copy from briefs, SEO/AEO, one-pagers |
-| Design + video | Noshad | Decks, case study slides, social creative, video edits |
-| Ads, social, email | Hiba | LinkedIn/Meta ads, scheduling, email campaigns, event material |
-| Website build | **Developer time needed** | Pages, tools, fixes |
+| **A. Recommended** | One full-time **AI-enabled Marketing Executive**. They run the Claude + Marketing Brain setup Sana built. Sana sets direction, writes briefs and reviews | The full Q2 and Q3 plan |
+| B | A part-time or freelance executor (~60–80 h/month) | Q2 in full. Q3 at about half pace, with no requests from other teams |
+| C | No new resource | Website launch, the two tools and the two videos only. Blogs, ads, leadership LinkedIn, GCC push and support work all pause |
 
-### Handover (first 4 weeks of October)
+**Separately:** a developer for the website releases in Oct and Nov, whichever option is chosen.
+Without one, the dates in §3 slip.
 
-- **Week 1:** hand over the Marketing Brain, briefs, specs and asset locations, plus a
-  one-page "how we work" (approvals, claims rules, naming rules)
-- **Weeks 2–3:** the execution owner runs the weekly scrum. Sana attends and reviews
-- **Week 4:** Sana steps back to a weekly check-in plus reviews
-- **Until the hire starts:** an interim owner takes the task list so Sana's hours aren't
-  spent on execution
+### How work is split (with Option A)
 
-### Weekly rhythm with a consultant
+| Who | Owns |
+|---|---|
+| Sana (consultant) | Strategy and quarterly plan · positioning and approved claims · briefs · final review of anything client-facing · monthly report to the CEO |
+| Marketing Executive | Calendar and deadlines · drafting with AI from briefs · publishing · LinkedIn and ads · lead tracker · chasing approvals · handling requests from other teams |
+| Omais | Deck and case study design · social creative · both videos |
+| Rafay | Website and tool UI (release 1 in Oct, release 2 in Nov) |
+| Developer | Build and fixes |
 
-- **Monday (1 h):** planning with the execution lead: priorities, blockers, briefs out
-- **Mid-week (batched):** Sana reviews drafts in 1–2 fixed slots, not on demand
-- **Friday:** the execution lead sends a status update. Sana flags anything for the CEO
-- **Monthly:** 30 minutes with the CEO: report, decisions, next month
+### Requests from other teams
 
-### What gets paused or needs another owner
+- One intake channel, at least 5 working days' notice
+- Each request gets ranked against this plan. If one comes in, something else moves, and the
+  CEO sees what
 
-- Support work for other teams (events, CSR, partner applications, bootcamps). These need their
-  own owner or the execution lead, not consultant hours
-- Anything not tied to a Q2–Q3 goal
+## 5. Decisions needed on Friday
 
-## Decisions to ask the CEO for on Friday
-
-1. Approve the HR video (or give feedback)
-2. Client naming, sales decks vs website: HBL, MAF, Kayali/Huda, Harmony Gold
-3. Approve the execution hire. Name an interim owner until they start
-4. Assign developer time, with go-live dates for homepage v2 and the cluster pages
-5. Q2 budget for LinkedIn ads and award entries
-6. Lead tracker or CRM: which tool, and who in sales confirms leads each week
-
-## Brief pack to bring
-
-- Homepage v2 (`Notes/2026-09-18-xloop-homepage-revamp-v2.docx`)
-- Digital Transformation spec v2.3, Legacy Modernization spec v1.5
-- Data & AI Readiness v2 design (`Notes/2026-09-16-genai-readiness-assessment-v2.xlsx`)
-- Case study slides: HBL, MAF + Wefi v2
-- New briefs to write: Kayali/Huda case study, Readiness tool launch campaign, Q3 GCC campaign
+1. **HR brand video:** approve, or give feedback
+2. **Resource:** Option A, B or C
+3. **Developer** for the website releases, with Oct and Nov go-live dates
+4. **Client naming**, in sales decks vs on the website: HBL, MAF, Kayali/Huda, Harmony Gold
+5. **Q2 ad budget** for the Data & AI Readiness launch
+6. **Lead tracking:** who in sales confirms leads each week
 
 ## Next steps
 
-- [ ] Confirm fiscal quarters, current team, Mining page and Readiness tool status, which HR video
+- [ ] Get analytics for the baseline: GA4, Search Console, LinkedIn page, form leads, ad spend
+- [ ] Confirm whether homepage v2 and the cluster pages are designed in Figma, or content only
+- [ ] Confirm who builds the website today and on which CMS
+- [ ] Chase Kayali/Huda content before Friday
 - [ ] Eyeball MAF_Wefi v2 slides in PowerPoint for overflow
-- [ ] Chase Kayali/Huda content before Friday, so it shows as "requested on [date]"
-- [ ] Turn this into a 5–6 slide meeting deck
-- [ ] Decide your consulting rate and minimum monthly hours before the meeting
+- [ ] Decide the format to share with the CEO

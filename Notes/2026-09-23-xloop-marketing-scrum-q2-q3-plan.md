@@ -61,7 +61,7 @@ Related: [[2026-09-18-xloop-homepage-revamp-review]] · [[2026-09-16-genai-readi
 
 ## Plan in brief
 
-- **Q2 (Oct–Dec):** fix analytics + lead tracker (week 1) · Release 1 by Oct 31 (homepage v2,
+- **Q2 (Oct–Dec):** lead tracker + split client forms from job/training forms (week 1) · Release 1 by Oct 31 (homepage v2,
   Data & AI tool, AI Security tool, title fixes) · Release 2 by Nov 30 (4 cluster pages, Mining,
   case study pages) · AI-search work Oct–Nov · 1 article a week + LinkedIn 2–3 a week · sales kit ·
   both videos in October · tool launch campaign Nov–Dec · Q2 report in December

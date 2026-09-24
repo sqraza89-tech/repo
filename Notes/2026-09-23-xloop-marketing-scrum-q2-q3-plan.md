@@ -5,7 +5,7 @@ tags: [xloop, marketing-plan, q2, q3, ceo, team, analytics, aeo]
 
 # xLoop Marketing Plan Q2–Q3 (CEO scrum, Fri 25 Sep 2026)
 
-Deck: `Notes/2026-09-23-xloop-marketing-plan-q2-q3.pptx` (10 slides, rendered and checked in PowerPoint).
+**Current deck: `Notes/2026-09-24-xloop-marketing-q2-q3-v2.pptx`** (7 slides, focused on what the department delivered. Sana asked for 5–7 slides, few numbers, not lead-gen-led, making marketing look good as a department). Earlier 10-slide version: `Notes/2026-09-23-xloop-marketing-plan-q2-q3.pptx` (data-heavy, superseded).
 Build script is in the session scratchpad. To edit, change the deck directly.
 
 Related: [[2026-09-18-xloop-homepage-revamp-review]] · [[2026-09-16-genai-readiness-assessment-v2]] ·

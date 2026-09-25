@@ -111,7 +111,8 @@ Related: [[2026-09-18-xloop-homepage-revamp-review]] · [[2026-09-16-genai-readi
 - [x] GA4 gap explained by devs (code change Jul 27, fixed Aug 24)
 - [ ] Devs: add GA annotations on Jul 27 + Aug 24, filter bot traffic (Singapore), split form_submission by form
 - [ ] Devs: point the site's LinkedIn link to /company/xloopdigital (not the old /company/xloop-digital page)
-- [ ] Pull the top landing pages for AI-assistant traffic (GA4 → Traffic acquisition, Aug 24 onward, secondary dimension "Landing page + query string". Search "AI Assistant" when the first column is Channel Group; search "ai-assistant" only when it's Session source / medium). Attempt on 2026-09-25 failed because of a network error; add the results to slide 3
+- [x] Pull the top landing pages for AI-assistant traffic (done 2026-09-25, see Search + AI extras). Still to do: add them to the slide 3 speaker notes. The v3 pptx was locked (open in PowerPoint); the build script already has the text, so rebuild once the file is closed
+- [ ] ~~Pull the top landing pages for AI-assistant traffic~~ (GA4 → Traffic acquisition, Aug 24 onward, secondary dimension "Landing page + query string". Search "AI Assistant" when the first column is Channel Group; search "ai-assistant" only when it's Session source / medium). Attempt on 2026-09-25 failed because of a network error; add the results to slide 3
 - [ ] Resend the Mari screenshot → update slide 2 if there's a more exact figure
 - [ ] After the meeting: record the CEO's decisions (HR video, ad budget, events, dev time, resource)
 - [ ] Check the hours estimates on slide 9 against how Sana actually spends her time

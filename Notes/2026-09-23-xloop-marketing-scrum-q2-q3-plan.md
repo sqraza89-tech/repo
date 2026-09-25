@@ -28,6 +28,13 @@ tags: [xloop, marketing-plan, q2, q3, ceo, team, analytics, aeo]
 
 - Search Console 6 months: 3.36K clicks, 72.1K impressions → the previous 3 months ≈ 1.46K clicks, 47.7K impressions. Last 3 months: clicks +30%, CTR 7.8% vs 3.1%
 - AI assistants, Aug 24–Sep 23: ChatGPT 18, Perplexity 4, Gemini 1
+- **Pages AI assistants sent people to** (GA4, Aug 24–Sep 25, 23 visits): homepage 7 (ChatGPT) ·
+  `/insights/media-and-mentions/mari-energies-xloop-ai-education` 6 and
+  `.../mari-energies-xloop-ai-digital-skills-bootcamp-graduation` 3 (ChatGPT; which count goes with
+  which is inferred from row order) · `/insights/blogs/ai-document-processing-roi-...` 2 (ChatGPT) ·
+  `llmops-vs-mlops` 1 (Gemini) · `small-vs-large-language-models` 1, `when-gen-ai-fails` 1,
+  `/xlab/xCrowdIQ` 1, (not set) 1 (Perplexity). Takeaway: 9 of 23 visits went to the Mari press
+  pages → press/news pages get picked up by AI; blogs answering buyer questions come next
 - Persona-style long queries (the kind AI assistants send to Google) rank in the top 5, e.g. document processing ROI, small vs large language models, AI stuck in pilot
 
 ## Events researched (2026-09-24)

@@ -101,7 +101,11 @@ Related: [[2026-09-18-xloop-homepage-revamp-review]] · [[2026-09-16-genai-readi
 ## Next steps
 
 - [x] Real analytics pulled from the company account and put into slides 2, 4 and 5
-- [ ] Ask devs why GA4 went quiet around Jul 28 – Aug 23, add a bot filter (Singapore), and split form_submission by form
+- [x] GA4 gap explained by devs (code change Jul 27, fixed Aug 24)
+- [ ] Devs: add GA annotations on Jul 27 + Aug 24, filter bot traffic (Singapore), split form_submission by form
+- [ ] Devs: point the site's LinkedIn link to /company/xloopdigital (not the old /company/xloop-digital page)
+- [ ] Resend the Mari screenshot → update slide 2 if there's a more exact figure
+- [ ] After the meeting: record the CEO's decisions (HR video, ad budget, events, dev time, resource)
 - [ ] Check the hours estimates on slide 9 against how Sana actually spends her time
 - [ ] Chase Kayali/Huda content
 - [ ] Update Figma homepage to v2 by Oct 2

@@ -5,7 +5,34 @@ tags: [xloop, marketing-plan, q2, q3, ceo, team, analytics, aeo]
 
 # xLoop Marketing Plan Q2–Q3 (CEO scrum, Fri 25 Sep 2026)
 
-**Current deck: `Notes/2026-09-24-xloop-marketing-q2-q3-v2.pptx`** (7 slides, focused on what the department delivered. Sana asked for 5–7 slides, few numbers, not lead-gen-led, making marketing look good as a department). Earlier 10-slide version: `Notes/2026-09-23-xloop-marketing-plan-q2-q3.pptx` (data-heavy, superseded).
+**Current deck: `Notes/2026-09-24-xloop-marketing-q2-q3-v3.pptx`** (7 slides, built from Sana's own accomplishment list: highlights, website + search/AI, LinkedIn + ad proposal, Q2/Q3 plan, events shortlist, how we work + decisions). Superseded: v2 (`2026-09-24-...-v2.pptx`) and the data-heavy 10-slide `2026-09-23-xloop-marketing-plan-q2-q3.pptx`.
+
+## Inputs from Sana, 2026-09-24
+
+- Accomplishments: Mari campaign via xCelerate (1,500+ applications; she has a screenshot with more details); services repositioned to data + AI working together; NEPRA landing page + banner; NEPRA case study (ACT Wind); events (Geshidocon, Mari Cohort I graduation); deck update (new intro, leadership team, 3 case studies, agentic AI process)
+- Website additions: data + AI homepage, service group pages, Mining, updated case study cards, location pages (Qatar, Hungary, South Africa), new testimonials (via Jafri), full HR form on the careers page (for Hunaina)
+- **GA4 gap explained by devs:** a code change on Jul 27 removed the tracking script, fixed Aug 24. Not a real traffic drop. Search Console is reliable for that period. Devs suggest GA annotations on Jul 27 and Aug 24
+- **Both diagnostic tools live by the 2nd week of October at the latest.** Give them 3 months of data, then promote on socials and through ads
+- Problem: paid spend has only gone to training, so the audience is local and career-seeking. Proposal: a small services ad budget (deck says $300–600/month, 3-month test)
+- Q2: page updates and new content in alternate weeks; Mobbin only if Rafay goes from 2 projects (Qaiti, Tiba) to 4–5; event collateral for sales (sales wants more data/AI/security events). Q3: evaluate tools, ads and events
+- Working: Omais and Rafay can be contacted directly for design; Sana works 2–3 h in the first half of the day; a good design needs at least 2 days of focused time; Irfan handles technical content
+
+## LinkedIn (company page 83073825, Jun 25–Sep 22)
+
+- 39,350 impressions (all organic), 622 reactions, 16 comments, 6 reposts; 1,277 new followers (all organic); 14,564 total
+- About 61% of followers are in Pakistani cities (top cities alone)
+- Engagement rate of recent posts: Islamabad team session 118%, Townhall highlights 52%, data engineering video 8% → posts with real people win
+- **A website link points to an old LinkedIn page** (`linkedin.com/company/xloop-digital`, "xloop Digital", about 1K followers). The main page is `/company/xloopdigital`
+
+## Search + AI extras (pulled 2026-09-24)
+
+- Search Console 6 months: 3.36K clicks, 72.1K impressions → the previous 3 months ≈ 1.46K clicks, 47.7K impressions. Last 3 months: clicks +30%, CTR 7.8% vs 3.1%
+- AI assistants, Aug 24–Sep 23: ChatGPT 18, Perplexity 4, Gemini 1
+- Persona-style long queries (the kind AI assistants send to Google) rank in the top 5, e.g. document processing ROI, small vs large language models, AI stuck in pilot
+
+## Events researched (2026-09-24)
+
+- AI Expo Africa Oct 28–29 (Johannesburg) · Securetech Pakistan Nov (unconfirmed) · Black Hat MEA Dec 1–3 (Riyadh) · **GITEX Global Dec 7–11 (moved to December, Dubai Exhibition Centre)** · Indus AI Week Feb (2027 edition unconfirmed) · LEAP Apr 12–15, 2027 · GISEC May 4–6, 2027 · ITCN Asia was Sep 22–24 (already past)
 Build script is in the session scratchpad. To edit, change the deck directly.
 
 Related: [[2026-09-18-xloop-homepage-revamp-review]] · [[2026-09-16-genai-readiness-assessment-v2]] ·

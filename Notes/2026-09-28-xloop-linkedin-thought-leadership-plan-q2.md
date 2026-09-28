@@ -404,6 +404,9 @@ This is almost all of Sana's 10–15 h/week, and nothing else fits on top. Optio
 - [ ] Web devs: title/meta quick wins from the Existing Blog Audit tab; 301 redirects for the consolidated agentic and security posts
 - [x] ~~Sana: confirm the 5 names (and Irfan's exact title); get the CEO to endorse the program in one message to the 5~~ (done 2026-09-28, see Update v2)
 - [ ] Get the CEO to endorse the program in one message to the 5
+- [ ] v3: confirm naming Pick n Pay + Eatsy next to the SA retailer story, and Beythak/ABHI on social
+- [ ] v3: confirm the 30 MW wind IPP reference is permitted (energy week, W10)
+- [ ] v3: recheck SBP responsible-AI guideline status before B9 goes live (Nov 30)
 - [ ] Sana: confirm the position line and "what's underneath it" as the shared message
 - [ ] Book 20-min voice interviews with each ambassador (week of Sep 28)
 - [ ] Ambassador profile tune-up (headline, About, Featured) by Oct 9

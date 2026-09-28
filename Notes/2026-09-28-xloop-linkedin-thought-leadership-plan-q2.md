@@ -16,6 +16,36 @@ at once, not one.
 Sources: `Projects/xloop-marketing-brain/` (positioning, approved claims, personas, proof library)
 and [[2026-09-23-xloop-marketing-scrum-q2-q3-plan]] (release dates, cadence, LinkedIn baseline).
 
+## Update 2026-09-28 (v3): December = industries, ICPs, gaps, content updates
+
+**Current file:** `Notes/2026-09-28-xloop-linkedin-blog-content-calendar-q2-v2.xlsx` (15 tabs). It supersedes the first xlsx.
+
+**Sana's changes:**
+- **Cluster 3 (December) = industries**, one a week. Each week covers what we've delivered, the services behind it, how we help and why clients work with us:
+  - Financial services (W9)
+  - Energy & utilities (W10)
+  - Retail (W11)
+  - Healthcare (W12)
+  - Logistics (W13)
+  - Close: a "Why clients work with xLoop" carousel on Dec 30
+- **Mining is out:** Harmony Gold has no record and no naming permission
+- **Content updates for existing blogs:** now a weekly Wednesday track (13 updates). Each has a new title, a meta description, an answer-first intro, and a list of changes
+- **"Not another voice in the noise":**
+  - New Gaps & Differentiation tab (11 topics: the noise, the gap, our proof)
+  - Every post and blog now has a "how it stands out" column
+- **ICPs:**
+  - New ICPs tab with the 5 buying-motion ICPs plus LoB owners, and priority industries
+  - Every item is tagged ICP1–5
+- **Moved to the Q3 backlog:**
+  - Pilot → production (PoC) refresh
+  - 11-stage agentic architecture
+  - AI business case
+
+**Research findings:**
+- "Enterprise AI security" search results are full of generic US listicles. Our gap: a Lead Auditor author, plus the Pakistan/GCC regulator angle
+- SBP responsible-AI guidelines were still not a standalone circular at the last check. Verify before publishing B9
+- NEPRA obligations are covered by several local firms. What an audit looks like on a live plant is not
+
 ## Update 2026-09-28 (v2): the working calendar is the Excel file
 
 **Current deliverable:** `Notes/2026-09-28-xloop-linkedin-blog-content-calendar-q2.xlsx`. It has 12 tabs:

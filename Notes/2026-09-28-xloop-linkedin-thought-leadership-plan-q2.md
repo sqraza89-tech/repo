@@ -16,6 +16,42 @@ at once, not one.
 Sources: `Projects/xloop-marketing-brain/` (positioning, approved claims, personas, proof library)
 and [[2026-09-23-xloop-marketing-scrum-q2-q3-plan]] (release dates, cadence, LinkedIn baseline).
 
+## Update 2026-09-28 (v2): the working calendar is the Excel file
+
+**Current deliverable:** `Notes/2026-09-28-xloop-linkedin-blog-content-calendar-q2.xlsx`. It has 12 tabs:
+- Read Me
+- Clusters & Blogs (13 blogs)
+- Company Page (37 posts)
+- One tab per ambassador (73 posts in total)
+- Advocacy & UGC
+- Competitor Insights
+- Existing Blog Audit
+- Guardrails
+
+The ambassador, event and blog sections below are **superseded** by it.
+
+**Decisions from Sana (2026-09-28):**
+- **Ambassadors:**
+  - Mir Nasir (CEO)
+  - Daniyal Abbasi (**COO**, not Head of AI Solutions)
+  - Wasey Siddique (Principal Cloud Engineer; his LinkedIn headline still says "Senior AI Engineer and Team Lead")
+  - Irfan Shaikh (**Senior Solution Architect**, cloud; joined 1 Jul 2026; he checks the technical accuracy of our content)
+  - Security slot: Farrukh *or* Muhammad Humza. The workbook uses **Humza**, because he posts his own content (Farrukh mostly reposts). Farrukh is quoted on the company page instead
+  - Sarosh Syed = Chief Growth Officer (not in the program)
+- **Events are out of the calendar.** They're ad hoc; the calendar only covers things in our control
+- The "position line" = the one-sentence USP everyone repeats (not a designation). Still using the Marketing Brain line until Sana changes it
+
+**Research findings (28 Sep 2026):**
+- **LinkedIn** (Systems Ltd, 10Pearls, Arbisoft, tkxel, Fractal, and leaders Imran Aftab and Srikanth Velamakanni):
+  - Real people beat designed graphics by 3–60x
+  - Leader profiles beat company pages by 5–20x
+  - Story + lesson and a clear stance on AI news drive comments
+  - Badge-only certification posts flop
+- **Search Console (6 months):**
+  - `/insights/` has 60.9K impressions and 1.01K clicks
+  - Biggest blog opportunity: "enterprise ai security" (718 impressions, position 52), plus 3 variants (~1,100 more impressions). That makes the refresh of `is-your-ai-actually-secure…` Blog B5
+  - Page-1 posts with ~0 clicks need title/meta fixes: building-scalable-ai-infrastructure (3,564 impressions, position 7.2) and ai-in-banking-where-it-works (1,733, position 7.1)
+
 ## The one message (USP)
 
 - **Position:** xLoop is the firm enterprises call when AI has to survive production, and the
@@ -330,7 +366,14 @@ This is almost all of Sana's 10–15 h/week, and nothing else fits on top. Optio
 
 ## Next steps
 
-- [ ] Sana: confirm the 5 names (and Irfan's exact title); get the CEO to endorse the program in one message to the 5
+- [ ] Sana: choose Humza or Farrukh for the security slot. If Farrukh, rename the tab; the content works for either
+- [ ] Sana: confirm Wasey's title vs his LinkedIn headline
+- [ ] Share each ambassador's tab with them. Book 20-min interviews so they can fill the [bracket] story details
+- [ ] Omais: templates by Oct 7. First design dues are in the Company Page tab (first copy-to-owner date is Sep 29)
+- [ ] Pull the 11 stage names of the agentic architecture from the AI deck (Blog B11, post CP31)
+- [ ] Web devs: title/meta quick wins from the Existing Blog Audit tab; 301 redirects for the consolidated agentic and security posts
+- [x] ~~Sana: confirm the 5 names (and Irfan's exact title); get the CEO to endorse the program in one message to the 5~~ (done 2026-09-28, see Update v2)
+- [ ] Get the CEO to endorse the program in one message to the 5
 - [ ] Sana: confirm the position line and "what's underneath it" as the shared message
 - [ ] Book 20-min voice interviews with each ambassador (week of Sep 28)
 - [ ] Ambassador profile tune-up (headline, About, Featured) by Oct 9

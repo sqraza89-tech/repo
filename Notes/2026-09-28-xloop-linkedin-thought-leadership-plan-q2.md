@@ -436,7 +436,10 @@ This is almost all of Sana's 10–15 h/week, and nothing else fits on top. Optio
 - [x] ~~Sana: confirm the 5 names (and Irfan's exact title); get the CEO to endorse the program in one message to the 5~~ (done 2026-09-28, see Update v2)
 - [ ] Get the CEO to endorse the program in one message to the 5
 - [ ] v3: confirm naming Pick n Pay + Eatsy next to the SA retailer story, and Beythak/ABHI on social
-- [ ] v3: confirm the 30 MW wind IPP reference is permitted (energy week, W10)
+- [ ] v3: confirm the 30 MW wind IPP reference is permitted (now URGENT: NEPRA week is W1, 5–9 Oct)
+- [ ] v4: Humza drafts NEPRA blog B1 (live Mon 5 Oct, Farrukh reviews); reuse the NEPRA landing page
+- [ ] v4: send week-1 LinkedIn drafts to Daniyal, Humza, Mir Nasir, Wasey by 29–30 Sep
+- [ ] v4: B3 enterprise AI security draft due 12 Oct
 - [ ] v3: recheck SBP responsible-AI guideline status before B9 goes live (Nov 30)
 - [ ] Sana: confirm the position line and "what's underneath it" as the shared message
 - [ ] Book 20-min voice interviews with each ambassador (week of Sep 28)

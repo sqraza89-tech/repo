@@ -16,6 +16,39 @@ at once, not one.
 Sources: `Projects/xloop-marketing-brain/` (positioning, approved claims, personas, proof library)
 and [[2026-09-23-xloop-marketing-scrum-q2-q3-plan]] (release dates, cadence, LinkedIn baseline).
 
+## Update 2026-09-29 (v5): start 1 Oct, occasion posts, conversion-weighted blogs
+
+**Current files (these supersede everything earlier):**
+- Shared calendar: `Notes/2026-09-29-xloop-linkedin-blog-content-calendar-q2-v4.xlsx` (16 tabs, incl. a new Occasions tab)
+- Blog build plan: `Notes/2026-09-29-xloop-blog-content-plan-q2-v2.xlsx`
+
+**Changes:**
+- **Dates:** now shown as `Tue 06 Oct 2026`. Sana read `06-Oct-26` as "Oct 26"
+- **Company page starts Thu 1 Oct:** Cybersecurity Awareness Month + NEPRA. **Fri 2 Oct:** meet the 5 ambassadors
+- **Occasion posts:**
+  - Ada Lovelace Day (Tue 13 Oct)
+  - World Standards Day (Wed 14 Oct)
+  - Diwali (Sun 8 Nov, optional)
+  - Iqbal Day (Mon 9 Nov)
+  - World Quality Day (Thu 12 Nov)
+  - Computer Security Day (Mon 30 Nov)
+  - UAE National Day (Wed 2 Dec)
+  - Quaid-e-Azam Day + Christmas (Fri 25 Dec)
+  - New Year (Fri 1 Jan 2027)
+- **No Eid in Oct–Dec.** Ramadan ≈ 8 Feb 2027, Eid ul-Fitr ≈ 9–10 Mar 2027. Both are on the Q3 occasions list
+- **Blogs are now 17 in Q2: 4 TOFU / 7 MOFU / 6 BOFU** (was 13 with 1 BOFU)
+  - **New BOFU blogs, published on Wednesdays:**
+    - B5: what you get from the Readiness Assessment
+    - B9: what the AI Security Assessment covers
+    - B15: what happens in a two-week legacy discovery
+    - B17: how to choose an AI development partner
+  - **Re-angled:**
+    - Shadow AI → 30-day audit (MOFU)
+    - ISO 42001 → readiness checklist (MOFU)
+    - Healthcare → case study (BOFU)
+  - **Four weak updates moved to Q3:** data-mesh, human-in-the-loop, SA use cases, future-of-AI-2026
+- **Q3 backlog:** 9 topics, including 2 more BOFU case studies (retail single source of truth, COBOL → Java)
+
 ## Update 2026-09-29 (v4): NEPRA first, security and data alternate, and a separate blog plan
 
 **Current files:**

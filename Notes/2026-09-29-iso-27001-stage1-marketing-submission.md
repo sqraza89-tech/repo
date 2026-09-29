@@ -7,7 +7,7 @@ tags: [xloop, iso-27001, audit, privacy, website, marketing]
 
 ## Context
 - Muhammad Humza (audit prep) asked Marketing for business, service, website, material, AI, security/privacy-statement and interested-party information
-- Deliverable: [[2026-09-29-iso-27001-stage1-marketing-submission.docx]] (v1.0, Internal: Confidential, 9 pages)
+- Deliverable: [[2026-09-29-iso-27001-stage1-marketing-submission.docx]] (v1.1, Internal: Confidential, 10 pages). v1.1 adds the new-site positioning: Enterprise AI & Data Consulting
 - Live site checked 2026-09-29
 
 ## Key findings (gaps G1–G13)
@@ -20,9 +20,9 @@ tags: [xloop, iso-27001, audit, privacy, website, marketing]
 - No material says xLoop is ISO certified at company level (individual Lead Auditor only)
 
 ## Next steps
-- [ ] Confirm the current corporate deck (V10 vs Deck 11)
-- [ ] Confirm whether the Kore.ai one-pager is released
+- [x] Current decks = the shared slide library `Decks.pptx` (SharePoint, Omais). Teams build decks from it per audience. V10/11 are superseded snapshots
+- [x] Kore.ai one-pager is released, but was made only for the Kore.ai presentation
 - [ ] Farrukh to confirm the NEPRA regulation range (G9)
-- [ ] Name an owner for the privacy fixes (G6/G7)
+- [x] Owner for G6/G7 stays Legal/Compliance
 - [ ] Download the original files from OneDrive and attach them (section 11), then send to Humza
 - [ ] Fold cookie consent, the form privacy notice and the About page fixes into the October 2026 revamp

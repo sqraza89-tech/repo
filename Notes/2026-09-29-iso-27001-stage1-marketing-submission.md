@@ -25,5 +25,5 @@ tags: [xloop, iso-27001, audit, privacy, website, marketing]
 - [ ] Farrukh to confirm the NEPRA regulation range (G9)
 - [x] Owner for G6/G7 stays Legal/Compliance
 - [ ] Download the original files from OneDrive and attach them (section 11), then send to Humza
-- [ ] Check Decks.pptx slides for outdated claims (80+, 2020, unsourced stats) before sharing the link with the auditor. Waiting on Sana's OK to download a copy
+- [ ] Check Decks.pptx slides for outdated claims (80+, 2020, unsourced stats) before sharing the link with the auditor. Downloading is ruled out (100+ slides, holds the AI, engineering, security and use-case decks). Proposed method, waiting on Sana's go-ahead: view mode in Chrome, a screenshot of every slide, a numbered log (OK / Fix / Internal only), a slide-count coverage check, then a second pass with PowerPoint Find
 - [ ] Fold cookie consent, the form privacy notice and the About page fixes into the October 2026 revamp

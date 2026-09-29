@@ -16,6 +16,37 @@ at once, not one.
 Sources: `Projects/xloop-marketing-brain/` (positioning, approved claims, personas, proof library)
 and [[2026-09-23-xloop-marketing-scrum-q2-q3-plan]] (release dates, cadence, LinkedIn baseline).
 
+## Update 2026-09-29 (v4): NEPRA first, security and data alternate, and a separate blog plan
+
+**Current files:**
+- To share: `Notes/2026-09-29-xloop-linkedin-blog-content-calendar-q2-v3.xlsx` (15 tabs)
+- To build blogs from: `Notes/2026-09-29-xloop-blog-content-plan-q2.xlsx`. It follows Sana's template (`OneDrive - xLoop/xLoop_Blog_Content_Plan.xlsx`), with the same 6 tabs, columns and colors, plus scheduling columns. It has 20 topics: 13 for Q2 and 7 for the Q3 backlog
+
+**Decisions (Sana + CEO, 2026-09-29):**
+- The CEO wants NEPRA posts ASAP, so week 1 (5–9 Oct) is NEPRA / energy
+  - Blog B1 = NEPRA IT/OT (Mon 5 Oct)
+  - Company page: 6 and 8 Oct, plus a team post on 9 Oct
+  - Daniyal, Humza, Mir Nasir and Wasey all post that week
+- **Not one topic per month:** Track A (AI security & compliance, weeks 3, 5, 7, 9) alternates with Track B (data & AI foundations, weeks 2, 4, 6, 8). Weeks 10–13 cover one industry a week: FS, healthcare, retail, logistics
+- **New blog order:**
+  - B1 NEPRA
+  - B2 data readiness
+  - B3 enterprise AI security
+  - B4 AI data quality
+  - B5 shadow AI
+  - B6 single source of truth
+  - B7 red teaming
+  - B8 GenAI infrastructure
+  - B9 ISO 42001
+  - B10 AI in banking
+  - B11 digital health
+  - B12 AI in retail
+  - B13 warehouse
+
+**Urgent:**
+- The NEPRA blog (B1) needs drafting this week. Reuse the NEPRA landing page content
+- Week-1 posts go to their owners on 29–30 Sep
+
 ## Update 2026-09-28 (v3): December = industries, ICPs, gaps, content updates
 
 **Current file:** `Notes/2026-09-28-xloop-linkedin-blog-content-calendar-q2-v2.xlsx` (15 tabs). It supersedes the first xlsx.

@@ -23,7 +23,7 @@ Related: [[2026-09-29-iso-27001-stage1-marketing-submission]]
 | Internal only | 2 |
 
 ### Must fix before the library link goes to the auditor
-1. **Company-fact slides contradict the confirmed facts and the ISO submission:** slides **3, 51, 52, 72, 89**. They say 120+ employees/engineers, 7+ / 8 / 10+ countries, 75+ / 50+ solutions and 5 offices. Replace with 70+ engineers, 4 offices, and no country count until one is approved (gap G3)
+1. **Company-fact slides contradict the confirmed facts and the ISO submission:** slides **3, 51, 52, 72, 89**. They say 120+ employees/engineers, 7+ / 8 / 10+ countries, 75+ / 50+ solutions and 5 offices. Replace with 90 people (HR figure: includes consultants, excludes interns), 4 offices, and no country count until one is approved (gap G3)
 2. **Confidential client names shown:** **IRD Global** + "Zindagi Mehfooz" (slide **77**). **SS&C** logo (slides **17, 48, 72**) has no naming permission. **ACT Wind** logo (slide **48**) conflicts with the NEPRA page, which anonymizes it
 3. **"ISO 27001-aligned / ISO 27001 Aligned"** on slides **58 and 71**. Next to an ISO audit, this reads like a certification claim. Remove or reword
 4. **Blocked xVision figures** (30% / 25% / 40%) on slides **9, 42, 69**. Slide 69 also claims "facial recognition… across 100+ branches"
@@ -50,7 +50,7 @@ Related: [[2026-09-29-iso-27001-stage1-marketing-submission]]
 |---|---|---|---|---|
 | 1 | Company Deck | Cover "Company Decks" | OK | |
 | 2 | AI Capabilities Deck | Cover "Transforming Businesses with Advanced AI Solutions" | OK | |
-| 3 | AI Capabilities Deck | xLoop At a Glance: 120+ employees, 7+ countries, 75+ solutions delivered, 10+ countries served; map (US HQ, Canada, UK, Poland, Pakistan, Qatar, UAE RHQ, South Africa); industries | **Fix** | 120+ vs confirmed 70+; 7+ / 10+ countries and 75+ solutions are blocked claims (C2–C4); Hungary missing from map |
+| 3 | AI Capabilities Deck | xLoop At a Glance: 120+ employees, 7+ countries, 75+ solutions delivered, 10+ countries served; map (US HQ, Canada, UK, Poland, Pakistan, Qatar, UAE RHQ, South Africa); industries | **Fix** | 120+ vs HR figure of 90; 7+ / 10+ countries and 75+ solutions are blocked claims (C2–C4); Hungary missing from map |
 | 4 | AI Capabilities Deck | AI Capabilities & Offerings; tech stack (PyTorch, TensorFlow, AWS, Azure, Google Cloud, NVIDIA, OpenAI, ElevenLabs, Unity, etc.) | OK | Tools listed are tools, not partnerships. Keep it that way |
 | 5 | AI Capabilities Deck | AI Framework (use cases, data mgmt, tools, infrastructure) | OK | |
 | 6 | AI Capabilities Deck | xLoop MetaHuman: "nearly 100 languages", 24/7 avatars | **Check** | "nearly 100 languages" unverified |
@@ -69,7 +69,7 @@ Related: [[2026-09-29-iso-27001-stage1-marketing-submission]]
 | 19 | Corporate Deck | Cover "AI Consulting / Digital Engineering / Where Impactful AI Begins" | OK | Older positioning, still accurate |
 | 20 | Corporate Deck | Digital Core Capabilities (xTend, xLab, xCelerate, xSecurity) | **Check** | "IT managed services" is not in the offering inventory |
 | 21 | Corporate Deck | xTend: 4 service areas + tech stack | OK | "Disaster recovery management": confirm delivered |
-| 22 | Corporate Deck | Leadership team | **Fix** | Daniyal Abbasi shown as Head of AI Solutions & Consulting (now COO); "Wasay" vs website "Wasey" |
+| 22 | Corporate Deck | Leadership team | **Fix** | Daniyal Abbasi shown as Head of AI Solutions & Consulting (now Chief Operating Officer); check Sarosh Syed shows Chief Growth Officer; "Wasay" vs website "Wasey" |
 | 23 | Corporate Deck | Shareholders: GAEL, ACT Group, Akhtar Group | **Internal / Check** | "Our Edge" board-deck content; confirm shareholder details are approved for external decks |
 | 24 | Corporate Deck | Agentic Architecture & AI Workflows (11 stages; LangChain, LangGraph, AutoGen, CrewAI, OpenAI, Pinecone, FastAPI, Kubernetes, Anthropic, Chroma) | OK | Approved (A18) |
 | 25 | Corporate Deck | Case: Data Strategy and Migration to Snowflake (South African retailer) | **Fix** | Says data was "manually fetched", "data delays" and "real-time Power BI". CTO corrected all three (A9): the problem was no unified view, and the result is not real-time |
@@ -99,7 +99,7 @@ Related: [[2026-09-29-iso-27001-stage1-marketing-submission]]
 | 49 | xSecurity | Versatile Engagement Models (global talent, creative, teams, training) | OK | |
 | 50 | Development Deck | Closing: sales@xloopdigital.com, www.xloopdigital.com | OK | Placed at start of Development Deck section. Check ordering |
 | 51 | Development Deck | Company Overview: "Presence in 8 countries" then lists 9 (US, Canada, SA, Qatar, UK, UAE, Poland, Hungary, Pakistan) | **Fix** | Count contradicts its own list; country count is a blocked claim (C3) |
-| 52 | Development Deck | Who We Are: "120+ engineers across 5 offices" | **Fix** | Confirmed 70+ engineers; 4 offices on record |
+| 52 | Development Deck | Who We Are: "120+ engineers across 5 offices" | **Fix** | HR figure is 90 (incl. consultants, excl. interns); 4 offices on record |
 | 53 | Development Deck | AI Engineering Capabilities (GPT-4 / Claude / Gemini, AWS/Azure/GCP, etc.) | OK | Tools, not partnerships |
 | 54 | Development Deck | Agentic Architecture (steps 1–4) | OK | |
 | 55 | Development Deck | Agentic Architecture (steps 5–8) | OK | |
@@ -136,7 +136,7 @@ Related: [[2026-09-29-iso-27001-stage1-marketing-submission]]
 | 86 | AI Security | Tools (ART, TextAttack, Garak, LLM Guard, etc.) | OK | Tools, not partnerships |
 | 87 | AI Security | Target industries: Healthcare, Banking, Fintech, Textile, eCommerce | OK | |
 | 88 | Use Case | Cover "AI Excellence Portfolio / Strategic AI for Sustainable Enterprise Growth" | OK | |
-| 89 | Use Case | Company Introduction: 120+ employees, 7+ countries, 75+ solutions, 10+ countries served; "Partnering with clients from Fortune 500 companies" | **Fix** | Same as slide 3 (C2–C4 blocked, 120+ vs 70+). Fortune 500 claim: confirm which client |
+| 89 | Use Case | Company Introduction: 120+ employees, 7+ countries, 75+ solutions, 10+ countries served; "Partnering with clients from Fortune 500 companies" | **Fix** | Same as slide 3 (C2–C4 blocked, 120+ vs HR figure of 90). Fortune 500 claim: confirm which client |
 | 90 | Use Case | Section cover "Transforming Financial Services & Fintech" | OK | |
 | 91 | Use Case | Abhi Platform, 10,000+ users, 99.9% uptime | OK | Same as slide 67 (A11) |
 | 92 | Use Case | Pipeline Fintech Platform (Poland), "ironclad security", "Fortified Security… trust and compliance" | **Check** | Naming permission as slide 59. "Ironclad" is an absolute security claim. Tech tag typo "Jango" (should be Django) |

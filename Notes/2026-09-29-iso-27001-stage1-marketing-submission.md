@@ -7,17 +7,23 @@ tags: [xloop, iso-27001, audit, privacy, website, marketing]
 
 ## Context
 - Muhammad Humza (audit prep) asked Marketing for business, service, website, material, AI, security/privacy-statement and interested-party information
-- Deliverable: [[2026-09-29-iso-27001-stage1-marketing-submission.docx]] (v1.2, Internal: Confidential). v1.1 adds the new-site positioning: Enterprise AI & Data Consulting
+- Deliverable: [[2026-09-29-iso-27001-stage1-marketing-submission.docx]] (v1.3, Internal: Confidential, 10 pages). v1.1 adds the new-site positioning: Enterprise AI & Data Consulting
 - Live site checked 2026-09-29
 
 ## Key findings (gaps G1–G13)
 - Privacy Policy and Terms last updated 1 May 2024, with no privacy contact. They claim GDPR/CCPA compliance
 - GA4 `_ga` cookies are set without consent, there is no cookie banner and the forms have no privacy notice
-- About page: founded 2020 and 80+ employees, against the confirmed 2022 and 70+
+- About page: founded 2020 and 80+ employees, against the confirmed 2022 and 90 (HR, Sep 2026: includes consultants, excludes interns)
 - NEPRA page says "eight countries", which is not approved. The regulation range 4–11 vs 4–12 is unconfirmed
 - Unsourced stats on the homepage, /ai-consultancy and security pages. xVoltIQ figures may be the partner's
 - Marketing files are scattered across OneDrive, Teams and Hiba's folder. An old LinkedIn page (/company/xloop-digital) still exists
 - No material says xLoop is ISO certified at company level (individual Lead Auditor only). But slide library slides 58 and 71 say "ISO 27001-aligned" (G14)
+
+## Decisions (Sana, 2026-09-29)
+- Revamped homepage footer: "xLoop is a global AI and data consulting firm, serving high-growth startups, enterprises and public sector clients worldwide. We specialize in Gen AI, Computer Vision, AI Security, and end-to-end data management solutions, partnering with leaders who want to win."
+- Headcount is **90**, per HR: includes consultants across the globe, excludes interns (temporary)
+- Designations: Daniyal Abbasi = Chief Operating Officer, Sarosh Syed = Chief Growth Officer
+- Clients may be named in the audit document, because it goes to a third-party auditor, not to clients. Public anonymization rules stay unchanged
 
 ## Next steps
 - [x] Current decks = the shared slide library `Decks.pptx` (SharePoint, Omais). Teams build decks from it per audience. V10/11 are superseded snapshots

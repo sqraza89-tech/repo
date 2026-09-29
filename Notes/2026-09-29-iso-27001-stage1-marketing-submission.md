@@ -31,6 +31,7 @@ tags: [xloop, iso-27001, audit, privacy, website, marketing]
 - [ ] Farrukh to confirm the NEPRA regulation range (G9)
 - [x] Owner for G6/G7 stays Legal/Compliance
 - [ ] Download the original files from OneDrive and attach them (section 11), then send to Humza
-- [x] Decks.pptx reviewed slide by slide (110/110), see [[2026-09-29-decks-library-slide-review]]. Logged as gap G14 in the submission (now v1.2)
+- [x] Decks.pptx reviewed slide by slide (110/110), see [[2026-09-29-decks-library-slide-review]]. Logged as gap G14 in the submission (v1.2; current version is v1.3)
+- [ ] Sana to name the clients still described generically in v1.3 (VAPT healthcare platform, mobile banking platform, Saudi fast-food chain for xServe)
 - [ ] Share the slide library link with the auditor only after the G14 fixes
 - [ ] Fold cookie consent, the form privacy notice and the About page fixes into the October 2026 revamp

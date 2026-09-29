@@ -473,6 +473,10 @@ This is almost all of Sana's 10–15 h/week, and nothing else fits on top. Optio
 - [ ] v4: Humza drafts NEPRA blog B1 (live Mon 5 Oct, Farrukh reviews); reuse the NEPRA landing page
 - [ ] v4: send week-1 LinkedIn drafts to Daniyal, Humza, Mir Nasir, Wasey by 29–30 Sep
 - [ ] v4: B3 enterprise AI security draft due 12 Oct
+- [ ] v5: approve CP01 (Thu 1 Oct, Cybersecurity Awareness Month + NEPRA) today; Omais card ASAP
+- [ ] v5: CP02 (Fri 2 Oct, meet the ambassadors): needs 5 headshots + Humza/Farrukh decision + Wasey's title
+- [ ] v5: decide on the Diwali post (Sun 8 Nov, optional)
+- [ ] v5: confirm the Readiness Assessment areas and minutes for B5 (Wed 28 Oct)
 - [ ] v3: recheck SBP responsible-AI guideline status before B9 goes live (Nov 30)
 - [ ] Sana: confirm the position line and "what's underneath it" as the shared message
 - [ ] Book 20-min voice interviews with each ambassador (week of Sep 28)

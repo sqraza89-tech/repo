@@ -9,6 +9,7 @@ tags: [skills, xloop, tekrevol, marketing, room-parent, setup]
 - Blog new + refresh = **one skill, two modes** (`blog-writer`; refresh rules in `references/refresh-mode.md`) — shared bar, avoids rule drift
 - Built as skills (not subagents) so work stays conversational and reviewable
 - Brand-agnostic via `Reference/brands/<brand>.md`; skills ask instead of guessing when a field is TODO
+- Skill routing table + brand rules added to `CLAUDE.md` ("Skills — which one to use") so new sessions pick the right skill
 - Analyst: Claude in Chrome for logged-in analytics (read-only), built-in browser for public/competitor pages
 
 ## Skills (`.claude/skills/`)

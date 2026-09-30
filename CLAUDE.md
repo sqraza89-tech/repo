@@ -37,6 +37,25 @@ Reference/       — permanent reference material
 Tools/           — small scripts (llm CLI etc.)
 ```
 
+## Skills — which one to use
+
+Project skills live in `.claude/skills/`. Load the matching one before starting the task;
+the user can also force one with `/<skill-name>`.
+
+| Request | Skill |
+|---|---|
+| New blog, article, content brief, or "next blog from the plan" | `blog-writer` |
+| Update / refresh / re-optimize an existing blog URL, or "which blogs need a refresh" | `blog-writer` (refresh mode) |
+| LinkedIn posts, carousels, video scripts, ambassador or occasion posts, "this week's posts" | `linkedin-posts` |
+| Audit/analyze the website, SEO/AEO, GA4, Search Console, LinkedIn performance, competitors, marketing reports | `marketing-analyst` |
+| School emails / WhatsApp screenshots → messages for the class parents' group | `room-parent` |
+| Bulk summarizing/tagging, or reading a large file for the gist | `delegate` |
+
+- **Brands:** the marketing skills are brand-agnostic. Each reads `Reference/brands/<brand>.md`
+  first (`xloop.md`, `tekrevol.md`; new brands copy `_template.md`). If the brand isn't clear, ask.
+  Never carry claims, clients or phrasing from one brand into another
+- A `TODO` in a brand profile means ask — don't invent ICPs, claims or proof
+
 ## Cheap work — via free models
 
 Reading long files and doing bulk mechanical work should go through free models, to

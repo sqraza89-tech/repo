@@ -477,6 +477,7 @@ This is almost all of Sana's 10–15 h/week, and nothing else fits on top. Optio
 - [ ] v5: CP02 (Fri 2 Oct, meet the ambassadors): needs 5 headshots + Humza/Farrukh decision + Wasey's title
 - [ ] v5: decide on the Diwali post (Sun 8 Nov, optional)
 - [ ] v5: confirm the Readiness Assessment areas and minutes for B5 (Wed 28 Oct)
+- [ ] 2026-09-30: energy post Thu 8 Oct → rewritten as a ~36s animated MP4 (wind IPP IT/OT audit only; Mari removed because it was CSR training, not delivery). Needs Humza/Farrukh's non-intrusive specifics, confirmation that "the plant kept running throughout" is true, and the NEPRA phone + email. Sana pastes the changes into the xlsx herself
 - [ ] v3: recheck SBP responsible-AI guideline status before B9 goes live (Nov 30)
 - [ ] Sana: confirm the position line and "what's underneath it" as the shared message
 - [ ] Book 20-min voice interviews with each ambassador (week of Sep 28)

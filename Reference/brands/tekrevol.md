@@ -5,7 +5,7 @@ tags: [brand-profile, tekrevol]
 
 # Brand profile — TekRevol
 
-Filled 2026-10-01 from TekRevol's *Buyer Personas (AI-First)*, *Messaging and Positioning (AI-First)* and *ICP* workbook (originals in the user's Downloads), plus the live site. Brand system (proposed v1): https://claude.ai/artifact/HpisETnNbr4fyuqKkUWz5z, source files in `Projects/tekrevol-brand/project/`.
+Filled 2026-10-01 from TekRevol's *Buyer Personas (AI-First)*, *Messaging and Positioning (AI-First)* and *ICP* workbook (originals in the user's Downloads), plus the live site. Brand system (proposed v2): https://claude.ai/artifact/HpisETnNbr4fyuqKkUWz5z, source files in `Projects/tekrevol-brand/project/`.
 
 ## Basics
 - **Website:** https://www.tekrevol.com · sitemap `/sitemap.xml` · blog `/blogs/`
@@ -65,7 +65,7 @@ TODO (calendar, cadence, who posts)
 | ScienceSoft | scnsoft.com | "AI Transformation and Software Development", blue |
 
 ## Visual identity
-Proposed v1 brand system (pending sign-off): Signal Orange #FF5A1F on warm carbon #0F0D0C; Unbounded / Archivo / JetBrains Mono; Strata layered motif; notch corner. Link above.
+Proposed v2 brand system "molten glass" (pending sign-off): Molten Orange #FF4F0F, Core Red #E10600, Oxblood #4A0E0A on Carbon #0C0807, with Chrome #DADAD8 / Pearl #F2F1EF; Host Grotesk + JetBrains Mono; Strata, reeded glass, notch. Link above.
 
 ## Analytics access
 TODO

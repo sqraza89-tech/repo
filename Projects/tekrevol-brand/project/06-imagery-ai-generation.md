@@ -1,79 +1,90 @@
 # 6. Imagery and AI image generation
 
-This section is for photographers, illustrators, 3D artists, and anyone prompting an AI image tool (Midjourney, GPT Image / DALL-E, Adobe Firefly, Gemini / Imagen, Stable Diffusion, Ideogram).
+For photographers, 3D artists, designers, and anyone prompting an AI image tool (Midjourney, GPT Image, Adobe Firefly, Gemini / Imagen, Stable Diffusion, Ideogram).
 
-## Four rules for every image
+## The look: molten glass
 
-1. **Layers you can see.** Compositions are built in planes: foreground, glass, screens, architecture, light. Depth reads as stacked layers, not fog.
-2. **Light comes from inside.** The main light source is warm orange, glowing from below or from within the subject (a screen, a seam, a layer edge). Everything else falls into carbon.
-3. **Real builders, real work.** People are engineers, designers and founders at work: whiteboards, code, devices, product reviews. Natural expressions, not posed handshakes.
-4. **Orange is the only saturated color.** The rest of the frame is warm neutral: carbon, graphite, concrete, paper, skin tones. No blue or purple light.
+Molten orange light trapped inside glass, chrome and layered planes, set against deep carbon or clean pearl studio space. Soft focus, slow light, precise edges. It should feel like a premium product launch, not a tech cliché.
 
-## Image types
+## Five rules for every image
 
-| Type | Use | Look |
+1. **Light comes from inside.** The main light is molten orange glowing within glass, a screen or a layer edge. Everything else falls into carbon, oxblood or soft pearl.
+2. **Layers you can see.** Stacked glass planes, reeded glass ribs, overlapping translucent forms. Depth reads as layers, which is the brand idea.
+3. **Chrome cools the heat.** Every frame has a cool counterweight: chrome, steel, pearl or alabaster. Heat plus metal is what makes it premium.
+4. **Soft focus, sharp subject.** Shallow depth of field and defocused light around one crisp subject or edge.
+5. **Orange family only.** Oxblood, core red, molten, flare and haze are the only warm hues. No blue or purple light, except steel-grey reflections on metal.
+
+## Five image families
+
+| Family | Use | Look |
 |---|---|---|
-| **Layered abstract** | Hero, section backgrounds, social | Stacked translucent planes or bars, orange light rising from the bottom, carbon background, crisp edges, lots of negative space |
-| **Builders** | About, careers, case studies | Documentary photos of the team, warm practical light, shallow depth of field, a screen or device as an orange light source |
-| **Product in context** | Service pages, case studies | Real interfaces on real devices, framed square or with the notch, a soft Glow light behind |
-| **Industry scenes** | Vertical pages (for example home-based care) | Real settings shot calmly and respectfully, with the product visible in the work. Warm, never clinical blue |
+| **Molten glass** | Hero, campaign key visuals | Flowing liquid glass and chrome in molten orange and silver, slow rippled surfaces, glossy highlights. Abstract, close-up, filling the frame |
+| **Reeded light** | Section backgrounds, social, video | Fine vertical reeded (fluted) glass in front of blurred molten light. The ribs split light into layers. White logo or headline can sit on top |
+| **Glass objects** | Service pages, product features | The TekRevol mark's three planes rendered as thick glass or polished ceramic objects with orange light inside, on a pearl-to-carbon studio gradient. Our own shape, so nobody else can have it |
+| **Light orbs** | Calm sections, quotes, compliance | Large defocused spheres of molten and pearl on carbon, macro-lens softness, lots of black space |
+| **Builders** | About, careers, case studies | Documentary photos of the team at work, warm screen light on faces, cool grey office around them |
 
 ## Avoid
 
-Glowing brains, robots, humanoid AI faces, robot-human handshakes, blue holograms, binary rain, floating padlocks, circuit-board cityscapes, purple-blue gradients, lens flares, fake UI full of gibberish text, and generated logos or text. These clichés make every AI company look the same.
+Glowing brains, robots, humanoid AI faces, robot handshakes, blue holograms, binary rain, padlocks, circuit-board cities, purple-blue gradients, lens-flare overload, fake UI with gibberish text, and any generated logo or lettering.
 
 ## AI prompt kit
 
 ### Master style block
 
-Paste this at the end of every image prompt:
+Paste at the end of every image prompt:
 
 ```
-Style: TekRevol brand. Warm carbon black background (#0F0D0C), a single bright signal-orange light source (#FF5A1F) glowing from below, fading to soft amber (#FF8A3D) and pale peach (#FFC08A) highlights. Layered composition built from stacked planes, crisp geometric edges, 45-degree angled cuts, generous negative space. Cinematic, precise, premium, engineered. Warm neutral palette only, orange is the only saturated color.
+Style: TekRevol brand, molten glass. Deep carbon black background (#0C0807) with oxblood shadows (#4A0E0A). Molten orange light (#FF4F0F) glowing from inside glass and chrome, heating to core red (#E10600) in the shadows and fading to soft amber (#FF8A3D) and pale pearl blush (#F2D4CC) at the edges. Cool chrome, steel and pearl-white reflections as counterweight. Layered translucent forms, reeded glass, crisp precise edges, shallow depth of field, soft defocused light. Premium, futuristic, calm, corporate. Orange family is the only warm color.
 ```
 
-AI tools read hex codes loosely. Always describe the color in words as well, as above.
+AI tools read hex codes loosely; the color words matter more.
 
-### Negative prompt (or "Avoid:" line)
+### Negative prompt
 
 ```
-blue light, purple light, neon cyan, robots, humanoid faces, glowing brain, holograms, binary code, circuit board, padlock, lens flare, text, letters, logo, watermark, rounded bubbly shapes, cartoon, clutter, oversaturated rainbow colors
+blue light, purple light, neon cyan, rainbow, robots, humanoid faces, glowing brain, holograms, binary code, circuit board, padlock, heavy lens flare, text, letters, logo, watermark, cartoon, plastic toy look, clutter, harsh flash
 ```
 
 ### Templates
 
-**Layered abstract (hero, social background)**
+**Molten glass (hero)**
 ```
-Abstract 3D render of [six] horizontal translucent glass layers stacked into a stepped peak, each layer slightly brighter than the one below, orange light rising through them from the base, dark carbon void around them, [front view, slight low angle]. [Master style block]
+Macro abstract of flowing liquid glass and polished chrome ribbons, molten orange light glowing inside the folds, silver reflections, smooth rippled surfaces, diagonal flow, filling the frame. [Master style block]
+```
+
+**Reeded light (background)**
+```
+Fine vertical reeded fluted glass panel in front of soft blurred orbs of molten orange and core red light, ribs splitting the light into thin vertical layers, dark carbon edges, centered negative space for a logo. [Master style block]
+```
+
+**Glass object (TekRevol mark, render in 3D tools from the real logo file, use AI only for lighting and backdrop ideas)**
+```
+Three thick glass planes forming a stepped peak, lit from inside with molten orange light, glossy edges with chrome reflections, resting on a smooth surface in a pearl-white to carbon studio gradient, soft shadow, product photography. [Master style block]
+```
+
+**Light orbs (calm section)**
+```
+Large out-of-focus spheres of molten orange and pearl white light on a deep black background, macro lens, creamy bokeh, generous empty black space in the center. [Master style block]
 ```
 
 **Builders (team photography)**
 ```
-Documentary photo of a [software engineer / product team of three] working at [a large monitor showing code / a whiteboard of system architecture], warm orange light from the screen on their faces, rest of the office in soft shadow, natural candid expressions, 35mm lens, shallow depth of field. [Master style block]
-```
-
-**Product in context**
-```
-A [smartphone / laptop] on a dark graphite desk displaying a clean app dashboard, the screen is the main light source casting orange glow, layered glass and paper elements in soft focus behind, top-down three-quarter angle. Leave the screen blank for compositing. [Master style block]
-```
-
-**Industry scene (example: home-based care)**
-```
-A home care coordinator reviewing a schedule on a tablet at a kitchen table, warm afternoon light, calm and respectful, the tablet glows softly orange, real home details, no clinical blue. [Master style block]
+Documentary photo of a software engineer reviewing code on a large monitor, warm orange screen light on their face, cool grey office in soft shadow, candid, 35mm, shallow depth of field. [Master style block]
 ```
 
 ### Tool settings
 
 | Tool | Settings |
 |---|---|
-| Midjourney | `--style raw --stylize 100 --ar 16:9` (web hero 21:9, LinkedIn 1:1 or 4:5, story 9:16). Add `--no blue, purple, text, logo` |
-| GPT Image / DALL-E | Write the master style block as full sentences. Ask for "no text in the image" |
-| Adobe Firefly | Use Style: Photo or Art, Visual intensity low to medium, and upload an approved hero as a style reference |
-| Stable Diffusion | Use the negative prompt as written. CFG 5 to 7 |
+| Midjourney | `--style raw --stylize 150 --ar 16:9` (hero 21:9, LinkedIn 1:1 or 4:5, story 9:16), `--no blue, purple, text, logo` |
+| GPT Image | Write the style block as full sentences; ask for "no text or logos in the image" |
+| Adobe Firefly | Style: Photo, Visual intensity medium; upload an approved key visual as the style reference |
+| Stable Diffusion | Use the negative prompt as written, CFG 5 to 7 |
 
 ### After generating
 
-- Replace every screen with a real TekRevol interface and add the real logo. Never ship generated text, UI or logos
-- Grade toward the palette: blacks to carbon, highlights to Flare, remove any blue cast
-- Check hands, faces, devices and reflections for AI artifacts
-- Keep a reference board of approved outputs and reuse them as style references so the look stays consistent
+- Composite the real logo, real UI and real type afterwards. Never ship generated text or logos
+- Grade to the palette: blacks to carbon, shadows toward oxblood, highlights to flare and haze; remove blue casts except steel on metal
+- Check glass and chrome for melted or impossible geometry, and people for hand and face artifacts
+- Save approved outputs as a reference board and reuse them as style references so every asset belongs to the same world

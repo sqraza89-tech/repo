@@ -6,13 +6,13 @@
   html, body { margin: 0; background: var(--surface); }
   .cover { position: relative; width: 960px; height: 300px; overflow: hidden; background: var(--surface); }
   .cover svg { position: absolute; inset: 0; }
-  .ember { fill: var(--brand-ember); }
-  .signal { fill: var(--brand-signal); }
+  .oxblood { fill: var(--brand-oxblood); }
+  .core { fill: var(--brand-core); }
+  .molten { fill: var(--brand-molten); }
   .flare { fill: var(--brand-flare); }
-  .glow { fill: var(--brand-glow); }
   .dot { fill: var(--accent-ink); }
   .text { position: absolute; left: 48px; bottom: 44px; max-width: 420px; display: flex; flex-direction: column; gap: 12px; }
-  .name { font-family: var(--font-display); font-weight: 700; font-size: 72px; line-height: 0.95; letter-spacing: -0.03em; color: var(--ink); margin: 0; }
+  .name { font-family: var(--font-display); font-weight: 500; font-size: 80px; line-height: 0.95; letter-spacing: -0.04em; color: var(--ink); margin: 0; }
   .tag { font-family: var(--font-sans); font-size: 14px; line-height: 1.4; color: var(--ink-muted); margin: 0; }
 </style>
 </head>
@@ -20,15 +20,15 @@
 <div class="cover">
   <svg width="960" height="300" viewBox="0 0 960 300" aria-hidden="true">
     <!--
-      blocks: brand-ember 480x56, brand-signal 384x56, brand-flare 288x56, brand-glow 192x56 (bar height = space-6 + space-5 = 56, gap = space-2 = 8)
-      arrangement: right-aligned Strata bleeding off the right edge, widest at the base, light rising; top bar carries the notch-md cut from the logo
+      blocks: brand-oxblood 480x56, brand-core 384x56, brand-molten 288x56, brand-flare 192x56 (bar height = space-6 + space-5 = 56, gap = space-2 = 8)
+      arrangement: right-aligned Strata bleeding off the right edge, widest at the base, heat rising from oxblood to flare; top bar carries the notch-md cut from the logo
       pattern: dot grid, the "precise, technical, mono" row: TekRevol labels everything in JetBrains Mono on a 4px grid; pitch space-5 (24px), 11 x 3 dots
       scales: space-2, space-5, space-6, notch-md (16px), radius-0 corners
     -->
-    <rect class="ember" x="480" y="244" width="480" height="56"/>
-    <rect class="signal" x="576" y="180" width="384" height="56"/>
-    <rect class="flare" x="672" y="116" width="288" height="56"/>
-    <polygon class="glow" points="768,52 944,52 960,68 960,108 768,108"/>
+    <rect class="oxblood" x="480" y="244" width="480" height="56"/>
+    <rect class="core" x="576" y="180" width="384" height="56"/>
+    <rect class="molten" x="672" y="116" width="288" height="56"/>
+    <polygon class="flare" points="768,52 944,52 960,68 960,108 768,108"/>
     <g class="dot">
       <circle cx="504" cy="28" r="2"/><circle cx="528" cy="28" r="2"/><circle cx="552" cy="28" r="2"/><circle cx="576" cy="28" r="2"/><circle cx="600" cy="28" r="2"/><circle cx="624" cy="28" r="2"/><circle cx="648" cy="28" r="2"/><circle cx="672" cy="28" r="2"/><circle cx="696" cy="28" r="2"/><circle cx="720" cy="28" r="2"/><circle cx="744" cy="28" r="2"/>
       <circle cx="504" cy="52" r="2"/><circle cx="528" cy="52" r="2"/><circle cx="552" cy="52" r="2"/><circle cx="576" cy="52" r="2"/><circle cx="600" cy="52" r="2"/><circle cx="624" cy="52" r="2"/><circle cx="648" cy="52" r="2"/><circle cx="672" cy="52" r="2"/><circle cx="696" cy="52" r="2"/><circle cx="720" cy="52" r="2"/><circle cx="744" cy="52" r="2"/>

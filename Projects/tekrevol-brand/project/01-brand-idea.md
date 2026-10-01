@@ -14,13 +14,13 @@ Many software companies now call themselves AI companies. What sets TekRevol apa
 - **It scaled fast.** It turned that early start into AI services, private-LLM work (RevAI) and AI-native delivery.
 - **It keeps evolving.** Every project, every learning and every architecture becomes the base for the next one. The work gets better layer by layer.
 
-The identity makes that growth visible. The logo is already built from stacked planes. The system extends it: **layers that stack and get brighter as they rise**, from deep Ember at the base to bright Flare at the top.
+The identity makes that growth visible. The logo is already built from stacked planes. The system extends it: **layers that stack and get brighter as they rise**, from deep oxblood at the base, through core red and molten orange, to bright flare at the top.
 
 | Layer | What it stands for | Where you see it |
 |---|---|---|
-| Base (Ember) | Ten years of engineering: mobile, web, cloud, custom software | The foundation of every layout and gradient |
-| Middle (Signal) | Applied AI and automation in real products | CTAs, highlights, the logo |
-| Top (Flare, Glow) | What comes next: each new model, method and learning | Light in imagery, hover states, the peak of the Strata motif |
+| Base (Oxblood, Core Red) | Ten years of engineering: mobile, web, cloud, custom software | The foundation of every layout and gradient |
+| Middle (Molten Orange) | Applied AI and automation in real products | CTAs, highlights, the logo |
+| Top (Flare, Haze) | What comes next: each new model, method and learning | Light in imagery, hover states, the peak of the Strata motif |
 
 ## Personality
 
@@ -40,8 +40,8 @@ Four of the five named competitors lead with blue: LeewayHertz, Azumo, ScienceSo
 | Before | After |
 |---|---|
 | "Human Vision. Intelligent Technology. Exceptional Products." | A headline that names what TekRevol is and who it is for |
-| Muted orange #F37A20 on generic dark photos | Signal Orange #FF5A1F with the Ascent gradient and Strata layers |
-| Poppins everywhere | Unbounded (display), Archivo (text), JetBrains Mono (labels, code, data) |
+| Muted orange #F37A20 on generic dark photos | Molten Orange #FF4F0F, the Molten gradient, glass and chrome imagery, Strata layers |
+| Poppins everywhere | Host Grotesk (headlines and text), JetBrains Mono (labels, code, data) |
 | Rounded pill buttons | Square buttons with the notch |
 | Stock "AI" imagery: glowing brains, blue networks | Real builders, real interfaces, layered light |
 

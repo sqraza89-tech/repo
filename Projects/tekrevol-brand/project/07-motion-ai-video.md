@@ -1,8 +1,8 @@
 # 7. Motion and AI video generation
 
-## Motion principle: build up
+## Motion principle: build up, heat up
 
-Things arrive the way the brand grows: **from the bottom up, layer by layer**, each settling a little brighter than the last. Motion is quick, confident and precise. It never bounces or wobbles.
+Things arrive the way the brand grows: **bottom up, layer by layer**, each one settling a little brighter, as if heating. Motion is slow, smooth and precise. It never bounces.
 
 | Token | Value | Use |
 |---|---|---|
@@ -13,26 +13,27 @@ Things arrive the way the brand grows: **from the bottom up, layer by layer**, e
 | `ease-build` | cubic-bezier(0.2, 0.8, 0.2, 1) | Arrivals |
 | `ease-exit` | cubic-bezier(0.4, 0, 1, 1) | Exits |
 
-- Elements rise 16 to 24px and fade in, staggered from the bottom of a stack upward
-- Hover: buttons brighten to `accent-hover`; cards gain `glow-accent`. No scaling past 1.02
-- One orchestrated moment per page (usually the hero Strata building). The rest stays calm
-- Respect `prefers-reduced-motion`: show the end state with no movement
+- Elements rise 16 to 24px and fade in, staggered from the bottom up
+- Hover: buttons warm to `accent-hover`; cards gain `glow-accent`. No scaling past 1.02
+- Backgrounds can drift: the Molten gradient field moves very slowly (20 to 40 second loop)
+- One orchestrated moment per page. Respect `prefers-reduced-motion`
 
 ## Logo animation
 
-The three planes slide in on their 45 degree angles (left plane, right plane, then the base bar), lock together, and the inner triangle lights up Flare for a beat before settling to carbon. 1.2 seconds in total. Use it at the start or end of videos only.
+The three planes slide in along their 45 degree angles, lock together, and molten light runs up through them from the base bar to the flare plane, before settling. 1.2 seconds. Use at the start or end of videos only.
 
 ## Video language
 
 | Element | Rule |
 |---|---|
-| Camera | Slow push-ins, low angles, smooth lateral tracks past layered glass or screens. No shaky handheld, no fast whip pans |
-| Light | Carbon environments lit by warm orange from below or from screens |
-| Pace | 25 to 30 seconds for social. One idea per scene, 3 to 5 seconds a scene |
-| Type on screen | Unbounded for headlines, Archivo for captions, JetBrains Mono for labels and numbers. Max 8 words on screen at once |
-| Captions | Always burned in for social. Archivo 600, white on a carbon band |
-| End card | Carbon background, Ascent gradient Strata, refreshed logo, one line CTA |
-| Sound | Clean electronic pulse, warm low end, builds with the layers. No generic "epic" stock music |
+| Look | Molten glass: liquid glass and chrome, reeded light, orbs, glass objects. Carbon and oxblood environments |
+| Camera | Slow push-ins, slow macro slides across glass, gentle orbit around objects. No handheld shake, no whip pans |
+| Light | Molten orange from within, cool chrome reflections, soft defocus |
+| Pace | 25 to 30 seconds for social, 3 to 5 seconds a scene, one idea per scene |
+| Type on screen | Host Grotesk Medium headlines, JetBrains Mono labels and numbers, max 8 words at once |
+| Captions | Burned in for social: Host Grotesk 600, white on a carbon band |
+| End card | Molten gradient field, white refreshed logo, one line CTA |
+| Sound | Clean electronic pulse, warm low end, rising with the layers |
 
 ## AI video prompt kit
 
@@ -41,29 +42,34 @@ For Runway, Sora, Google Veo, Kling, Luma or Pika.
 ### Master style block
 
 ```
-TekRevol brand film look. Dark warm carbon environment, a single warm signal-orange light (#FF5A1F) rising from below, soft amber highlights, layered translucent planes and crisp geometric edges, slow smooth camera movement, shallow depth of field, cinematic, precise, calm, premium. Orange is the only saturated color. No blue or purple light, no text, no logos.
+TekRevol brand film, molten glass look. Deep carbon black and oxblood environment, molten orange light glowing from inside glass and polished chrome, cool silver reflections, layered translucent forms and reeded glass, shallow depth of field, soft defocused light, slow smooth camera, premium, futuristic, calm. Orange family is the only warm color. No blue or purple light, no text, no logos.
 ```
 
 ### Templates
 
-**Brand opener (5 to 8 seconds)**
+**Brand opener (5 to 8 s)**
 ```
-Slow push-in on a stack of thin glass layers assembling one by one from the bottom up into a stepped peak, each new layer glowing slightly brighter orange than the last, dark carbon void, light rising through the stack. [Master style block]
-```
-
-**Builder scene (4 seconds)**
-```
-Low-angle slow dolly past an engineer reviewing code on a large monitor at night, orange screen light on their face, office in soft shadow, calm focus. [Master style block]
+Slow macro push across rippling liquid glass and chrome as molten orange light rises through it from below, layers of light stacking brighter one after another. [Master style block]
 ```
 
-**Product reveal (4 seconds)**
+**Reeded reveal (4 s)**
 ```
-Camera glides down onto a laptop on a graphite desk, its blank screen brightening with warm orange light as translucent interface layers rise out of it and stack above the keyboard. [Master style block]
+Camera slides slowly left to right behind a vertical reeded glass panel; blurred orbs of molten orange and red light drift behind the ribs, splitting into thin layers, centered dark space for a logo. [Master style block]
+```
+
+**Glass object orbit (4 s)**
+```
+Slow orbit around three thick glass planes forming a stepped peak, molten light pulsing up through them, chrome reflections sliding across the edges, pearl to carbon studio gradient. [Master style block]
+```
+
+**Builder scene (4 s)**
+```
+Low-angle slow dolly past an engineer reviewing code at night, orange screen light on their face, cool grey office in soft shadow. [Master style block]
 ```
 
 ### After generating
 
-- Generate clips without text or logos, then add type, the real logo and real UI in the edit
-- Color-grade every clip to the same look: carbon blacks, Flare highlights, no blue
-- Check for AI artifacts: warped hands, melting objects, flickering screens
-- Keep a library of approved clips to use as image or video references so the series stays consistent
+- Generate clean plates, then add type, the real logo and real UI in the edit
+- Grade every clip to one look: carbon blacks, oxblood shadows, flare highlights
+- Check for warped glass, flicker and AI artifacts
+- Keep approved clips as references so the series stays consistent

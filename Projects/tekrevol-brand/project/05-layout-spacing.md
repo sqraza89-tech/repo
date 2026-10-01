@@ -37,7 +37,7 @@ clip-path: polygon(0 0, calc(100% - 16px) 0, 100% 16px, 100% 100%, 0 100%);
 ## Borders and depth
 
 - `line` hairlines (1px) separate content. `line-strong` outlines controls
-- On carbon, depth is light: `glow-accent` on the featured card, or a soft Glow light from below in imagery
+- On carbon, depth is light: `glow-accent` on the featured card, or molten light from within in imagery
 - `lift` is only for menus, popovers and modals
 
 ## Iconography
@@ -49,7 +49,7 @@ clip-path: polygon(0 0, calc(100% - 16px) 0, 100% 16px, 100% 100%, 0 100%);
 
 ## The Strata motif
 
-Stacked horizontal bars, widest at the bottom, getting brighter as they rise (Ember > Signal > Flare > Glow). It stands for the brand idea: every layer builds on the last. Use it:
+Stacked horizontal bars, widest at the bottom, getting brighter as they rise (Oxblood > Core Red > Molten > Flare). It stands for the brand idea: every layer builds on the last. Use it:
 
 - as a hero graphic or section divider
 - to show progress or a process (each layer one stage)

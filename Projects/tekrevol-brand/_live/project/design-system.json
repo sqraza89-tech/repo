@@ -1,0 +1,35 @@
+{
+  "v": 3,
+  "layout": "files",
+  "createdOnFiles": { "v": 1, "at": "2026-10-01T09:45:00Z" },
+  "title": "TekRevol",
+  "namespace": "TekRevol",
+  "libraries": [],
+  "sections": {},
+  "groups": ["Logos"],
+  "assetGroups": {
+    "Logos": {
+      "name": "Logos",
+      "tile": "l",
+      "order": [
+        "tekrevol-logo-refresh.svg",
+        "tekrevol-logo-refresh-white.svg",
+        "tekrevol-mark-refresh.svg",
+        "tekrevol-mark-refresh-white.svg",
+        "tekrevol-logo-current.svg",
+        "tekrevol-logo-current-white.svg"
+      ],
+      "files": {
+        "tekrevol-logo-refresh.svg": { "name": "tekrevol-logo-refresh.svg", "blob": "ca7f007af089d8b614881cd766639cce", "size": 1771, "type": "image/svg+xml" },
+        "tekrevol-logo-refresh-white.svg": { "name": "tekrevol-logo-refresh-white.svg", "blob": "80921668cebe5cf931073424c5d532f0", "size": 1771, "type": "image/svg+xml" },
+        "tekrevol-mark-refresh.svg": { "name": "tekrevol-mark-refresh.svg", "blob": "98c27eda0d176263306fc240af93a12c", "size": 546, "type": "image/svg+xml" },
+        "tekrevol-mark-refresh-white.svg": { "name": "tekrevol-mark-refresh-white.svg", "blob": "58e18da9091e6ebd9e927998f37bef8f", "size": 546, "type": "image/svg+xml" },
+        "tekrevol-logo-current.svg": { "name": "tekrevol-logo-current.svg", "blob": "4aa18b213ee7ee91e20e99ae9435cef7", "size": 1771, "type": "image/svg+xml" },
+        "tekrevol-logo-current-white.svg": { "name": "tekrevol-logo-current-white.svg", "blob": "32761f483b195a9d715a92a758b5a1ce", "size": 1771, "type": "image/svg+xml" }
+      }
+    }
+  },
+  "blobs": {},
+  "docs": { "sections": [] },
+  "lastChange": { "by": "Sana Qazi", "at": "2026-10-01T09:45:00Z", "via": "Claude Code", "note": "Proposed v1 brand system for the AI-first rebrand" }
+}

@@ -29,3 +29,11 @@ tags: [tekrevol, brand, rebrand, design-system]
 - [ ] Collect proof for the brand idea: year AI work started, AI projects shipped, RevAI milestones
 - [ ] Get TekRevol LinkedIn page, content calendar, KPIs, analytics access → fill profile TODOs
 - [ ] Next: homepage design / page templates from this system
+
+## v2 update (same day, from Sana's Pinterest moodboard)
+- Direction: futuristic, corporate, trustworthy, premium, classy → **"molten glass"**
+- Palette: Molten #FF4F0F, Core Red #E10600, Oxblood #4A0E0A, Flare #FF8A3D, Haze #F2D4CC + Carbon #0C0807, Graphite, Steel #6E7680, Chrome #DADAD8, Pearl #F2F1EF (light theme renamed paper → pearl)
+- Type: Unbounded + Archivo replaced by **Host Grotesk** (Medium 500 headlines, tight tracking) + JetBrains Mono
+- Imagery: molten glass, reeded light, glass objects (the TekRevol mark rendered in glass), light orbs, builders; prompts rewritten
+- New Molten component (gradient field + reeded overlay + white logo); white logo now allowed on molten backgrounds
+- Moodboard images used as inspiration only, not reproduced

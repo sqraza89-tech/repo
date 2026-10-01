@@ -82,7 +82,7 @@ List anything you couldn't verify under **Open questions** rather than softening
 
 ## Step 5 — Output
 
-Save to `Notes/YYYY-MM-DD-<brand>-blog-<slug>.md` using `references/output-template.md`
+Save to the brand profile's "Where deliverables go" folder (default `Notes/YYYY-MM-DD-<brand>-blog-<slug>.md`) using `references/output-template.md`
 (frontmatter per vault rules, SEO pack, the post, FAQ schema JSON-LD, promotion snippets, open questions).
 Produce a `.docx` only if the user asks, or it is going straight to design/dev.
 

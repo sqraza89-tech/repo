@@ -5,7 +5,7 @@ tags: [brand-profile, tekrevol]
 
 # Brand profile — TekRevol
 
-Filled 2026-10-01 from TekRevol's *Buyer Personas (AI-First)*, *Messaging and Positioning (AI-First)* and *ICP* workbook (originals in the user's Downloads), plus the live site. Brand system (proposed v2): https://claude.ai/artifact/HpisETnNbr4fyuqKkUWz5z, source files in `Projects/tekrevol-brand/project/`.
+Filled 2026-10-01 from TekRevol's *Buyer Personas (AI-First)*, *Messaging and Positioning (AI-First)* and *ICP* workbook (copies in `Projects/TekRevol/02-source-docs/`), plus the live site. Brand system (proposed v2): https://claude.ai/artifact/HpisETnNbr4fyuqKkUWz5z, source files in `Projects/TekRevol/01-brand-system/design-system/`; TekRevol source docs copied to `Projects/TekRevol/02-source-docs/`.
 
 ## Basics
 - **Website:** https://www.tekrevol.com · sitemap `/sitemap.xml` · blog `/blogs/`
@@ -71,4 +71,9 @@ Proposed v2 brand system "molten glass" (pending sign-off): Molten Orange #FF4F0
 TODO
 
 ## Where deliverables go
-`Notes/YYYY-MM-DD-tekrevol-<topic>.md`; brand files in `Projects/tekrevol-brand/`.
+Everything goes in `Projects/TekRevol/` (see its README.md):
+- blogs → `04-content/blogs/YYYY-MM-DD-<slug>.md`
+- LinkedIn → `04-content/linkedin/YYYY-MM-DD-<week>.md`
+- website → `03-website/`
+- reports → `05-reports/`
+- notes and decisions → `notes/YYYY-MM-DD-<topic>.md`

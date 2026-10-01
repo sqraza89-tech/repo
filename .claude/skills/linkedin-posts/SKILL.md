@@ -60,7 +60,7 @@ Video ~25–30s, 5–6 scenes.
 
 ## Step 5 — Output
 
-- **Batch (a week or more):** `Notes/YYYY-MM-DD-<brand>-linkedin-<week-or-range>.md` with, per post:
+- **Batch (a week or more):** the brand profile's "Where deliverables go" folder (default `Notes/YYYY-MM-DD-<brand>-linkedin-<week-or-range>.md`) with, per post:
   date · account · ICP · format · post text · visual brief for the designer (1–3 lines) · first comment · hashtags · CTA link.
 - **One post or a fix:** reply in chat only. Don't regenerate the calendar spreadsheet; the user pastes the changes in.
 - Only build or edit an `.xlsx` when the user asks for it.

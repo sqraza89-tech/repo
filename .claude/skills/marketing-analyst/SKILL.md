@@ -74,7 +74,7 @@ Sana on 2–3 h/day doing strategy not execution).
 
 ## Step 5 — Output
 
-Save `Notes/YYYY-MM-DD-<brand>-marketing-analysis-<scope>.md` using `references/report-template.md`.
+Save to the brand profile's "Where deliverables go" folder (default `Notes/YYYY-MM-DD-<brand>-marketing-analysis-<scope>.md`) using `references/report-template.md`.
 Then append the headline numbers to `Projects/marketing-analytics/<brand>-metrics-log.md`
 (create it if missing) so the next run can compare.
 

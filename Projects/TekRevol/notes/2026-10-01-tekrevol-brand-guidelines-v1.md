@@ -6,7 +6,7 @@ tags: [tekrevol, brand, rebrand, design-system]
 # TekRevol brand guidelines v1 (AI-first rebrand)
 
 **Live:** https://claude.ai/artifact/HpisETnNbr4fyuqKkUWz5z (private until shared)
-**Source files:** `Projects/tekrevol-brand/project/` · logo SVGs in `Projects/tekrevol-brand/logos/`
+**Source files:** `Projects/TekRevol/01-brand-system/design-system/` · logo SVGs in `Projects/TekRevol/01-brand-system/logos/`
 **Profile:** [[tekrevol]]
 
 ## Decisions taken in v1 (proposed, need sign-off)

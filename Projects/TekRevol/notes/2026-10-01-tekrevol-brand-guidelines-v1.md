@@ -48,3 +48,11 @@ tags: [tekrevol, brand, rebrand, design-system]
 - Rejected headline fonts: Archivo Expanded, Syne, Bricolage Grotesque, Unbounded (wide ones "feel like battery companies / Toshiba"); Host Grotesk too plain
 - Round 2 candidates: Funnel Display, Cabinet Grotesk, Clash Display, Geologica (sharp), Wix Madefor Display, Instrument Serif. Specimen: https://claude.ai/artifact/Fjt5fezUGewSwkuUTLc44D (source `01-brand-system/type-options.html`)
 - Deliverable format: guidelines to become a **Word .docx** in `01-brand-system/` (after font pick)
+
+## v3 decided (2026-10-01)
+- Headlines **Funnel Display**, text **Wix Madefor Text** (Sana liked A and E; combined), labels JetBrains Mono
+- Palette v3: White, Mist #EEEFEF, Silver #C9CCCF, Steel #8A9097, Muted #5E6166, Graphite #2E3034, Charcoal #1D1E21, Orange #FF5A00, Flare #FF8A3D, Ember #E2400B, Orange Ink #C23A00
+- Logo v3 fills: #FF5A00 / #FF8A3D / #E2400B, ink #1D1E21 (`01-brand-system/logos/*-v3.svg`)
+- Imagery: bright precision (machined layers, kinetic orange, builders, product in context); glass removed
+- Delivered as Word: `01-brand-system/TekRevol-Brand-Guidelines-v3.docx` (26 pages, fonts embedded). Build script was in the session scratchpad
+- The v2 design-system web page is now superseded

@@ -10,7 +10,9 @@ Everything made for TekRevol lives here.
 ## Folders
 | Folder | What goes in it |
 |---|---|
-| `01-brand-system/design-system/` | Source files of the brand guidelines (sections, tokens, components) |
+| `01-brand-system/TekRevol-Brand-Guidelines-v3.docx` | **The brand guidelines (current, Word)** |
+| `01-brand-system/fonts/`, `images/` | Brand font files (TTF) and the visuals used in the guidelines |
+| `01-brand-system/design-system/` | Older v2 web version source files (superseded by the Word doc) |
 | `01-brand-system/logos/` | Logo SVGs: refreshed (proposed) and current |
 | `02-source-docs/` | Docs TekRevol shared: buyer personas, messaging and positioning, ICP workbook (**ICP workbook has real prospect names, internal only**) |
 | `03-website/` | Website rebrand: page specs, homepage designs, copy |
@@ -20,11 +22,12 @@ Everything made for TekRevol lives here.
 | `notes/` | Working notes and decisions (`YYYY-MM-DD-topic.md`) |
 
 ## Key links
-- **Brand guidelines (live page):** https://claude.ai/artifact/HpisETnNbr4fyuqKkUWz5z (private until shared)
+- **Brand guidelines:** `01-brand-system/TekRevol-Brand-Guidelines-v3.docx`
+- Older v2 web page (superseded): https://claude.ai/artifact/HpisETnNbr4fyuqKkUWz5z · font comparison: https://claude.ai/artifact/Fjt5fezUGewSwkuUTLc44D
 - **Brand profile used by the skills:** `Reference/brands/tekrevol.md`
 - **Latest notes:** [[2026-10-01-tekrevol-brand-guidelines-v1]]
 
 ## Next steps
-- [ ] Review brand system v2 (colors, Host Grotesk, logo refresh)
-- [ ] Share the guidelines page with TekRevol stakeholders
-- [ ] Homepage hero mockup in the molten-glass style
+- [ ] Review guidelines v3 docx (Funnel Display + Wix Madefor Text, light palette, logo refresh)
+- [ ] Share the guidelines document with TekRevol stakeholders
+- [ ] Homepage hero mockup in the v3 light style

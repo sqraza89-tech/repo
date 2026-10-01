@@ -65,7 +65,7 @@ TODO (calendar, cadence, who posts)
 | ScienceSoft | scnsoft.com | "AI Transformation and Software Development", blue |
 
 ## Visual identity
-Proposed v2 brand system "molten glass" (pending sign-off): Molten Orange #FF4F0F, Core Red #E10600, Oxblood #4A0E0A on Carbon #0C0807, with Chrome #DADAD8 / Pearl #F2F1EF; Host Grotesk + JetBrains Mono; Strata, reeded glass, notch. Link above.
+Proposed v3 (Word): `Projects/TekRevol/01-brand-system/TekRevol-Brand-Guidelines-v3.docx`. Light-first: White / Mist #EEEFEF, Silver #C9CCCF, Steel #8A9097, Charcoal #1D1E21 text, TekRevol Orange #FF5A00 accent (Orange Ink #C23A00 for small text). Headlines Funnel Display, text Wix Madefor Text, labels JetBrains Mono. No glass imagery; metal + one orange focal point. Strata = machined metal layers, top layer orange; notch corner.
 
 ## Analytics access
 TODO

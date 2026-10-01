@@ -5,6 +5,8 @@ tags: [xloop, xsecurity, nepra, ot-security, navigation, seo, aeo, dev-handoff, 
 
 # xSecurity nav + NEPRA / OT Security — dev & design brief
 
+> **Current version is the Word doc:** `Notes/2026-10-01-xsecurity-nav-nepra-ot-security-brief-v1.0.docx` (Sana edits there).
+
 Based on the live site, checked 2026-10-01: `/`, `/services/cyber-security-service`,
 `/services/ai-security-service`, `/services/nepra`, `/industries/energy-and-utilities`,
 `/llms.txt`.

@@ -37,3 +37,6 @@ tags: [tekrevol, brand, rebrand, design-system]
 - Imagery: molten glass, reeded light, glass objects (the TekRevol mark rendered in glass), light orbs, builders; prompts rewritten
 - New Molten component (gradient field + reeded overlay + white logo); white logo now allowed on molten backgrounds
 - Moodboard images used as inspiration only, not reproduced
+
+## Folder decision (2026-10-01)
+- All TekRevol work now lives in `Projects/TekRevol/` (index: README.md); CLAUDE.md, the brand profile and the skills point there

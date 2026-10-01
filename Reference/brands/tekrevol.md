@@ -1,54 +1,74 @@
 ---
-date: 2026-09-30
+date: 2026-10-01
 tags: [brand-profile, tekrevol]
 ---
 
-# Brand profile — Tekrevol
+# Brand profile — TekRevol
 
-**Status: not filled in yet.** The skills will ask for these fields before producing Tekrevol
-content. Share Tekrevol's brand guidelines, ICP deck, content calendar and any approved claims,
-and this profile gets filled from them. Same structure as `_template.md`.
+Filled 2026-10-01 from TekRevol's *Buyer Personas (AI-First)*, *Messaging and Positioning (AI-First)* and *ICP* workbook (originals in the user's Downloads), plus the live site. Brand system (proposed v1): https://claude.ai/artifact/HpisETnNbr4fyuqKkUWz5z, source files in `Projects/tekrevol-brand/project/`.
 
 ## Basics
-- **Website:** TODO
-- **LinkedIn company page:** TODO
-- **Channels in scope:** TODO
-- **Markets / regions:** TODO
-- **Spelling standard:** TODO
+- **Website:** https://www.tekrevol.com · sitemap `/sitemap.xml` · blog `/blogs/`
+- **Brand name in text:** TekRevol (logo is all caps)
+- **Category:** AI-first software development company (parent category stays "software development")
+- **Markets:** mainly US; build experience in US, EU, Middle East
+- **Spelling:** US
+- **LinkedIn page / channels / cadence:** TODO
 
 ## What we sell
-- **Service lines / offerings (with page URLs):** TODO
-- **Offerings we must NOT imply we have:** TODO
+Four proposed AI-first pillars (**not final**: Decision D01 on Abeer's plan; don't publish as settled):
+1. AI-Native Software Development (mobile, web, custom software; finishing stalled AI-builder prototypes)
+2. Applied AI and Intelligent Automation (incl. home-based care products)
+3. Cloud, Data and AI Infrastructure
+4. Strategy and Team Extension
+
+Off-pillar, not on the homepage: game development, blockchain, digital marketing.
 
 ## ICPs
-| ID | ICP | Role / title | Main pains (their words) | Trigger to buy | Best CTA |
+| ID | ICP | Main worry | In their words | Leads with | CTA |
 |---|---|---|---|---|---|
-| ICP1 | TODO | | | | |
+| ICP1 | Founder (first product, often a stalled AI-builder prototype) | Getting burned again; scope and cost spiraling | "every existing app covers only 50 to 60% of what I need" | Trust | Low-pressure conversation |
+| ICP2 | SMB owner-operator | Quote ballooning; passed between contacts | "we want to launch it as soon as possible" | Speed, one point of contact | Direct, timeline stated up front |
+| ICP3 | Mid-market champion (can't sign) | Defending a deal to someone not in the room | "I'm more of the bearer of news" | Something to take upstairs | One-page summary built to forward |
+| ICP4 | Mid-market approver (never on calls) | Compliance, security, vendor risk | (no quote: never on calls) | Compliance named plainly | None direct; supports the champion |
 
-## Goals this quarter
-- **Business goal:** TODO
-- **Marketing KPIs:** TODO
-- **Live conversion points:** TODO
+Flagship vertical: **home-based care** (Home Health, Home Care, Behavioral Health IOP/PHP), compliance-first ("Built for HIPAA from the first sprint"). Hub page `/home-based-care` not live yet.
 
-## Voice
-- **Voice attributes:** TODO
-- **Avoid:** TODO
-- **How Tekrevol must sound different from xLoop:** TODO
+## Goals
+- Reposition from app/digital-transformation shop to AI-first software development
+- Website rebrand built on the new brand system
+- Live conversion points / KPIs: TODO
+
+## Voice (proposed, not signed off)
+- Clear, direct, specific; sounds like a sharp in-house engineer. Target example: "you want architectural truth, not a pitch"
+- **No em dashes.** Active voice. No rule-of-three stacks, no "whether X, Y, or Z", no false "from X to Y" ranges
+- Never hedge the audience ("from startups to enterprises")
+- Name the situation, never a rival, platform or AI tool
+- Full rules: brand system section 8
 
 ## Claims and proof
-- **Approved claims / proof:** TODO
-- **Never say / never name:** TODO
+- **Safe:** 800+ apps/products · 98% client satisfaction · 10 years · 4.8/5 Clutch · Clutch Top 1000, Right Firms, Top Developers, Expertise, Inc. 5000, Horizon Award Gold/Silver, Software World · GDPR/CCPA, secure SDLC, private LLMs with PII redaction (RevAI), PCI DSS / HIPAA / SOC 2 experience
+- **Named case studies:** Kinder Morgan (data platform, 40% operational efficiency), Rehkempers (truss pricing across 4 plants), Pure Plank (20,000+ users), Rise Up Kings (1,000+ users)
+- **Not yet:** Lovable partner listing (until live) · home-based care product names (Rivana/CareOS naming unresolved) · pillar names as final · any speed/cost claim from AI-assisted delivery · mid-market in lead-capture copy
+- **Never:** prospect names or stories from sales-call transcripts (the ICP workbook contains real names: internal only) · competitor names in copy (Belitsoft slip happened once)
 
 ## Content plan
-- **Calendar file:** TODO
-- **Cadence:** TODO
-- **Who posts (with exact titles):** TODO
+TODO (calendar, cadence, who posts)
 
 ## Competitors
-TODO
+| Competitor | Website | Note (Oct 2026) |
+|---|---|---|
+| LeewayHertz | leewayhertz.com | "AI development company", blue |
+| Azumo | azumo.com | "The Software Development Company for AI", blue |
+| Cheesecake Labs | cheesecakelabs.com | Also the design reference: near-black, electric blue, condensed type, mono labels |
+| HatchWorks AI | hatchworks.com | "Less AI Hype. More Results.", dark + teal |
+| ScienceSoft | scnsoft.com | "AI Transformation and Software Development", blue |
+
+## Visual identity
+Proposed v1 brand system (pending sign-off): Signal Orange #FF5A1F on warm carbon #0F0D0C; Unbounded / Archivo / JetBrains Mono; Strata layered motif; notch corner. Link above.
 
 ## Analytics access
 TODO
 
 ## Where deliverables go
-`Notes/YYYY-MM-DD-tekrevol-<topic>.md`
+`Notes/YYYY-MM-DD-tekrevol-<topic>.md`; brand files in `Projects/tekrevol-brand/`.

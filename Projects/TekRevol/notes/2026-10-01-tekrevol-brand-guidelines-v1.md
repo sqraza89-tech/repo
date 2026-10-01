@@ -40,3 +40,11 @@ tags: [tekrevol, brand, rebrand, design-system]
 
 ## Folder decision (2026-10-01)
 - All TekRevol work now lives in `Projects/TekRevol/` (index: README.md); CLAUDE.md, the brand profile and the skills point there
+
+## v3 direction (2026-10-01, Sana feedback)
+- Drop the glass/molten-glass imagery: overused
+- Light-first: clean, futuristic, modern white and grey backgrounds, charcoal text, bright orange accent, metallic silver/grey touch. No grey or metallic-gradient headline text
+- Headline font needs personality (bold but elegant, memorable, not tacky); body stays simple
+- Rejected headline fonts: Archivo Expanded, Syne, Bricolage Grotesque, Unbounded (wide ones "feel like battery companies / Toshiba"); Host Grotesk too plain
+- Round 2 candidates: Funnel Display, Cabinet Grotesk, Clash Display, Geologica (sharp), Wix Madefor Display, Instrument Serif. Specimen: https://claude.ai/artifact/Fjt5fezUGewSwkuUTLc44D (source `01-brand-system/type-options.html`)
+- Deliverable format: guidelines to become a **Word .docx** in `01-brand-system/` (after font pick)

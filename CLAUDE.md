@@ -4,7 +4,7 @@ This is a notes/knowledge vault — markdown notes, references, and project fold
 
 ## How to work here
 
-- Every new document goes in `Notes/`
+- Every new document goes in `Notes/`, except TekRevol work: everything for TekRevol goes in `Projects/TekRevol/` (see its README for subfolders)
 - File naming: `YYYY-MM-DD-topic-name.md`
 - Every file starts with frontmatter:
 

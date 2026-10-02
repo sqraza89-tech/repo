@@ -132,3 +132,9 @@ supports regulatory audits.
 - The "Rewrite or remove" table row was replaced with final Telecom/Banking/Power & Energy copy
 - The hover text on all 7 service cards is missing from the server HTML. Dev should render it in the HTML and reveal it with CSS
 - **Current brief: `Notes/2026-10-02-xsecurity-nav-nepra-ot-security-brief-v1.1.docx`** (supersedes v1.0, JSON-LD in Appendix A)
+
+## Proposed (pending Sana's OK): Energy & Utilities card replaces Power & Energy
+The industry card would be named after the existing Energy & Utilities industry page, and it keeps oil and gas coverage:
+> **Energy & Utilities** — We secure power, utility and oil and gas operators across IT and OT, from corporate networks to SCADA and plant controllers. For Pakistan's power sector, we align the work to NEPRA's IT/OT Regulations, 2022. → NEPRA IT/OT compliance (`/services/nepra`)
+
+NEPRA is tied to power only (it doesn't apply to oil and gas). If Sana approves, it goes into brief v1.2.

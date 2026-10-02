@@ -125,3 +125,10 @@ supports regulatory audits.
 - [ ] The footer lists 4 offices (Pakistan, USA, Dubai, Qatar), but the NEPRA "Why xLoop" card says "eight countries". Pick one number before the page gets nav traffic
 - [ ] "roughly three weeks" is still unconfirmed by sales, but it's live and in the schema
 - [ ] Update the Word brief to v1.1 with these answers, if it's going around again
+
+## Design follow-up (Omais, 2 Oct)
+- The OT & SCADA card is a **hover card** (no link). The final hover text is: "Passively assess SCADA, PLCs and plant networks without disrupting operations." (10 words)
+- The "Power sector in Pakistan?" line was dropped from the OT card. The NEPRA link is now a text link at the end of the **Power & Energy** industry card
+- The "Rewrite or remove" table row was replaced with final Telecom/Banking/Power & Energy copy
+- The hover text on all 7 service cards is missing from the server HTML. Dev should render it in the HTML and reveal it with CSS
+- **Current brief: `Notes/2026-10-02-xsecurity-nav-nepra-ot-security-brief-v1.1.docx`** (supersedes v1.0, JSON-LD in Appendix A)

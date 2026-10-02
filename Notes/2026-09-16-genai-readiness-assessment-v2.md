@@ -5,6 +5,10 @@ tags: [xloop, ai-readiness-assessment, lead-capture, competitive-analysis]
 
 # GenAI Readiness Assessment v2: competitive review and redesign
 
+> **Superseded on 2026-10-02 by [[2026-10-02-xloop-data-ai-readiness-assessment-v3]]** — the tool is now
+> a Data & AI diagnostic with three scores (Data Foundation · AI Delivery · Safe to Scale). Don't cite the
+> two-score design below.
+
 Workbook: `Notes/2026-09-16-genai-readiness-assessment-v2.xlsx` (9 tabs). It replaces
 `Downloads/Gen_AI_Readiness_Assessment_FINAL.xlsx` (v1), which is left unchanged.
 

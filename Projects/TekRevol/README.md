@@ -10,7 +10,8 @@ Everything made for TekRevol lives here.
 ## Folders
 | Folder | What goes in it |
 |---|---|
-| `01-brand-system/TekRevol-Brand-Guidelines-v3.docx` | **The brand guidelines (current, Word)** |
+| `01-brand-system/TekRevol-Brand-Guidelines-v4.docx` (+ .pdf) | **The brand guidelines (current)**; v3 kept for reference |
+| `01-brand-system/samples/`, `strata/`, `tokens/`, `logos/png/` | Brand-in-use samples, Strata files, design tokens JSON, logo PNGs and favicons |
 | `01-brand-system/fonts/`, `images/` | Brand font files (TTF) and the visuals used in the guidelines |
 | `01-brand-system/design-system/` | Older v2 web version source files (superseded by the Word doc) |
 | `01-brand-system/logos/` | Logo SVGs: refreshed (proposed) and current |
@@ -22,12 +23,13 @@ Everything made for TekRevol lives here.
 | `notes/` | Working notes and decisions (`YYYY-MM-DD-topic.md`) |
 
 ## Key links
-- **Brand guidelines:** `01-brand-system/TekRevol-Brand-Guidelines-v3.docx`
+- **Brand guidelines:** `01-brand-system/TekRevol-Brand-Guidelines-v4.docx`
 - Older v2 web page (superseded): https://claude.ai/artifact/HpisETnNbr4fyuqKkUWz5z · font comparison: https://claude.ai/artifact/Fjt5fezUGewSwkuUTLc44D
 - **Brand profile used by the skills:** `Reference/brands/tekrevol.md`
 - **Latest notes:** [[2026-10-01-tekrevol-brand-guidelines-v1]]
 
 ## Next steps
-- [ ] Review guidelines v3 docx (Funnel Display + Wix Madefor Text, light palette, logo refresh)
+- [ ] Review guidelines v4 docx and samples
+- [ ] Generate photography in ChatGPT with the prompt kit (section 8) and send for the doc
 - [ ] Share the guidelines document with TekRevol stakeholders
 - [ ] Homepage hero mockup in the v3 light style

@@ -62,3 +62,13 @@ tags: [tekrevol, brand, rebrand, design-system]
 - Fixes applied to her v4: em dashes removed; UK→US spelling; invented voice examples replaced (40% NLP stat, blockchain provenance, "ship in 12 weeks"); Strata math fixed (min 8 px height, centered peak, 5-layer standard); button padding 10→12 px (4 px grid); Dark Border fails 3:1 for inputs → added Dark Control #6E727A; Data label orange → Orange Ink; one font-loading method; Midjourney typo; files list split into ready vs to-produce; Ember rule clarified (logo exempt); video opener as motion graphic
 - New assets: `samples/` (homepage, mobile, LinkedIn, dark slide, business cards), `strata/` 3/5/7 SVG+PNG, `logos/png/` + favicons, `tokens/tekrevol-tokens.json`
 - Image generation: no ChatGPT connector; Figma Weave needs Figma account linked at app.weavy.ai. Photography to come via ChatGPT using the prompt kit
+
+## v5 direction (2026-10-05, Sana feedback on v4)
+- Rejected v4 visuals: brushed-metal staircase + imagery look "old and retro"
+- Glass is back (restrained, for depth/panels), not "no glass at all"
+- New direction: echo AI architecture: flows, layers, nodes, graphs; simple, clean, modern, concise
+- Reference: "BTC" (an xLoop competitor) architecture visuals on their site; URL requested from Sana
+- Next: 2-3 hero/diagram samples before touching the doc
+
+- BTC = BluTech Consulting (blutechconsulting.com). Their style: blue + near-black, blueprint grid, mono-caps icon nodes, orthogonal dotted connectors, stage headers (Understand/Orchestrate/Execute), per-service mini flows
+- TekRevol v5 direction samples (2026-10-05) in `01-brand-system/samples-v5/`: light hero with frosted-glass architecture stack (Data > Models > Agents > Product) + one orange active path; service cards with mini flows; dark prototype-to-production slide (Audit > Stabilize > Rebuild > Scale). Awaiting Sana feedback before rebuilding the doc. Render script was in the session scratchpad (render3.js)

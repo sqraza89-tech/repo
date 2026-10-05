@@ -84,3 +84,5 @@ tags: [tekrevol, brand, rebrand, design-system]
 - Decisions: Orange **#FF4A1C** (Sana chose Option A); two variants **Cyan** (complement #3EC5D1, rule "cyan explores, orange ships") and **Mono**; navy rejected (retro). Backgrounds: Sana liked isometric layers, circuit grid, data streams but "Tek is not about data" -> patterns reframed: Experiment field, Iteration lines, Layer planes
 - New positioning line: "Young in approach. Enterprise in output." Brand idea "Structured chaos" + tagline "Better with every layer". Sixth trait "Curious" added from the handbook values
 - Files: `01-brand-system/deck-v6/TekRevol-Brand-Guidelines-Cyan.pptx/.pdf` and `-Mono.pptx/.pdf`, 28 slides, native editable text/shapes, fonts embedded. Official fonts in `fonts/official/` (installed for Sana user on this PC with her approval). Build script deck2.js in session scratchpad
+
+- 2026-10-05: image prompts for designer/ChatGPT saved in `01-brand-system/2026-10-05-image-prompts-for-designer.md` (5 prompts + bonus, mapped to v6 slides). Sana will show both Cyan and Mono decks

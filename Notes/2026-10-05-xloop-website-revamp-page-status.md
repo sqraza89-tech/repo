@@ -18,9 +18,9 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - Data & AI Readiness Assessment v3 design (2 Oct). The tool is not built
 - Footer v2 (Aug)
 - Data Analytics & Engineering v1 (5 Oct) — `Notes/2026-10-05-xloop-data-analytics-page-content-v1.docx`
+- Cloud & Hyperscaling v1 (5 Oct) — `Notes/2026-10-05-xloop-cloud-hyperscaling-page-content-v1.docx`
 
 ## Not written yet
-- Cloud & Hyperscaling
 - Digital Engineering (new child of Digital Transformation; strip the Data, Cloud and AI/ML cards from the live page)
 - Web & App Development (no brief found, only a one-pager PDF)
 - Mining industry page. Blocked: Harmony Gold details and naming permission
@@ -38,7 +38,7 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 
 ## Next steps
 - [x] Data Analytics (5 Oct)
-- [ ] Cloud & Hyperscaling (finishes the Digital Transformation group with Legacy)
+- [x] Cloud & Hyperscaling (5 Oct)
 - [ ] Digital Engineering + Web & App Development
 - [ ] Applied AI Solutions + AI Consulting fixes
 - [ ] xLab hub/products + case study pages (Release 2, by 30 Nov)

@@ -8,10 +8,10 @@ tags: [room-parent, personal]
 Read by the `room-parent` skill every time. Fill in the TODOs; the skill asks for any it needs.
 
 ## Basics
-- **School:** TODO
-- **Class / grade / section:** TODO
+- **School:** IVY (ivy.edu.pk)
+- **Class / grade / section:** Grade 1, Bird Guardians 1 (BG-1)
 - **My role:** Room parent (TODO: shared with anyone?)
-- **Class teacher(s):** TODO (how parents address them, e.g. "Ms. ___")
+- **Class teacher(s):** Ms Nayyar (homeroom teacher)
 - **WhatsApp group name:** TODO
 - **Number of families:** TODO
 

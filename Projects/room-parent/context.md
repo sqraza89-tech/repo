@@ -9,9 +9,9 @@ Read by the `room-parent` skill every time. Fill in the TODOs; the skill asks fo
 
 ## Basics
 - **School:** IVY (ivy.edu.pk)
-- **Class / grade / section:** Grade 1, Bird Guardians 1 (BG-1)
+- **Class / grade / section:** Grade 1, Bird Guardians section BG-3 (school emails say "Bird Guardians 1" = Grade 1 Bird Guardians, not section 1)
 - **My role:** Room parent (TODO: shared with anyone?)
-- **Class teacher(s):** Ms Nayyar (homeroom teacher)
+- **Class teacher(s):** Ms Nayyar (BG-3 homeroom teacher)
 - **WhatsApp group name:** TODO
 - **Number of families:** TODO
 

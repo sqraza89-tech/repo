@@ -69,7 +69,8 @@ Source: `03_icp/icp_master.md`, `03_icp/buyer_personas.md` (buyer phrases), `03_
 - Dates are always written with the weekday + full year (e.g. Mon 6 Oct 2026)
 
 ## Competitors
-TODO — no named competitor list exists yet. Sana to supply 3–5 names (regional + global).
+- **BTC — Blutech Consulting** (blutechconsulting.com), confirmed by Sana 2026-10-05. Data & AI, Intelligent Automation, Entellica agentic AI suite. Strong named bank/telco testimonials (HBL, Allied Bank, STC); weak SEO (generic sitewide title/meta, no schema, no FAQ, animated counters render "0+"). No legacy modernization page as of 2026-10-05
+- Others still TODO — Sana to supply regional + global names.
 Until then, the analyst skill proposes candidates from search results and asks for confirmation.
 
 ## Analytics access

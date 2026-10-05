@@ -77,3 +77,10 @@ tags: [tekrevol, brand, rebrand, design-system]
 - `01-brand-system/deck/TekRevol-Brand-Guidelines.pdf` + `.pptx` (29 slides, 16:9). Combines v4 system (palette, Funnel Display + Wix Madefor Text, voice, dark mode) with v5 architecture graphic language (glass layer stack, flow diagrams, one orange path, blueprint grid, notch)
 - Slides are full-bleed images rendered with the real fonts (fidelity on any machine; text not editable in PowerPoint). Sources: `deck/slides/*.png`; build script deck.js was in the session scratchpad
 - Sana chose this over Gamma; deadline was same day. Website is a later phase
+
+## v6 editable decks (2026-10-05, after Sana feedback on the image deck)
+- Feedback: same architecture repeated; orange brighter/redder; competitor slide needed a complementary color; content must be editable; grid background forgettable; not different enough from the existing brand; old brand books (2 handbooks, ~2019) were better executed
+- Old handbooks (OCR): "TekRevolution", structured chaos, individualistic collectivism, Learn > Ideate > Iterate > Incubate > Scale, courage/"audacity to try", constant flux. Design: bold red color blocking, condensed headlines, checkerboard values, particle imagery
+- Decisions: Orange **#FF4A1C** (Sana chose Option A); two variants **Cyan** (complement #3EC5D1, rule "cyan explores, orange ships") and **Mono**; navy rejected (retro). Backgrounds: Sana liked isometric layers, circuit grid, data streams but "Tek is not about data" -> patterns reframed: Experiment field, Iteration lines, Layer planes
+- New positioning line: "Young in approach. Enterprise in output." Brand idea "Structured chaos" + tagline "Better with every layer". Sixth trait "Curious" added from the handbook values
+- Files: `01-brand-system/deck-v6/TekRevol-Brand-Guidelines-Cyan.pptx/.pdf` and `-Mono.pptx/.pdf`, 28 slides, native editable text/shapes, fonts embedded. Official fonts in `fonts/official/` (installed for Sana user on this PC with her approval). Build script deck2.js in session scratchpad

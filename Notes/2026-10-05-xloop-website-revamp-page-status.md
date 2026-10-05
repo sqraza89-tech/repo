@@ -17,9 +17,9 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - xSecurity hub + Cybersecurity + NEPRA (Aug content, plus the 2 Oct nav/NEPRA brief v1.2)
 - Data & AI Readiness Assessment v3 design (2 Oct). The tool is not built
 - Footer v2 (Aug)
+- Data Analytics & Engineering v1 (5 Oct) — `Notes/2026-10-05-xloop-data-analytics-page-content-v1.docx`
 
 ## Not written yet
-- Data Analytics. Source to start from: `Downloads/Data Analytics & Business Intelligence.docx`
 - Cloud & Hyperscaling
 - Digital Engineering (new child of Digital Transformation; strip the Data, Cloud and AI/ML cards from the live page)
 - Web & App Development (no brief found, only a one-pager PDF)
@@ -37,7 +37,8 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - xCrowdIQ (experimental) and xVoltIQ (possible partner outcomes): check before featuring
 
 ## Next steps
-- [ ] Data Analytics → Cloud & Hyperscaling (finishes the Digital Transformation group with Legacy)
+- [x] Data Analytics (5 Oct)
+- [ ] Cloud & Hyperscaling (finishes the Digital Transformation group with Legacy)
 - [ ] Digital Engineering + Web & App Development
 - [ ] Applied AI Solutions + AI Consulting fixes
 - [ ] xLab hub/products + case study pages (Release 2, by 30 Nov)

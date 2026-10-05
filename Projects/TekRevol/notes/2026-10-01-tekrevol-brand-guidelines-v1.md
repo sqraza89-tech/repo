@@ -72,3 +72,8 @@ tags: [tekrevol, brand, rebrand, design-system]
 
 - BTC = BluTech Consulting (blutechconsulting.com). Their style: blue + near-black, blueprint grid, mono-caps icon nodes, orthogonal dotted connectors, stage headers (Understand/Orchestrate/Execute), per-service mini flows
 - TekRevol v5 direction samples (2026-10-05) in `01-brand-system/samples-v5/`: light hero with frosted-glass architecture stack (Data > Models > Agents > Product) + one orange active path; service cards with mini flows; dark prototype-to-production slide (Audit > Stabilize > Rebuild > Scale). Awaiting Sana feedback before rebuilding the doc. Render script was in the session scratchpad (render3.js)
+
+## FINAL for submission (2026-10-05): brand guidelines deck
+- `01-brand-system/deck/TekRevol-Brand-Guidelines.pdf` + `.pptx` (29 slides, 16:9). Combines v4 system (palette, Funnel Display + Wix Madefor Text, voice, dark mode) with v5 architecture graphic language (glass layer stack, flow diagrams, one orange path, blueprint grid, notch)
+- Slides are full-bleed images rendered with the real fonts (fidelity on any machine; text not editable in PowerPoint). Sources: `deck/slides/*.png`; build script deck.js was in the session scratchpad
+- Sana chose this over Gamma; deadline was same day. Website is a later phase

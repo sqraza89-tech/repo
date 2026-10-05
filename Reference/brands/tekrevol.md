@@ -65,7 +65,7 @@ TODO (calendar, cadence, who posts)
 | ScienceSoft | scnsoft.com | "AI Transformation and Software Development", blue |
 
 ## Visual identity
-Proposed v4 (Word + PDF): `Projects/TekRevol/01-brand-system/TekRevol-Brand-Guidelines-v4.docx`; adds a dark mode (Deep Charcoal #131417). Light-first: White / Mist #EEEFEF, Silver #C9CCCF, Steel #8A9097, Charcoal #1D1E21 text, TekRevol Orange #FF5A00 accent (Orange Ink #C23A00 for small text). Headlines Funnel Display, text Wix Madefor Text, labels JetBrains Mono. No glass imagery; metal + one orange focal point. Strata = machined metal layers, top layer orange; notch corner.
+Current: brand guidelines deck `Projects/TekRevol/01-brand-system/deck/TekRevol-Brand-Guidelines.pdf` (Oct 2026). Graphic language: frosted-glass layer stack (Data > Models > Agents > Product), flow diagrams, one orange active path, blueprint grid; adds a dark mode (Deep Charcoal #131417). Light-first: White / Mist #EEEFEF, Silver #C9CCCF, Steel #8A9097, Charcoal #1D1E21 text, TekRevol Orange #FF5A00 accent (Orange Ink #C23A00 for small text). Headlines Funnel Display, text Wix Madefor Text, labels JetBrains Mono. No glass imagery; metal + one orange focal point. Strata = machined metal layers, top layer orange; notch corner.
 
 ## Analytics access
 TODO

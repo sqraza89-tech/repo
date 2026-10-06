@@ -18,7 +18,7 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - Data & AI Readiness Assessment v3 design (2 Oct). The tool is not built
 - Footer v2 (Aug)
 - Data Analytics & Engineering v1 (5 Oct) — `Notes/2026-10-05-xloop-data-analytics-page-content-v1.docx`
-- Cloud & Hyperscaling v1 (5 Oct) — `Notes/2026-10-05-xloop-cloud-hyperscaling-page-content-v1.docx`
+- Cloud & Hyperscaling v1.1 (6 Oct, sections 3–4 reworked after Irfan's review; [CONFIRM] items pending him) — `Notes/2026-10-06-xloop-cloud-hyperscaling-page-content-v1.1.docx`
 
 ## Not written yet
 - Digital Engineering (new child of Digital Transformation; strip the Data, Cloud and AI/ML cards from the live page)

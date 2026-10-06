@@ -86,3 +86,5 @@ tags: [tekrevol, brand, rebrand, design-system]
 - Files: `01-brand-system/deck-v6/TekRevol-Brand-Guidelines-Cyan.pptx/.pdf` and `-Mono.pptx/.pdf`, 28 slides, native editable text/shapes, fonts embedded. Official fonts in `fonts/official/` (installed for Sana user on this PC with her approval). Build script deck2.js in session scratchpad
 
 - 2026-10-05: image prompts for designer/ChatGPT saved in `01-brand-system/2026-10-05-image-prompts-for-designer.md` (5 prompts + bonus, mapped to v6 slides). Sana will show both Cyan and Mono decks
+
+- 2026-10-06: Sana generated the ChatGPT images; drop folder `01-brand-system/ai-images/` (named by prompt number, e.g. 1-cover.png). Next: place them into both v6 decks (editable), verify renders

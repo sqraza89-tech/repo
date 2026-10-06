@@ -10,7 +10,9 @@ Everything made for TekRevol lives here.
 ## Folders
 | Folder | What goes in it |
 |---|---|
-| `01-brand-system/deck-v6/` | **The brand guidelines (current): editable Cyan and Mono decks, PPTX + PDF** |
+| `01-brand-system/deck-v7/` | **The brand guidelines (current): editable Cyan and Mono decks with AI images, PPTX + PDF** |
+| `01-brand-system/deck-v6/` | Previous editable decks (no photography) |
+| `01-brand-system/ai-images/` | Approved AI-generated images used in the decks |
 | `01-brand-system/deck/` | Earlier image-based deck (superseded) |
 | `01-brand-system/TekRevol-Brand-Guidelines-v4.docx` | Earlier Word version (superseded by the deck) |
 | `01-brand-system/samples/`, `strata/`, `tokens/`, `logos/png/` | Brand-in-use samples, Strata files, design tokens JSON, logo PNGs and favicons |
@@ -25,7 +27,7 @@ Everything made for TekRevol lives here.
 | `notes/` | Working notes and decisions (`YYYY-MM-DD-topic.md`) |
 
 ## Key links
-- **Brand guidelines:** `01-brand-system/deck-v6/` (Cyan and Mono)
+- **Brand guidelines:** `01-brand-system/deck-v7/` (Cyan and Mono)
 - Older v2 web page (superseded): https://claude.ai/artifact/HpisETnNbr4fyuqKkUWz5z · font comparison: https://claude.ai/artifact/Fjt5fezUGewSwkuUTLc44D
 - **Brand profile used by the skills:** `Reference/brands/tekrevol.md`
 - **Latest notes:** [[2026-10-01-tekrevol-brand-guidelines-v1]]

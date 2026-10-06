@@ -88,3 +88,8 @@ tags: [tekrevol, brand, rebrand, design-system]
 - 2026-10-05: image prompts for designer/ChatGPT saved in `01-brand-system/2026-10-05-image-prompts-for-designer.md` (5 prompts + bonus, mapped to v6 slides). Sana will show both Cyan and Mono decks
 
 - 2026-10-06: Sana generated the ChatGPT images; drop folder `01-brand-system/ai-images/` (named by prompt number, e.g. 1-cover.png). Next: place them into both v6 decks (editable), verify renders
+
+## v7 decks with AI images (2026-10-06)
+- Sana provided 5 ChatGPT images in `01-brand-system/ai-images/` (1-cover, 2-layers, 3-Chaos, 4-orbs, 5-team)
+- Placed: cover=1, Structured chaos=3, Logo-and-color divider=2, imagery slide=5 (marked AI mood image), closing=4; new Image library slide (29 slides total)
+- Files: `01-brand-system/deck-v7/TekRevol-Brand-Guidelines-Cyan.pptx/.pdf` and `-Mono`, editable, fonts embedded. Build script deck3.js in session scratchpad

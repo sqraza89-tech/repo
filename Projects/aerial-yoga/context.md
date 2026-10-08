@@ -36,4 +36,5 @@ Asana version (assumed until confirmed): tea welcome → gentler warm-up → flo
 longer stretches → flow → restorative / cocoon savasana → cold towels.
 
 ## Safety source
-- Training body / manual: TODO — safety rules, contraindications and spotting come from here, not general knowledge
+- Not certified; ~2 years training with Komal. Safety source: `safety.md`. Teaching material: `pose-library.md`, `teaching-handbook.md`, `program-12-weeks.md`
+- Sana's own goals: reliable, varied classes; challenging and inspiring for the women; a sense of accomplishment; strength + mobility over time; build her cueing vocabulary

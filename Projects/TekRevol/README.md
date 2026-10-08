@@ -31,6 +31,7 @@ Everything made for TekRevol lives here.
 - Older v2 web page (superseded): https://claude.ai/artifact/HpisETnNbr4fyuqKkUWz5z · font comparison: https://claude.ai/artifact/Fjt5fezUGewSwkuUTLc44D
 - **Brand profile used by the skills:** `Reference/brands/tekrevol.md`
 - **Latest notes:** [[2026-10-01-tekrevol-brand-guidelines-v1]]
+- **Site architecture proposal (awaiting Sana approval):** `03-website/2026-10-08-site-architecture-proposal.md` (situation-led /start/ pages + versioned Build Standard, 5 Strata layers)
 - **Homepage copy v1 (current):** `03-website/TekRevol-Homepage-Copy-v1.docx` (Combo A hero; Sana drafting more hooks) · working notes `03-website/2026-10-08-homepage-structure-and-copy.md` · audit: `05-reports/2026-10-08-homepage-competitor-seo-aeo-audit.md` (llms.txt facts conflict with site; [CONFIRM] items open)
 
 ## Next steps

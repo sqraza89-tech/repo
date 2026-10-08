@@ -22,7 +22,7 @@ and `marketing-analyst`. A `TODO` means ask before relying on it. Never carry an
 - **Asana Wellness:** 2 classes/week · 9 hammocks · beginner to intermediate · wellness focus (herbal tea to start, cold towels)
 - Class length, days and times: TODO
 - Private sessions / workshops: TODO (don't advertise until confirmed)
-- **Must NOT imply:** therapy, medical or injury-rehab outcomes; certifications not yet held
+- **Must NOT imply:** therapy, medical or injury-rehab outcomes; any certification
 
 ## Students (ICPs)
 | ID | Who | Their words | What moves them | Best CTA |
@@ -39,7 +39,7 @@ and `marketing-analyst`. A `TODO` means ask before relying on it. Never carry an
 - Example of on-brand copy: TODO (Sana to approve one)
 
 ## Claims and proof
-- Certification / training body: TODO
+- Certification: **none** — 2 years training with Komal Khaqan. Never call Sana "certified". Honest framing: "trained with Komal for two years"
 - Mentioning Komal publicly (handover posts): TODO — confirm Komal and both studios are OK with it
 - Student photos/videos: only with the student's consent
 

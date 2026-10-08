@@ -16,11 +16,18 @@ tags: [aerial-yoga, personal-brand, skills, lesson-plans]
 - Brand profile: `Reference/brands/sanadefiesgravity.md`
 - Teaching context + class structure: `Projects/aerial-yoga/context.md`
 - Skills: `aerial-lesson-plan`, `instagram-posts` (registered in CLAUDE.md)
-- Safety content must come from the training manual (`Projects/aerial-yoga/safety.md`, not built yet)
+- Safety baseline: `Projects/aerial-yoga/safety.md` (common studio practice; no training manual)
 
 ## Next steps
 - [ ] Class length, days and times per studio
 - [ ] Confirm Asana format (tea, cold towels) with Komal or the studio
-- [ ] Share training body + manual → build `Projects/aerial-yoga/safety.md`
 - [ ] Confirm whether Komal is OK being named in handover posts; booking route per studio
 - [ ] Approve an on-brand example caption
+
+## Update — teaching material (2026-10-08)
+- Sana is not certified (~2 yrs training with Komal); her main gap is cueing vocabulary
+- Built: `Projects/aerial-yoga/safety.md`, `pose-library.md`, `teaching-handbook.md` (cue formula, word bank, scripts), `program-12-weeks.md` (Nov–Jan skill-of-the-month blocks)
+- [ ] First aid + CPR course before Nov
+- [ ] Ask both studios about insurance cover + a waiver/health form
+- [ ] Rigging walkthrough with Komal at each studio
+- [ ] Practise the inversion + opening scripts out loud

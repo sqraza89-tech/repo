@@ -11,9 +11,9 @@ and safe for a mixed beginner–intermediate room. Sana teaches from them, so ke
 ## Step 1 — Load context
 
 1. Read `Projects/aerial-yoga/context.md` (studios, hammock counts, levels, class structure).
-2. Read `Projects/aerial-yoga/safety.md` if it exists. It is built from Sana's training manual and
-   **overrides general knowledge**. If it doesn't exist, mark the safety block "check against your
-   training" and never present contraindications or spotting rules as authoritative.
+2. Read `Projects/aerial-yoga/safety.md` (safety source; Sana is not certified, so it is built from common studio practice — keep the safety block in every plan and default to the easier option).
+   Use `pose-library.md` for pose names and cues, `teaching-handbook.md` for cue wording and scripts,
+   and `program-12-weeks.md` for this week's skill of the month, strength and mobility focus.
 3. Check `Projects/aerial-yoga/lesson-plans/` for recent plans so drills progress week to week and
    flows don't repeat.
 4. If class length is still `TODO`, ask once and save the answer in `context.md`.
@@ -46,6 +46,8 @@ Rules:
 - Drills progress across weeks (link the previous plan); don't jump steps
 - Partner poses: pair by size/level, say who bases and who flies
 - 8 hammocks at Dynamik, 9 at Asana: say what any extra students do if the class is over capacity
+- Write the actual words Sana will say (scripts + cues), not just pose names; she is building her teaching vocabulary
+- Only use skills from pose-library.md; anything new must also be added there
 - Keep pose names consistent across plans (English name, plus Sanskrit/aerial name if common)
 
 ## Step 4 — Output

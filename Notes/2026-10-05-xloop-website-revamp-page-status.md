@@ -18,11 +18,11 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - Data & AI Readiness Assessment v3 design (2 Oct). The tool is not built
 - Footer v2 (Aug)
 - Data Analytics & Engineering v1 (5 Oct) — `Notes/2026-10-05-xloop-data-analytics-page-content-v1.docx`
-- Cloud & Hyperscaling v1.2 (8 Oct, all items confirmed by Irfan, ready for design) — `Notes/2026-10-08-xloop-cloud-hyperscaling-page-content-v1.2.docx`
+- Cloud & Hyperscaling v1.2 (8 Oct, APPROVED by Sana with her own edits to sections 3–4 in the docx) — `Notes/2026-10-08-xloop-cloud-hyperscaling-page-content-v1.2.docx`
+- Web & App Development v1 (8 Oct) — `Notes/2026-10-08-xloop-web-app-development-page-content-v1.docx`
 
 ## Not written yet
 - Digital Engineering (new child of Digital Transformation; strip the Data, Cloud and AI/ML cards from the live page)
-- Web & App Development (no brief found, only a one-pager PDF)
 - Mining industry page. Blocked: Harmony Gold details and naming permission
 - Case study pages (Release 2)
 - xLab hub + 7 product pages
@@ -39,7 +39,9 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 ## Next steps
 - [x] Data Analytics (5 Oct)
 - [x] Cloud & Hyperscaling (5 Oct)
-- [ ] Digital Engineering + Web & App Development
+- [x] Web & App Development (8 Oct)
+- [ ] Digital Engineering: decide scope vs Web & App first (proposal: engineering capacity + platform engineering for ICP5)
+- [ ] Devs: remove leftover 9GAG/Fueled template text from /portfolio/eatsy
 - [ ] Applied AI Solutions + AI Consulting fixes
 - [ ] xLab hub/products + case study pages (Release 2, by 30 Nov)
 - [ ] Mining + xCelerate once the missing information arrives

@@ -9,6 +9,9 @@ Built on: the AI-first Messaging and Positioning doc, the Buyer Personas, brand 
 
 **Status:** draft for Sana's review. Pillar names are proposed (D01 open). Items marked **[CONFIRM]** must be checked before launch.
 
+## Feedback log
+- 2026-10-08, Sana: rejected the "we finish what others started" pitch as not premium or elegant. Options offered: (1) "engineered to enterprise standard" + "Young in approach. Enterprise in output." (recommended), (2) "built for production, not the demo", (3) "architectural truth, not a pitch", (4) "better with every layer", (5) "products your business can depend on". Section 4 H2 to become "A working demo is a beginning. We build what comes next." Awaiting her pick; then replace the rescue phrasing in hero, meta, FAQ, footer sentence and llms.txt
+
 ## The strategy in five lines
 - **Category first, differentiator second.** "AI-first software development company" carries the search demand; "we finish what others started" is the edge nobody at TekRevol's scale owns
 - **Let buyers self-sort.** Four starting points map to the four ICPs and feed the form, so sales knows who they're talking to before the call

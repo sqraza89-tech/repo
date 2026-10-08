@@ -48,11 +48,13 @@ the user can also force one with `/<skill-name>`.
 | Update / refresh / re-optimize an existing blog URL, or "which blogs need a refresh" | `blog-writer` (refresh mode) |
 | LinkedIn posts, carousels, video scripts, ambassador or occasion posts, "this week's posts" | `linkedin-posts` |
 | Audit/analyze the website, SEO/AEO, GA4, Search Console, LinkedIn performance, competitors, marketing reports | `marketing-analyst` |
+| Aerial yoga lesson/class plans, sequences, drills, beginner courses | `aerial-lesson-plan` |
+| Instagram posts, reels, captions, class announcements for @sanadefiesgravity | `instagram-posts` |
 | School emails / WhatsApp screenshots → messages for the class parents' group | `room-parent` |
 | Bulk summarizing/tagging, or reading a large file for the gist | `delegate` |
 
 - **Brands:** the marketing skills are brand-agnostic. Each reads `Reference/brands/<brand>.md`
-  first (`xloop.md`, `tekrevol.md`; new brands copy `_template.md`). If the brand isn't clear, ask.
+  first (`xloop.md`, `tekrevol.md`, `sanadefiesgravity.md`; new brands copy `_template.md`). If the brand isn't clear, ask.
   Never carry claims, clients or phrasing from one brand into another
 - A `TODO` in a brand profile means ask — don't invent ICPs, claims or proof
 

@@ -20,9 +20,9 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - Data Analytics & Engineering v1 (5 Oct) — `Notes/2026-10-05-xloop-data-analytics-page-content-v1.docx`
 - Cloud & Hyperscaling v1.2 (8 Oct, APPROVED by Sana with her own edits to sections 3–4 in the docx) — `Notes/2026-10-08-xloop-cloud-hyperscaling-page-content-v1.2.docx`
 - Web & App Development v1 (8 Oct) — `Notes/2026-10-08-xloop-web-app-development-page-content-v1.docx`
+- Digital Engineering v1 (8 Oct, scope = engineering capacity + platform engineering, assumed) — `Notes/2026-10-08-xloop-digital-engineering-page-content-v1.docx`
 
 ## Not written yet
-- Digital Engineering (new child of Digital Transformation; strip the Data, Cloud and AI/ML cards from the live page)
 - Mining industry page. Blocked: Harmony Gold details and naming permission
 - Case study pages (Release 2)
 - xLab hub + 7 product pages
@@ -40,7 +40,8 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - [x] Data Analytics (5 Oct)
 - [x] Cloud & Hyperscaling (5 Oct)
 - [x] Web & App Development (8 Oct)
-- [ ] Digital Engineering: decide scope vs Web & App first (proposal: engineering capacity + platform engineering for ICP5)
+- [x] Digital Engineering v1 (8 Oct). Sana to confirm the scope split
+- [ ] URGENT devs: remove the unapproved stats (60%, 35%, 40%, 50%, 45%, 30%, 100%) from the live /digital-engineering case carousel
 - [ ] Devs: remove leftover 9GAG/Fueled template text from /portfolio/eatsy
 - [ ] Applied AI Solutions + AI Consulting fixes
 - [ ] xLab hub/products + case study pages (Release 2, by 30 Nov)

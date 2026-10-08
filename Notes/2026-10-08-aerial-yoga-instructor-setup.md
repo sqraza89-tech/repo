@@ -31,3 +31,4 @@ tags: [aerial-yoga, personal-brand, skills, lesson-plans]
 - [ ] Ask both studios about insurance cover + a waiver/health form
 - [ ] Rigging walkthrough with Komal at each studio
 - [ ] Practise the inversion + opening scripts out loud
+- [ ] Review pose-library names/cues and safety.md with Komal before Nov

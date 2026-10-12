@@ -90,15 +90,20 @@ Body-part words used below: *hip crease* (where the thigh meets the hip, front),
 
 ## 6. Inversions (only after screening — see safety.md)
 
-**Basic inversion** (the foundation of everything upside down)
-- Setup: fabric across the front hip creases, hands holding the fabric at chest/face height
-- Teach the exit first: "To come up: hold the fabric, bend the knees, chin to chest, curl up"
+**Basic inversion / back straddle** (the foundation of everything upside down)
+- Setup: sit in the hammock like a swing, then slide forward so the fabric sits low across the **sacrum** (the flat bone at the base of the spine, below the waist). Hands hold the fabric at face height
+- Teach the exit first: "To come up: hands walk up the fabric, chin to chest, pull yourself up to sitting"
 - Cues, step by step:
-  1. "Hold the fabric firmly, thumbs wrapped around"
-  2. "Lean back slowly — the hammock stays in your hip creases"
-  3. "Lift one foot, then the other, and bring the soles together around the fabric, knees wide"
-  4. "Let your head go heavy. Breathe. You're hanging from your hips — your legs are just keeping you secure"
-- Watch for: fabric slipping up to the waist/ribs (reset lower), holding the breath, panic → calm voice, "I'm right here, hold the fabric, bend the knees, curl up"
+  1. "Fabric low on the back of your hips. Hold the fabric firmly, thumbs wrapped"
+  2. "Open your legs wide into a straddle and lean back slowly. Keep the legs wide the whole way"
+  3. "As you tip upside down, bend your knees and wrap your legs around the front of the fabric. Bring the soles of your feet together"
+  4. "Let your head go heavy. Breathe. You are hanging from your hips, and your legs are keeping you secure"
+- Watch for: fabric too high (on the waist: uncomfortable, reset lower), legs closing on the way back (they must stay wide to clear the fabric), holding the breath, panic → calm voice: "I am right here. Hold the fabric, chin to chest, pull up"
+
+**Front hip hang** (forward-folding inversion)
+- Setup: fabric across the **front** hip creases, as for flying
+- Cues: "Fold forward over the fabric, hands toward the mat. Bend your knees and wrap your legs around the fabric behind you. Let the spine hang long"
+- Exit: hands to the mat or the fabric, unwrap the legs, feet down
 
 **Variations from the basic inversion**
 - **Inverted butterfly**: soles together, knees open (the default resting shape)
@@ -108,13 +113,13 @@ Body-part words used below: *hip crease* (where the thigh meets the hip, front),
 - **Hands free / reach for the floor**: once the legs are secure, arms hang, palms to the mat
 
 **Exits**
-- **Curl up**: the safest — hold the fabric, bend the knees, chin to chest, curl up
+- **Pull up to sitting**: the safest. Hands walk up the fabric, legs open back to a straddle, chin to chest, pull up
 - **Roll-down / come to the floor**: hands to the mat, release the legs one at a time, walk out (hammock height must allow it)
 
 ## 7. Advanced (Dynamik, once the base is solid)
 - **Skin the cat / back flip through the arms**: from an active hang, tuck, rotate backward through the arms to inverted, then (only if the room allows) down to the feet. Needs strong tuck-ups first. Spot closely
 - **Inverted straddle to tuck and back** (core drill upside down)
-- **Flows linking 3–4 shapes**: e.g. flying → inversion → straddle → curl up
+- **Flows linking 3–4 shapes**: e.g. flying → inversion → straddle → pull up to sitting
 
 ## 8. Partner poses
 - **Partner flying**: one flies, the partner holds their hands in front and gently pulls for a longer stretch

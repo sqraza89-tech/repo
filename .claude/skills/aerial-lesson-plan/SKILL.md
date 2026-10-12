@@ -6,14 +6,15 @@ description: Create aerial yoga (aerial hammock) lesson plans for Sana's classes
 # Aerial lesson plans
 
 Plans must be teachable as written: timed, sequenced so the body is warm before it's loaded,
-and safe for a mixed beginner–intermediate room. Sana teaches from them, so keep them scannable.
+and matched to the studio: Asana Wellness is a beginner track, Dynamik is intermediate–advanced. Sana teaches from them, so keep them scannable.
 
 ## Step 1 — Load context
 
 1. Read `Projects/aerial-yoga/context.md` (studios, hammock counts, levels, class structure).
 2. Read `Projects/aerial-yoga/safety.md` (safety source; Sana is not certified, so it is built from common studio practice — keep the safety block in every plan and default to the easier option).
    Use `pose-library.md` for pose names and cues, `teaching-handbook.md` for cue wording and scripts,
-   and `program-12-weeks.md` for this week's skill of the month, strength and mobility focus.
+   and `program-12-weeks.md` (two tracks: A = Asana, B = Dynamik) for this week's skill, strength and mobility focus.
+   Warm-ups come from `warmups.md`, drills and tricks from `drills-and-tricks.md`, the closing from `savasana.md`.
 3. Check `Projects/aerial-yoga/lesson-plans/` for recent plans so drills progress week to week and
    flows don't repeat.
 4. If class length is still `TODO`, ask once and save the answer in `context.md`.
@@ -28,15 +29,15 @@ and safe for a mixed beginner–intermediate room. Sana teaches from them, so ke
 
 Default structure (from `context.md`):
 
-| Block | Dynamik | Asana Wellness |
+| Block | Dynamik (intermediate–advanced) | Asana Wellness (beginner) |
 |---|---|---|
 | Arrival | — | herbal tea, intention setting |
-| Warm-up (mat) | cardio/pilates or partner warm-up | gentle yoga flow, breath |
-| Flow 1 | simple aerial flow | slow aerial flow |
-| Drills | core/grip/upper body: inversions, flips, straddle drills | lighter strength, longer supported stretches |
-| Flow 2 | builds on drills | restorative-leaning |
+| Warm-up (mat) | fast circuit or pilates with light weights | pilates with blocks and weights, gentler pace |
+| Flow 1 | 5–8 poses, learn | 3–4 poses, slow |
+| Drills (hammock) | flips, inversions, landings, challenge of the week | inversion confidence, first straddles, grip and core |
+| Flow 2 | always; uses the trick just drilled | optional short flow from Block 2 |
 | Partner pose | yes | optional / gentle |
-| Savasana | hammock or mat | cocoon in hammock, cold towels after |
+| Savasana | 5 min: 2–3 cooldown moves + message | 8–10 min: cooldown moves, oil on wrists, message, towels |
 
 Rules:
 - Time every block; the total must equal the class length
@@ -47,7 +48,9 @@ Rules:
 - Partner poses: pair by size/level, say who bases and who flies
 - 8 hammocks at Dynamik, 9 at Asana: say what any extra students do if the class is over capacity
 - Write the actual words Sana will say (scripts + cues), not just pose names; she is building her teaching vocabulary
-- Only use skills from pose-library.md; anything new must also be added there
+- Only use poses from pose-library.md and drills-and-tricks.md; anything new must be added there and to visual-guide.html
+- Tricks marked "(Komal first)" stay out of plans until Sana confirms she has practised them with Komal
+- Name which savasana message (1–5) and which warm-up (W1–W5) to use, rotating them
 - Keep pose names consistent across plans (English name, plus Sanskrit/aerial name if common)
 
 ## Step 4 — Output

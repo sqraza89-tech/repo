@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Aerial Pose Guide</title>
+<style>
+  :root { --bg:#faf7f2; --card:#fff; --ink:#2b2a33; --muted:#6f6c7a; --line:#e6e0d6;
+          --body:#2b2a33; --far:#a9a5b5; --ham:#c2477a; --mat:#8fb8a8; --accent:#7a4fc2; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink);
+         font:16px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif; }
+  header { padding:20px 16px 8px; max-width:1100px; margin:0 auto; }
+  h1 { margin:0 0 4px; font-size:1.5rem; }
+  header p { margin:0; color:var(--muted); font-size:.92rem; }
+  nav { position:sticky; top:0; background:var(--bg); padding:10px 16px; display:flex; gap:8px;
+        flex-wrap:wrap; max-width:1100px; margin:0 auto; border-bottom:1px solid var(--line); z-index:2; }
+  nav button { border:1px solid var(--line); background:var(--card); color:var(--ink);
+        padding:6px 12px; border-radius:999px; font:inherit; font-size:.85rem; cursor:pointer; }
+  nav button.on { background:var(--accent); border-color:var(--accent); color:#fff; }
+  main { max-width:1100px; margin:0 auto; padding:8px 16px 40px; }
+  h2 { font-size:1.1rem; margin:24px 0 10px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(210px,1fr)); gap:12px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:10px 12px 12px; }
+  .card svg { width:100%; height:auto; display:block; background:#fdfcfa; border-radius:10px; }
+  .card h3 { margin:8px 0 2px; font-size:1rem; }
+  .aka { color:var(--muted); font-size:.8rem; margin:0 0 6px; }
+  .card p.d { margin:0 0 8px; font-size:.86rem; }
+  .tags { display:flex; gap:6px; flex-wrap:wrap; margin-bottom:8px; }
+  .tag { font-size:.72rem; padding:2px 8px; border-radius:999px; background:#efe9fb; color:#4f2f8f; }
+  .tag.d { background:#fde8ef; color:#9a2456; } .tag.a { background:#e3f1ec; color:#22624e; }
+  .card a { font-size:.84rem; color:var(--accent); text-decoration:none; font-weight:600; }
+  .key { display:flex; gap:16px; flex-wrap:wrap; font-size:.8rem; color:var(--muted); margin-top:8px; }
+  .key i { display:inline-block; width:18px; height:3px; vertical-align:middle; margin-right:5px; border-radius:2px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Aerial pose guide</h1>
+  <p>Simple sketches to show the shape and where the hammock sits. Tap "Watch a real demo" on any card to see it done by a person.</p>
+  <div class="key">
+    <span><i style="background:var(--ham)"></i>hammock</span>
+    <span><i style="background:var(--body)"></i>body (near side)</span>
+    <span><i style="background:var(--far)"></i>far arm / leg</span>
+    <span><i style="background:var(--mat)"></i>mat</span>
+  </div>
+</header>
+<nav id="nav"></nav>
+<main id="main"></main>
+<script>
+// fig: [head, shoulder, hip, elbowFar, handFar, elbowNear, handNear, kneeFar, footFar, kneeNear, footNear] as x,y pairs
+// ham: [anchorX, slingX, slingY, halfWidth]   lines: [[x1,y1,x2,y2],...]   pod: true draws a cocoon
+const A='Asana', D='Dynamik', B='Both';
+const POSES = [
+ {s:'Warm-up (mat)', n:'Cat–cow', aka:'Marjaryasana–Bitilasana', t:B, d:'On all fours. Arch the back, then round it.', q:'cat cow pose tutorial',
+  f:[[28,80,38,84,74,84,38,102,38,120,40,102,40,120,74,120,98,120,76,120,100,120]]},
+ {s:'Warm-up (mat)', n:'Downward dog', aka:'Adho Mukha Svanasana', t:B, d:'Hips high, hands and feet on the mat.', q:'downward dog pose tutorial',
+  f:[[38,100,44,92,66,60,34,106,26,120,36,106,28,120,78,90,90,120,80,90,93,120]]},
+ {s:'Warm-up (mat)', n:'Plank', aka:'High plank', t:B, d:'Straight line from head to heels.', q:'plank correct form',
+  f:[[22,88,30,94,66,100,30,107,30,120,32,107,32,120,86,109,104,118,87,109,105,118]]},
+ {s:'Warm-up (mat)', n:'Hollow hold', aka:'Hollow body', t:B, d:'Low back pressed down, arms and legs hover.', q:'hollow body hold tutorial',
+  f:[[32,104,40,108,62,114,28,100,16,94,29,101,17,96,82,106,102,98,82,107,102,100]]},
+ {s:'Warm-up (mat)', n:'Glute bridge', aka:'Shoulder bridge', t:B, d:'Hips lift, squeeze, lower slowly.', q:'glute bridge pilates tutorial',
+  f:[[22,116,30,116,60,96,42,118,54,118,43,118,55,118,80,92,84,120,81,92,86,120]]},
+ {s:'Warm-up (mat)', n:'The Hundred', aka:'Pilates hundred', t:B, d:'Head up, legs at 45°, arms pump.', q:'pilates hundred tutorial',
+  f:[[30,100,38,108,60,114,50,106,62,106,50,108,62,108,78,98,96,84,78,99,96,86]]},
+ {s:'Warm-up (mat)', n:'Roll-up', aka:'Pilates roll-up', t:B, d:'Peel up from lying to reach the toes.', q:'pilates roll up tutorial',
+  f:[[82,82,76,90,60,114,86,94,98,98,86,96,98,100,82,114,104,114,82,115,104,115]]},
+ {s:'Warm-up (mat)', n:'Bird-dog', aka:'', t:B, d:'Opposite arm and leg reach long.', q:'bird dog exercise form',
+  f:[[28,80,38,84,74,84,38,102,38,120,26,82,12,80,74,120,98,120,92,84,110,84]]},
+ {s:'Warm-up (mat)', n:'Squat to press', aka:'With light weights', t:B, d:'Squat, then stand and press the weights up.', q:'squat to overhead press dumbbell form',
+  f:[[62,58,60,70,50,96,66,82,72,72,67,83,73,73,72,98,66,120,73,98,68,120]], dots:[[72,72],[73,73]]},
+ {s:'Warm-up (mat)', n:'Crescent lunge', aka:'High lunge', t:B, d:'Front knee over ankle, arms up.', q:'crescent lunge yoga tutorial',
+  f:[[56,50,56,62,58,92,56,46,56,30,58,46,60,30,76,110,94,118,40,98,40,120]]},
+
+ {s:'Hammock stretches', n:'Aerial hamstring stretch', aka:'Standing leg stretch', t:B, d:'Heel in the hammock, hinge forward from the hips.', q:'aerial yoga hammock hamstring stretch',
+  f:[[50,36,50,48,50,78,52,62,58,72,53,62,60,72,50,100,50,120,66,78,84,78]], ham:[84,84,80,4]},
+ {s:'Hammock stretches', n:'Aerial lunge', aka:'Aerial Warrior 1', t:B, d:'Back foot in the hammock, front knee bent.', q:'aerial yoga lunge back foot in hammock',
+  f:[[56,44,56,56,58,90,55,40,54,24,57,40,58,24,76,94,94,80,40,98,40,120]], ham:[94,94,82,4]},
+ {s:'Hammock stretches', n:'Standing pigeon', aka:'Aerial pigeon', t:B, d:'Front shin rests across the hammock, fold forward.', q:'aerial yoga standing pigeon hammock',
+  f:[[66,46,60,54,50,78,64,64,70,72,65,65,72,72,50,100,50,120,72,74,62,80]], ham:[67,67,80,8]},
+ {s:'Hammock stretches', n:'Supported backbend', aka:'Aerial backbend', t:B, d:'Hammock across the upper back, lean back, chest opens.', q:'aerial yoga supported backbend hammock',
+  f:[[28,60,38,62,56,80,26,70,16,78,27,70,18,78,64,100,70,120,65,100,72,120]], ham:[42,42,68,5]},
+ {s:'Hammock stretches', n:'Aerial downward dog', aka:'Supported down dog', t:B, d:'Hammock in the front hip creases, hands walk forward.', q:'aerial yoga downward dog hammock',
+  f:[[38,104,42,96,60,70,36,108,30,120,37,108,32,120,72,96,84,120,73,96,86,120]], ham:[60,60,72,5]},
+ {s:'Hammock stretches', n:'Flying', aka:'Superman, front balance', t:B, d:'Hammock in the front hip creases, lean forward, arms like wings.', q:'aerial yoga superman flying pose hammock',
+  f:[[26,62,36,68,60,76,24,74,12,70,25,66,14,60,80,74,100,70,80,75,100,72]], ham:[60,60,78,5]},
+ {s:'Hammock stretches', n:'Seat', aka:'Swing seat', t:B, d:'Sit in the hammock like a swing. Start of many poses.', q:'aerial yoga hammock seated pose beginner',
+  f:[[58,40,58,52,58,80,54,60,54,46,64,60,64,46,76,82,78,104,77,82,80,104]], ham:[60,60,84,10]},
+
+ {s:'Strength drills', n:'Active hang', aka:'', t:B, d:'Hold the fabric high, feet off the mat, shoulders down.', q:'active hang shoulders engaged tutorial',
+  f:[[60,46,60,56,60,86,58,44,57,30,62,44,63,30,60,102,60,114,61,102,61,114]], lines:[[60,2,57,30],[60,2,63,30]]},
+ {s:'Strength drills', n:'Tuck-up', aka:'Hanging knee tuck', t:B, d:'From a hang, knees to chest, lower slowly.', q:'aerial hammock tuck up conditioning',
+  f:[[60,46,60,56,60,84,58,44,57,30,62,44,63,30,72,68,76,84,73,68,77,84]], lines:[[60,2,57,30],[60,2,63,30]]},
+ {s:'Strength drills', n:'Straddle-up', aka:'Straddle invert (front view)', t:D, d:'From a hang, legs wide, hips lift above the hands.', q:'aerial hammock straddle invert tutorial',
+  f:[[60,74,60,62,60,44,57,48,57,34,63,48,63,34,42,36,26,30,78,36,94,30]], lines:[[60,2,57,34],[60,2,63,34]]},
+ {s:'Strength drills', n:'Aerial plank', aka:'Suspended plank', t:B, d:'Feet in the hammock, hands on the mat.', q:'aerial yoga plank feet in hammock',
+  f:[[22,88,30,94,64,92,30,107,30,120,32,107,32,120,82,91,98,90,82,92,98,91]], ham:[98,98,92,4]},
+ {s:'Strength drills', n:'Pike', aka:'Aerial pike', t:B, d:'From aerial plank, hips to the ceiling.', q:'aerial yoga pike feet in hammock',
+  f:[[36,104,36,94,56,60,33,107,30,120,35,107,32,120,70,74,84,86,71,74,84,87]], ham:[84,84,88,4]},
+
+ {s:'Inversions and tricks', n:'Basic inversion', aka:'Back straddle, inverted butterfly (front view)', t:B, d:'Fabric at the sacrum, lean back, legs wrap, soles together.', q:'aerial yoga basic inversion hammock tutorial beginners',
+  f:[[60,106,60,96,60,66,54,108,50,118,66,108,70,118,40,58,58,42,80,58,62,42]], lines:[[60,2,57,66],[60,2,63,66]]},
+ {s:'Inversions and tricks', n:'Inverted straddle', aka:'Inverted V (front view)', t:B, d:'From the basic inversion, legs open wide.', q:'aerial yoga inverted straddle hammock',
+  f:[[60,106,60,96,60,66,54,108,50,118,66,108,70,118,42,58,24,50,78,58,96,50]], lines:[[60,2,57,66],[60,2,63,66]]},
+ {s:'Inversions and tricks', n:'Front hip hang', aka:'Forward fold hang', t:B, d:'Fabric at the front hips, fold forward, legs wrap behind.', q:'aerial yoga hip hang inversion hammock',
+  f:[[52,108,54,98,60,70,52,110,50,120,53,110,52,120,72,56,62,42,73,57,64,42]], ham:[60,60,72,5]},
+ {s:'Inversions and tricks', n:'Skin the cat', aka:'Back tuck through the arms', t:D, d:'From a hang, tuck and rotate backward. Practise with Komal first.', q:'skin the cat aerial hammock tutorial',
+  f:[[68,66,60,60,46,62,60,48,60,36,61,48,61,36,50,78,38,76,51,79,39,78]], lines:[[60,2,60,36]]},
+
+ {s:'Savasana and cooldown', n:'Cocoon', aka:'Hammock savasana', t:B, d:'Lie fully wrapped inside the hammock.', q:'aerial yoga cocoon savasana',
+  f:[[34,80,42,82,62,86,52,84,60,84,52,85,60,86,78,84,92,80,78,85,92,82]], pod:true},
+ {s:'Savasana and cooldown', n:'Legs up in the hammock', aka:'Mat savasana with legs up', t:B, d:'On the mat, calves resting in the fabric.', q:'aerial yoga legs in hammock relaxation floor',
+  f:[[24,116,32,116,58,116,44,118,54,118,45,118,55,118,68,94,88,90,69,94,88,91]], ham:[80,80,94,9]},
+ {s:'Savasana and cooldown', n:'Child\'s pose', aka:'Balasana', t:B, d:'Knees wide, forehead down, arms long.', q:'childs pose tutorial',
+  f:[[44,112,52,106,84,104,36,114,22,118,37,114,24,118,70,118,94,118,71,118,95,118]]},
+ {s:'Savasana and cooldown', n:'Happy baby', aka:'Ananda Balasana', t:B, d:'On the back, hold the feet, knees wide.', q:'happy baby pose tutorial',
+  f:[[28,114,36,114,60,114,48,100,58,84,49,101,60,84,54,96,60,80,55,96,62,80]]},
+
+ {s:'Partner', n:'Partner flying', aka:'', t:B, d:'One flies. The partner holds her hands and gently draws her forward.', q:'aerial yoga partner poses hammock',
+  f:[[40,62,50,68,74,76,38,72,26,70,39,73,27,71,94,74,112,70,94,75,112,72],
+     [14,46,14,58,14,86,20,66,26,70,20,67,27,71,14,103,14,120,15,103,16,120]], ham:[74,74,78,5]}
+];
+
+const NS='http://www.w3.org/2000/svg';
+function el(tag, attrs){ const e=document.createElementNS(NS,tag); for(const k in attrs) e.setAttribute(k,attrs[k]); return e; }
+function line(svg,x1,y1,x2,y2,col,w){ svg.appendChild(el('line',{x1,y1,x2,y2,stroke:col,'stroke-width':w,'stroke-linecap':'round'})); }
+function draw(p){
+  const svg=el('svg',{viewBox:'0 0 120 128',role:'img','aria-label':p.n});
+  const cs=getComputedStyle(document.documentElement);
+  const C={b:cs.getPropertyValue('--body').trim(),f:cs.getPropertyValue('--far').trim(),h:cs.getPropertyValue('--ham').trim(),m:cs.getPropertyValue('--mat').trim()};
+  line(svg,6,123,114,123,C.m,4);
+  if(p.ham||p.lines||p.pod) svg.appendChild(el('rect',{x:30,y:0,width:60,height:3,fill:'#d8d2c6'}));
+  if(p.ham){ const [ax,x,y,w]=p.ham;
+    line(svg,ax,2,x-w,y,C.h,2); line(svg,ax,2,x+w,y,C.h,2);
+    svg.appendChild(el('path',{d:`M${x-w},${y} Q${x},${y+6} ${x+w},${y}`,stroke:C.h,'stroke-width':3.5,fill:'none','stroke-linecap':'round'})); }
+  if(p.lines) p.lines.forEach(l=>line(svg,l[0],l[1],l[2],l[3],C.h,2));
+  if(p.pod){ line(svg,60,2,22,74,C.h,2); line(svg,60,2,100,74,C.h,2);
+    svg.appendChild(el('path',{d:'M22,74 Q60,112 100,74 Q60,84 22,74 Z',stroke:C.h,'stroke-width':2,fill:C.h,'fill-opacity':.18})); }
+  p.f.forEach(a=>{
+    const P=i=>[a[i*2],a[i*2+1]];
+    const [hd,sh,hp,eF,hF,eN,hN,kF,fF,kN,fN]=[0,1,2,3,4,5,6,7,8,9,10].map(P);
+    const seg=(u,v,c)=>line(svg,u[0],u[1],v[0],v[1],c,3.2);
+    seg(sh,eF,C.f); seg(eF,hF,C.f); seg(hp,kF,C.f); seg(kF,fF,C.f);
+    seg(hd,sh,C.b); seg(sh,hp,C.b); seg(sh,eN,C.b); seg(eN,hN,C.b); seg(hp,kN,C.b); seg(kN,fN,C.b);
+    svg.appendChild(el('circle',{cx:hd[0],cy:hd[1],r:6,fill:C.b}));
+  });
+  if(p.dots) p.dots.forEach(d=>svg.appendChild(el('rect',{x:d[0]-4,y:d[1]-2,width:8,height:4,rx:1,fill:'#7a4fc2'})));
+  return svg;
+}
+const main=document.getElementById('main'), nav=document.getElementById('nav');
+const sections=[...new Set(POSES.map(p=>p.s))];
+function render(filter){
+  main.innerHTML='';
+  sections.forEach(s=>{
+    const list=POSES.filter(p=>p.s===s && (filter==='All'||p.t===filter||p.t===B));
+    if(!list.length) return;
+    const h=document.createElement('h2'); h.textContent=s; main.appendChild(h);
+    const g=document.createElement('div'); g.className='grid'; main.appendChild(g);
+    list.forEach(p=>{
+      const c=document.createElement('div'); c.className='card';
+      c.appendChild(draw(p));
+      const h3=document.createElement('h3'); h3.textContent=p.n; c.appendChild(h3);
+      if(p.aka){ const a=document.createElement('p'); a.className='aka'; a.textContent=p.aka; c.appendChild(a); }
+      const t=document.createElement('div'); t.className='tags';
+      const tg=document.createElement('span'); tg.className='tag '+(p.t===D?'d':p.t===A?'a':''); tg.textContent=p.t===B?'Both studios':p.t+' only'; t.appendChild(tg); c.appendChild(t);
+      const d=document.createElement('p'); d.className='d'; d.textContent=p.d; c.appendChild(d);
+      const l=document.createElement('a'); l.href='https://www.youtube.com/results?search_query='+encodeURIComponent(p.q); l.target='_blank'; l.rel='noopener'; l.textContent='Watch a real demo ›'; c.appendChild(l);
+      g.appendChild(c);
+    });
+  });
+}
+['All','Asana','Dynamik'].forEach((f,i)=>{
+  const b=document.createElement('button'); b.textContent=f==='All'?'All poses':f; if(!i) b.className='on';
+  b.onclick=()=>{ nav.querySelectorAll('button').forEach(x=>x.className=''); b.className='on'; render(f); };
+  nav.appendChild(b);
+});
+render('All');
+</script>
+</body>
+</html>

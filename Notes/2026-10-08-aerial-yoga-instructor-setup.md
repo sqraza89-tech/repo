@@ -32,3 +32,14 @@ tags: [aerial-yoga, personal-brand, skills, lesson-plans]
 - [ ] Rigging walkthrough with Komal at each studio
 - [ ] Practise the inversion + opening scripts out loud
 - [ ] Review pose-library names/cues and safety.md with Komal before Nov
+
+## Update — two tracks + new material (2026-10-12)
+- **Asana = beginner track** (basic inversions done, 1–2 can straddle); **Dynamik = intermediate–advanced** (2 flows per class, tricks)
+- Warm-ups: mat pilates + fast circuits. Kit: light weights at Dynamik; blocks + weights at Asana
+- New files in `Projects/aerial-yoga/`: `warmups.md`, `drills-and-tricks.md`, `savasana.md` (cooldowns, rituals, 5 read-aloud messages), `visual-guide.html` (sketch + video link per pose); `program-12-weeks.md` rewritten as two tracks
+- Corrected the basic inversion setup: fabric sits at the sacrum (back of the hips), not the front hip crease
+- Instagram: only public "popular" pages readable without login; findings in `drills-and-tricks.md`
+- Related: [[2026-10-12-nutrition-plan-t1d-protein-energy]]
+- [ ] Practise the "(Komal first)" tricks with Komal: back roll-out, skin the cat, forward flip, hip key
+- [ ] Save Instagram reels to a collection and share links for breakdowns
+- [ ] Buy/prepare: oil roller, chime, affirmation cards

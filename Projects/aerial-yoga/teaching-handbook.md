@@ -87,12 +87,15 @@ Before we start, if you have any injuries or health conditions, or if you're pre
 - "Last week was about getting up. This week is about staying there with control."
 
 ### Talking them into the basic inversion
-"Find your hammock in your hip creases. Hold the fabric, thumbs wrapped.
-First, the way out: bend your knees, chin to your chest, curl up. Remember that.
-Now, slowly lean back. The hammock stays in your hips — trust it.
-Lift one foot… then the other. Bring the soles together around the fabric, knees wide. Butterfly legs.
-Let your head go. Breathe. You're upside down! Stay for three breaths.
-Now — knees bend, chin to chest, curl up slowly. Sit in the hammock and take a breath before you stand."
+"Sit in your hammock like a swing. Now slide forward until the fabric sits low on the back of your
+hips, on that flat bone at the base of your spine. Hold the fabric, thumbs wrapped.
+First, the way out: hands walk up the fabric, chin to your chest, pull up to sitting. Remember that.
+Now open your legs wide and slowly lean back. Keep the legs wide. Trust the hammock.
+As you tip over, bend your knees and wrap your legs around the front of the fabric. Soles of the
+feet together. Butterfly legs.
+Let your head go. Breathe. You are upside down! Stay for three breaths.
+Now hands find the fabric, walk them up, chin to chest, and pull up slowly. Sit and take a breath
+before you stand."
 
 ### During drills (Dynamik)
 "Three more. Make them slow — slow is strong… Two… Last one, best one… And rest. Shake out your hands."

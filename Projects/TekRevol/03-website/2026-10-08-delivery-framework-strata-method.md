@@ -75,7 +75,7 @@ The five Strata layers become the checklist at the Ship Line (security and compl
 ## Why it sets TekRevol apart
 - **It names the real problem with AI-built software** (great demos, fragile products) without blaming anyone. It also reframes the prototype story elegantly: *"You've explored. We help you cross the Ship Line."*
 - **It's visual and ownable.** Cyan field, orange line, stacked layers. It's already the brand system, so the framework and the identity are the same thing
-- **It has a history.** "Structured chaos" and the five stages come from TekRevol's own 2019 handbooks [CONFIRM OK to reference publicly]. Competitors' frameworks are new
+- **It has accountability built in.** Every gate has a named owner and a written sign-off the client can see. (The 2019 handbook origin stays internal: buyers don't care)
 - **It speaks to every buyer:** founders get speed in Explore, approvers get the Ship Line, champions get a named method to take upstairs
 
 ## How it shows up
@@ -94,12 +94,43 @@ The five Strata layers become the checklist at the Ship Line (security and compl
 - Answer pages that link to it: "how to take an AI prototype to production", "what does production-ready mean for AI software", "how to use AI in software delivery safely"
 - Third-party mentions drive GEO citations: a Clutch profile update, a LinkedIn series, a podcast episode on the method
 
-## Before going public [CONFIRM]
-- [ ] Delivery confirms each stage and gate reflects how projects actually run (or will from a set date)
-- [ ] Which AI tools/agents delivery really uses in each stage (internal only; public copy doesn't name tools)
-- [ ] OK to reference the 2019 handbooks publicly
-- [ ] Trademark/name check on "Strata Method" (alternatives below)
-- [ ] No speed or cost claims until a measured engagement exists
+## Decisions (Sana, 2026-10-12)
+- **Direction approved.** The name **The Strata Method** works
+- **2019 handbooks:** fine to build on, but buyers don't care where it came from. Keep the origin out of public copy. Lead with efficiency, uniqueness and value
+- **No speed or cost claims** until a measured engagement exists
+- **Accountability is needed.** Project managers or the CTO run delivery and need to be answerable to someone, or gates will slip. Every gate gets a named owner and a written sign-off (below)
+- **AI tools per stage:** unknown, likely varies by project. Questions for delivery below
+
+## Accountability: who signs each gate [CONFIRM roles with TekRevol]
+| Gate | Owner (answerable) | Signs off | Client sees |
+|---|---|---|---|
+| Learn, Ideate, Iterate | Project manager | Tech lead | The gate document (brief, decision, prototype) |
+| **The Ship Line** | Tech lead | **CTO or a named delegate** | A written go / no-go against the Build Standard |
+| Incubate (each release) | Project manager | Tech lead and QA | Release notes |
+| Scale (review) | Project manager | CTO or delegate | Performance review |
+
+- Public line this enables: **"Every gate has a named owner and a written sign-off you can see."** It reassures buyers who were let down before, and it keeps the team honest because the client is watching
+- Internally: one gate log per project, so leadership can see which gates were skipped
+
+## Questions for TekRevol delivery (PMs / CTO)
+**How projects run today**
+1. Walk me through the last two projects from kickoff to launch. What were the real phases, and what document or sign-off ended each one?
+2. Who decides a build is ready for production today? Is it written down?
+3. Is there one point of contact from kickoff to launch? Who?
+4. Where do projects most often slip or get reworked?
+
+**AI in delivery**
+5. Which AI tools does the team use today, and for what: research, prototyping, writing code, code review, testing, documentation, monitoring?
+6. Is that standard across projects or each developer's choice? Is there an approved-tools list or policy?
+7. Does client code or data go into third-party AI tools? Under what rules (private models, client consent, regulated projects)?
+8. Is every AI-written change reviewed by a person before it merges? By whom?
+9. For AI features built for clients: how is model quality tested before launch and monitored after?
+
+**Standards and proof**
+10. What is checked before go-live today (security, tests, accessibility, backups, monitoring)? Is there a checklist?
+11. What gets reused across projects (components, templates, internal agents, checklists)? Where does it live?
+12. Is there one recent project where time or cost can be measured with and without AI? That would be the first proof point
+13. Which stages and the Ship Line could the team commit to from a set date, and who would own the gate log?
 
 ## Name alternatives
 | Name | Note |
@@ -110,6 +141,7 @@ The five Strata layers become the checklist at the Ship Line (security and compl
 | The TekRevolution Loop | Strong history; the company name inside it limits reuse in sentences |
 
 ## Next steps
-- [ ] Sana: approve the direction and pick a name
-- [ ] Confirm with TekRevol delivery (list above)
+- [x] Sana: direction and name approved (2026-10-12)
+- [ ] Sana: put the 13 questions to TekRevol PMs / CTO
+- [ ] Quick trademark search on "Strata Method" before launch
 - [ ] Then: homepage copy v2 (Word) with the Strata Method section, and a draft `/strata-method` page

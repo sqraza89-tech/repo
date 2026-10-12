@@ -304,3 +304,12 @@ Remove from the current file until confirmed: "founded in 2018", "500+ apps", "9
 - [ ] Write the security and compliance one-pager
 - [ ] Dev: schema, llms.txt rewrite, form fields, GA4 events
 - [ ] Next page: AI prototype to production service page (blog-writer can draft the supporting cluster)
+
+## Update 2026-10-12: v2
+- **Current version = `TekRevol-Homepage-Copy-v2.docx`.** Strata Method is section 4 ("Explore fast. Ship deliberately."), replacing "How we work". Primary CTA everywhere is now "Start a project brief"
+- **Lead capture system ("Project brief")**, requested by Sana to appeal to AI agents and humans: six questions (starting point first, contact last), three doors (brief, call, email), reference number, `/brief` plain-text page for AI assistants, pre-fill links without personal data, later `POST /api/brief`; assistant-sent briefs are confirmed by email with the human; honeypot and rate limits, no CAPTCHA
+- Build scripts kept in `_build/` (helpers.js, home2.js, strata.js)
+
+## Next steps
+- [ ] Sana: review v2; send the Strata Method doc and 13 questions to PMs / CTO
+- [ ] Confirm with TekRevol: brief response time, calendar tool, CRM, privacy wording

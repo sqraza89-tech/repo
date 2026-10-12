@@ -33,7 +33,7 @@ Everything made for TekRevol lives here.
 - **Latest notes:** [[2026-10-01-tekrevol-brand-guidelines-v1]]
 - **Delivery framework (approved 2026-10-12): The Strata Method** `03-website/2026-10-08-delivery-framework-strata-method.md` · shareable Word: `03-website/TekRevol-Strata-Method-v1.docx` (fonts embedded; 13 questions for PMs/CTO pending)
 - **Site architecture proposal (awaiting Sana approval):** `03-website/2026-10-08-site-architecture-proposal.md` (situation-led /start/ pages + versioned Build Standard, 5 Strata layers)
-- **Homepage copy v2 (current, 2026-10-12):** `03-website/TekRevol-Homepage-Copy-v2.docx` (Strata Method as section 4; "Project brief" lead capture for people and AI assistants: six questions, three doors, /brief page, later POST /api/brief; build script was in session scratchpad) · v1: `03-website/TekRevol-Homepage-Copy-v1.docx` (hero options, hook table) · working notes `03-website/2026-10-08-homepage-structure-and-copy.md` · audit: `05-reports/2026-10-08-homepage-competitor-seo-aeo-audit.md` (llms.txt facts conflict with site; [CONFIRM] items open)
+- **Homepage copy v2 (current, 2026-10-12):** `03-website/TekRevol-Homepage-Copy-v2.docx` (Strata Method as section 4; "Project brief" lead capture for people and AI assistants: six questions, three doors, /brief page, later POST /api/brief; build scripts in `03-website/_build/`, need `npm install docx`) · v1: `03-website/TekRevol-Homepage-Copy-v1.docx` (hero options, hook table) · working notes `03-website/2026-10-08-homepage-structure-and-copy.md` · audit: `05-reports/2026-10-08-homepage-competitor-seo-aeo-audit.md` (llms.txt facts conflict with site; [CONFIRM] items open)
 
 ## Next steps
 - [ ] Review guidelines v4 docx and samples

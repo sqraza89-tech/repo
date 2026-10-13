@@ -26,7 +26,7 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - Mining industry page. Blocked: Harmony Gold details and naming permission
 - Case study pages (Release 2)
 - xLab hub + 7 product pages
-- xCelerate: content v1 written 13 Oct (hub + Corporate AI Training + Sponsored Talent Programs + Bootcamps), `Notes/2026-10-13-xloop-xcelerate-training-pages-content-v1.docx`. Ten [CONFIRM] items open with Ali Abbasi
+- xCelerate: content v1 written 13 Oct (hub + Corporate AI Training + Sponsored Talent Programs + Bootcamps), `Notes/2026-10-13-xloop-xcelerate-training-pages-content-v1.docx`. Eleven [CONFIRM] items open with Ali Abbasi
 
 ## Written in August, now out of date
 - Applied AI Solutions (7 leaf pages): remove Digital Twin

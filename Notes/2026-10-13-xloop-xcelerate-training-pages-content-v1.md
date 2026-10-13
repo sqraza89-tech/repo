@@ -48,13 +48,13 @@ Four pages replace the two live xCelerate nav items. They are organized by the k
 **Primary CTA:** Talk to our training team (30 min) →
 **Small line under the CTA:** We'll look at who needs training, what they need to be able to do afterward, and which program fits.
 
-**Trust line (text):** Training partner: Emeritus · Programs delivered for Bank Alfalah, PPL and Mari Energies
+**Trust line (text):** Training partner: Emeritus · Programs delivered for Bank Alfalah, PPL and Mari Energies · Internship program with FAST-NUCES, Karachi Campus
 
 ### 2. Answer block
 
 **H2:** What Is xCelerate?
 
-xCelerate is the training division of xLoop, a global AI and data consulting firm. It runs three kinds of programs: corporate AI training for working teams, sponsored digital skills programs that organizations fund for their communities, and full scale bootcamps that prepare people for technology roles. Programs run online, on premise or hybrid.
+xCelerate is the training division of xLoop, a global AI and data consulting firm. It runs three kinds of programs: corporate AI training for working teams, sponsored digital skills programs that organizations fund for their communities, and full scale bootcamps that prepare people for technology roles. Programs run online, on premise or hybrid. xLoop also hosts university internship programs, where students complete projects alongside its engineering teams.
 
 *Plain text, never collapsed.*
 
@@ -86,6 +86,7 @@ xCelerate is the training division of xLoop, a global AI and data consulting fir
 | A curriculum built around your own stack, roles and projects | Custom corporate program | Scoped with you |
 | A CSR investment that ends in jobs, not only certificates | Sponsored talent program | Up to five months |
 | Job ready engineers in AI, cloud, security or full stack development | Full scale bootcamp | 12 weeks, 480 hours |
+| Project experience for your students before they graduate | University internship program | Agreed with the university |
 
 ### 5. Why xLoop
 
@@ -100,23 +101,36 @@ xCelerate is the training division of xLoop, a global AI and data consulting fir
 
 **Line below:** Training can stand alone, or follow an xLoop engagement so your team runs what we build. See [AI Consulting](/services/ai-consulting-and-development), [Data Analytics & Engineering](/services/data-analytics) and [AI Security](/services/ai-security-service).
 
-### 6. Proof
+### 6. University internships
+
+**H2:** University Internship Programs
+
+We work with universities to give students project experience before they graduate. Interns join xLoop for a fixed term and are assigned real projects. They work alongside our AI and cyber security teams to complete them, and gain practical experience in their own field.
+
+In 2026 we ran an internship program with FAST-NUCES, Karachi Campus. Students worked with our AI and cyber security engineers on their assigned projects. The program concluded in August 2026, with recognition for the top performers. [CONFIRM: number of interns, length and project areas]
+
+**CTA:** Talk to us about a university partnership →
+
+*Design: one full width band with a photo from the FAST-NUCES closing ceremony (the "Recognizing Tomorrow's Technology Leaders" visual from the 11 Aug LinkedIn post).*
+
+### 7. Proof
 
 **H2:** Training We've Delivered
 
-*Design: three cards with the client name, the program and the facts. Same card pattern as the proof section on the service pages.*
+*Design: four cards with the client name, the program and the facts. Same card pattern as the proof section on the service pages.*
 
 | Client | Program | What we delivered |
 |---|---|---|
 | **Bank Alfalah** | Full stack web and app development bootcamp | Three cohorts and more than 70 professionals. Each participant completed 240+ hours of training in cloud native and mobile application development, ending in capstone projects |
 | **Mari Energies** (CSR program) | Mari Digital Skills, Training & Employment Program | Cohort I: 44 graduates, including five women, from underserved communities. Five months of AI, agentic development and full stack development. All graduates placed into internships and employment |
 | **PPL** | [CONFIRM: program name] | [CONFIRM: audience, subject and numbers. Sources disagree] |
+| **FAST-NUCES, Karachi Campus** | University internship program | Students completed assigned projects alongside xLoop's AI and cyber security teams. Concluded in August 2026 [CONFIRM: number of interns and length] |
 
-### 7. FAQ
+### 8. FAQ
 
 **H2:** xCelerate FAQ
 
-*All six go into FAQPage schema, with text identical to the page.*
+*All seven go into FAQPage schema, with text identical to the page.*
 
 **What training does xCelerate offer?**
 Three kinds. Corporate AI training for working teams, in standard programs of one or two weeks or as a custom program. Sponsored digital skills programs that an organization funds for a community. Full scale bootcamps of 480 hours in AI, cloud, security and full stack development.
@@ -133,10 +147,13 @@ Yes. Custom programs start with the roles you want to train and the work they do
 **Do participants receive a certificate?**
 Yes. Participants who complete a program receive a certificate of completion. [CONFIRM: whether certificates carry Emeritus branding]
 
+**Do you work with universities?**
+Yes. We host internship programs where students complete assigned projects alongside our AI and cyber security teams. In 2026 we ran one with FAST-NUCES, Karachi Campus.
+
 **How do individuals apply?**
 Through the [Bootcamps](/xcelerate/bootcamps) page. Register your interest in a track and we'll write to you when the next open cohort is scheduled.
 
-### 8. CTA band
+### 9. CTA band
 
 **H2:** Talk to Our Training Team
 
@@ -144,11 +161,11 @@ In 30 minutes we'll look at who needs training, what they need to be able to do 
 
 **CTA:** Book a 30 Minute Training Review →
 
-**Form fields:** Name · Work email · Company · I'm interested in (Corporate training · Sponsored program · Bootcamp for our hires · Applying as an individual) · Number of people to train · What should they be able to do afterward? (one line)
+**Form fields:** Name · Work email · Company · I'm interested in (Corporate training · Sponsored program · Bootcamp for our hires · University partnership · Applying as an individual) · Number of people to train · What should they be able to do afterward? (one line)
 
-### 9. Related
+### 10. Related
 
-Corporate AI Training · Sponsored Talent Programs · Bootcamps · AI Consulting · AI Security
+Corporate AI Training · Sponsored Talent Programs · Bootcamps · AI Consulting · AI Security · Careers
 
 ---
 
@@ -694,7 +711,7 @@ xCelerate · Corporate AI Training · Sponsored Talent Programs · Careers
 | Counters render "0+", "0%", "0+" | Same defect as the old service pages, and the figures behind them are unsourced | Removed |
 | "By 2030, 85% of jobs…" | A 2017 Dell/IFTF forecast, widely questioned, and off brand (fear stat with no relevance to the buyer) | Removed |
 | "Upcoming Trainings… Next Cohort Starts: TBD" | Signals an inactive program | Replaced by a register interest form |
-| FAQs repeat one sentence in every answer | Nothing for AI answers to quote | Rewritten, 27 FAQs across four pages |
+| FAQs repeat one sentence in every answer | Nothing for AI answers to quote | Rewritten, 28 FAQs across four pages |
 | "Workshops & Events": hackathon, corporate ethics, design thinking | No evidence these are sold services | Removed. Design thinking and project management kept only as custom subjects |
 | Testimonial from Hasan Haider | About working at xLoop, not about training | Dropped. Three training testimonials kept |
 | Wellness retreat, eco sustainable design, recreational areas (decks) | Not a reason an L&D or CSR buyer chooses a provider | Not used |
@@ -718,6 +735,7 @@ xCelerate · Corporate AI Training · Sponsored Talent Programs · Careers
 | Mari Cohort I: 44 graduates, five women, five months, all placed | Published press page (8 Sep 2026) and press release | Used, as CSR only. Never on industry or delivery pages |
 | Naseem Qamar quote | Press release (28 Aug 2026), partly on the live press page | Used. Worth a courtesy check with Mari before it sits on a sales page |
 | Emeritus partnership | Decks, intro video script | Named per Sana. Emeritus's own learner statistics (89%, 95%, 87%, 75%) are **not** used: they are Emeritus's numbers, not xLoop's |
+| FAST-NUCES Karachi internship program | xLoop company LinkedIn post, 11 Aug 2026 ("The internship program with FAST-NUCES, Karachi Campus has officially concluded"), plus Sana (13 Oct): students worked alongside the AI and cybersecurity teams on assigned projects | Used on the hub only. The post gives no numbers or length. It tags Farrukh Feroze Ali, Sheeraz Ahmed Khan and Shahbaz Siddiqui |
 | Alumni quotes | Live `/xcelerate` page | Three reused, two lightly trimmed. Hyphens removed to match the voice rule; tell design if quotes must stay verbatim |
 
 ### Open [CONFIRM] items for Ali Abbasi
@@ -732,6 +750,7 @@ xCelerate · Corporate AI Training · Sponsored Talent Programs · Careers
 8. **Graduates hired by xLoop:** the deck says "200+ graduates hired by xLoop", which cannot sit beside a headcount of 90. Need a figure HR will stand behind, or no figure
 9. **Certificates:** xLoop only, or with Emeritus?
 10. **Mari Cohort II** start date, and whether sponsored cohorts can run remotely
+11. **FAST-NUCES internship:** number of interns, length, project areas, and whether it will repeat. Is it run under xCelerate or by the AI and security teams with HR?
 
 ### Do not publish
 
@@ -753,8 +772,8 @@ xCelerate · Corporate AI Training · Sponsored Talent Programs · Careers
 ## Next steps
 
 - [ ] Sana: review the four pages and the structure
-- [ ] Ali Abbasi: answer the ten [CONFIRM] items above
-- [ ] Courtesy check with Mari Energies and Bank Alfalah before their names go on sales pages
+- [ ] Ali Abbasi: answer the eleven [CONFIRM] items above
+- [ ] Courtesy check with Mari Energies, Bank Alfalah and FAST-NUCES before their names go on sales pages
 - [ ] Send the docx to design with the Cloud, Data and Legacy docs so the cluster patterns match
 - [ ] Devs: fix or remove the dead "AI Bootcamp II" nav link now, ahead of the rebuild
 - [ ] Update `Notes/2026-10-05-xloop-website-revamp-page-status.md`: xCelerate content written

@@ -57,7 +57,15 @@ Related: [[2026-09-07-xloop-bucket-1-region-targeting]] · [[2026-09-29-decks-li
 ## Deck B design versions (2026-10-13)
 - Gamma: https://gamma.app/docs/gk5p655q5rjxcif (10 of 11 slides; closing slide missing; Gamma credits at 0)
 - Figma Slides: https://www.figma.com/slides/dAaUXCGpK4YhIvTJtT2pmz (all 11 slides, in "Sana Qazi's team" drafts)
-- Same approved copy in both. Sana to pick one; then Deck A in the same style and a PowerPoint export
+- Same approved copy in both
+- **Decision (Sana, 2026-10-13): Gamma version preferred.** Omais will refine the slides
+- Gamma PPTX export run (10 slides, link valid about a week): https://assets.api.gamma.app/export/pptx/gk5p655q5rjxcif/c5256852835896605ce05cf064dd2cd6/AI-agents-for-Polish-businesses.pptx
+- Watermark: the "Made with Gamma" badge comes off only on a paid Gamma plan; workspace plan not confirmed
+
+### Next steps
+- [ ] Check the export for the Gamma badge; upgrade the workspace if it is there
+- [ ] Add the missing closing slide (needs Gamma credits) and build Deck A in the same style
+- [ ] Omais: add the xLoop logo, decide on Geist vs Poppins, refine slides
 
 ## Core recommendation (first pass, superseded above)
 - Do not present the company. Make one narrow argument: **AI that survives an audit** (working line, not approved copy)

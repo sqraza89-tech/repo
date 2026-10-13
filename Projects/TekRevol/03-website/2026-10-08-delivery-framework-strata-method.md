@@ -145,3 +145,21 @@ The five Strata layers become the checklist at the Ship Line (security and compl
 - [ ] Sana: put the 13 questions to TekRevol PMs / CTO
 - [ ] Quick trademark search on "Strata Method" before launch
 - [ ] Then: homepage copy v2 (Word) with the Strata Method section, and a draft `/strata-method` page
+
+## Update 2026-10-13: review feedback and v2
+External review of v1 (Sana shared it). Accepted points, now in `TekRevol-Strata-Method-v2-Cover-A.docx` / `-Cover-B.docx` (internal master, build script `_build/strata2.js`):
+- **Lead with the Ship Line**; Strata = the layered model. Positioning: "The Strata Method by TekRevol. Explore with AI. Ship with engineering. Cross the Ship Line only when it meets production standard."
+- **Terms fixed:** stages = the five delivery phases; layers (the Strata) = five quality dimensions checked at the Ship Line
+- **"Structured chaos" is internal only** (enterprise buyers may hear "uncontrolled"). Public brand line: "Explore with AI. Ship with engineering."
+- **Build Standard is pass/fail** per layer with evidence, owner, Ship Line report, waivers; thresholds set per project tier (Light / Standard / Regulated: my addition so small projects are not buried)
+- **AI-native practices** listed (agent registry, evals, prompt/model versioning, model selection, AI observability, human in the loop, private data, compounding assets), all "To confirm"; public copy names only what is in place
+- **Competitor claim softened:** "Most AI delivery models are linear…", never "nobody"
+- **Proof plan:** 2 to 3 pilots, seven metrics, anonymized case studies; compliance stays "experience with" and tied to projects
+- **Trademark:** quick web search 2026-10-13 found no mark for "Strata Method" or "Ship Line" as a method; "Strata" alone is crowded in software. Needs counsel's register search
+- Where I pushed back: the reviewer's "document quality" notes (duplicates, numbering, tables) came from the hand-edited v1, not the framework; and six separate layer owners is too heavy for small projects, hence tiers and combined roles
+
+## Next steps
+- [ ] Sana: review v2; choose cover A or B
+- [ ] CTO: mark each Build Standard criterion and AI-native practice as in place / partial / planned
+- [ ] Assign named owners, templates, gate log audit
+- [ ] Counsel: trademark search for "Strata Method" and "Ship Line"

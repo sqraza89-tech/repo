@@ -47,9 +47,9 @@ Their answers are in the slides.
 ## To confirm
 
 - Caption line on what the engineers do was written without knowing their roles; adjust to fit
-- Slide 2 question must match the prompt HR actually sent
+- Slide 2 question now matches the email Sana sends (resolved 2026-10-13)
 
-## Inputs requested from HR
+## Inputs requested from the engineers (Sana sends the request, not HR)
 
 - One line from each female engineer on her experience as a woman in tech and what made her feel she belongs
 - A casual, happy headshot
@@ -64,7 +64,7 @@ Their answers are in the slides.
 
 ## Next steps
 
-- [ ] Send the request email to HR (draft written in chat on 2026-10-13)
+- [ ] Send the request email directly to the female engineers (HR asked Sana to send it herself; individually or on BCC; question worded "What made you feel you belong in tech?")
 - [ ] Collect lines and headshots by the morning of October 14
 - [ ] Hand carousel copy and design notes to the design team
 - [ ] Fill in quotes, names and titles once received; confirm the two open points

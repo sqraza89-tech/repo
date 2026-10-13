@@ -54,6 +54,16 @@ Related: [[2026-09-07-xloop-bucket-1-region-targeting]] · [[2026-09-29-decks-li
 - Team names on Deck B slide 10 (Daniyal Abbasi, Irfan Shaikh, Muhammad Humza) are placeholders until sales confirms who presents
 - Images: none needed. Optional GPT image spots are the title and closing slides (replace the circle motif) and the demo panel
 
+## Design feedback 2026-10-13
+- Sana: content and both approaches are good, but the look is **retro**. It needs to be more professional, aesthetic and impactful
+- Plan: rebuild the visuals in **Gamma** (connector suggested, not yet connected), keeping the approved slide copy word for word. Deck B first, then Deck A in the same style
+- Fallback: Figma (already connected) if Omais needs exact brand control
+- Limits to remember: Gamma's PPTX export is less polished than the Gamma version; brand match is approximate without a custom xLoop theme
+
+### Next steps
+- [ ] Sana: connect Gamma, say whether an xLoop theme exists there, confirm which deck goes first
+- [ ] Then: generate Deck B in Gamma with text preserved, review, repeat for Deck A
+
 ## Core recommendation (first pass, superseded above)
 - Do not present the company. Make one narrow argument: **AI that survives an audit** (working line, not approved copy)
 - Poland is a supply market with strong local IT firms, so capacity and headcount will not register

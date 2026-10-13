@@ -44,6 +44,16 @@ Related: [[2026-09-07-xloop-bucket-1-region-targeting]] · [[2026-09-29-decks-li
 - [ ] Delivery: confirm durations for the first 30 days slide
 - [ ] Who presents (suggested: COO, Senior Solution Architect, Lead Auditor)
 
+## Decks built 2026-10-13
+- Sana liked both approaches and asked for both as editable PPTX. Both are AI led (agents, then security, then data)
+- **Deck A, three pillars:** `Notes/2026-10-13-xloop-poland-pitch-A-three-pillars.pptx` (11 slides). Line: "AI that works, and stands up to an audit"
+- **Deck B, show first:** `Notes/2026-10-13-xloop-poland-pitch-B-show-first.pptx` (11 slides). Line: "We build the agents. Then we attack them before anyone else does"
+- Native shapes and text, Poppins embedded, brand palette, speaker notes on every slide with the claim rules and open checks
+- **Polish agent demo:** Sana doubts it can be delivered in time. Deck B slide 3 is a demo slot that works with an existing agent in English or a recorded walkthrough; it can be deleted without breaking the deck
+- No performance figures for xServe, no durations on the "how we start" slides, no red team findings (all pending, see list above)
+- Team names on Deck B slide 10 (Daniyal Abbasi, Irfan Shaikh, Muhammad Humza) are placeholders until sales confirms who presents
+- Images: none needed. Optional GPT image spots are the title and closing slides (replace the circle motif) and the demo panel
+
 ## Core recommendation (first pass, superseded above)
 - Do not present the company. Make one narrow argument: **AI that survives an audit** (working line, not approved copy)
 - Poland is a supply market with strong local IT firms, so capacity and headcount will not register

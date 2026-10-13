@@ -54,6 +54,11 @@ Related: [[2026-09-07-xloop-bucket-1-region-targeting]] · [[2026-09-29-decks-li
 - Team names on Deck B slide 10 (Daniyal Abbasi, Irfan Shaikh, Muhammad Humza) are placeholders until sales confirms who presents
 - Images: none needed. Optional GPT image spots are the title and closing slides (replace the circle motif) and the demo panel
 
+## Deck B design versions (2026-10-13)
+- Gamma: https://gamma.app/docs/gk5p655q5rjxcif (10 of 11 slides; closing slide missing; Gamma credits at 0)
+- Figma Slides: https://www.figma.com/slides/dAaUXCGpK4YhIvTJtT2pmz (all 11 slides, in "Sana Qazi's team" drafts)
+- Same approved copy in both. Sana to pick one; then Deck A in the same style and a PowerPoint export
+
 ## Core recommendation (first pass, superseded above)
 - Do not present the company. Make one narrow argument: **AI that survives an audit** (working line, not approved copy)
 - Poland is a supply market with strong local IT firms, so capacity and headcount will not register

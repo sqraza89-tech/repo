@@ -213,7 +213,6 @@ Corporate AI training teaches an organization's existing staff to work with AI i
 | "Our IT team can't build with generative AI yet." | Strong engineers with no hands on time with models, APIs and retrieval. Every internal AI idea waits for an outside vendor | Train IT staff and analysts to build internal copilots, assistants and automated workflows | See Practical Generative AI → |
 | "Security can't sign off on AI." | The security team knows networks and cloud, but not prompt injection, model poisoning or how to assess an AI system | Train security, cloud and risk teams to recognize attacks on AI systems and apply mitigations | See AI Cyber Security → |
 | "We keep hiring outside for skills we should have in house." | Roles are changing faster than hiring can keep up, and generic courses don't match your stack | Build a custom program around your stack and roles, with a capstone on your own use cases | Plan a custom program → |
-| "Leadership can't judge the AI proposals in front of them." | Executives are asked to fund AI without a working view of what it can and can't do | Run a short executive session on AI capabilities, risks and how to evaluate a business case [CONFIRM: offered as a standard session] | Ask about executive sessions → |
 
 ### 4. Standard programs
 
@@ -293,9 +292,8 @@ We agree the measures with you before the program starts, then report at four le
 | Client | Program | What we delivered |
 |---|---|---|
 | **Bank Alfalah** | Full stack web and app development bootcamp | Three cohorts · more than 70 professionals · 240+ hours each · cloud native and mobile application development · capstone projects |
-| **A leading bank** | Executive upskilling | A dedicated batch for seven senior executives on leading digital transformation [CONFIRM: details and whether the bank can be named] |
 
-*Design: leave a card out rather than publish it with an open [CONFIRM].*
+*Design: one full width case block with photos from the Bank Alfalah cohorts, same pattern as the Mari block on the Sponsored page.*
 
 ### 10. At a glance
 
@@ -752,10 +750,10 @@ xCelerate · Corporate AI Training · Sponsored Talent Programs · Careers
 ### Open [CONFIRM] items for Ali Abbasi
 
 1. **PPL. Mostly resolved 14 Oct:** Sana shared the PPL certification carousel and the PPL article (`OneDrive/Documents/ppl.docx`, Dec 2025). It is a CSR program funded by PPL and Dawood Global Foundation: "Digital Literacy Program for Youth in PPL Communities, Full Stack Engineering and Data Science Bootcamp". Still open: number of graduates, year, and who recruited the top performers. Earlier versions on file: "CSR and training initiative for a petroleum company, 17 students" (2024 deck), "Corporate Upskilling Program (PPL): employees trained in AI & Cloud" (QRDI draft), and "50+ engineers, cloud native and full stack" (Malaysia deck). Which is right, and what can be published?
-2. **Executive upskilling for a bank:** seven executives. Which bank, and can it be named?
+2. **Executive upskilling for a bank:** resolved 14 Oct. Sana: the only corporate training delivered is the Bank Alfalah cohorts. Row removed
 3. **Trainers:** Sana removed the client delivery tag in v1.1 (14 Oct). Still open: the current wording for the Emeritus relationship ("Emeritus certified trainers")
 4. **Cohort size:** is 25 the cap for corporate cohorts?
-5. **Executive AI session:** is it a standard offer?
+5. **Executive AI session:** tab removed 14 Oct, since no executive training has been delivered
 6. **Bootcamp tracks** open for booking now, and the tool list per track
 7. **Open cohorts for individuals:** how they are scheduled and priced. The dead "AI Bootcamp II" link suggests none is open now
 8. **Graduates hired by xLoop:** the deck says "200+ graduates hired by xLoop", which cannot sit beside a headcount of 90. Need a figure HR will stand behind, or no figure
@@ -766,6 +764,7 @@ xCelerate · Corporate AI Training · Sponsored Talent Programs · Careers
 ### Do not publish
 
 - "200+ graduates hired by xLoop", "50+ engineers deployed internationally", "60+ developers placed", "35 AI engineers", "10+ products", "$50K+ revenue", "30% increase in productivity" (success stories deck). None has a source
+- Any corporate training client other than Bank Alfalah, including "Executive upskilling for a leading bank" (7 executives), "Bank IT Team Upskilling, 150+ professionals for top tier banks" and "Petroleum Sector Enablement, 50+ engineers" from the decks
 - "Corporate Upskilling Program (PPL)" (QRDI draft). PPL was a CSR program, not employee training
 - "Guaranteed employment" or "100% guaranteed job placement" as a promise. Say what happened in Cohort I
 - The Emeritus statistics, the 85% Dell statistic, the "0+" counters

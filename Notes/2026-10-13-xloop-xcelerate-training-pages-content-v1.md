@@ -17,22 +17,21 @@ Four pages replace the two live xCelerate nav items. They are organized by the k
 ## Design direction for all four pages
 
 - Use the inner page layout and section patterns of the Legacy, Data and Cloud pages: eyebrow and H1 hero, plain answer block, challenges as tabs, cards with a CTA each, a timeline for lifecycles, an at a glance table, an FAQ accordion and a CTA band
-- Retire the old xCelerate look: the animated hero, the stat counters, the six tile icon grid, the "Upcoming Trainings" tabs with "TBD" dates and the alumni carousel
+- Retire the old xCelerate look: the animated hero, the stat counters, the six-tile icon grid, the "Upcoming Trainings" tabs with "TBD" dates and the alumni carousel
 - One H1 per page, rendered as text. The live page has seven H1s
 - Eyebrow on every page: xCelerate. Lockup in the hero: xCelerate by xLoop
 - Photography: real classroom and graduation photos (Bank Alfalah cohorts, Mari Energies Cohort I). No stock images
-- Items tagged [CONFIRM] are waiting on Ali Abbasi. Design can lay them out, but they do not go live until confirmed
 
 ---
 
-## Page 1 · xCelerate hub
+## Page 1 · xCelerate hub page
 
 ### Page setup
 
 | Field | Value |
 |---|---|
 | Title tag | `AI Training and Upskilling Programs \| xCelerate by xLoop` |
-| Meta description | `AI training for working teams, sponsored digital skills programs and full scale bootcamps in AI, data, cloud and security. Online, on premise or hybrid.` |
+| Meta description | `AI training for working teams, sponsored digital skills programs and full scale bootcamps in AI, data, cloud and security. Online, on-premise or hybrid.` |
 | H1 | AI Training and Upskilling Programs |
 | Breadcrumb | Home › xCelerate |
 | Schema | Organization · Service · FAQPage · BreadcrumbList |
@@ -94,7 +93,7 @@ xCelerate is the training division of xLoop, a global AI and data consulting fir
 
 *Design: four short blocks in a row. Text only, no icons grid.*
 
-- **A curriculum drawn from delivery.** xLoop builds AI, data, cloud and security systems for clients. The programs teach the tools and practices that work uses, and they change when the work does. [CONFIRM: which trainers also work on client projects]
+- **A curriculum drawn from delivery.** xLoop builds AI, data, cloud and security systems for clients. The programs teach the tools and practices that work uses, and they change when the work does.
 - **Built around your roles.** A branch manager, a data analyst and a security engineer need different things from AI. We set the outcomes for each group before we set the syllabus.
 - **Practice every day.** Every program is live and instructor led. Participants work on exercises and projects in each session, and longer programs end with a capstone.
 - **Measured at four levels.** We track how participants respond, what they learned, whether they apply it and what changed for the business.
@@ -107,7 +106,7 @@ xCelerate is the training division of xLoop, a global AI and data consulting fir
 
 We work with universities to give students project experience before they graduate. Interns join xLoop for a fixed term and are assigned real projects. They work alongside our AI and cyber security teams to complete them, and gain practical experience in their own field.
 
-In 2026 we ran an internship program with FAST-NUCES, Karachi Campus. Students worked with our AI and cyber security engineers on their assigned projects. The program concluded in August 2026, with recognition for the top performers. [CONFIRM: number of interns, length and project areas]
+In 2026 we ran an internship program with FAST-NUCES, Karachi Campus. Students worked with our AI and cyber security engineers on their assigned projects. The program concluded in August 2026, with recognition for the top performers.
 
 **CTA:** Talk to us about a university partnership →
 
@@ -123,8 +122,8 @@ In 2026 we ran an internship program with FAST-NUCES, Karachi Campus. Students w
 |---|---|---|
 | **Bank Alfalah** | Full stack web and app development bootcamp | Three cohorts and more than 70 professionals. Each participant completed 240+ hours of training in cloud native and mobile application development, ending in capstone projects |
 | **Mari Energies** (CSR program) | Mari Digital Skills, Training & Employment Program | Cohort I: 44 graduates, including five women, from underserved communities. Five months of AI, agentic development and full stack development. All graduates placed into internships and employment |
-| **PPL** | [CONFIRM: program name] | [CONFIRM: audience, subject and numbers. Sources disagree] |
-| **FAST-NUCES, Karachi Campus** | University internship program | Students completed assigned projects alongside xLoop's AI and cyber security teams. Concluded in August 2026 [CONFIRM: number of interns and length] |
+| **PPL and Dawood Global Foundation** (CSR program) | Digital Literacy Program for Youth in PPL Communities: Full Stack Engineering and Data Science Bootcamp | Young people from underprivileged backgrounds in communities around PPL's operations, trained in AI, data science and full stack engineering. Graduates received certificates, and the top performers were recruited [CONFIRM: number of graduates and year] |
+| **FAST-NUCES, Karachi Campus** | University internship program | Students completed assigned projects alongside xLoop's AI and cyber security teams. Concluded in August 2026. |
 
 ### 8. FAQ
 
@@ -145,7 +144,7 @@ Both. Programs run online, on premise at your offices, or hybrid. Sponsored prog
 Yes. Custom programs start with the roles you want to train and the work they do. We then build the curriculum, exercises and capstone around your stack and your use cases.
 
 **Do participants receive a certificate?**
-Yes. Participants who complete a program receive a certificate of completion. [CONFIRM: whether certificates carry Emeritus branding]
+Yes. Participants who complete a program receive a certificate of completion.
 
 **Do you work with universities?**
 Yes. We host internship programs where students complete assigned projects alongside our AI and cyber security teams. In 2026 we ran one with FAST-NUCES, Karachi Campus.
@@ -192,7 +191,7 @@ Corporate AI Training · Sponsored Talent Programs · Bootcamps · AI Consulting
 **Primary CTA:** Book a 30 Minute Training Review →
 **Small line under the CTA:** Tell us the roles and the outcome. We'll tell you which program fits and what it takes.
 
-**Trust line (text):** Delivered for Bank Alfalah and PPL · Training partner: Emeritus
+**Trust line (text):** Delivered for Bank Alfalah · Training partner: Emeritus
 
 ### 2. Answer block
 
@@ -294,7 +293,6 @@ We agree the measures with you before the program starts, then report at four le
 | Client | Program | What we delivered |
 |---|---|---|
 | **Bank Alfalah** | Full stack web and app development bootcamp | Three cohorts · more than 70 professionals · 240+ hours each · cloud native and mobile application development · capstone projects |
-| **PPL** | [CONFIRM: program name] | [CONFIRM: audience, subject and numbers] |
 | **A leading bank** | Executive upskilling | A dedicated batch for seven senior executives on leading digital transformation [CONFIRM: details and whether the bank can be named] |
 
 *Design: leave a card out rather than publish it with an open [CONFIRM].*
@@ -312,7 +310,7 @@ We agree the measures with you before the program starts, then report at four le
 | Length | 5 or 10 days for standard programs. Custom programs are scoped with you |
 | Format | Online · on premise · hybrid |
 | Measurement | Reaction · Learning · Behavior · Results |
-| Delivered for | Bank Alfalah · PPL |
+| Delivered for | Bank Alfalah |
 | Related | Bootcamps · Sponsored Talent Programs · AI Consulting · AI Security |
 
 ### 11. FAQ
@@ -384,7 +382,7 @@ xCelerate · Bootcamps · Sponsored Talent Programs · AI Consulting · AI Secur
 **Primary CTA:** Plan a sponsored cohort (30 min) →
 **Small line under the CTA:** For CSR, sustainability and community investment teams, foundations and public sector programs.
 
-**Trust line (text):** Delivered for Mari Energies · 44 graduates in Cohort I · All placed into internships and employment
+**Trust line (text):** Delivered for Mari Energies, and for PPL with Dawood Global Foundation · Mari Cohort I: 44 graduates, all placed into internships and employment
 
 ### 2. Answer block
 
@@ -446,6 +444,17 @@ Mari Energies funds this program for young people from underserved communities n
 > "This was not just a training or certificate program. The key objective was to create a pathway from learning to employment and sustainable livelihoods. Our partnership with xLoop has helped connect the training with practical employment opportunities."
 > Naseem Qamar, Director HSE, Mari Energies
 
+**H3:** Digital Literacy Program for Youth in PPL Communities
+
+PPL and Dawood Global Foundation funded this program for young people from underprivileged backgrounds in the communities around PPL's operations. xCelerate designed and delivered the training.
+
+| | |
+|---|---|
+| Sponsors | Pakistan Petroleum Limited (PPL) · Dawood Global Foundation |
+| Participants | Young people from underprivileged backgrounds in PPL communities |
+| Program | Full Stack Engineering and Data Science Bootcamp, with hands on work in AI applications, data analysis and problem solving |
+| Result | Graduates received certificates at a ceremony at xLoop's Karachi office. The top performers were recruited [CONFIRM: number of graduates, year, and who recruited them] |
+
 **Links:** [44 Graduates Complete AI and Digital Skills Bootcamp](/insights/media-and-mentions/mari-energies-xloop-ai-digital-skills-bootcamp-graduation) · [Program inauguration](/insights/media-and-mentions/mari-energies-xloop-ai-education)
 
 ### 6. What sponsors get
@@ -470,7 +479,7 @@ Mari Energies funds this program for young people from underserved communities n
 | Tracks | AI and agentic development · full stack development · cloud · data engineering · cyber security |
 | Selection | Open outreach and merit testing |
 | After training | Certification · internship opportunities · job placement assistance · mentoring and career counseling |
-| Delivered | Mari Digital Skills, Training & Employment Program: 44 graduates in Cohort I, all placed |
+| Delivered | Mari Digital Skills, Training & Employment Program: 44 graduates in Cohort I, all placed · Digital Literacy Program for Youth in PPL Communities, with Dawood Global Foundation |
 | Where to start | 30 minute conversation with our training team |
 | Related | Bootcamps · Corporate AI Training |
 
@@ -487,7 +496,7 @@ The cost of training a cohort from selection to placement support. Participants 
 Through open outreach in the communities you choose, followed by testing and selection on merit. You set the eligibility rules, such as the regions the program serves.
 
 **Do graduates get jobs?**
-The program is built to end in employment. Graduates receive placement support, and top performers may be offered roles at xLoop. In Cohort I of the Mari Energies program, all 44 graduates were placed into internships and employment.
+The program is built to end in employment. Graduates receive placement support, and top performers may be offered roles at xLoop. In Cohort I of the Mari Energies program, all 44 graduates were placed into internships and employment. In the PPL program, the top performers were recruited.
 
 **How long does a program run?**
 Up to five months for a full program that takes participants from fundamentals to a job ready level. Shorter programs are possible for a narrower goal.
@@ -612,6 +621,7 @@ A full scale bootcamp is an intensive, full time training program that takes par
 |---|---|---|
 | **Full stack web and app development bootcamp** | Bank Alfalah | Three cohorts · more than 70 professionals · 240+ hours each in cloud native and mobile application development |
 | **Mari Digital Skills, Training & Employment Program** | Mari Energies (CSR sponsor) | Cohort I: 44 graduates in AI, agentic development and full stack development. All placed into internships and employment |
+| **Full Stack Engineering and Data Science Bootcamp** | PPL and Dawood Global Foundation (CSR) | Young people from PPL communities trained in AI, data science and full stack engineering. Top performers recruited |
 | **Open bootcamps for graduates** | Individuals | Graduates have joined xLoop's engineering teams and work on its products, including HR App Pilot, Chat Genie and xVision [CONFIRM: wording and number of graduates hired] |
 
 **H3:** What Graduates Say
@@ -651,7 +661,7 @@ Register your interest in a track. We'll write to you with dates, eligibility an
 | Tracks | AI and Machine Learning · Cloud Computing · Cyber Security · Web and App Development · Data Engineering and Analytics |
 | Format | In person in Karachi · online · on premise · hybrid |
 | Teaching | Live and instructor led, with pair programming, graded tasks and office hours |
-| Delivered for | Bank Alfalah · Mari Energies (CSR) |
+| Delivered for | Bank Alfalah · Mari Energies (CSR) · PPL and Dawood Global Foundation (CSR) |
 | Training partner | Emeritus |
 | Related | Corporate AI Training · Sponsored Talent Programs |
 
@@ -736,25 +746,27 @@ xCelerate · Corporate AI Training · Sponsored Talent Programs · Careers
 | Naseem Qamar quote | Press release (28 Aug 2026), partly on the live press page | Used. Worth a courtesy check with Mari before it sits on a sales page |
 | Emeritus partnership | Decks, intro video script | Named per Sana. Emeritus's own learner statistics (89%, 95%, 87%, 75%) are **not** used: they are Emeritus's numbers, not xLoop's |
 | FAST-NUCES Karachi internship program | xLoop company LinkedIn post, 11 Aug 2026 ("The internship program with FAST-NUCES, Karachi Campus has officially concluded"), plus Sana (13 Oct): students worked alongside the AI and cybersecurity teams on assigned projects | Used on the hub only. The post gives no numbers or length. It tags Farrukh Feroze Ali, Sheeraz Ahmed Khan and Shahbaz Siddiqui |
+| PPL program | `Downloads/PPL Certification.pdf` (8 slide carousel, ceremony screen shows the program name) and `ppl.docx` article | Used on hub, sponsored and bootcamps pages. Removed from the corporate page: it is CSR, not corporate upskilling. Sana labeled it "AI & ML Bootcamp" in v1.1; the official name on the certificates screen is used instead |
 | Alumni quotes | Live `/xcelerate` page | Three reused, two lightly trimmed. Hyphens removed to match the voice rule; tell design if quotes must stay verbatim |
 
 ### Open [CONFIRM] items for Ali Abbasi
 
-1. **PPL.** Three versions on file: "CSR and training initiative for a petroleum company, 17 students" (2024 deck), "Corporate Upskilling Program (PPL): employees trained in AI & Cloud" (QRDI draft), and "50+ engineers, cloud native and full stack" (Malaysia deck). Which is right, and what can be published?
+1. **PPL. Mostly resolved 14 Oct:** Sana shared the PPL certification carousel and the PPL article (`OneDrive/Documents/ppl.docx`, Dec 2025). It is a CSR program funded by PPL and Dawood Global Foundation: "Digital Literacy Program for Youth in PPL Communities, Full Stack Engineering and Data Science Bootcamp". Still open: number of graduates, year, and who recruited the top performers. Earlier versions on file: "CSR and training initiative for a petroleum company, 17 students" (2024 deck), "Corporate Upskilling Program (PPL): employees trained in AI & Cloud" (QRDI draft), and "50+ engineers, cloud native and full stack" (Malaysia deck). Which is right, and what can be published?
 2. **Executive upskilling for a bank:** seven executives. Which bank, and can it be named?
-3. **Trainers:** which trainers also work on client delivery, and the current wording for the Emeritus relationship ("Emeritus certified trainers")
+3. **Trainers:** Sana removed the client delivery tag in v1.1 (14 Oct). Still open: the current wording for the Emeritus relationship ("Emeritus certified trainers")
 4. **Cohort size:** is 25 the cap for corporate cohorts?
 5. **Executive AI session:** is it a standard offer?
 6. **Bootcamp tracks** open for booking now, and the tool list per track
 7. **Open cohorts for individuals:** how they are scheduled and priced. The dead "AI Bootcamp II" link suggests none is open now
 8. **Graduates hired by xLoop:** the deck says "200+ graduates hired by xLoop", which cannot sit beside a headcount of 90. Need a figure HR will stand behind, or no figure
-9. **Certificates:** xLoop only, or with Emeritus?
+9. **Certificates:** resolved. Sana removed the tag in v1.1 (14 Oct)
 10. **Mari Cohort II** start date, and whether sponsored cohorts can run remotely
-11. **FAST-NUCES internship:** number of interns, length, project areas, and whether it will repeat. Is it run under xCelerate or by the AI and security teams with HR?
+11. **FAST-NUCES internship:** Sana removed the number tags in v1.1 (14 Oct). Still open: whether it will repeat. Is it run under xCelerate or by the AI and security teams with HR?
 
 ### Do not publish
 
 - "200+ graduates hired by xLoop", "50+ engineers deployed internationally", "60+ developers placed", "35 AI engineers", "10+ products", "$50K+ revenue", "30% increase in productivity" (success stories deck). None has a source
+- "Corporate Upskilling Program (PPL)" (QRDI draft). PPL was a CSR program, not employee training
 - "Guaranteed employment" or "100% guaranteed job placement" as a promise. Say what happened in Cohort I
 - The Emeritus statistics, the 85% Dell statistic, the "0+" counters
 - Prices. The Malaysia deck prices are market specific

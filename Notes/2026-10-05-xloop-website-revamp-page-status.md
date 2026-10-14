@@ -22,6 +22,7 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - Web & App Development v1 (8 Oct) — `Notes/2026-10-08-xloop-web-app-development-page-content-v1.docx`
 - Digital Engineering v1 (8 Oct, scope = engineering capacity + platform engineering, assumed) — `Notes/2026-10-08-xloop-digital-engineering-page-content-v1.docx`
 - xCelerate v1 (13 to 14 Oct): hub + Corporate AI Training + Sponsored Talent Programs + Bootcamps. Source of truth: `Notes/2026-10-13-xloop-xcelerate-training-pages-content-v1.md` (Sana editing the v1.1 docx). PPL and Mari = CSR proof; Bank Alfalah = only corporate proof. Remaining [CONFIRM]s with Ali Abbasi
+- AI Consulting & Strategy v1 (14 Oct): full rewrite, replaces both live pages (`/ai-consultancy` + `/services/ai-consulting-and-development`, one to 301 after a Search Console check). `Notes/2026-10-14-xloop-ai-consulting-strategy-page-content-v1.docx`. Five [CONFIRM] items for the delivery lead
 
 ## Not written yet
 - Mining industry page. Blocked: Harmony Gold details and naming permission
@@ -30,7 +31,6 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 
 ## Written in August, now out of date
 - Applied AI Solutions (7 leaf pages): remove Digital Twin
-- AI Consulting & Strategy: CTA points to the Gen AI Readiness Assessment, which isn't live. Switch to the 30-minute Data & AI Readiness Review
 - AI Security: re-check the "no AI case study" gap
 - xSecurity hub: confirm the AI Security Assessment is live at `/ai-security-assessment` before using it as the main CTA
 - Industries: 9 → 6 (Mining replaces Manufacturing; 301 redirects for Smart Cities, Telco, EdTech); review the remaining 6
@@ -43,7 +43,8 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - [x] Digital Engineering v1 (8 Oct). Sana to confirm the scope split
 - [ ] URGENT devs: remove the unapproved stats (60%, 35%, 40%, 50%, 45%, 30%, 100%) from the live /digital-engineering case carousel
 - [ ] Devs: remove leftover 9GAG/Fueled template text from /portfolio/eatsy
-- [ ] Applied AI Solutions + AI Consulting fixes
+- [x] AI Consulting & Strategy v1 (14 Oct)
+- [ ] Applied AI Solutions hub + 6 leaf pages (Digital Twin removed)
 - [ ] xLab hub/products + case study pages (Release 2, by 30 Nov)
 - [ ] Mining once the missing information arrives
 - [ ] xCelerate: Ali Abbasi to answer the [CONFIRM] items, then send to design

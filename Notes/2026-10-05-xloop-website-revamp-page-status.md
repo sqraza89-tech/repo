@@ -21,12 +21,12 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - Cloud & Hyperscaling v1.2 (8 Oct, APPROVED by Sana with her own edits to sections 3–4 in the docx) — `Notes/2026-10-08-xloop-cloud-hyperscaling-page-content-v1.2.docx`
 - Web & App Development v1 (8 Oct) — `Notes/2026-10-08-xloop-web-app-development-page-content-v1.docx`
 - Digital Engineering v1 (8 Oct, scope = engineering capacity + platform engineering, assumed) — `Notes/2026-10-08-xloop-digital-engineering-page-content-v1.docx`
+- xCelerate v1 (13 to 14 Oct): hub + Corporate AI Training + Sponsored Talent Programs + Bootcamps. Source of truth: `Notes/2026-10-13-xloop-xcelerate-training-pages-content-v1.md` (Sana editing the v1.1 docx). PPL and Mari = CSR proof; Bank Alfalah = only corporate proof. Remaining [CONFIRM]s with Ali Abbasi
 
 ## Not written yet
 - Mining industry page. Blocked: Harmony Gold details and naming permission
 - Case study pages (Release 2)
 - xLab hub + 7 product pages
-- xCelerate: content v1 written 13 Oct (hub + Corporate AI Training + Sponsored Talent Programs + Bootcamps), `Notes/2026-10-13-xloop-xcelerate-training-pages-content-v1.docx`. Eleven [CONFIRM] items open with Ali Abbasi
 
 ## Written in August, now out of date
 - Applied AI Solutions (7 leaf pages): remove Digital Twin

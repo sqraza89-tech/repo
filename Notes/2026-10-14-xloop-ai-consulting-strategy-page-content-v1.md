@@ -5,6 +5,8 @@ tags: [xloop, service-page, ai-consulting, ai-strategy, applied-ai, site-revamp,
 
 # AI Consulting & Strategy · Page Content v1 (for design handoff)
 
+**Superseded 14 Oct by v1.1, renamed Data & AI Consulting:** [[2026-10-14-xloop-data-ai-consulting-page-content-v1.1]]
+
 **URL:** `/ai-consultancy` (the nav map's URL for this page) · **Pillar:** xTend › AI Consulting & Strategy
 **Replaces:** both live AI consulting pages, `/ai-consultancy` and `/services/ai-consulting-and-development`. The second gets a 301 to the first (see internal notes)
 **Scope:** strategy, readiness, use case selection, roadmap, governance and the move from pilot to production. Building the models and agents belongs to Applied AI Solutions, and this page hands over to it

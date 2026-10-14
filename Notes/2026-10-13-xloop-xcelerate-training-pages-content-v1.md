@@ -98,7 +98,7 @@ xCelerate is the training division of xLoop, a global AI and data consulting fir
 - **Practice every day.** Every program is live and instructor led. Participants work on exercises and projects in each session, and longer programs end with a capstone.
 - **Measured at four levels.** We track how participants respond, what they learned, whether they apply it and what changed for the business.
 
-**Line below:** Training can stand alone, or follow an xLoop engagement so your team runs what we build. See [AI Consulting](/services/ai-consulting-and-development), [Data Analytics & Engineering](/services/data-analytics) and [AI Security](/services/ai-security-service).
+**Line below:** Training can stand alone, or follow an xLoop engagement so your team runs what we build. See [Data & AI Consulting](/ai-consultancy), [Data Analytics & Engineering](/services/data-analytics) and [AI Security](/services/ai-security-service).
 
 ### 6. University internships
 
@@ -164,7 +164,7 @@ In 30 minutes we'll look at who needs training, what they need to be able to do 
 
 ### 10. Related
 
-Corporate AI Training · Sponsored Talent Programs · Bootcamps · AI Consulting · AI Security · Careers
+Corporate AI Training · Sponsored Talent Programs · Bootcamps · Data & AI Consulting · AI Security · Careers
 
 ---
 
@@ -309,7 +309,7 @@ We agree the measures with you before the program starts, then report at four le
 | Format | Online · on premise · hybrid |
 | Measurement | Reaction · Learning · Behavior · Results |
 | Delivered for | Bank Alfalah |
-| Related | Bootcamps · Sponsored Talent Programs · AI Consulting · AI Security |
+| Related | Bootcamps · Sponsored Talent Programs · Data & AI Consulting · AI Security |
 
 ### 11. FAQ
 
@@ -353,7 +353,7 @@ In 30 minutes we'll look at the roles you want to train and what they should be 
 
 ### 13. Related
 
-xCelerate · Bootcamps · Sponsored Talent Programs · AI Consulting · AI Security · Data Analytics & Engineering
+xCelerate · Bootcamps · Sponsored Talent Programs · Data & AI Consulting · AI Security · Data Analytics & Engineering
 
 ---
 
@@ -728,7 +728,7 @@ xCelerate · Corporate AI Training · Sponsored Talent Programs · Careers
 
 - Same page skeleton as Legacy, Data and Cloud: hero, answer block, challenges as tabs, services, process, proof, at a glance, FAQ, CTA band
 - Same CTA pattern: a 30 minute review, one form, hidden `source=` tag per page (`xcelerate`, `corporate-training`, `sponsored`, `bootcamps`)
-- Positioning line: training is how the client keeps the capability after xLoop leaves (same idea as slide 8 of the Poland deck). Links go out to AI Consulting, AI Security and Data
+- Positioning line: training is how the client keeps the capability after xLoop leaves (same idea as slide 8 of the Poland deck). Links go out to Data & AI Consulting, AI Security and Data
 - Audience flipped from jobseekers to organizations, as agreed. Individuals get one section and their own form on the Bootcamps page
 - Brand voice rules applied: US spelling, no hyphens or dashes in page prose, no exclamation marks, no banned words
 

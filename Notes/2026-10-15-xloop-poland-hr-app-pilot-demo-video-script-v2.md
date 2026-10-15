@@ -69,8 +69,8 @@ Related: [[2026-10-15-xloop-poland-hr-app-pilot-demo-video-script]] (v1, rejecte
 **FINAL FRAME (0:58–1:00)**
 - Visuals: xLoop logo outro, best dashboard shots running behind
 - On-screen text:
-  - Turning HR requests into finished work.
-  - Admin, automated. HR, human again.
+  - Most AI stays in the pilot.
+  - Ours goes to work.
 
 ## Claims check
 - Every feature shown is on the live HR App Pilot and Chat Genie pages: policy answers, leave, document generation, help desk, Odoo payslips and advance salary, escalation with context logged, NLQ, visualization, anomaly detection
@@ -81,7 +81,7 @@ Related: [[2026-10-15-xloop-poland-hr-app-pilot-demo-video-script]] (v1, rejecte
 ## Open questions
 - [ ] Stats frame: keep it factual as above, or does delivery have real HR App Pilot numbers from a deployment (requests handled, response time, share resolved without HR)?
 - [ ] Polish on screen: needs delivery to confirm both products work in Polish. Fallback: English UI with Polish subtitles
-- [x] Sign-off: "Get Shit Done" is GeshidoCon's tagline, so it is out. Replaced with "Admin, automated. HR, human again."
+- [x] Sign-off: "Get Shit Done" is GeshidoCon's tagline, so it is out. Replaced with an xLoop-level line (Sana, 2026-10-15): "Most AI stays in the pilot. Ours goes to work." Echoes Deck B slide 2 (why AI stalls after the pilot)
 - [ ] Footage: a real demo tenant recording, or animated mock-ups? Chat Genie on HR data is not shown on the site today
 - [ ] Generated SQL on screen: delivery to confirm Chat Genie can show the query
 

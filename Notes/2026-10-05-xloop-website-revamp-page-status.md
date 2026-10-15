@@ -43,6 +43,7 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - [x] Digital Engineering v1 (8 Oct). Sana to confirm the scope split
 - [ ] URGENT devs: remove the unapproved stats (60%, 35%, 40%, 50%, 45%, 30%, 100%) from the live /digital-engineering case carousel
 - [ ] Devs: remove leftover 9GAG/Fueled template text from /portfolio/eatsy
+- [ ] Devs (found 15 Oct): /portfolio/alfalah-investments has an Eatsy "Digital Dining Ecosystem" block and 0% counters; /portfolio/hbl-asset-management-ltd has Beythak farming text, "Upwork has seen massive year over growth" template copy and 0% counters
 - [x] Data & AI Consulting v1.1 (14 Oct)
 - [ ] Applied AI Solutions hub + 6 leaf pages (Digital Twin removed)
 - [ ] xLab hub/products + case study pages (Release 2, by 30 Nov)

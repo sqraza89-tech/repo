@@ -66,7 +66,7 @@ The pilot works in a demo. Then it stops. It is usually one of three reasons, an
 | | The reason | What fixes it |
 |---|---|---|
 | **The data isn't ready** | The model needs clean, connected data. The data sits in silos, nobody trusts the reports, and every use case starts with weeks of cleanup | A data foundation that every use case can draw from. See [Data Analytics & Engineering](/services/data-analytics) |
-| **It was built for a demo** | The pilot ran on a sample, with no integration, monitoring or owner. Production needs all three | An architecture and an operating plan designed for production from the first sprint |
+| **It was built for a demo** | The pilot ran on a sample, with no integration, monitoring or owner. Production needs all three | An architecture and an operating plan designed for production from the first sprint. See [Applied AI Solutions](/services/applied-ai-solutions) |
 | **Nobody can show it is safe** | Security, risk or compliance can't sign off, because nobody tested how the system fails or who is accountable | Governance and security testing built into the plan, not added at the end. See [AI Security Services](/services/ai-security-service) |
 
 **Line below:** A good AI strategy checks all three before money goes into a build.

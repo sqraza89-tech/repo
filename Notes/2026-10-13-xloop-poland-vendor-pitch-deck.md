@@ -5,7 +5,7 @@ tags: [xloop, poland, europe, pitch-deck, government, enterprise]
 
 # xLoop: vendor pitch deck for Polish enterprises and government agencies
 
-Related: [[2026-09-07-xloop-bucket-1-region-targeting]] · [[2026-09-29-decks-library-slide-review]]
+Related: [[2026-09-07-xloop-bucket-1-region-targeting]] · [[2026-09-29-decks-library-slide-review]] · [[2026-10-15-xloop-poland-hr-app-pilot-demo-video-script]] (demo video for slide 3)
 
 ## Context
 - xLoop will pitch to become a vendor for Polish enterprises and government agencies (Sana, 2026-10-13)

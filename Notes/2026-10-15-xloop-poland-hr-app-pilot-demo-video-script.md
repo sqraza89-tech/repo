@@ -7,6 +7,8 @@ tags: [xloop, poland, video, demo, hr-app-pilot, chat-genie, script]
 
 Related: [[2026-10-13-xloop-poland-vendor-pitch-deck]] (fills Deck B slide 3, the demo slot)
 
+> **Superseded** by [[2026-10-15-xloop-poland-hr-app-pilot-demo-video-script-v2]]. Sana found this version generic; v2 follows the GeshidoCon booth-video format.
+
 ## Brief
 - Under 60 seconds (this runs about 50), fast cuts, few words, screens carry it
 - Grounded in one Polish workplace on one ordinary morning, not features explained in the abstract

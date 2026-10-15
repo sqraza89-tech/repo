@@ -85,7 +85,10 @@ Related: [[2026-10-15-xloop-poland-hr-app-pilot-demo-video-script]] (v1, rejecte
 - [ ] Footage: a real demo tenant recording, or animated mock-ups? Chat Genie on HR data is not shown on the site today
 - [ ] Generated SQL on screen: delivery to confirm Chat Genie can show the query
 
+## Word doc
+- `Notes/2026-10-15-xloop-poland-hr-app-pilot-chat-genie-video-script.docx` (built 2026-10-15): script in GeshidoCon format plus sign-off options A–F. Copy only; claims check and open questions stay in this note
+
 ## Next steps
-- [ ] Sana: decide stats frame, language and sign-off
+- [ ] Sana: pick the sign-off (options A–F in the Word doc), decide stats frame and language
 - [ ] Delivery: confirm stack, Polish support, Chat Genie on HR data; set up demo tenant with dummy data
 - [ ] Omais / editor: stock montage of Polish workplaces, architecture animation, edit

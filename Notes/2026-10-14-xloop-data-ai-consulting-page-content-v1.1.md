@@ -242,9 +242,11 @@ Both. The same firm that writes the roadmap can build it: the data platform thro
 
 ## 11. CTA band · `#start`
 
-**H2:** Talk to Our Data and AI Leads
+**H2:** Find Out If Your Data Is Ready for AI
 
-In 30 minutes we'll look at what you want AI to do, what your data can support today, and the first use case worth testing. You'll leave with a clear next step, whether or not it involves us.
+In 30 minutes we'll look at what you want AI to do, what your data can support today, and the first use case worth testing. You'll leave knowing where your data stands and where to start, whether or not you work with us.
+
+*Headline changed 15 Oct (Sana): the button and booking stay the same as the homepage and Data page, which are already with design and dev.*
 
 **CTA:** Book a 30 Minute Data & AI Readiness Review →
 

@@ -3,6 +3,10 @@ date: 2026-10-15
 tags: [tekrevol, marketing-analysis, chatgpt-ads, landing-page, healthcare, cro]
 brand: tekrevol
 period: 2026-06-16 to 2026-10-15 (campaign lifetime; no spend recorded after 2026-09-17)
+cover_label: MARKETING REPORT · INTERNAL
+cover_title: ChatGPT Ads Audit
+cover_sub: HEALTHCARE CAMPAIGN AND LANDING PAGE · OCT 2026
+docx_name: TekRevol-ChatGPT-Ads-Healthcare-Audit
 ---
 
 # TekRevol ChatGPT Ads: healthcare campaign and landing page audit

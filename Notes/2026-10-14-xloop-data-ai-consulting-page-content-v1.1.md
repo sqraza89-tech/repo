@@ -34,7 +34,7 @@ tags: [xloop, service-page, data-ai-consulting, ai-consulting, data-strategy, ai
 
 **H1:** Data and AI Consulting Services
 
-**Subhead:** Most AI programs don't fail on the model. They stall because the data isn't ready, the pilot was never built for production, or nobody can show it is safe. We plan data and AI together: the data foundation your AI needs, the use cases worth funding, and the route from pilot to production.
+**Subhead:** Most AI programs don't fail on the model, they stall because the data isn't ready, the pilot was never built for production, or nobody can show it is safe. We plan data and AI together: the data foundation your AI needs, the use cases worth funding, and the route from pilot to production.
 
 **Primary CTA:** Book a 30 Minute Data & AI Readiness Review →
 **Small line under the CTA:** We'll look at what you want AI to do, what your data can support today, and where to start.
@@ -149,9 +149,9 @@ A strategy is only useful if it turns into something real. Once the priorities a
 | Step | What happens | You get |
 |---|---|---|
 | **1. Data & AI Readiness Review (30 min)** | Our data and AI leads look at what you want AI to do and what your data can support today | A clear next step |
-| **2. Assess and prioritize** | We assess data and AI readiness and score your candidate use cases with your business and technical owners. Usually two to four weeks [CONFIRM] | A ranked short list and the gaps behind it |
+| **2. Assess and prioritize** | We assess data and AI readiness and score your candidate use cases with your business and technical owners. Usually two to four weeks | A ranked short list and the gaps behind it |
 | **3. Data strategy, roadmap and business case** | We plan the data foundation and the priority use cases together: architecture, build or buy, cost, governance and success measures | A roadmap and business case leadership can fund |
-| **4. Pilot, then scale** | A pilot built for production on the first use case, usually six to twelve weeks [CONFIRM], then a phased rollout based on results | A working system, and evidence for the next decision |
+| **4. Pilot, then scale** | A pilot built for production on the first use case, usually six to twelve weeks, then a phased rollout based on results | A working system, and evidence for the next decision |
 
 ---
 
@@ -163,26 +163,26 @@ A strategy is only useful if it turns into something real. Once the priorities a
 
 | Client | The problem | What we did | Result |
 |---|---|---|---|
-| **A leading asset management firm in Pakistan** | Investors and advisers had to read fund reports of 40+ pages to compare funds and judge risk | Built an LLM powered investment assistant that profiles risk in plain language, suggests suitable funds and compares performance | Fund research through a conversational assistant, available at any hour |
-| **A leading South African retailer** | Data spread across SAP ERP, SAP BW and application databases, with competing sources of truth | Built a centralized lakehouse on Snowflake and AWS, and moved every source into it | Reporting, data analysis, data science models and AI use cases now run from one trusted source |
-| **A technology company** | Application data in a database cache and ERP data, with no platform to bring them together [CONFIRM: problem wording] | Mapped the current state and designed the target Snowflake architecture, procedures and views | A modernization design the team could build against |
+| **A leading asset management firm in Pakistan** | Investors and advisers had to read fund reports of 40+ pages to compare funds and judge risk | Built an LLM powered investment assistant that profiles risk in plain language, suggests suitable funds and compares performance | Find research through a conversational assistant, available at any hour |
+| **One of the largest South African retailers** | Data spread across SAP ERP, SAP BW and application databases, with competing sources of truth | Built a centralized lakehouse on Snowflake and AWS, and moved every source into it | Reporting, data analysis, data science models and AI use cases now run from one trusted source |
+| **A technology company based in** | Application data in a database cache and ERP data, with no platform to bring them together | Mapped the current state and designed the target Snowflake architecture, procedures and views | A modernization design the team could build against |
 | **A Canadian healthcare platform** | Thousands of video recordings held insights nobody could search | Built a transcription engine and a RAG search over an LLM, with a natural language chatbot and a dashboard | The full video archive searchable in plain language |
-| **A Saudi Arabian fast food chain** | High order volumes at peak hours | Deployed xServe, our AI ordering product, to take orders at peak times. It also suggests upsells and gives nutritional information when customers ask for it | Peak hour orders handled by AI, with upsell suggestions and nutrition details built into the ordering flow |
+| **A leading Saudi Arabian fast food chain** | High order volumes at peak hours | Created xServe, our AI ordering product, to take orders at peak times. It also suggests upsells and provides nutritional information when customers ask | Peak hour orders handled by AI, in natural conversation, with upsell suggestions and nutrition details built into the ordering flow |
 
 *Order: the investment assistant first (AI in production), then the two data cards (the foundation under AI), then RAG search and xServe. The two data cards use the same wording as the Data Analytics page, so the pages agree.*
-*xServe card: problem and features confirmed by Sana (15 Oct). No figures: the 45% and 78% are still not approved.*
+*If the xServe details aren't confirmed before launch, drop the card. Four cards are enough.*
 
 **H3:** How We Build AI Agents
 
-Our multi agent reference architecture covers 11 stages, from intake and planning to tool use, memory, evaluation and monitoring [CONFIRM: stage names for the public version]. We build on LangChain, LangGraph, AutoGen, CrewAI, OpenAI, Anthropic, Pinecone, Chroma, FastAPI and Kubernetes, and choose the stack per use case.
+Our multi agent reference architecture covers 11 stages, from intake and planning to tool use, memory, evaluation and monitoring. We build on LangChain, LangGraph, AutoGen, CrewAI, OpenAI, Anthropic, Pinecone, Chroma, FastAPI and Kubernetes, and choose the stack per use case.
 
 *Design: a simple 11 step strip. Text, not an image, so search and AI agents can read it.*
 
 **Testimonial:**
 > "They crafted a highly innovative proof of concept for an AI project, showcasing their technical prowess and creativity."
-> Ryan Borenstein, Serefin [CONFIRM: title]
+> Ryan Borenstein, Serefin
 
-*Verbatim excerpt from the signed Serefin letter. Do not edit the wording.*
+*Verbatim excerpt from the signed Serefin letter.*
 
 ---
 
@@ -198,7 +198,7 @@ Our multi agent reference architecture covers 11 stages, from intake and plannin
 | Services | Data and AI readiness assessment · use case discovery and prioritization · data strategy · AI strategy and roadmap · data and AI governance · pilot to production |
 | Delivered | LLM investment assistant · Snowflake single source of truth for AI use cases · Snowflake platform design · RAG search over a video archive · xServe AI ordering deployment |
 | Engagement models | Fixed scope assessment and roadmap · advisory retainer · strategy followed by build |
-| Governance | ISO 42001 and ISO 27001 Lead Auditors (individual certification) |
+| Governance | ISO 42001 and ISO 27001 Lead Auditors |
 | Technology partners | AWS · Microsoft · Snowflake · Databricks · Salesforce |
 | Industries | Financial services · Healthcare · Retail · Energy and utilities · Transport and logistics · Government |
 | Related | Data Analytics & Engineering · Applied AI Solutions · AI Security · Corporate AI Training |
@@ -221,7 +221,7 @@ Not a separate one first. Plan them together. Each priority AI use case shows wh
 We score every candidate on business value, feasibility, data availability and risk. The first use case should be valuable enough to matter and simple enough to prove the approach. Use cases that need major data work usually come later, once the foundation is in place.
 
 **How long does an AI consulting engagement take?**
-An assessment and roadmap usually takes two to four weeks. A first pilot usually takes six to twelve weeks, followed by a phased rollout based on results. We set the timeline for your own scope during the assessment. [CONFIRM: ranges with the delivery lead]
+An assessment and roadmap usually takes two to four weeks. A first pilot usually takes six to twelve weeks, followed by a phased rollout based on results. We set the timeline for your own scope during the assessment.
 
 **What data do we need before starting an AI project?**
 It depends on the use case. Most need relevant historical data, access to the systems it lives in, and a named owner who understands it. Gaps are normal at the start. Finding them is part of the assessment, before any build begins.
@@ -244,9 +244,7 @@ Both. The same firm that writes the roadmap can build it: the data platform thro
 
 **H2:** Find Out If Your Data Is Ready for AI
 
-In 30 minutes we'll look at what you want AI to do, what your data can support today, and the first use case worth testing. You'll leave knowing where your data stands and where to start, whether or not you work with us.
-
-*Headline changed 15 Oct (Sana): the button and booking stay the same as the homepage and Data page, which are already with design and dev.*
+In 30 minutes we'll look at what you want AI to do, what your data can support today, and the first use case worth testing. You'll leave with a clear next step, whether or not it involves us.
 
 **CTA:** Book a 30 Minute Data & AI Readiness Review →
 
@@ -262,6 +260,18 @@ Data Analytics & Engineering · Applied AI Solutions · AI Security · Corporate
 ---
 
 ## Internal notes (not for design)
+
+### Sana's docx edits, 15 Oct (mirrored above so md = docx)
+
+Open points sent back to Sana the same day:
+1. "A technology company based in" is unfinished
+2. "Find research" should be "Fund research"
+3. Subhead comma splice: "on the model, they stall" → full stop
+4. Stale design note under the proof table ("If the xServe details aren't confirmed…") contradicts the confirmed card
+5. "Created xServe" vs approved claim B5 (a deployment)
+6. "One of the largest South African retailers" vs the Data page's "A leading South African retailer"
+7. "(individual certification)" removed from the ISO row
+8. [CONFIRM] tags removed for timelines, the 11 stage names, Ryan Borenstein's title and the technology company problem. Stage list and timelines still need a delivery check before go live
 
 ### v1.1 (14 Oct): data added
 

@@ -16,7 +16,7 @@ tags: [xloop, service-page, data-ai-consulting, ai-consulting, data-strategy, ai
 
 | Field | Value |
 |---|---|
-| Title tag | `Data & AI Consulting and Strategy Services \| xLoop` |
+| Title tag | `Data & AI Consulting Services \| xLoop` |
 | Meta description | `Data and AI consulting for leaders who need results, not pilots. We assess data readiness, set the data strategy and choose the AI use cases worth funding.` |
 | H1 | Data and AI Consulting Services |
 | Nav label | Data & AI Consulting |
@@ -167,10 +167,10 @@ A strategy is only useful if it turns into something real. Once the priorities a
 | **A leading South African retailer** | Data spread across SAP ERP, SAP BW and application databases, with competing sources of truth | Built a centralized lakehouse on Snowflake and AWS, and moved every source into it | Reporting, data analysis, data science models and AI use cases now run from one trusted source |
 | **A technology company** | Application data in a database cache and ERP data, with no platform to bring them together [CONFIRM: problem wording] | Mapped the current state and designed the target Snowflake architecture, procedures and views | A modernization design the team could build against |
 | **A Canadian healthcare platform** | Thousands of video recordings held insights nobody could search | Built a transcription engine and a RAG search over an LLM, with a natural language chatbot and a dashboard | The full video archive searchable in plain language |
-| **A Saudi Arabian fast food chain** | [CONFIRM: the ordering problem xServe solved] | Deployed xServe, our AI ordering product | [CONFIRM: outcome in words. The 45% and 78% figures are not approved] |
+| **A Saudi Arabian fast food chain** | High order volumes at peak hours | Deployed xServe, our AI ordering product, to take orders at peak times. It also suggests upsells and gives nutritional information when customers ask for it | Peak hour orders handled by AI, with upsell suggestions and nutrition details built into the ordering flow |
 
 *Order: the investment assistant first (AI in production), then the two data cards (the foundation under AI), then RAG search and xServe. The two data cards use the same wording as the Data Analytics page, so the pages agree.*
-*If the xServe details aren't confirmed before launch, drop the card. Four cards are enough.*
+*xServe card: problem and features confirmed by Sana (15 Oct). No figures: the 45% and 78% are still not approved.*
 
 **H3:** How We Build AI Agents
 
@@ -319,7 +319,7 @@ Sana asked for a data component, since the rebrand moves xLoop toward data and A
 | Buyer phrases in the challenges | `03_icp/buyer_personas.md`, Persona 1 | Used |
 | LLM investment assistant | P-06 / A12, already published | Used. Asset manager left anonymous on the card, even though Alfalah Investments has a public portfolio page |
 | RAG video search | P-07 / A13 | Narrative only. The 80% figure is not used |
-| xServe deployment, Saudi fast food chain | B5 | Deployment only. Problem and outcome need [CONFIRM] |
+| xServe deployment, Saudi fast food chain | B5, plus Sana (15 Oct): peak hour order volumes, upsells, nutritional information | Used, in words only. No figures |
 | Snowflake single source of truth | P-01 / A9, CTO wording | Used. Not "real time" |
 | 11 stage agent architecture and stack | A18 | Used. Stage names need delivery to confirm |
 | Snowflake platform design, technology company | A27, wording from the Data Analytics page | Used. Client (Wefi Tech) never named |
@@ -329,7 +329,7 @@ Sana asked for a data component, since the rebrand moves xLoop toward data and A
 ### Open [CONFIRM] items
 
 1. Engagement timelines: assessment two to four weeks, pilot six to twelve weeks (from the August doc, no delivery owner recorded)
-2. xServe card: the problem it solved and the outcome in words
+2. ~~xServe card~~: resolved by Sana, 15 Oct
 3. Public stage names for the 11 stage agent architecture
 4. Ryan Borenstein's title at Serefin
 5. Search Console: which of the two URLs holds the impressions, before the redirect

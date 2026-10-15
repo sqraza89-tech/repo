@@ -9,7 +9,7 @@ Related: [[2026-10-15-xloop-poland-hr-app-pilot-demo-video-script]] (v1, rejecte
 
 ## Why v2
 - Sana: v1 felt generic. Match the GeshidoCon booth videos (`Geshido Video Scripts - Last one.docx`, OneDrive) in vibe, pace, technical depth and value
-- GeshidoCon pattern: a recognisable world, then the product acting in it, then what runs under the hood (named stack), then a rapid use-case montage, then an impact frame and "Get Shit Done"
+- GeshidoCon pattern: a recognisable world, then the product acting in it, then what runs under the hood (named stack), then a rapid use-case montage, then an impact frame and a sign-off line (GeshidoCon's "Get Shit Done" is their tagline, not ours: never use it)
 - The GeshidoCon Agentic Workflows video already used HR App Pilot for generic orchestration. This one goes deep on HR in a Polish workplace and adds Chat Genie as the analytics layer
 
 ## Script
@@ -24,8 +24,8 @@ Related: [[2026-10-15-xloop-poland-hr-app-pilot-demo-video-script]] (v1, rejecte
 **SCENE 2 (0:08–0:16)**
 - Visuals: an employee types *"Potrzebuję zaświadczenia o zarobkach do banku"* (salary certificate for the bank). Intent detected, employee record pulled from Odoo, letter generated, PDF ready to download
 - On-screen text:
-  - HR App Pilot doesn't just answer.
-  - It acts. Inside your HR system.
+  - Requested at 09:02. Ready at 09:02.
+  - Nobody in HR touched it.
 
 **SCENE 3 (0:17–0:27)**
 - Visuals: the chat zooms out into the architecture, each layer lighting up in turn:
@@ -56,7 +56,7 @@ Related: [[2026-10-15-xloop-poland-hr-app-pilot-demo-video-script]] (v1, rejecte
 - Visuals: the HR director opens Chat Genie and types *"Absence by site, last 6 months."* The generated SQL flashes for a beat, then a chart builds. Chat Genie flags an anomaly: sick leave rising on the Łódź night shift since August. A follow-up question re-cuts the chart by shift
 - On-screen text:
   - Then HR asks its own questions.
-  - Plain language in. Query, chart and alert out.
+  - Ask like a manager. Answered like an analyst.
   - Chat Genie spots the pattern before it becomes attrition.
 
 **IMPACT FRAME (0:53–0:57)**
@@ -70,7 +70,7 @@ Related: [[2026-10-15-xloop-poland-hr-app-pilot-demo-video-script]] (v1, rejecte
 - Visuals: xLoop logo outro, best dashboard shots running behind
 - On-screen text:
   - Turning HR requests into finished work.
-  - Get Shit Done.
+  - Admin, automated. HR, human again.
 
 ## Claims check
 - Every feature shown is on the live HR App Pilot and Chat Genie pages: policy answers, leave, document generation, help desk, Odoo payslips and advance salary, escalation with context logged, NLQ, visualization, anomaly detection
@@ -81,7 +81,7 @@ Related: [[2026-10-15-xloop-poland-hr-app-pilot-demo-video-script]] (v1, rejecte
 ## Open questions
 - [ ] Stats frame: keep it factual as above, or does delivery have real HR App Pilot numbers from a deployment (requests handled, response time, share resolved without HR)?
 - [ ] Polish on screen: needs delivery to confirm both products work in Polish. Fallback: English UI with Polish subtitles
-- [ ] "Get Shit Done" in a final pitch to Polish enterprises and possibly government: keep the GeshidoCon sign-off or swap to a clean line?
+- [x] Sign-off: "Get Shit Done" is GeshidoCon's tagline, so it is out. Replaced with "Admin, automated. HR, human again."
 - [ ] Footage: a real demo tenant recording, or animated mock-ups? Chat Genie on HR data is not shown on the site today
 - [ ] Generated SQL on screen: delivery to confirm Chat Genie can show the query
 

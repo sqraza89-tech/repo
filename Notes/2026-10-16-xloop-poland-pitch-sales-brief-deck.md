@@ -57,7 +57,28 @@ Related: [[2026-10-13-xloop-poland-vendor-pitch-deck]] · [[2026-09-29-decks-lib
   - Scale facts from the delivery team: number of source systems, data volume, teams using it
 - If naming permission is unclear: "a UAE bank", "a real estate group", "a global maritime services company"
 
+## Decision: all clients anonymized (Sana, 2026-10-16)
+- No permission to name clients; use descriptors like the approved "a leading South African retailer" (not "the largest")
+
+| Client (internal) | Descriptor |
+|---|---|
+| Pick n Pay | a leading South African retailer |
+| Commercial Bank of Dubai | a UAE commercial bank |
+| Aldar Group | a leading UAE real estate group |
+| Drydocks World | a global maritime services company |
+| Majid Al Futtaim | a large retail and real estate group in the Middle East |
+| Alfalah | a leading asset management firm |
+| Travelx | a travel insurance provider |
+| Pipeline | a Polish fintech company |
+| Harmony Gold | leave out (no project record) |
+
+- Keep descriptors at country level; no cities, dates or exact systems stacked together
+- Strip names and logos from reused slides 25, 27, 36, 92, including inside screenshots
+- Cloud Titans testimonial stays named (signed, already public) unless sales wants everything anonymous
+- Portfolio slide becomes a sector grid; only website logo-wall logos if any logos are used
+
 ## Next steps
+- [ ] Omais: remove client names and logos from slides 25, 27, 36, 92
 - [ ] Ask the delivery leads on CBD, Aldar, Drydocks for source system count, data volume, users
 - [ ] Sales: for CBD, Aldar, Drydocks: live or in progress, source systems, one concrete result, naming permission; CBD: data platform or applications
 - [ ] Sales: answer the seven conflicts above

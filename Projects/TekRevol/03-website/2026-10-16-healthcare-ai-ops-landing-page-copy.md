@@ -198,16 +198,31 @@ Written for the person who approves the budget and won't be on the call.
 | Element | Copy |
 |---|---|
 | H2 | **Healthcare software we've shipped** |
+| Intro | Scheduling, home visits, patient communication and AI, running in production for care providers. |
 
-| Case | Card copy |
+Four cards, in this order. Each links to its case study page in a new tab, so the visitor doesn't lose the form.
+
+| Case | Card copy | Outcome line | Source check |
+|---|---|---|---|
+| **Libido Health** | A HIPAA-compliant platform for therapy and coaching sessions: scheduling, real-time video visits and an AI coaching assistant that checks in with members daily. | **80% fewer session no-shows. 20,000+ active users in the first three months.** | Both numbers are in the case study body. Safe |
+| **Nurse Practitioners** | In-home care on demand. Patients book nurse visits by the hour, consult by video, and track every request. Nurse pay is calculated in the same platform. | Cut patient wait times by 40% `CONFIRM` | Only in the page's meta description, not the body. Use only if TekRevol confirms it; otherwise show the card without a number |
+| **Kinekt** | AI patient feedback for UK care providers. GPT-4 reads feedback from every channel, scores sentiment, sorts it automatically and drafts replies. | 45% more user engagement `CONFIRM` | Headline number on the page, but the projects list says "30% faster response times" for the same case. TekRevol must pick one |
+| **Rehkempers** (automation outside healthcare) | Replaced a 50-year manual pricing process across 4 manufacturing plants. The same approach applies to intake and claims work. | (in the card copy) | Approved claim. Safe |
+
+**Testimonial slot (use this):**
+"TekRevol transformed our platform into a comprehensive and secure space where our members feel empowered."
+Libido Health Inc., from the published case study (5.0 rating). Ask TekRevol if a named person and title can be added `CONFIRM`; it works without them.
+
+**Cases reviewed and left off this page:**
+| Case | Why not here |
 |---|---|
-| **MiloCare** | Health record intelligence for patients and care teams. `CONFIRM` one outcome line from TekRevol (users, time saved, or scope) |
-| **Nurse Practitioners** | On-demand nursing care: booking, matching and visits in one app. `CONFIRM` one outcome line |
-| **Kinekt** | Patient feedback intelligence. `CONFIRM` one outcome line |
-| **Rehkempers** (automation outside healthcare) | Replaced a 50-year manual pricing process across 4 manufacturing plants. The same approach applies to intake and claims work. |
+| MiloCare+ | Consumer health records and vaccination cards. HIPAA guidelines, encryption and access control are in the body, but the "68%" figure is only on the projects list. Good backup card if one of the four drops out |
+| Synapptic | UK mental wellness app, 60% retention in 30 days (in the body). Consumer wellness, not provider operations. Possible proof for the behavioral health variant later |
+| Stop Vaping | Health initiative app. The "65% success rate" is only in the meta description |
+| Tamreeni, Pure Plank, AMJ Workplace Wellness | Fitness and workplace wellness. Wrong audience for an operations page |
 
-- **Testimonial slot:** one Clutch review from a healthcare client, with name and title `CONFIRM` (if none exists, use the 4.8/5 Clutch badge alone)
-- **Rule:** no case without a real outcome. If TekRevol can't confirm one, show scope and leave the number out
+- **Do not use** the four reviewer quotes on the Kinekt page (Laura Bennett, Michael Lee, Emily Garcia, James Carter). They have no organization names and read like placeholders. Ask TekRevol whether they are real before they appear anywhere `CONFIRM`
+- **Rule:** no number unless it appears in the case study body or TekRevol confirms it. A card with no number still works: it shows the kind of work we've done
 
 ## Section 10: FAQ (answer first, short)
 
@@ -293,8 +308,8 @@ TekRevol's existing `/healthcare-ai-automation` page matches the ad far better t
 | 3 | BAA: do we sign one? | Approvers screen for it first |
 | 4 | HL7 / FHIR integration experience we can stand behind | FAQ answer |
 | 5 | De-identified or sample data in the Prove step | How-we-build section |
-| 6 | One outcome line each for MiloCare, Nurse Practitioners, Kinekt | Proof section |
-| 7 | A healthcare client Clutch review we can quote | Testimonial slot |
+| 6 | Nurse Practitioners "40% shorter wait times" (meta description only) and Kinekt "45% engagement" vs "30% faster response" (pick one) | Proof section numbers |
+| 7 | A named person and title for the Libido Health quote; whether the Kinekt reviewer quotes are real | Testimonial slot |
 | 8 | Booking tool and the named sender for the follow-up email | Thank-you page and email |
 | 9 | Sales can reply within 1 business hour | Thank-you page promise |
 | 10 | Whether "200+ healthcare projects" is real and sourced | Could strengthen the trust strip if it is |

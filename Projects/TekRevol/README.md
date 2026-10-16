@@ -37,6 +37,7 @@ Everything made for TekRevol lives here.
 - **Site architecture proposal (awaiting Sana approval):** `03-website/2026-10-08-site-architecture-proposal.md` (situation-led /start/ pages + versioned Build Standard, 5 Strata layers)
 - **Homepage copy v2 (current, 2026-10-12):** `03-website/TekRevol-Homepage-Copy-v2.docx` (Strata Method as section 4; "Project brief" lead capture for people and AI assistants: six questions, three doors, /brief page, later POST /api/brief; build scripts in `03-website/_build/`, need `npm install docx`) · v1: `03-website/TekRevol-Homepage-Copy-v1.docx` (hero options, hook table) · working notes `03-website/2026-10-08-homepage-structure-and-copy.md` · audit: `05-reports/2026-10-08-homepage-competitor-seo-aeo-audit.md` (llms.txt facts conflict with site; [CONFIRM] items open)
 
+- **Healthcare AI ops landing page copy v1 (2026-10-16):** `03-website/2026-10-16-healthcare-ai-ops-landing-page-copy.md`, Word `03-website/TekRevol-Healthcare-AI-Ops-Landing-Page-Copy-v1-Cover-A.docx` / `-Cover-B.docx`; free workflow review offer, 4-field form, `?for=` hero variants, 10 CONFIRM items for TekRevol
 - **ChatGPT Ads healthcare audit (2026-10-15):** `05-reports/2026-10-15-chatgpt-ads-healthcare-landing-page-audit.md`, Word: `05-reports/TekRevol-ChatGPT-Ads-Healthcare-Audit-Cover-A.docx` / `-Cover-B.docx` (+ PDFs) (conversion tracking never installed, page/ad mismatch, plan to 5% click→lead) · metrics log `05-reports/tekrevol-metrics-log.md`
 
 ## Next steps

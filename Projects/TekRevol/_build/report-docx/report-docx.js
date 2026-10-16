@@ -6,7 +6,7 @@
 // (falls back to "REPORT", the # title and the date). Footer reads "TekRevol · <cover_title> · Internal · n".
 // Markdown supported: ## / ### headings, paragraphs, - bullets (indent 2+ spaces for level 2),
 // 1. numbered lists, - [ ] checkboxes, | tables |, **bold**, *italic*, `code`, [text](url), [[wikilink]].
-// `VERIFIED` / `INFERRED` / `NEEDS DATA` render as colored tags.
+// `VERIFIED` / `INFERRED` / `NEEDS DATA` / `CONFIRM` render as colored tags.
 // Setup once: npm install (in this folder). node_modules is git-ignored.
 const fs = require('fs');
 const path = require('path');
@@ -26,6 +26,7 @@ const TAGS = {
   VERIFIED: { color: '1E6B3A', fill: 'E2F2E7' },
   INFERRED: { color: '1F5A8A', fill: 'E3EEF8' },
   'NEEDS DATA': { color: ORINK, fill: 'FFE8E0' },
+  CONFIRM: { color: ORINK, fill: 'FFE8E0' },
 };
 
 const src = process.argv[2];

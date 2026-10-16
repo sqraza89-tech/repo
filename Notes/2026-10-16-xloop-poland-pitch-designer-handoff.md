@@ -11,6 +11,12 @@ Related: [[2026-10-16-xloop-poland-pitch-sales-brief-deck]] · [[2026-09-29-deck
 >
 > Current map: 1 Cover (19) · 2 At a Glance (3) · 3 AI First (new) · 4 Industries (rebuild 17) · 5 Banking (27) · 6 Retail (25, rewrite) · 7 Healthcare (28) · 8 Middle East AWS to Azure assessment (36, MAF anonymized) · 9 Poland fintech (62) · 10 Why xLoop for Poland + contact (104). Gulf data case is an optional swap on the slide 38 template.
 
+### Slide 3 revision (Sana, 2026-10-16)
+- Title now "AI First Engineering"; products row dropped by Sana
+- Added rows: data mapped and gaps fixed ("leaks" avoided, reads as security breaches); automation and agentic workflows
+- Bottom band: "Where we are going: an AI native organization that is agile, dependable and data backed."
+- Copy given in chat for Sana to paste; the Word doc was open on her side, so it was not edited by Claude
+
 ## Brief for Omais
 
 - **Source file:** `Decks.pptx` on SharePoint. Slide numbers below are from the 29 Sep review. Check they still match before copying

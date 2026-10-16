@@ -34,7 +34,7 @@ Related: [[2026-10-16-xloop-poland-pitch-sales-brief-deck]] · [[2026-09-29-deck
   - **Team in Europe:** based in Hungary
 - **Tiles waiting on sales (leave a space, do not fill yet):**
   - Countries served: [number, once sales sends the list]
-  - Revenue: [only if the CEO approves showing it]
+  - Revenue run rate: **$[X]M+** annual revenue run rate, *as of [month] 2026*. Sales asked to show it (2026-10-16); figure, as-of month, and whether "$5M+" is run rate or annual revenue still to confirm
 - **Partner logos:** AWS, Microsoft, Snowflake, Databricks, Salesforce
 - **Line under the partners:** Certified ISO 42001 and ISO 27001 Lead Auditors on our team
 - **Map:** keep it. Add Hungary. Show only the countries on the sales list once it arrives

@@ -49,7 +49,16 @@ Related: [[2026-10-13-xloop-poland-vendor-pitch-deck]] · [[2026-09-29-decks-lib
 - Recommendation: one combined slide "Single source of truth for Gulf enterprises" replacing the Travel case, or list them on the portfolio slide only
 - New sectors: real estate (Aldar), maritime (Drydocks World)
 
+## No client results available (2026-10-16)
+- Sales (Sarosh) had no results for CBD, Aldar, Drydocks and suggested making up "realistic" numbers or finding a report
+- Decision: no invented results for named clients. Use instead:
+  - Industry benchmark, labeled as such: Forrester TEI for Azure Databricks, 331% ROI (Microsoft-commissioned) — https://tei.forrester.com/go/Microsoft/Databricks (verify figure on the page before use)
+  - True outcome copy without numbers (one trusted data platform, same numbers for leadership)
+  - Scale facts from the delivery team: number of source systems, data volume, teams using it
+- If naming permission is unclear: "a UAE bank", "a real estate group", "a global maritime services company"
+
 ## Next steps
+- [ ] Ask the delivery leads on CBD, Aldar, Drydocks for source system count, data volume, users
 - [ ] Sales: for CBD, Aldar, Drydocks: live or in progress, source systems, one concrete result, naming permission; CBD: data platform or applications
 - [ ] Sales: answer the seven conflicts above
 - [ ] Then: write final copy for slides 2, 3, 4 and 10 for Omais

@@ -77,6 +77,10 @@ Related: [[2026-10-13-xloop-poland-vendor-pitch-deck]] · [[2026-09-29-decks-lib
 - Cloud Titans testimonial stays named (signed, already public) unless sales wants everything anonymous
 - Portfolio slide becomes a sector grid; only website logo-wall logos if any logos are used
 
+## Designer handoff
+- Full slide-by-slide brief and copy for Omais: [[2026-10-16-xloop-poland-pitch-designer-handoff]]
+- Final case line-up: Banking (27), Retail (25), Healthcare (28), Gulf data platforms (NEW, replaces Travel), Poland fintech (92). Travel moves to the industries grid
+
 ## Next steps
 - [ ] Omais: remove client names and logos from slides 25, 27, 36, 92
 - [ ] Ask the delivery leads on CBD, Aldar, Drydocks for source system count, data volume, users

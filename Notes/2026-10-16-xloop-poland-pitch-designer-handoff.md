@@ -7,7 +7,9 @@ tags: [xloop, poland, pitch-deck, designer-handoff, omais]
 
 Related: [[2026-10-16-xloop-poland-pitch-sales-brief-deck]] · [[2026-09-29-decks-library-slide-review]] · [[2026-10-13-xloop-poland-vendor-pitch-deck]]
 
-> **Warning (2026-10-16):** the live Decks.pptx now has **104 slides** (was 110 at the 29 Sep review) and the early slides are reordered. The slide numbers below are out of date until they are re-mapped against a fresh copy.
+> **Superseded (2026-10-16):** the current plan for Omais is the Word doc `Notes/2026-10-16-xloop-poland-pitch-slide-plan.docx`, mapped to the live Decks.pptx (104 slides, downloaded 16 Oct). Slide numbers on this page are from the old 110-slide version.
+>
+> Current map: 1 Cover (19) · 2 At a Glance (3) · 3 AI First (new) · 4 Industries (rebuild 17) · 5 Banking (27) · 6 Retail (25, rewrite) · 7 Healthcare (28) · 8 Middle East AWS to Azure assessment (36, MAF anonymized) · 9 Poland fintech (62) · 10 Why xLoop for Poland + contact (104). Gulf data case is an optional swap on the slide 38 template.
 
 ## Brief for Omais
 

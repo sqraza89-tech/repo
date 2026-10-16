@@ -340,7 +340,7 @@ Sana asked for a data component, since the rebrand moves xLoop toward data and A
 
 ### Open [CONFIRM] items
 
-1. Engagement timelines: assessment two to four weeks, pilot six to twelve weeks (from the August doc, no delivery owner recorded)
+1. ~~Engagement timelines~~: confirmed by Irfan Shaikh, 16 Oct
 2. ~~xServe card~~: resolved by Sana, 15 Oct
 3. Public stage names for the 11 stage agent architecture
 4. Ryan Borenstein's title at Serefin

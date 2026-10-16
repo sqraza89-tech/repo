@@ -159,10 +159,10 @@ Our multi agent reference architecture has 11 stages. Every agent we build uses 
 | **A leading asset management firm in Pakistan** | Large Language Models | Investors needed guidance on fund selection, portfolio performance and their accounts, and had to go through support or long fund reports to get it | An AI assistant inside their platform that answers investor questions and recommends suitable funds in natural conversation | Fund guidance and portfolio answers instantly, without a support queue |
 | **A Canadian healthcare platform** | Generative AI · LLMs | Thousands of video recordings held insights nobody could search | A transcription engine and a RAG search over an LLM, with a natural language chatbot and a dashboard | The full video archive searchable in plain language |
 | **A leading Saudi Arabian fast food chain** | AI Agents | High order volumes at peak hours | Deployed xServe, our AI ordering product, to take orders at peak times. It also suggests upsells and provides nutritional information when customers ask | Peak hour orders handled by AI, in natural conversation, with upsell suggestions and nutrition details built into the ordering flow |
-| **A bank in Pakistan** | Computer Vision | [CONFIRM: the branch problem] | Deployed xVision, our computer vision product, across 100+ branches [CONFIRM: number, and what it monitors] | [CONFIRM: outcome in words. No percentages] |
+| **A bank with 1,200 branches across South Asia** | Computer Vision | More than 7,000 cameras, but manual review covered about 20 minutes per branch each month. Security gaps, long waits and branch upkeep issues went unseen | Deployed xVision, our computer vision product, on the existing CCTV feeds. It tracks wait times, customer traffic, ATM status, staff on the floor and suspicious activity, with alerts to a live control panel and dashboards | Continuous, automated monitoring across every branch, in place of monthly manual spot checks |
 
 *The first card matches the Data & AI Consulting page word for word. If Sana names Alfalah Investments there, name it here too.*
-*Drop the xVision card if its details aren't confirmed before launch. Three cards are enough.*
+*xVision card from the xVision case study PDF (Jul 2025), shared by Sana 16 Oct. No percentages: the case study's 90%, 25% and 20x conflict with the two older xVision figure sets (C5, C6). Facial recognition features ("premium customer ID", "customer scanning") are left off the public card.*
 
 ---
 
@@ -176,7 +176,7 @@ Our multi agent reference architecture has 11 stages. Every agent we build uses 
 | Capabilities | Generative AI · Large Language Models · AI Agents & Autonomous Systems · Computer Vision · Predictive Analytics · Machine Learning |
 | Where to start | 30 minute AI Use Case Review with our AI engineers |
 | Built in | Grounding in your data · input and output guardrails · human approval · monitoring · security testing |
-| Delivered | LLM investment assistant · RAG search over a video archive · xServe AI ordering · xVision branch analytics |
+| Delivered | LLM investment assistant · RAG search over a video archive · xServe AI ordering · xVision monitoring across 1,200 bank branches |
 | Stack | OpenAI · Anthropic · LangChain · LangGraph · AutoGen · CrewAI · Pinecone · Chroma · FastAPI · Kubernetes |
 | Runs on | AWS · Microsoft Azure · Google Cloud · private infrastructure |
 | Technology partners | AWS · Microsoft · Snowflake · Databricks · Salesforce |
@@ -197,7 +197,7 @@ AI systems built to do a specific job in a business, such as answering questions
 Start from the job. Questions over documents usually need a language model with retrieval. A repeatable process with decisions needs an agent. Images and video need computer vision. Forecasts need predictive models. Our 30 minute use case review helps you decide.
 
 **How long does it take to build an AI solution?**
-A first production pilot usually takes six to twelve weeks, depending on the data and the systems it connects to. We then roll out in phases based on results. [CONFIRM: same range as the Data & AI Consulting page, with the delivery lead]
+A first production pilot usually takes six to twelve weeks, depending on the data and the systems it connects to. We then roll out in phases based on results.
 
 **Which AI models do you use?**
 We choose per use case, across commercial models such as OpenAI and Anthropic and open source alternatives. The choice depends on accuracy, cost, speed, language and where your data is allowed to go.
@@ -257,7 +257,8 @@ Data & AI Consulting · Data Analytics & Engineering · AI Security · Corporate
 
 | Item | Status in the brain |
 |---|---|
-| xVision branch analytics: 30% efficiency, 25% wait times, 40% security incidents | Blocked (C6). The deployment can be described in words once confirmed |
+| xVision branch analytics: 30% efficiency, 25% wait times, 40% security incidents | Blocked (C6). Now a third set exists: the Jul 2025 case study PDF says 90% more real time monitoring, 25% satisfaction boost, 20x cost savings. Three sets for one product. Use words only |
+| xVision "100+ branches" (August doc, nav map) | Wrong. The case study says 1,200 branches and 7,000+ cameras |
 | Alfalah Investments App Pilot: 30% increase in resolution rates | No recorded source (deck review, 29 Sep) |
 | Gnyan.ai: 50% reduction in ticket creation time | No recorded source. Gnyan is not in the approved claims at all |
 | RAG HR assistant for a major bank: 50,000+ documents | No recorded source. Not in the approved claims |
@@ -290,8 +291,8 @@ Each leaf page follows the hub, so the cluster reads as one set:
 
 ### Open [CONFIRM] items
 
-1. xVision card: the bank's branch problem, the branch count, what it monitors, the outcome in words
-2. Pilot timeline (six to twelve weeks), same as the consulting page
+1. ~~xVision card~~: resolved 16 Oct from the case study PDF
+2. ~~Pilot timeline~~: six to twelve weeks confirmed by Irfan Shaikh (16 Oct)
 3. Whether to name Alfalah Investments (pending with Sana from the consulting page)
 
 ### Do not publish
@@ -304,7 +305,6 @@ Each leaf page follows the hub, so the cluster reads as one set:
 ## Next steps
 
 - [ ] Sana: review the hub and the leaf pattern
-- [ ] Delivery: xVision details, pilot timeline
 - [ ] Devs: build the hub before or with Data & AI Consulting (both link here); 301 `/services/digital-twin` → `/services/applied-ai-solutions`; remove Digital Twin from the nav
 - [ ] Devs, now: fix the lead form heading on five leaf pages ("Explore AI Agents for Your Business")
 - [ ] Data & AI Consulting: drop the stage names [CONFIRM], using the published names

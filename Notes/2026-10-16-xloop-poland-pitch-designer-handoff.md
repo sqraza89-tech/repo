@@ -7,6 +7,8 @@ tags: [xloop, poland, pitch-deck, designer-handoff, omais]
 
 Related: [[2026-10-16-xloop-poland-pitch-sales-brief-deck]] · [[2026-09-29-decks-library-slide-review]] · [[2026-10-13-xloop-poland-vendor-pitch-deck]]
 
+> **Warning (2026-10-16):** the live Decks.pptx now has **104 slides** (was 110 at the 29 Sep review) and the early slides are reordered. The slide numbers below are out of date until they are re-mapped against a fresh copy.
+
 ## Brief for Omais
 
 - **Source file:** `Decks.pptx` on SharePoint. Slide numbers below are from the 29 Sep review. Check they still match before copying

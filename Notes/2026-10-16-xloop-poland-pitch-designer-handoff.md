@@ -22,6 +22,11 @@ Related: [[2026-10-16-xloop-poland-pitch-sales-brief-deck]] · [[2026-09-29-deck
 - Slides 27, 25, 28, 62 rebuilt on that layout; slide 36 keeps layout with new text. Full copy is in the Word doc
 - Sana's own edits kept in the doc: $5M+ run rate (as of 2026), 8 countries, "Founded in 2022", "Logistics" sector, products row removed from slide 3
 
+### Gulf case added (Sana, 2026-10-16)
+- Gulf data platforms case is now **slide 9** (one combined slide, same case format, new on the slide 36 layout with the slide 38 image). Poland fintech moves to 10, closing to 11
+- Deck is now 11 slides with six cases (sales asked for 9 to 10); optional swap section removed from the Word doc
+- Forrester 331% figure still to be confirmed by Sana
+
 ## Brief for Omais
 
 - **Source file:** `Decks.pptx` on SharePoint. Slide numbers below are from the 29 Sep review. Check they still match before copying

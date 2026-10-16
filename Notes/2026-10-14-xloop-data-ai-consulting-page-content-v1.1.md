@@ -174,7 +174,7 @@ A strategy is only useful if it turns into something real. Once the priorities a
 
 **H3:** How We Build AI Agents
 
-Our multi agent reference architecture covers 11 stages, from intake and planning to tool use, memory, evaluation and monitoring. We build on LangChain, LangGraph, AutoGen, CrewAI, OpenAI, Anthropic, Pinecone, Chroma, FastAPI and Kubernetes, and choose the stack per use case.
+Our multi agent reference architecture covers 11 stages, from input guardrails and planning to orchestration, tools, human approval and observability. We build on LangChain, LangGraph, AutoGen, CrewAI, OpenAI, Anthropic, Pinecone, Chroma, FastAPI and Kubernetes, and choose the stack per use case.
 
 *Design: a simple 11 step strip. Text, not an image, so search and AI agents can read it.*
 
@@ -271,7 +271,7 @@ Open points sent back to Sana the same day:
 5. "Created xServe" vs approved claim B5 (a deployment)
 6. "One of the largest South African retailers" vs the Data page's "A leading South African retailer"
 7. "(individual certification)" removed from the ISO row
-8. [CONFIRM] tags removed for timelines, the 11 stage names, Ryan Borenstein's title and the technology company problem. Stage list and timelines still need a delivery check before go live
+8. Stage names resolved 16 Oct: the live Generative AI page already publishes them; wording aligned. [CONFIRM] tags removed for timelines, Ryan Borenstein's title and the technology company problem. Stage list and timelines still need a delivery check before go live
 
 ### v1.1 (14 Oct): data added
 

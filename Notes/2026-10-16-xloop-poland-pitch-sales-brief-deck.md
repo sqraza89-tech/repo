@@ -40,7 +40,17 @@ Related: [[2026-10-13-xloop-poland-vendor-pitch-deck]] · [[2026-09-29-decks-lib
 - "30% increase in profitability" (Poland) unsourced
 - "In the Middle East we salvaged": meaning unknown
 
+## Sales answer on three clients (WhatsApp, 2026-10-16)
+- **Commercial Bank of Dubai:** Azure migration
+- **Aldar Group:** Databricks
+- **Drydocks World:** Databricks (this is what "DP World" meant)
+- Shared challenge per sales: getting more from their analytics; xLoop is "helping them build" a single source of truth for better decisions. Wording suggests in progress, no results yet
+- Not approved to name any of the three yet. CBD Azure migration would be the first Azure delivery evidence (our records currently show none): confirm before adding to approved claims
+- Recommendation: one combined slide "Single source of truth for Gulf enterprises" replacing the Travel case, or list them on the portfolio slide only
+- New sectors: real estate (Aldar), maritime (Drydocks World)
+
 ## Next steps
+- [ ] Sales: for CBD, Aldar, Drydocks: live or in progress, source systems, one concrete result, naming permission; CBD: data platform or applications
 - [ ] Sales: answer the seven conflicts above
 - [ ] Then: write final copy for slides 2, 3, 4 and 10 for Omais
 - [ ] Omais: confirm current slide numbers in Decks.pptx match the 29 Sep review

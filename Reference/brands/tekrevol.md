@@ -49,6 +49,11 @@ Flagship vertical: **home-based care** (Home Health, Home Care, Behavioral Healt
 ## Claims and proof
 - **Safe:** 800+ apps/products · 98% client satisfaction · 10 years · 4.8/5 Clutch · Clutch Top 1000, Right Firms, Top Developers, Expertise, Inc. 5000, Horizon Award Gold/Silver, Software World · GDPR/CCPA, secure SDLC, private LLMs with PII redaction (RevAI), PCI DSS / HIPAA / SOC 2 experience
 - **Named case studies:** Kinder Morgan (data platform, 40% operational efficiency), Rehkempers (truss pricing across 4 plants), Pure Plank (20,000+ users), Rise Up Kings (1,000+ users)
+- **Healthcare case studies (checked 2026-10-16 on tekrevol.com/case-studies/*):**
+  - **Safe to use:** Libido Health: HIPAA-compliant therapy platform with an AI coaching bot; 80% fewer session no-shows, 20,000+ active users in 3 months, and a client quote (all in the page body). Synapptic: 60% retention in 30 days (in the body).
+  - **Need confirming first:** Nurse Practitioners: 40% shorter wait times appears in the meta description only. Kinekt: GPT-4 patient feedback, page headline says 45% engagement but the projects list says 30% faster responses. MiloCare+: 68% appears on the projects list only. Stop Vaping: 65% appears in the meta description only.
+  - **Never use** the Kinekt reviewer quotes (Laura Bennett and others); they look like placeholders.
+  - **Rule:** only use numbers that appear in the case study body.
 - **Not yet:** Lovable partner listing (until live) · home-based care product names (Rivana/CareOS naming unresolved) · pillar names as final · any speed/cost claim from AI-assisted delivery · mid-market in lead-capture copy
 - **Never:** prospect names or stories from sales-call transcripts (the ICP workbook contains real names: internal only) · competitor names in copy (Belitsoft slip happened once)
 

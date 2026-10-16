@@ -17,6 +17,11 @@ Related: [[2026-10-16-xloop-poland-pitch-sales-brief-deck]] · [[2026-09-29-deck
 - Bottom band: "Where we are going: an AI native organization that is agile, dependable and data backed."
 - Copy given in chat for Sana to paste; the Word doc was open on her side, so it was not edited by Claude
 
+### Case study format decision (2026-10-16)
+- All five cases use one text format on the **slide 36 layout**: Client · Headline (≤8 words) · Summary (1 sentence) · 3 Tags · The Challenge (3 bullets) · What xLoop Delivered (4 numbered steps) · Business Value (4 labels) · reused image
+- Slides 27, 25, 28, 62 rebuilt on that layout; slide 36 keeps layout with new text. Full copy is in the Word doc
+- Sana's own edits kept in the doc: $5M+ run rate (as of 2026), 8 countries, "Founded in 2022", "Logistics" sector, products row removed from slide 3
+
 ## Brief for Omais
 
 - **Source file:** `Decks.pptx` on SharePoint. Slide numbers below are from the 29 Sep review. Check they still match before copying

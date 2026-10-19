@@ -20,7 +20,7 @@ status: draft
 | 1 | H1 and title target "IT/OT security in digital transformation" (pos. 28, 177 impr., 3 clicks). No NEPRA keyword in H1, title or meta | Retitled to the primary query: "NEPRA IT/OT Security Regulations…" |
 | 2 | No answer-first opening; intro is general scene-setting | 52-word answer-first paragraph from the plan row |
 | 3 | Unsourced stat: "in 2025, 78% of CISOs reported that AI-powered threats…" | Removed. Not in approved claims; this audience would check it |
-| 4 | NEPRA covered in one vague paragraph, no regulation name, SRO, clause numbers or deadlines | Full citation (SRO 1708(I)/2022), Regulation 4–12 table, 72-hour and quarterly reporting (A6) |
+| 4 | NEPRA covered in one vague paragraph, no regulation name, SRO, clause numbers or deadlines | Full citation (SRO 1708(I)/2022), Regulation 4–11 table, 72-hour and quarterly reporting (A6) |
 | 5 | Names IEC 62443 / NIST CSF / "ISO 270011" (typo) as the "gold standard" | Removed. IEC 62443 / NIST alignment is claim C11, explicitly not approved |
 | 6 | "without a single minute of unplanned downtime" (absolute promise) | Replaced with the approved landing-page wording on passive OT assessment |
 | 7 | FAQ answer says NEPRA compliance "is essential for licensing" | Removed. Not verified against the regulations |
@@ -57,7 +57,7 @@ status: draft
 
 **TL;DR** `[NEW]`
 - The NEPRA Security of IT and OT Regulations 2022 apply to power-sector licensees and cover corporate IT and plant OT.
-- The operative duties are Regulations 4 to 12: governance, controls, risk assessment, data integrity, audit support, incident response, training, reporting and PowerCERT coordination.
+- The operative duties are Regulations 4 to 11: governance, controls, risk assessment, data integrity, audit support, incident response, training and regulatory reporting.
 - Major incidents go to NEPRA within 72 hours. An audit can assess the plant passively, without taking anything offline.
 
 The NEPRA Security of IT and OT Regulations 2022 (SRO 1708(I)/2022) require power-sector licensees to secure both corporate IT and plant OT, assess risk regularly, and report major incidents within 72 hours. An audit reviews governance, risks and IT/OT segregation, and can be done without disrupting plant operations. `[NEW]`
@@ -68,7 +68,7 @@ This guide explains what the regulations ask of a licensee, Regulation by Regula
 
 They are NEPRA's mandatory cybersecurity framework for its licensees, made under SRO 1708(I)/2022. Their full title is the NEPRA (Security of Information Technology and Operational Technology) Regulations, 2022.
 
-Regulations 1 to 3 cover the title, commencement and definitions. The obligations sit in Regulations 4 to 12:
+Regulations 1 to 3 cover the title, commencement and definitions. The obligations sit in Regulations 4 to 11:
 
 | Regulation | What it requires of a licensee |
 |---|---|
@@ -80,7 +80,6 @@ Regulations 1 to 3 cover the title, commencement and definitions. The obligation
 | Regulation 9: Monitoring and incident response | Monitoring across IT and OT, an incident response plan that covers the plant and SCADA, response-team procedures, recovery, reporting to the National CERT and PowerCERT |
 | Regulation 10: Awareness and training | Awareness programs for IT and OT staff, training for SCADA operators and engineers, clear roles and reporting lines |
 | Regulation 11: Regulatory reporting | Quarterly breach reporting to NEPRA, reporting of major incidents within 72 hours, documentation and correspondence with the Authority |
-| Regulation 12: PowerCERT coordination | Alignment with PowerCERT guidelines and threat advisories, and coordination with the National CERT |
 
 The point that matters most for a board: responsibility sits with the licensee. It does not move to the OEM, the O&M contractor or the systems integrator, even when they run the plant's control systems day to day.
 
@@ -96,7 +95,7 @@ Operational technology (OT) is the hardware and software that monitors and contr
 
 That difference is why the regulations treat IT and OT separately, and why OT cannot be assessed the way an office network is. Many plant systems run on older hardware, cannot be patched without an outage, and were never designed to be scanned.
 
-> **Not sure where you stand against Regulations 4 to 12?** See how we [audit licensees against the NEPRA IT/OT Regulations](https://www.xloopdigital.com/services/nepra), or call **(021) 35869200** to book a NEPRA scoping call. `[NEW]`
+> **Not sure where you stand against Regulations 4 to 11?** See how we [audit licensees against the NEPRA IT/OT Regulations](https://www.xloopdigital.com/services/nepra), or call **(021) 35869200** to book a NEPRA scoping call. `[NEW]`
 
 ## What does a NEPRA IT/OT audit involve? `[NEW]`
 
@@ -109,7 +108,7 @@ This is how we run one for a licensee:
 3. **Interviews.** Corporate IT, the control room, plant engineers and, where relevant, the O&M contractor. Most gaps show up in how work is actually done, not in the policy.
 4. **IT assessment (Regulations 5, 6).** Vulnerability assessment and penetration testing on corporate systems, scheduled with your IT team.
 5. **Passive OT assessment (Regulations 5, 6, 7).** Configuration review, network diagrams, firewall rules between IT and OT, vendor remote-access paths, accounts and access records, and logs, plus a walk-through of the control room. No active scanning of live controllers.
-6. **Gap analysis.** Each clause of Regulations 4 to 12 is scored against the evidence, and every gap is ranked by risk to the plant.
+6. **Gap analysis.** Each clause of Regulations 4 to 11 is scored against the evidence, and every gap is ranked by risk to the plant.
 7. **Reporting.** Findings presented to management, with a remediation plan the plant team can schedule.
 
 ### Common gaps the audit looks for `[UPDATED — kept from the original, reframed]`
@@ -124,7 +123,7 @@ This is how we run one for a licensee:
 
 A NEPRA compliance audit should produce six documents:
 
-- A compliance report scored clause by clause against Regulations 4 to 12
+- A compliance report scored clause by clause against Regulations 4 to 11
 - A risk and gap analysis
 - A VAPT report covering IT and OT
 - A Statement of Applicability
@@ -169,13 +168,13 @@ xLoop's xSecurity team audits power-sector licensees against the NEPRA IT/OT Reg
 ## FAQ `[UPDATED]`
 
 ### What are the NEPRA Security of IT and OT Regulations 2022?
-They are NEPRA's mandatory cybersecurity framework for power-sector licensees, made under SRO 1708(I)/2022. They cover governance and policy, security controls, risk and vulnerability assessment, data integrity, audit support, monitoring and incident response, training, regulatory reporting, and coordination with PowerCERT.
+They are NEPRA's mandatory cybersecurity framework for power-sector licensees, made under SRO 1708(I)/2022. They cover governance and policy, security controls, risk and vulnerability assessment, data integrity, audit support, monitoring and incident response, training, and regulatory reporting.
 
 ### Who must comply with the NEPRA IT/OT regulations?
 Every NEPRA licensee in Pakistan's power sector: generation, transmission and distribution companies. The obligations cover both corporate IT and operational technology, including SCADA, DCS, PLCs and RTUs.
 
 ### What does a NEPRA IT/OT audit involve?
-Scoping, a review of governance documents, interviews, an IT vulnerability assessment, a passive OT assessment, and a clause-by-clause gap analysis against Regulations 4 to 12. It ends with a scored compliance report, a VAPT report and a prioritized remediation roadmap.
+Scoping, a review of governance documents, interviews, an IT vulnerability assessment, a passive OT assessment, and a clause-by-clause gap analysis against Regulations 4 to 11. It ends with a scored compliance report, a VAPT report and a prioritized remediation roadmap.
 
 ### Will an audit disrupt plant operations?
 It should not. A properly scoped NEPRA audit assesses OT passively, reviewing configurations, segmentation, access and logs rather than actively scanning live control systems. No plant downtime is required.
@@ -212,11 +211,11 @@ Replace the existing article schema (if any) with this. Keep `datePublished` as 
     "@type": "FAQPage",
     "mainEntity": [
       { "@type": "Question", "name": "What are the NEPRA Security of IT and OT Regulations 2022?",
-        "acceptedAnswer": { "@type": "Answer", "text": "They are NEPRA's mandatory cybersecurity framework for power-sector licensees, made under SRO 1708(I)/2022. They cover governance and policy, security controls, risk and vulnerability assessment, data integrity, audit support, monitoring and incident response, training, regulatory reporting, and coordination with PowerCERT." } },
+        "acceptedAnswer": { "@type": "Answer", "text": "They are NEPRA's mandatory cybersecurity framework for power-sector licensees, made under SRO 1708(I)/2022. They cover governance and policy, security controls, risk and vulnerability assessment, data integrity, audit support, monitoring and incident response, training, and regulatory reporting." } },
       { "@type": "Question", "name": "Who must comply with the NEPRA IT/OT regulations?",
         "acceptedAnswer": { "@type": "Answer", "text": "Every NEPRA licensee in Pakistan's power sector: generation, transmission and distribution companies. The obligations cover both corporate IT and operational technology, including SCADA, DCS, PLCs and RTUs." } },
       { "@type": "Question", "name": "What does a NEPRA IT/OT audit involve?",
-        "acceptedAnswer": { "@type": "Answer", "text": "Scoping, a review of governance documents, interviews, an IT vulnerability assessment, a passive OT assessment, and a clause-by-clause gap analysis against Regulations 4 to 12. It ends with a scored compliance report, a VAPT report and a prioritized remediation roadmap." } },
+        "acceptedAnswer": { "@type": "Answer", "text": "Scoping, a review of governance documents, interviews, an IT vulnerability assessment, a passive OT assessment, and a clause-by-clause gap analysis against Regulations 4 to 11. It ends with a scored compliance report, a VAPT report and a prioritized remediation roadmap." } },
       { "@type": "Question", "name": "Will an audit disrupt plant operations?",
         "acceptedAnswer": { "@type": "Answer", "text": "It should not. A properly scoped NEPRA audit assesses OT passively, reviewing configurations, segmentation, access and logs rather than actively scanning live control systems. No plant downtime is required." } },
       { "@type": "Question", "name": "When must incidents be reported to NEPRA?",
@@ -241,12 +240,12 @@ Replace the existing article schema (if any) with this. Keep `datePublished` as 
 ## Promotion
 
 **LinkedIn teaser (company page, for the linkedin-posts skill)**
-> The NEPRA Security of IT and OT Regulations 2022 run from Regulation 4 to Regulation 12, and they reach the plant floor, not just the head office. Our updated guide sets out each obligation, the 72-hour incident rule, and how an audit runs on a live plant without taking anything offline. [link]
+> The NEPRA Security of IT and OT Regulations 2022 run from Regulation 4 to Regulation 11, and they reach the plant floor, not just the head office. Our updated guide sets out each obligation, the 72-hour incident rule, and how an audit runs on a live plant without taking anything offline. [link]
 
 **Ambassador angle:** Muhammad Humza shares it with one line from the auditor's side: "The first question every plant manager asks is whether the audit will touch the control system. Here's how we answer it."
 
 ## Open questions
-1. **Regulations 4–12 vs the live NEPRA page.** This post says 4–12 (Regulation 12 = PowerCERT coordination, from the long-form advisory letter). `/services/nepra` still says 4–11, checked today. Publishing the blog first makes the two pages contradict each other. Fix the landing page in the same release.
+1. **Regulation scope: 4 to 11 only (Sana, 2026-10-19).** Regulation 12 is not covered, matching the live `/services/nepra` page. PowerCERT still appears where it belongs to Regulations 4, 9 and 11 (reporting channels).
 2. **A5 / P-05 (30 MW wind IPP):** still "pending confirmation the reference is permitted". It is already live on `/services/nepra`, but I've marked the one line so it can be dropped.
 3. **Audit method level of detail.** The seven-step list is the blog's whole gap angle, but in August Sana removed the "How the audit runs" section from the landing page (kept for the proposal). I wrote a lighter version with no durations or pricing. Farrukh and Humza should confirm it matches how audits actually run.
 4. **Who may conduct the Regulation 8 audit** (the CERT Category-1 question) is still unresolved, so the post doesn't claim either way. If the answer turns out to be yes, revisit "How xLoop can help".
@@ -267,5 +266,5 @@ Replace the existing article schema (if any) with this. Keep `datePublished` as 
 - [ ] Technical check by Farrukh Feroze (regulation table, audit steps, passive-OT wording)
 - [ ] Humza approves byline + title
 - [ ] Confirm A5 permission or drop the wind IPP line
-- [ ] Fix `/services/nepra` Regulations 4–11 → 4–12 in the same release
-- [ ] Hand to dev/CMS with schema + build notes; set new publish Monday in the plan
+- [x] Regulation scope confirmed: 4 to 11, same as the landing page
+- [ ] Hand dev the Word doc `Notes/2026-10-19-xloop-blog-refresh-nepra-it-ot-security-regulations.docx`; set new publish date in the plan

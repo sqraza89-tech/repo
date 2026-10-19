@@ -23,7 +23,7 @@ status: draft
 | Related questions | What does "AI-ready data" mean? · How do I know if my data is ready for AI? · What should I fix before starting an AI project? · How long does data readiness take? |
 | Author | Irfan Shaikh, Senior Solution Architect, xLoop Digital (byline on behalf of the xLoop Data & Cloud team) |
 | Author bio line | Irfan Shaikh is a Senior Solution Architect at xLoop Digital, where he designs data and cloud platforms for enterprise clients. |
-| CTA → target | "Book a Data & AI Readiness Review" → `/contact-us` (live: yes, checked 19 Oct 2026). Swap to "Take the Data & AI Readiness Assessment" once the tool ships (target Fri 31 Oct 2026) |
+| CTA → target | Primary: "Take the Data & AI Readiness Assessment" → `[ASSESSMENT URL]` (goes live this week, per Sana 19 Oct 2026). Secondary: "Book a Data & AI Readiness Review" → `/contact-us` (live) |
 | Internal links | `/insights/blogs/common-data-challenges-in-ai-projects` (200) · `/insights/blogs/why-data-quality-is-the-real-backbone-of-ai-success` (200) · `/services/data-analytics` (200) · `/ai-consultancy` (200) |
 | External source | Gartner press release, 26 Feb 2025: https://www.gartner.com/en/newsroom/press-releases/2025-02-26-lack-of-ai-ready-data-puts-ai-projects-at-risk |
 | Target length | ~1,800 words |
@@ -49,7 +49,7 @@ The gap between "we have data" and "our data is AI-ready" is where most AI progr
 
 The model is rarely the hard part. The data underneath it usually is. We cover the most common causes in [common data challenges in AI projects](/insights/blogs/common-data-challenges-in-ai-projects).
 
-## How do I know if my data is ready for AI? The 10-point checklist
+## How do I know if my data is ready for AI? The 10 point checklist
 
 Pick one use case you want to fund, then score the data behind it on each point:
 
@@ -71,7 +71,7 @@ Ready looks like agreed business definitions for the terms the use case depends 
 
 ### 3. Duplicates: is each customer, product or asset recorded once?
 
-Ready looks like one record per real-world thing, or a known rule for merging records. Duplicates inflate counts, split histories, and give a model a distorted picture of who your customers are.
+Ready looks like one record per real thing, or a known rule for merging records. Duplicates inflate counts, split histories, and give a model a distorted picture of who your customers are.
 
 **Test:** Do you know roughly what share of your core records are duplicates?
 
@@ -117,7 +117,7 @@ Ready looks like a known refresh schedule that matches the decision. A monthly r
 
 **Test:** Do you know how old the data is when it reaches the people or systems that use it?
 
-> **CTA (mid):** Not sure how you'd score? Book a 30-minute Data & AI Readiness Review with our data leads. We'll look at where your data sits, what's keeping it from being trusted, and the first use case worth fixing it for. [Book a Data & AI Readiness Review →](/contact-us)
+> **CTA (mid):** Want this scored for you? Take the Data & AI Readiness Assessment. Answer 18 questions and get three scores, Data Foundation, AI Delivery and Safe to Scale, with the next step for each. [Take the Data & AI Readiness Assessment →]([ASSESSMENT URL])
 
 ## What does your score mean?
 
@@ -138,9 +138,9 @@ Two rules matter more than the total:
 
 Fix the things that would make the AI's answer untrustworthy, in this order: agree the definitions, consolidate the sources into one trusted place, assign owners, then automate access. Quality tooling and dashboards come after, because they only measure problems the first four steps solve.
 
-In practice, the fix that helps most is usually a single source of truth. One retailer we worked with had data spread across SAP ERP, SAP BW and application databases, with no unified view and several competing versions of the same numbers. We consolidated it into a single Snowflake source of truth, built in layers so that raw, cleaned and business-ready data are kept apart. Reporting, data analysis, data science models and AI use cases now run from one trusted source.
+In practice, the fix that helps most is usually a single source of truth. One retailer we worked with had data spread across SAP ERP, SAP BW and application databases, with no unified view and several competing versions of the same numbers. We consolidated it into a single Snowflake source of truth, built in layers that keep raw, cleaned and business ready data apart. Reporting, data analysis, data science models and AI use cases now run from one trusted source.
 
-Sometimes the platform is fine and the pipelines are the problem. For a water utility, operations teams couldn't count on complete, timely data. We traced the slowdowns to root causes in the existing pipeline code and re-engineered it without replacing the platform, so the utility got dependable data for monitoring and decisions from the platform it already owned.
+Sometimes the platform is fine and the pipelines are the problem. For a water utility, operations teams couldn't count on complete, timely data. We traced the slowdowns to root causes in the existing pipeline code and rebuilt it without replacing the platform, so the utility got dependable data for monitoring and decisions from the platform it already owned.
 
 On platforms: our deepest delivery history is on Snowflake and Databricks, and we partner with AWS and Microsoft. The fundamentals in this checklist (layered architecture, governance, pipeline design) carry across the major platforms. The right choice follows your data residency needs, existing licenses and team skills.
 
@@ -150,7 +150,7 @@ For more on why quality decides AI outcomes, read [why data quality is the real 
 
 It depends on how many sources are in scope and how far apart they are. Finding out where you stand is quick: a focused assessment of one or two use cases typically takes two to four weeks. Fixing what it finds takes longer, and is best done in phases tied to the use cases you plan to fund, so each phase ends with data someone can use.
 
-The mistake to avoid is a company-wide data cleanup with no use case attached. It is hard to fund, hard to finish, and hard to prove. Scope readiness to the first two or three AI use cases, fix their data, ship them, and extend from there.
+The mistake to avoid is a companywide data cleanup with no use case attached. It is hard to fund, hard to finish, and hard to prove. Scope readiness to the first two or three AI use cases, fix their data, ship them, and extend from there.
 
 ## Who should own AI data readiness?
 
@@ -170,7 +170,7 @@ Pick the first use case you plan to fund and score the data behind it on ten poi
 Fix definitions, sources, ownership and access, in that order. Agree what key business terms mean, consolidate data into one trusted source, name an owner for each dataset, and replace manual exports with pipelines or APIs. Any security gap is a blocker regardless of the rest.
 
 ### How long does data readiness take?
-An assessment of where you stand on one or two use cases typically takes two to four weeks. The fixes take longer and are best done in phases, each tied to a use case you plan to fund, rather than as a company-wide cleanup.
+An assessment of where you stand on one or two use cases typically takes two to four weeks. The fixes take longer and are best done in phases, each tied to a use case you plan to fund, rather than as a companywide cleanup.
 
 ### Do we need all our data to be AI-ready before we start?
 No. You need the data behind your first use case to be ready. Scoping readiness to two or three funded use cases keeps the work small enough to finish and shows results the business can see.
@@ -178,7 +178,7 @@ No. You need the data behind your first use case to be ready. Scoping readiness 
 ### Does AI data readiness depend on which platform we use?
 Less than most people expect. Layered architecture, governance and pipeline design work the same way across the major data platforms. Choose the platform for your data residency needs, existing licenses and team skills, then apply the same checklist.
 
-> **CTA (end):** Find out if your data is ready for AI. In a 30-minute Data & AI Readiness Review, our data leads look at where your data sits, what's keeping it from being trusted, and the first use case worth fixing it for. You'll leave with a clear next step. [Book a Data & AI Readiness Review →](/contact-us) · Or see how we build data platforms on our [Data & Analytics services](/services/data-analytics) page.
+> **CTA (end):** Find out if your data is ready for AI. The Data & AI Readiness Assessment scores your Data Foundation, AI Delivery and Safe to Scale in 18 questions and shows what to fix first. [Take the Data & AI Readiness Assessment →]([ASSESSMENT URL]) · Prefer to talk it through? [Book a 30 minute Data & AI Readiness Review](/contact-us) with our data leads, or see how we build data platforms on our [Data & Analytics services](/services/data-analytics) page.
 
 ---
 
@@ -203,7 +203,7 @@ Less than most people expect. Layered architecture, governance and pipeline desi
         { "@type": "Question", "name": "What does \"AI-ready data\" mean?", "acceptedAnswer": { "@type": "Answer", "text": "AI-ready data is data a model or AI assistant can use without a person cleaning, explaining or correcting it first. It sits in known places, means the same thing in every system, has a named owner, and can be reached safely by the tools that need it." } },
         { "@type": "Question", "name": "How do I know if my data is ready for AI?", "acceptedAnswer": { "@type": "Answer", "text": "Pick the first use case you plan to fund and score the data behind it on ten points: sources, definitions, duplicates, gaps, ownership, lineage, access, security, volume and freshness. Score each 0, 1 or 2. A total of 16 or more usually supports a scoped pilot; below 10, fix the foundation first." } },
         { "@type": "Question", "name": "What should I fix before starting an AI project?", "acceptedAnswer": { "@type": "Answer", "text": "Fix definitions, sources, ownership and access, in that order. Agree what key business terms mean, consolidate data into one trusted source, name an owner for each dataset, and replace manual exports with pipelines or APIs. Any security gap is a blocker regardless of the rest." } },
-        { "@type": "Question", "name": "How long does data readiness take?", "acceptedAnswer": { "@type": "Answer", "text": "An assessment of where you stand on one or two use cases typically takes two to four weeks. The fixes take longer and are best done in phases, each tied to a use case you plan to fund, rather than as a company-wide cleanup." } },
+        { "@type": "Question", "name": "How long does data readiness take?", "acceptedAnswer": { "@type": "Answer", "text": "An assessment of where you stand on one or two use cases typically takes two to four weeks. The fixes take longer and are best done in phases, each tied to a use case you plan to fund, rather than as a companywide cleanup." } },
         { "@type": "Question", "name": "Do we need all our data to be AI-ready before we start?", "acceptedAnswer": { "@type": "Answer", "text": "No. You need the data behind your first use case to be ready. Scoping readiness to two or three funded use cases keeps the work small enough to finish and shows results the business can see." } },
         { "@type": "Question", "name": "Does AI data readiness depend on which platform we use?", "acceptedAnswer": { "@type": "Answer", "text": "Less than most people expect. Layered architecture, governance and pipeline design work the same way across the major data platforms. Choose the platform for your data residency needs, existing licenses and team skills, then apply the same checklist." } }
       ]
@@ -236,17 +236,18 @@ Less than most people expect. Layered architecture, governance and pipeline desi
 
 ## Open questions
 
-1. **CTA swap (deviation from plan row).** The plan names "Take the Data & AI Readiness Assessment", but the tool is not live (target Fri 31 Oct 2026). The post uses "Book a Data & AI Readiness Review" → `/contact-us`. The live `/services/data-analytics` page still runs the old template ("Let's Connect" → `/contact-us`); the Readiness Review naming is from the 5 Oct page copy. Once the Assessment ships, change both CTAs to it and keep the Review as the secondary link.
-2. **Publish date.** The plan date (Mon 12 Oct 2026) has passed. Next Monday slot is Mon 26 Oct 2026; or hold to Mon 2 Nov 2026 so it launches with the Assessment CTA.
-3. **"Two to four weeks" for an assessment.** Irfan confirmed 2 to 4 weeks for an AI assessment on 16 Oct. Please confirm it also holds for a data readiness assessment scoped to one or two use cases.
-4. **Proof use.** The retailer (A9 / P-01) and water utility (P-09) are used anonymized, in the approved wording, with no figures. The 30% P-09 figure is deliberately left out.
-5. **Irfan's technical read.** He is the byline; he should check the ten points and the score bands before publishing.
+1. **Assessment URL.** CTAs use the Data & AI Readiness Assessment (Sana, 19 Oct 2026: goes live this week). Dev to replace `[ASSESSMENT URL]` with the live tool URL before publishing. The 30 minute Readiness Review stays as the secondary link (`/contact-us`).
+2. **Publish date.** Sana sets it; `datePublished` in the schema is left as YYYY-MM-DD.
+3. **"Two to four weeks"** for a data readiness assessment: confirmed by Irfan Shaikh, 19 Oct 2026.
+4. **Proof use.** Retailer (A9 / P-01) and water utility (P-09) used anonymized, in approved wording, no figures.
+5. **"AI-ready"** keeps its hyphen: it is the search term and the plan's FAQ wording. Other hyphens removed from prose per brand voice.
 6. **Old cluster pages** still carry "2025 Guide" in the title tag (`common-data-challenges`); worth a refresh when this goes live.
 
 ## Next steps
 - [ ] Sana review
-- [ ] Irfan Shaikh technical check (ten points, score bands, "two to four weeks")
-- [ ] Decide publish date (Mon 26 Oct or Mon 2 Nov 2026)
+- [x] Irfan Shaikh confirmed "two to four weeks" applies to data readiness (19 Oct 2026)
+- [ ] Irfan Shaikh technical check (ten points, score bands)
+- [ ] Sana sets publish date
 - [ ] Hand to dev/CMS with schema; set datePublished
 - [ ] Add links to this post from the two existing cluster blogs
-- [ ] Swap CTA to the Readiness Assessment when it goes live
+- [ ] Dev replaces [ASSESSMENT URL] with the live tool URL

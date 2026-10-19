@@ -1,19 +1,19 @@
 ---
 date: 2026-10-19
-tags: [xloop, xcelerate, mari-energies, csr, linkedin, paid, video-script, testimonials]
+tags: [xloop, xcelerate, mari-energies, csr, linkedin, paid, video-script]
 ---
 
-# Mari Cohort: LinkedIn Brand Awareness Video (Paid)
+# Mari Cohort: LinkedIn Brand Awareness Video (Paid) · v2
 
 ## Brief
 
 - **Source:** Training department chat, 14 Oct 2026. Nasir wants the campaign live by **Sat 31 Oct 2026**
-- **Focus:** the collaboration with Mari Energies and its main outcome, employability. Shown to other companies as xLoop's strength and proven outcome
-- **Content:** short graduate testimonials on how the bootcamp helped them personally and professionally, and how employment changed their livelihoods. Older testimonial videos can be reused if they fit
-- **Brand:** xCelerate by xLoop. Mari Energies appears as **CSR sponsor only**, never as energy sector delivery proof
-- **Audience (paid targeting):** CSR, sustainability, HSE and community investment leaders, HR and L&D heads, foundations, development programs
-- **Length:** 46 to 48 seconds · 1:1 or 4:5 vertical · burned in captions (most paid LinkedIn views are muted)
-- **Approach:** no narrator. The graduates' own voices carry the audio; on-screen text carries the story for muted viewers
+- **Focus:** highlights of the program and the impact it created (employability). xLoop's own video, shown to other companies as a proven outcome
+- **v2 changes (Sana, 19 Oct):** highlights and impact only, no testimonial dependency, **no Naseem Qamar or sponsor quote**, CTA points to xLoop for training
+- **Brand:** xCelerate by xLoop. Mari Energies named once, as the program's **CSR funder only**. Never energy sector delivery proof
+- **Audience (paid targeting):** HR and L&D heads, CSR and sustainability leaders, foundations, development programs
+- **Length:** 45 to 48 seconds · 4:5 or 1:1 · burned in text (most paid LinkedIn views are muted)
+- **Audio:** music bed, with optional short voiceover (lines below). Works fully on text alone
 
 ## Approved facts used
 
@@ -21,105 +21,96 @@ tags: [xloop, xcelerate, mari-energies, csr, linkedin, paid, video-script, testi
 - Young people from underserved communities, selected on merit, fully funded
 - Five months: AI, agentic development, full stack development, career readiness
 - Cohort I: 44 graduates, including five women. All placed into internships and employment
-- Sponsor quote: Naseem Qamar, Director HSE, Mari Energies (from the approved xCelerate page content)
 
 ## Script
 
-### SCENE 1 · Hook (0:00 to 0:05)
+### SCENE 1 · Hook (0:00 to 0:04)
 
-- **Visuals:** Tight close-up of a graduate at a desk, laptop open, looking to camera. Natural office light
-- **Audio:** Graduate soundbite (the strongest "before and after" line from the shoot). Target shape: *"Six months ago I didn't have a job. Today I build software for a living."*
-- **On-screen text:** From training to a career
+- **Visuals:** Graduation day. Caps in the air or the group photo, slow motion
+- **On-screen text:** 44 graduates. All placed into work.
+- **VO (optional):** "Forty-four graduates. All placed into work."
 
-### SCENE 2 · The partnership (0:05 to 0:11)
+### SCENE 2 · The program (0:04 to 0:10)
 
-- **Visuals:** Inauguration ceremony footage, then wide shot of the classroom at xLoop's Karachi facility
-- **Audio:** Soft music bed rises
+- **Visuals:** Inauguration ceremony, then a wide shot of the classroom at xLoop's Karachi facility
 - **On-screen text:**
   - Mari Digital Skills, Training & Employment Program
-  - Funded by Mari Energies · Delivered by xCelerate by xLoop
+  - Funded by Mari Energies · Designed and delivered by xCelerate by xLoop
+- **VO (optional):** "One program, built to end in jobs."
 
-### SCENE 3 · The training (0:11 to 0:19)
+### SCENE 3 · Who it's for (0:10 to 0:17)
 
-- **Visuals:** Fast cuts: hands on keyboards, code on screen, instructor at a whiteboard, team huddled over a capstone demo, a mock interview
-- **Audio:** Music, with ambient classroom sound
+- **Visuals:** Participants arriving, a merit test in progress, faces in the classroom
 - **On-screen text (one line per cut):**
+  - Young people from underserved communities
   - Selected on merit
   - Fully funded
-  - 5 months · AI · Agentic development · Full stack
+- **VO (optional):** "Young talent, selected on merit."
+
+### SCENE 4 · The training (0:17 to 0:27)
+
+- **Visuals:** Fast cuts: code on screen, instructor at the whiteboard, pair programming, a team demoing their capstone, a mock interview
+- **On-screen text (one line per cut):**
+  - 5 months
+  - AI · Agentic development · Full stack development
+  - Real projects, start to finish
   - Career readiness built in
+- **VO (optional):** "Five months of AI and software development, plus the skills to hold a job."
 
-### SCENE 4 · Graduate voices (0:19 to 0:34)
+### SCENE 5 · The impact (0:27 to 0:37)
 
-- **Visuals:** Three graduates, about 5 seconds each, filmed at their new workplace where possible. Include at least one of the five women graduates
-- **Audio and lower thirds:**
-  - **Graduate 1 (professional):** what they can do now that they couldn't before. Lower third: *Name · current role, company*
-  - **Graduate 2 (personal):** confidence, what their family said, what changed at home
-  - **Graduate 3 (livelihood):** first salary, supporting family, what's next
-- **On-screen text:** Lower thirds only. Keep captions verbatim
-
-### SCENE 5 · The outcome (0:34 to 0:40)
-
-- **Visuals:** Graduation ceremony: caps, certificates, group photo. Slow push in
+- **Visuals:** Graduation ceremony: certificates handed over, families in the audience, the full cohort on stage. Then 2 to 3 short shots of graduates at their new desks (no interviews needed)
 - **On-screen text (large, one frame each):**
   - 44 graduates
-  - All placed into internships and employment
+  - Including 5 women
+  - 100% placed into internships and employment
+- **VO (optional):** "Every graduate placed into an internship or a job."
 
-### SCENE 6 · Sponsor voice (0:40 to 0:44)
+### SCENE 6 · Why it matters (0:37 to 0:42)
 
-- **Visuals:** Naseem Qamar on camera if a clip exists; otherwise his photo from the graduation with the quote as text
-- **On-screen text:** *"A pathway from learning to employment and sustainable livelihoods."* · Naseem Qamar, Director HSE, Mari Energies
+- **Visuals:** A graduate walking into an office, badge on, sitting down at their workstation
+- **On-screen text:** From classroom to career.
 
-### SCENE 7 · Close (0:44 to 0:48)
+### SCENE 7 · CTA (0:42 to 0:47)
 
-- **Visuals:** Clean end card. xCelerate by xLoop lockup, Mari Energies logo beside it (sponsor approval needed)
-- **On-screen text:** Fund a cohort that ends in jobs.
-- **Sign-off line:** xCelerate by xLoop · Training that leads to work
+- **Visuals:** Clean end card with the xCelerate by xLoop lockup
+- **On-screen text:**
+  - Training that ends in results.
+  - Build your next training program with xLoop.
+- **VO (optional):** "Build your next training program with xLoop."
 
 ## LinkedIn ad copy
 
 - **Intro text (first 150 characters show before "see more"):**
 
-  44 young people from underserved communities. Five months of AI and software training. Every graduate placed into an internship or a job.
+  44 graduates. Five months of training. Every one placed into an internship or a job.
 
-  Mari Energies funded it. xCelerate by xLoop designed and delivered it, from merit selection to placement.
+  That's Cohort I of the Mari Digital Skills, Training & Employment Program, funded by Mari Energies and designed and delivered by xCelerate by xLoop. Young people from underserved communities, selected on merit and trained in AI, agentic development and full stack development.
 
-  If your CSR budget should end in careers, not certificates, see how a sponsored cohort works.
+  Planning training for your team or a sponsored cohort? We'll build a program around the outcomes you need.
 
-- **Headline (under 70 characters):** CSR Training That Ends in Jobs: 44 Graduates Placed
-- **CTA button:** Learn more
-- **Landing page:** Sponsored Talent Programs page once live (`/xcelerate/sponsored-talent-programs`). Until then, the graduation story: `/insights/media-and-mentions/mari-energies-xloop-ai-digital-skills-bootcamp-graduation`
-- **Hashtags (organic repost only):** #CSR #DigitalSkills #AITraining #Employability #xCelerate
+- **Headline (under 70 characters):** AI Training Built to End in Jobs: 44 Graduates Placed
+- **CTA button:** Contact us (or Learn more, depending on the campaign objective)
+- **Landing page:** xCelerate page with the training contact form. Use the Sponsored Talent Programs page if it's live by 31 Oct
+- **Hashtags (organic repost only):** #AITraining #DigitalSkills #Employability #CSR #xCelerate
 
-## Shoot brief for the training team
+## Footage needed from the training team
 
-**Who to film:** 3 to 5 graduates now in jobs or internships (aim for a mix of tracks, home regions and at least one woman). Film more than needed; the edit uses three.
-
-**Questions (ask for answers in full sentences, Urdu or English, subtitled):**
-
-1. What were you doing before the program?
-2. What can you do now that you couldn't do five months ago?
-3. Where do you work now, and what does your day look like?
-4. What changed for you and your family once you started earning?
-5. What would you tell someone from your area who is thinking of applying?
-
-**Also capture:** each graduate working at their desk (B-roll), a walking shot into the office, a smile after the interview.
-
-**Existing footage to check:** earlier testimonial videos, inauguration and graduation ceremony footage, Naseem Qamar's remarks at the graduation.
+- Inauguration and graduation ceremony footage and photos
+- Classroom and capstone B-roll
+- 2 to 3 short clips of graduates at their workplaces (no interviews; consent still needed)
 
 ## Checks before it goes live
 
-- Written consent from every graduate shown (name, face, employer on screen)
-- Employers named in lower thirds have agreed to be shown
-- Mari Energies comms approves their logo, the quote and use in **paid** promotion
-- "All placed" wording holds for all 44 (internships and employment, as approved). Don't change to "all employed"
-- No energy industry framing anywhere in the video or copy
+- Consent from every graduate whose face appears
+- Mari Energies is fine with its name and the program name in **paid** promotion
+- "All placed" wording stays as "internships and employment". Don't change it to "all employed"
+- No energy industry framing anywhere
 
 ## Next steps
 
-- [ ] Share script and shoot brief with the training team; confirm graduates and employers for filming
-- [ ] Training team to send existing testimonial and ceremony footage
-- [ ] Get Mari Energies approval for logo, quote and paid use
-- [ ] Confirm landing page (Sponsored Talent Programs page live by 31 Oct, or use the graduation story)
+- [ ] Share v2 script with the training team; collect footage
+- [ ] Confirm Mari is fine with its name in paid promotion
+- [ ] Confirm landing page and CTA button with the campaign objective
 - [ ] Budget to be shared once creatives and content are approved
 - [ ] Optional: 15 second cutdown (Scenes 1, 5, 7) for retargeting

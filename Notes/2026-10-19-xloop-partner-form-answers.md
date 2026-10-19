@@ -23,6 +23,15 @@ Related: [[xloop-marketing-brain]], [[xloop-confirmed-facts-2026-09]]
 - **Geographies:** USA (HQ, San Mateo), Middle East (UAE, Saudi Arabia, Qatar),
   Pakistan (delivery center), Europe (Poland, Hungary), South Africa, Canada
 
+## General business information
+
+- **Head office address:** 1st Floor, Marine Tower, Block 4, Clifton, Karachi 75600, Pakistan.
+  This is Karachi rather than San Mateo, to match the earlier application in
+  [[2026-09-08-xloop-pipedrive-solution-provider-application]]
+- **Phone:** +92 21 3586 9200 (main line in site schema / NEPRA material)
+- **Email / website:** info@xloopdigital.com, www.xloopdigital.com
+- **Legal name and Tax ID:** unknown. The Pakistani entity's registered name and NTN must come from finance
+
 ## Rules applied
 
 - Hungary = presence/partnerships, not an office
@@ -35,3 +44,5 @@ Related: [[xloop-marketing-brain]], [[xloop-confirmed-facts-2026-09]]
 - [ ] Customer count and potential Pipedrive customers from sales
 - [ ] Sales / sales engineer / customer success headcount
 - [ ] Decide whether to keep Qatar in geographies
+- [ ] Registered legal name + Tax ID (NTN) of the entity at the Karachi address, from finance
+- [ ] Keep geographies/industries consistent with the 2026-09-08 Pipedrive application (5 countries there)

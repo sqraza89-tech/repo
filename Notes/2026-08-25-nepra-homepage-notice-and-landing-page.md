@@ -46,6 +46,8 @@ runbook**.
 If 〔V6〕 comes back positive, **only four things change**: the H1, hero subhead,
 service card 1, and the block 03 answer capsule. All marked 〔V6〕 in the doc.
 
+> **Superseded 2026-10-19 (Sana):** public content covers Regulations 4–11 only. Do not add Regulation 12. See [[2026-10-19-xloop-blog-refresh-nepra-it-ot-security-regulations]].
+
 ## 🔴 ERROR IN MY OWN DELIVERABLES — found 2026-08-31
 Reading `26_Harappa_Solar_Pvt_Ltd.docx` (the long-form advisory letter) revealed the
 regulations run to **Regulation 12**, not 11. **Reg. 12 = PowerCERT Coordination** —

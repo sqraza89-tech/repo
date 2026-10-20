@@ -25,9 +25,10 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - Data & AI Consulting v1.1 (14 Oct, renamed from AI Consulting & Strategy; data strategy added): full rewrite, replaces both live pages (`/ai-consultancy` + `/services/ai-consulting-and-development`, one to 301 after a Search Console check). `Notes/2026-10-14-xloop-data-ai-consulting-page-content-v1.1.docx`. Six [CONFIRM] items for the delivery lead
 - Applied AI Solutions hub v1 (16 Oct): new page (URL 404s today), sets the pattern for the 6 leaf pages. `Notes/2026-10-16-xloop-applied-ai-solutions-hub-page-content-v1.docx`. Digital Twin removed, 301 to hub
 - Generative AI v1 (16 Oct): `Notes/2026-10-16-xloop-generative-ai-page-content-v1.docx`. No open [CONFIRM]s
+- Large Language Models v1 (20 Oct): `Notes/2026-10-20-xloop-large-language-models-page-content-v1.docx`. One [CONFIRM] (languages delivered)
 
 ## Not written yet
-- Applied AI leaf pages (5 left): LLMs, AI Agents, Computer Vision, Predictive Analytics, Machine Learning
+- Applied AI leaf pages (4 left): AI Agents, Computer Vision, Predictive Analytics, Machine Learning
 - Mining industry page. Blocked: Harmony Gold details and naming permission
 - Case study pages (Release 2)
 - xLab hub + 7 product pages
@@ -49,7 +50,8 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - [x] Data & AI Consulting v1.1 (14 Oct)
 - [x] Applied AI Solutions hub v1 (16 Oct)
 - [x] Generative AI v1 (16 Oct)
-- [ ] Applied AI leaf pages: LLMs, AI Agents, Computer Vision, Predictive Analytics, Machine Learning
+- [x] Large Language Models v1 (20 Oct)
+- [ ] Applied AI leaf pages: AI Agents, Computer Vision, Predictive Analytics, Machine Learning
 - [ ] Devs, now: lead form heading says "Explore AI Agents for Your Business" on 5 Applied AI leaf pages
 - [ ] xLab hub/products + case study pages (Release 2, by 30 Nov)
 - [ ] Mining once the missing information arrives

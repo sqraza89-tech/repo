@@ -176,7 +176,7 @@ It depends on your data rules, volume and team. Public APIs are fastest to start
 We ground answers in your documents with retrieval, require sources, validate the output, and measure accuracy against a test set before launch and after every change. For high stakes answers, a person reviews before anything is used.
 
 **Can LLMs work in languages other than English?**
-Yes. Leading models handle many languages well. We test performance in your languages on your own content, and adapt prompts or fine tune where quality falls short. [CONFIRM: languages delivered on client work, for example Urdu or Arabic]
+Yes. Leading models handle many languages well, and xServe, our AI ordering product, works in English, Urdu and Arabic. For your use case, we test performance in your languages on your own content, and adapt prompts or fine tune where quality falls short.
 
 **What does an LLM solution cost to run?**
 Running cost depends on the model, the volume of requests and where it runs. We estimate cost per task during the use case review, then reduce it in production with smaller models for simple requests, caching and usage limits.
@@ -234,7 +234,7 @@ LLM page owns: LLM development, LLM services, RAG development, fine tuning LLMs,
 
 ### Open [CONFIRM] items
 
-1. Languages delivered on client work (FAQ). If none beyond English, the answer still works without the tag line
+1. ~~Languages~~: resolved 20 Oct. Sana: xServe works in English, Urdu and Arabic
 2. Alfalah Investments naming (carried over)
 
 ## Next steps

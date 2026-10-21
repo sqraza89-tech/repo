@@ -281,7 +281,18 @@ tags: [xloop, linkedin, data, ai-agents, ai-security, design-handover]
 - No "xLoop is ISO certified"; no Fabric; no Microsoft Solutions Partner
 - US spelling checked; no em dashes in post copy
 
+## Sana's review (Wed 21 Oct 2026)
+- Kept posts 1, 2, 3, 4 (Snowflake), 5 (agent stack), 6 (RAG), 9 (platforms); dropped ISO 42001 and the LLM investment assistant
+- Kept text = on-visual copy; posts will be mostly **video or carousel**
+- **No homepage CTAs:** every link goes to a service page that can convert the lead
+- **Show new work:** use Majid Al Futtaim, HBL, Wefi Tech and the Gulf bank work instead of older cases (Serefin, Pick n Pay already told). Replaces posts 4 and 6
+- Live service URLs (checked 21 Oct): `/services/ai-agents-and-autonomous-systems`, `/services/generative-ai`, `/services/data-analytics`, `/services/ai-security-service`, `/services/cloud-and-hyperscaling`, `/services/ai-consulting-and-development`
+- Live HBL AM portfolio page (`/portfolio/hbl-asset-management-ltd`) is broken: Beythak and Upwork text pasted in, 0% / 0+ counters. Shows product/UX design only
+- Open questions to Sana: MAF + Wefi naming permission · HBL data/AI scope · which Gulf banks summary (on file: CBD Azure migration, Aldar + Drydocks Databricks, in progress)
+
 ## Next steps
+- [ ] Get answers on naming, HBL scope and Gulf summary, then rewrite as v2 (carousel/video format, service-page CTAs)
+- [ ] Flag the broken HBL portfolio page to the web team
 - [ ] Confirm live URLs: data-ready-for-AI blog, AI Security Assessment page, Data Analytics page, the two case study pages
 - [ ] Confirm Irfan Shaikh will answer walkthrough / platform requests (posts 6 and 9)
 - [ ] Check these against the Q2 calendar posts for the same dates; swap or shift if two company posts land on one day

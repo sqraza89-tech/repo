@@ -28,11 +28,12 @@ The brief's numbers were placeholders. These are the figures used, from the newe
 ## Slide 1: Cover
 
 **xLoop**
-# Data & AI Consulting and Engineering
+# Data & AI
+**Consulting · Engineering**
 We modernize your data, then build and secure the AI that runs on it.
 
-> Data comes first in the title on purpose: it matches slide 3's order (cloud & data before AI) and the site's "AI and data consulting" positioning.
-> Shorter option if the layout is tight: **Data & AI Engineering**
+> "Data & AI" is the title; "Consulting · Engineering" sits under it as a smaller line, so there's only one "and". Data comes first to match slide 3 (cloud & data before AI).
+> Single-line option: **Data & AI Engineering**
 
 ## Slide 2: xLoop at a Glance
 
@@ -72,7 +73,7 @@ Pick n Pay · ioco · Absa · Lombard · Standard Bank
 Emeritus
 
 > Logos only, no descriptions. Do not add "Microsoft Solutions Partner" or any partner tier: it is not an approved claim.
-> ⚠️ Pick n Pay is also the client behind the South African retail case on slide 6. With its logo here, that case is easy to identify. Either drop Pick n Pay from this slide, or accept that the retail case is recognizable.
+> Pick n Pay stays here. Its Snowflake retail case is left out of slide 6 so the two do not overlap.
 
 ## Slide 5: Client Portfolio
 
@@ -88,10 +89,10 @@ A Middle East retail and real estate group
 Discovery across the full AWS estate, including Vertica. TCO model, target architecture and phased migration waves, delivered with Microsoft.
 → A quantified, lower-risk path to Azure
 
-**Retail Data on Snowflake**
-One of South Africa's leading retailers
-SAP and application databases unified on Snowflake and AWS with a medallion architecture.
-→ One source of truth behind every Power BI report
+**Cloud Platform for Container Depot Operations**
+A container depot in the logistics sector
+Manual tracking replaced with one cloud native platform: 3D container inspections, repair jobs, workforce scheduling, rule-based invoicing and live capacity tracking, plus a mobile app for the yard.
+→ Data silos removed, every depot workflow on one platform
 
 **National Immunization Data Platform**
 A national health NGO in Pakistan
@@ -180,7 +181,7 @@ San Mateo · Dubai · Doha · Karachi
 
 ## Why these case studies
 
-- **Cloud & data:** the three with scale or a big-name platform. The Azure roadmap is fresh and was done with Microsoft; Snowflake is the strongest delivered data platform; the NGO has the biggest numbers in the deck. Swap option: Snowflake data estate strategy for a fintech (fresher, but an assessment, not a build)
+- **Cloud & data:** the three with scale or a big-name platform. The Azure roadmap is fresh and was done with Microsoft; the container depot shows a full cloud and data build in logistics; the NGO has the biggest numbers in the deck. The South African retail Snowflake case was dropped because Pick n Pay is on the partners slide. Swap options: Snowflake data estate strategy for a fintech (an assessment, not a build), data pipeline re-engineering for a water utility
 - **AI engineering:** the only AI cases with a number (30%, 50,000+ docs) plus xServe, the only multilingual AI delivery. Swap options: AI search over thousands of patient video recordings (Canadian healthcare), automated reconciliation and NAV tagging for an asset manager (fresh, but RPA rather than AI)
 - **AI security:** the deck has only two security case studies, and neither is AI specific. So the AI capability sits in the strip, and the cards show delivered security work. The wind audit comes from the ACT Wind work, not this deck
 - **Training:** the deck has no training case studies. These come from the xCelerate page content (13 Oct)
@@ -197,10 +198,11 @@ San Mateo · Dubai · Doha · Karachi
 - PPL program year: 2025, graduate count unknown, so no number
 - No names on testimonials
 - CTA: booking + info@xloopdigital.com, no phone
+- Pick n Pay stays on the partners slide; its retail case is not used
+- Cover: "Data & AI" with "Consulting · Engineering" under it
 
 ## Next steps
 
-- [ ] Decide on Pick n Pay: partner logo or anonymous retail case (slide 4 vs slide 6)
 - [ ] Confirm "Standard" = Standard Bank
-- [ ] Confirm the cover title with Nasir: changed on 22 Oct from his brief's "AI consulting / engineering" to "Data & AI Consulting and Engineering", to reflect the shift toward data
+- [ ] Confirm the cover title with Nasir: changed on 22 Oct from his brief's "AI consulting / engineering" to "Data & AI / Consulting · Engineering", to reflect the shift toward data
 - [ ] Agree the new visual direction on 1–2 sample slides before building all 11

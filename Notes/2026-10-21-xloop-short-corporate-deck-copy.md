@@ -26,8 +26,11 @@ The brief's numbers were placeholders. These are the figures used, from the newe
 ## Slide 1: Cover
 
 **xLoop**
-# AI Consulting & Engineering
-We design, build and secure AI that runs in production.
+# Data & AI Consulting and Engineering
+We modernize your data, then build and secure the AI that runs on it.
+
+> Data comes first in the title on purpose: it matches slide 3's order (cloud & data before AI) and the site's "AI and data consulting" positioning.
+> Shorter option if the layout is tight: **Data & AI Engineering**
 
 ## Slide 2: xLoop at a Glance
 

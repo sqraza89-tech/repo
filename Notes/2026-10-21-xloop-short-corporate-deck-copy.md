@@ -162,11 +162,12 @@ Founder & CEO, a cloud and cybersecurity company
 "What impressed us most was their willingness to learn about our industry and adapt their approach to meet our unique needs."
 An agri-fintech platform, Pakistan
 
-"Their deep project understanding, timely delivery and professional approach have exceeded our expectations."
-Client, software development
+"We highly recommend xLoop as a trusted and reliable partner for digital transformation initiatives."
+A digital health platform
 
 > All three quotes are verbatim from the signed testimonials document. "[xLoop's]" fixes "xLoop commitment" in the original.
-> The third attribution is vague because the file doesn't say what Skillforte does. Stronger swap: "We highly recommend xLoop as a trusted and reliable partner for digital transformation initiatives." *A digital health platform* (Serefin, also verbatim).
+> Third quote is Serefin (22 Oct), chosen over Skillforte because Skillforte's industry is unknown, so its attribution would be vague. Skillforte alt: "Their deep project understanding, timely delivery and professional approach have exceeded our expectations."
+> Design docx removes hyphens in prose per brand voice (30 minute, 11 stage, rule based, lower risk, agri fintech).
 
 ## Slide 11: CTA
 
@@ -199,10 +200,11 @@ San Mateo · Dubai · Doha · Karachi
 - No names on testimonials
 - CTA: booking + info@xloopdigital.com, no phone
 - Pick n Pay stays on the partners slide; its retail case is not used
-- Cover: "Data & AI" with "Consulting · Engineering" under it
+- Cover: "Data & AI" with "Consulting · Engineering" under it (Nasir approved, 22 Oct)
+- "Standard" = Standard Bank (confirmed)
 
 ## Next steps
 
-- [ ] Confirm "Standard" = Standard Bank
-- [ ] Confirm the cover title with Nasir: changed on 22 Oct from his brief's "AI consulting / engineering" to "Data & AI / Consulting · Engineering", to reflect the shift toward data
+- [x] Design handoff: `Notes/2026-10-22-xloop-short-corporate-deck-design-handoff.docx`
+
 - [ ] Agree the new visual direction on 1–2 sample slides before building all 11

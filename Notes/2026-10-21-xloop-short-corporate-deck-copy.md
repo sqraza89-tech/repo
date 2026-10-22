@@ -9,6 +9,8 @@ Brief from Nasir: short version of the corporate deck, minimal text, 11 slides, 
 Source: `Downloads/Decks (2).pptx` (106 slides), checked against the Marketing Brain approved claims.
 Visual direction is changing, so this is copy only.
 
+**Rules agreed with Sana (22 Oct):** no client names anywhere in the deck. Every case study is anonymized but specific (region, sector, scale, platform). No revenue figure. Contact email is info@xloopdigital.com.
+
 ## Numbers: brief vs deck
 
 The brief's numbers were placeholders. These are the figures used, from the newest slide in the deck (S3, matches HR).
@@ -17,7 +19,7 @@ The brief's numbers were placeholders. These are the figures used, from the newe
 |---|---|---|
 | 150+ engineers | **90 engineers and consultants** | S3, HR count (Sep 2026) |
 | Presence in 8 countries | **8 countries served** | S3, S56 |
-| 60+ digital transformation projects | **50+ solutions delivered** ⚠️ | S77 says 50+, S94 (older) says 75+ |
+| 60+ digital transformation projects | **50+ solutions delivered** | S77 (Sana confirmed 50+, 22 Oct) |
 | 40+ global clients | Dropped | Not in the deck |
 | 20K hours of AI engineering | Dropped | Not in the deck |
 | 40+ certifications | **ISO 42001 & ISO 27001 Lead Auditors** | S3, approved claim A4 |
@@ -58,12 +60,19 @@ Skills gaps that hiring can't close. We train cohorts that graduate into jobs.
 
 ## Slide 4: The Partners We Work With
 
-# Built on the platforms you already run
+# The partners we work with
 
+**Technology partners**
 AWS · Microsoft · Snowflake · Databricks · Salesforce
-Training partner: Emeritus
+
+**Partners in South Africa**
+Pick n Pay · ioco · Absa · Lombard · Standard Bank
+
+**Training partner**
+Emeritus
 
 > Logos only, no descriptions. Do not add "Microsoft Solutions Partner" or any partner tier: it is not an approved claim.
+> ⚠️ Pick n Pay is also the client behind the South African retail case on slide 6. With its logo here, that case is easy to identify. Either drop Pick n Pay from this slide, or accept that the retail case is recognizable.
 
 ## Slide 5: Client Portfolio
 
@@ -75,25 +84,25 @@ Banking & Financial Services · Retail · Real Estate · Healthcare · Logistics
 ## Slide 6: Notable Cloud & Data Projects
 
 **AWS to Azure Migration Roadmap**
-A large retail and real estate group in the Middle East
-Full estate discovery, TCO model and phased migration waves, delivered with Microsoft.
+A Middle East retail and real estate group
+Discovery across the full AWS estate, including Vertica. TCO model, target architecture and phased migration waves, delivered with Microsoft.
 → A quantified, lower-risk path to Azure
 
 **Retail Data on Snowflake**
-A leading South African retailer
-SAP and application databases unified on Snowflake and AWS.
+One of South Africa's leading retailers
+SAP and application databases unified on Snowflake and AWS with a medallion architecture.
 → One source of truth behind every Power BI report
 
 **National Immunization Data Platform**
-One of Pakistan's leading NGOs
-Data platform scaled for frontline vaccination, even in zero connectivity areas.
+A national health NGO in Pakistan
+Data platform scaled for frontline vaccination teams, working even in zero connectivity areas.
 → **1 billion+** health records · **4,000+** health workers
 
 ## Slide 7: AI Consulting & Engineering Projects
 
 **AI Investor Support Assistant**
-Alfalah Investments
-App Pilot: an LLM and RAG assistant that answers investor queries from the firm's own documents.
+A leading asset manager in Pakistan
+An LLM and RAG assistant that answers investor queries from the firm's own fund documents.
 → **30%** higher resolution rates
 
 **AI Ordering for Peak Hours**
@@ -101,10 +110,10 @@ A fast food chain in Saudi Arabia
 xServe takes orders, suggests upsells and answers nutrition questions in English, Urdu and Arabic.
 → High order volumes handled at peak hours
 
-**HR Assistant for a Major Bank**
-A major bank
-RAG assistant with custom LLM orchestration and multi-language support.
-→ Instant answers from **50,000+** documents
+**AI HR Assistant**
+A major commercial bank
+RAG assistant with custom LLM orchestration and multi-language support for every employee.
+→ Instant answers from **50,000+** policy documents
 
 ## Slide 8: Notable AI Security Work
 
@@ -116,75 +125,82 @@ VAPT across 200+ domains. PII exposure found and fixed.
 → **25%** of findings high risk, each with a prioritized fix
 
 **Mobile Banking App Security**
-A leading banking platform
+A leading banking platform in Pakistan
 Insecure APIs and data leakage fixed, SAST and DAST built into the pipeline.
 → Guided to PCI DSS and State Bank compliance
 
 **IT & OT Compliance Audit**
 A 30 MW wind power producer
-Audit across the head office and two plant sites.
-→ Compliance gaps mapped across IT and plant systems
+Compliance audit of IT and plant control systems, across the head office and two wind plant sites.
+→ Every site audited, IT and OT
 
 ## Slide 9: Notable Training Projects
 
 Strip: Training partner: Emeritus
 
 **Full Stack Bootcamp**
-Bank Alfalah
+A leading Pakistani commercial bank
+Cloud native and mobile app development for the bank's own professionals.
 → **3** cohorts · **70+** professionals · **240+** hours each
 
 **Digital Skills & Employment Program (CSR)**
-Mari Energies
+One of Pakistan's largest gas producers
 Five months of AI, agentic and full stack development for youth from underserved communities.
 → **44** graduates · **100%** placed in internships and jobs
 
-**Full Stack & Data Science Bootcamp (CSR)**
-PPL and Dawood Global Foundation
-Youth from communities around PPL's operations.
+**Full Stack & Data Science Bootcamp (CSR, 2025)**
+A national oil and gas company, with a social impact foundation
+Youth from the communities around the company's operations, trained in AI, data science and full stack engineering.
 → Top performers recruited
 
 ## Slide 10: What Clients Say About Us
 
-"Their commitment to excellence and their ability to deliver complex projects on time and within budget have been instrumental in our success."
-John Waterhouse, Cloud Titans
+"[xLoop's] commitment to excellence and their ability to deliver complex projects on time and within budget have been instrumental in our success."
+Founder & CEO, a cloud and cybersecurity company
 
 "What impressed us most was their willingness to learn about our industry and adapt their approach to meet our unique needs."
-Beythak
+An agri-fintech platform, Pakistan
 
 "Their deep project understanding, timely delivery and professional approach have exceeded our expectations."
-Skillforte
+Client, software development
+
+> All three quotes are verbatim from the signed testimonials document. "[xLoop's]" fixes "xLoop commitment" in the original.
+> The third attribution is vague because the file doesn't say what Skillforte does. Stronger swap: "We highly recommend xLoop as a trusted and reliable partner for digital transformation initiatives." *A digital health platform* (Serefin, also verbatim).
 
 ## Slide 11: CTA
 
-# Find out where AI will pay off first
+# Find out if your data is ready for AI
 Book a 30-minute Data & AI Readiness Review. You leave with ranked use cases and a clear first step.
 
 **Button:** Book Your Readiness Review
-sales@xloopdigital.com · xloopdigital.com
+info@xloopdigital.com · xloopdigital.com
 San Mateo · Dubai · Doha · Karachi
+
+> Why this CTA: it promises something the buyer gets in 30 minutes, it matches the data-first cover, and it uses the same review name as the website. "Call us" would need a phone number, and an email plus booking link is enough on its own.
 
 ## Why these case studies
 
-- **Cloud & data:** the three with scale or a big-name platform. MAF/Azure is fresh and done with Microsoft; Snowflake is the strongest delivered data platform; the NGO has the biggest numbers in the deck. Swap option: Wefi Tech Snowflake strategy (fresher, but an assessment, not a build)
-- **AI engineering:** the only AI cases with a number (30%, 50,000+ docs) plus xServe, the only multilingual AI delivery. Swap options: Canadian healthcare RAG over video recordings, HBL Asset Management automation (nameable and fresh, but RPA rather than AI)
-- **AI security:** the deck has only two security case studies, and neither is AI specific. So the AI capability sits in the strip, and the cards show delivered security work
+- **Cloud & data:** the three with scale or a big-name platform. The Azure roadmap is fresh and was done with Microsoft; Snowflake is the strongest delivered data platform; the NGO has the biggest numbers in the deck. Swap option: Snowflake data estate strategy for a fintech (fresher, but an assessment, not a build)
+- **AI engineering:** the only AI cases with a number (30%, 50,000+ docs) plus xServe, the only multilingual AI delivery. Swap options: AI search over thousands of patient video recordings (Canadian healthcare), automated reconciliation and NAV tagging for an asset manager (fresh, but RPA rather than AI)
+- **AI security:** the deck has only two security case studies, and neither is AI specific. So the AI capability sits in the strip, and the cards show delivered security work. The wind audit comes from the ACT Wind work, not this deck
 - **Training:** the deck has no training case studies. These come from the xCelerate page content (13 Oct)
-- **Left out on purpose:** xVision branch stats (30% / 25% / 40%) are on the prohibited list, unsourced. Mari is fine here because this is the training slide, not industry proof
+- **Left out on purpose:** xVision branch stats (30% / 25% / 40%) are on the prohibited list, unsourced
 
-## Open questions
+## Decisions (Sana, 22 Oct)
 
-- [ ] **50+ or 75+ solutions delivered?** The deck says both. 50+ is the safer, newer figure
-- [ ] **Naming:** OK to keep the MAF and Wefi slides anonymized? The old deck names MAF, HBL and Wefi; MAF is internal only on file
-- [ ] **"SA partners" in the brief:** Saudi Arabia partners, or something else? Need names
-- Revenue run rate left out of the deck (Sana, 22 Oct)
-- [ ] **Alfalah 30%:** in the deck, but not yet in approved claims. Confirm the source
-- [ ] **Wind IPP audit (slide 8, card 3):** not in this deck; client permission for the reference is still pending. Swap for Cloud Titans SIEM migration if not cleared
-- [ ] **PPL program:** number of graduates and year still unconfirmed
-- [ ] **Testimonials:** check against the signed testimonials doc for verbatim wording, and add name + title for Beythak and Skillforte
-- [ ] **"Call us":** the deck has no phone number. Add one, or keep the booking CTA only
+- 50+ solutions delivered
+- No client names: every case study and testimonial is anonymized, but kept specific
+- South African partners: Pick n Pay, ioco, Absa, Lombard, Standard Bank
+- No revenue run rate
+- Asset manager 30% resolution rate stays
+- Wind IPP audit stays, client unnamed
+- PPL program year: 2025, graduate count unknown, so no number
+- No names on testimonials
+- CTA: booking + info@xloopdigital.com, no phone
 
 ## Next steps
 
-- [ ] Sana to get answers on the open questions from Nasir
+- [ ] Decide on Pick n Pay: partner logo or anonymous retail case (slide 4 vs slide 6)
+- [ ] Confirm "Standard" = Standard Bank
 - [ ] Confirm the cover title with Nasir: changed on 22 Oct from his brief's "AI consulting / engineering" to "Data & AI Consulting and Engineering", to reflect the shift toward data
 - [ ] Agree the new visual direction on 1–2 sample slides before building all 11

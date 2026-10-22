@@ -21,7 +21,7 @@ The brief's numbers were placeholders. These are the figures used, from the newe
 | 40+ global clients | Dropped | Not in the deck |
 | 20K hours of AI engineering | Dropped | Not in the deck |
 | 40+ certifications | **ISO 42001 & ISO 27001 Lead Auditors** | S3, approved claim A4 |
-| (not in brief) | **$5M+ annual revenue run rate**, **4 offices**, **founded 2022** | S3 |
+| (not in brief) | **4 offices**, **founded 2022** | S3 |
 
 ## Slide 1: Cover
 
@@ -38,7 +38,6 @@ We modernize your data, then build and secure the AI that runs on it.
 **8** countries served
 **4** offices: San Mateo (HQ) · Dubai · Doha · Karachi
 **50+** solutions delivered
-**$5M+** annual revenue run rate (2026)
 **ISO 42001 & ISO 27001** Lead Auditors on the team
 
 Footer line: Founded 2022.
@@ -177,7 +176,7 @@ San Mateo · Dubai · Doha · Karachi
 - [ ] **50+ or 75+ solutions delivered?** The deck says both. 50+ is the safer, newer figure
 - [ ] **Naming:** OK to keep the MAF and Wefi slides anonymized? The old deck names MAF, HBL and Wefi; MAF is internal only on file
 - [ ] **"SA partners" in the brief:** Saudi Arabia partners, or something else? Need names
-- [ ] **$5M+ run rate:** confirm Nasir wants revenue on a deck that goes to prospects
+- Revenue run rate left out of the deck (Sana, 22 Oct)
 - [ ] **Alfalah 30%:** in the deck, but not yet in approved claims. Confirm the source
 - [ ] **Wind IPP audit (slide 8, card 3):** not in this deck; client permission for the reference is still pending. Swap for Cloud Titans SIEM migration if not cleared
 - [ ] **PPL program:** number of graduates and year still unconfirmed

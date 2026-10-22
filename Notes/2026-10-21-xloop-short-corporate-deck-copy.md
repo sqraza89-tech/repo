@@ -187,4 +187,5 @@ San Mateo · Dubai · Doha · Karachi
 ## Next steps
 
 - [ ] Sana to get answers on the open questions from Nasir
+- [ ] Confirm the cover title with Nasir: changed on 22 Oct from his brief's "AI consulting / engineering" to "Data & AI Consulting and Engineering", to reflect the shift toward data
 - [ ] Agree the new visual direction on 1–2 sample slides before building all 11

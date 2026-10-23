@@ -38,7 +38,7 @@ docx_name: TekRevol-Healthcare-AI-Ops-LP-GPT-Design-Briefs
 | # | Section | Background | Desktop frame | Mobile frame | The one focal point |
 |---|---|---|---|---|---|
 | 0 | Components and states | White | 1440 × 1400 | (none) | n/a |
-| 1 | Hero with form | White | 1440 × 880 | 390 × 1400 + sticky bar 390 × 88 | Form button |
+| 1 | Hero with form (v2) | Mist + brand image | 1440 × 900 | 390 × 1520 + sticky bar 390 × 88 | Form button (+ image top plate) |
 | 2 | Trust strip | Mist | 1440 × 144 | 390 × 280 | none |
 | 3 | Where your team's hours go | White | 1440 × 840 | 390 × 1540 | none (quiet section) |
 | 4 | What AI handles, what your team keeps | Mist | 1440 × 1200 | 390 × 2480 | Button |
@@ -90,6 +90,7 @@ Type
 - Headlines: "Funnel Display", weight 600. Big numbers: weight 700.
 - Body and UI: "Wix Madefor Text", weights 400, 500, 600.
 - Eyebrows and labels: "JetBrains Mono", weight 500, UPPERCASE.
+- Always write font-family with sans-serif fallbacks, never a serif: font-family="Funnel Display, Arial, sans-serif", font-family="Wix Madefor Text, Arial, sans-serif", font-family="JetBrains Mono, Consolas, monospace". (Your preview doesn't have these fonts, so it shows the fallback. Figma has them.)
 - Scale as desktop px / mobile px, line height, letter spacing:
   H1 56 / 34, 1.05, -1.7px / -1px
   H2 40 / 28, 1.1, -0.8px / -0.6px
@@ -169,48 +170,61 @@ Row 10, STICKY MOBILE BAR at real size 390 x 88: White fill, 1px Border line on 
 Keep generous spacing (48px between rows). Align everything to the 12-column grid.
 ```
 
-## Brief 1: Hero with form
+## Brief 1: Hero with form (v2)
+
+v1 of this brief gave a flat wireframe: a white page with a bordered box. v2 adds three things that make it feel premium and on-brand. A brand image gives depth, a small product scene shows what AI actually does, and the headline is bigger. **Judge it in Figma, not in ChatGPT's preview.** The preview has no brand fonts, no image and no shadow.
+
+**After pasting into Figma (2 minutes):**
+- Drop `01-brand-system/ai-images/2-layers.png` into the `IMAGE / Layer stack` rectangle (Fill > Image > Crop). Move it so the orange top plate shows above and to the right of the form card
+- Form card: add Effects > Drop shadow: Y 24, Blur 64, #131417 at 12%. Product scene card: Y 12, Blur 32, 8%
+- Swap the LOGO placeholder for `logos/v6/tekrevol-logo-v6.svg`
 
 ```
-BRIEF 1: HERO WITH FORM
-Frames: Desktop 1440 x 880. Mobile 390 x 1400. Group name "01 Hero".
-Job of this section: the visitor clicked a ChatGPT ad about AI for home health and clinic operations. In 5 seconds they must see the same promise, believe it's for them, and see a short form with a free, no-risk offer. This section carries most of the page's conversions.
+BRIEF 1 (v2): HERO WITH FORM
+Frames: Desktop 1440 x 900. Mobile 390 x 1520. Group name "01 Hero".
+Job: the visitor clicked a ChatGPT ad about AI for home health and clinic operations. In 5 seconds they must see the same promise, SEE what the AI does in their world, and find a short form with a free, no-risk offer. It must look premium and engineered, like a top product company's launch page, not a wireframe.
 
 DESKTOP LAYOUT
-- Top bar, y 0 to 80: Logo placeholder at x 120, vertically centered. Nothing else in the bar. No navigation, no phone, no button.
-- Left column (columns 1 to 7, x 120 to 810), starting y 152: Eyebrow, H1, Lead subhead, then the "how it works" strip.
-- Right column (columns 8 to 12, x 834 to 1320): the form card, top at y 104. It must end above y 880, and the button must sit above y 700 so it shows on a 900px-tall screen.
-- Background: White. Behind the form card, draw the brand "Layer planes" idea as two solid plates offset from the card: plate 1 Mist #EEEFEF offset 12px right and 12px down, plate 2 Silver #C9CCCF offset 24px right and 24px down, both with the same 16px notch. The form card is the top layer. No other pattern.
+- Background: Mist #EEEFEF, full frame.
+- Brand image: a placeholder rect "IMAGE / Layer stack" at x 700, y 0, 740 x 900, label "IMAGE: TekRevol layer stack, orange top plate (2-layers.png)". Over its left edge, a <linearGradient> rect x 700 to 900 going from Mist at 100% opacity to Mist at 0%, so the image fades into the background. This is the only gradient.
+- Top bar, y 0 to 88: Logo placeholder at x 120. At the right edge of the content (ending x 1320), a shield-check icon (18px, Charcoal) and Small text Graphite "Built for HIPAA from the first sprint". Not a link. No navigation.
+- Left column (x 120 to 740), top at y 168:
+  Eyebrow (Orange Ink): "FOR HOME-BASED CARE AND CLINIC TEAMS"
+  H1, 64px desktop, Funnel Display 600, line height 1.02, letter-spacing -2px, Charcoal, max 3 lines, width 620: "AI automation for home health and clinic operations"
+  24px below, Lead 20px, Graphite, width 560: "Give your coordinators back the hours lost to intake, scheduling, paperwork and claims. We build AI workflows around the systems you already run, built for HIPAA from the first sprint."
+- PRODUCT SCENE (replaces the old 3-box strip), 40px under the subhead, x 120, 600 x 220. A White card, radius 2, 16px notch, 1px Border, padding 20. It is an illustration of AI reading a referral, drawn as a simple app UI. All of its text is illustration text:
+  Header row: icon/file (Charcoal) + JetBrains Mono 12px Muted "NEW REFERRAL · FAX · 8:42 AM". Right side: an Ice Cyan tag (height 24, Charcoal text, JetBrains Mono 11px) "READ BY AI" with a small sparkle icon.
+  1px Border divider.
+  Three field pairs in a row (each 176 wide): small Muted label above, Wix Madefor Text 600 15px Charcoal value, and a 14px Ice Cyan check circle before the value:
+    "Patient" / "Patient A."
+    "Payer" / "Medicare Advantage"
+    "Order" / "Skilled nursing, 2x a week"
+  Below, a flag row: a 2px Orange Ink left bar, alert icon in Orange Ink, Small text Charcoal "Missing: signed physician order".
+  Footer row: Small Muted "Coordinator decides" on the left. On the right two SMALL illustration buttons (height 32, radius 2, Wix 600 13px): "Request order" (White, 1px Charcoal border) and "Accept patient" (Charcoal fill, White text). Keep them small and dark so nobody mistakes them for the page's real button.
+- FORM CARD (x 860 to 1320, 460 wide), top at y 168, White, 16px notch, padding 32. Behind it, NO offset plates (the image does that job now).
+  Form heading (Funnel Display 600, 24px): "Get a free workflow review"
+  Fields, 16px apart:
+    Row 1, two half-width fields: "Full name" (placeholder "Your name") and "Phone (optional)" (placeholder "Only if you'd like a call")
+    Row 2: "Work email" (placeholder "you@yourorganization.com")
+    Row 3: Dropdown "Organization type" (placeholder "Select one")
+    Row 4: Dropdown "Which work costs your team the most time? (optional)" (placeholder "Select one"). Keep "(optional)" on the same line, in Muted 400.
+  Primary button, full card width, height 56: "Get my free workflow review" with a small arrow icon after the text.
+  12px below, Small Graphite: "30 minutes with a senior engineer who has built healthcare software. You leave with a written plan for the first 3 workflows to automate. No commitment."
+  16px below, 1px Border divider, then a row: lock icon + 12px Muted "We use your details only to set up your review. No newsletters unless you ask."
+  The button must sit above y 720 so it shows on a 1440 x 900 screen.
 
-FORM CARD (Card component, padding 32)
-- Form heading (H4, Funnel Display 600, 22px): "Get a free workflow review"
-- Fields, 16px apart:
-  Row 1, two half-width fields side by side: "Full name" (placeholder "Your name") and "Phone (optional)" (placeholder "Only if you'd like a call")
-  Row 2: "Work email" (placeholder "you@yourorganization.com")
-  Row 3: Dropdown "Organization type" (placeholder "Select one")
-  Row 4: Dropdown "Which work costs your team the most time? (optional)" (placeholder "Select one")
-- Primary button, full card width: "Get my free workflow review"
-- Under the button, Small, Muted, 12px below: "30 minutes with a senior engineer who has built healthcare software. You leave with a written plan for the first 3 workflows to automate. No commitment."
-- Privacy line, 12px, Muted, with a small lock icon: "We use your details only to set up your review. No newsletters unless you ask."
+MOBILE (390 wide, content 350)
+- Background Mist. No brand image on mobile.
+- Top bar 64 tall: Logo at x 20.
+- Eyebrow, H1 (36px, line height 1.05, max 4 lines), Lead 17px.
+- 24px gap, the form card full content width (padding 24). Mobile field order, all full width: Full name, Work email, Organization type, Which work costs your team the most time? (optional), Phone (optional).
+- 32px below the form: the product scene, full width. On mobile, stack the three field pairs vertically and put the two small illustration buttons on their own row.
+- Separately, to the right of the mobile frame, the sticky bar group "Sticky bar (mobile)" 390 x 88: White, 1px Border top line, primary button "Get my free workflow review" 350 x 56, with the Label "SHOWS AFTER THE HERO SCROLLS AWAY" above it.
 
-LEFT COLUMN COPY
-- Eyebrow: "FOR HOME-BASED CARE AND CLINIC TEAMS"
-- H1 (max 3 lines): "AI automation for home health and clinic operations"
-- Lead subhead (Graphite #2E3034 for strong contrast, max width 620): "Give your coordinators back the hours lost to intake, scheduling, paperwork and claims. We build AI workflows around the systems you already run, built for HIPAA from the first sprint."
-- "How it works" strip, 48px under the subhead: three small boxes in a row joined by thin arrows, each box height 56, radius 2, Small text (Wix Madefor Text 500):
-  Box 1: White with 1px Border, file icon, text "Referral arrives"
-  Box 2: Ice Cyan 15% tint fill (#E2F6F8) with a 1px Ice Cyan border, a small cyan sparkle icon, text "AI enters it in your EHR"
-  Box 3: White with 1px Charcoal border, check icon, text "Your team approves"
-  This strip is illustration text. Its message: AI does the work, people decide.
-
-MOBILE LAYOUT (390 wide, content 350)
-- Top bar 64 tall, Logo at x 20.
-- Eyebrow, H1 (34px, max 4 lines), Lead subhead (18px), 24px gap, then the form card full content width (padding 24, plates behind it offset 8px and 16px).
-- On mobile every field is full width. Order: Full name, Work email, Organization type, Which work costs your team the most time? (optional), Phone (optional).
-- Put the "how it works" strip UNDER the form card, boxes stacked vertically with down arrows.
-- Separately, to the right of the mobile frame, draw the sticky bar as its own group "Sticky bar (mobile)" at 390 x 88: White, 1px Border top line, primary button "Get my free workflow review" 350 x 56. Add a Label above it: "SHOWS AFTER THE HERO SCROLLS AWAY".
-
-DON'T: no hero photo, no stock doctors, no dashboard screenshots, no second button, no "Learn more", no stats in the hero.
+QUALITY BAR
+- Big, confident headline with lots of air around it. Strong left edge: eyebrow, H1, subhead and product scene all start at x 120.
+- Only two orange things on screen: the image's top plate and the form button.
+- No stock photos of doctors, no dashboard screenshots, no second page-level button, no "Learn more".
 ```
 
 **Hero variants (do these in Figma, not in GPT):** duplicate the finished hero frame four times and change only the H1, subhead and the preselected Organization type. One frame per `?for=` value.
@@ -524,7 +538,8 @@ These lines come from copy v1's `CONFIRM` list. They're in the designs so the la
 | Footer | "PHONE NUMBER" | The number to show |
 
 **New text written for the design (not in copy v1, approve or change):**
-- Hero "how it works" strip: "Referral arrives" / "AI enters it in your EHR" / "Your team approves"
+- Hero product scene: "NEW REFERRAL · FAX · 8:42 AM", "READ BY AI", "Patient A.", "Medicare Advantage", "Skilled nursing, 2x a week", "Missing: signed physician order", "Coordinator decides", "Request order", "Accept patient"
+- Hero top bar: "Built for HIPAA from the first sprint" (from copy v1, placed in the bar)
 - FAQ heading "Common questions" and the line "Still deciding? The review is free and there's no commitment."
 - Tags "AI DOES" / "YOUR TEAM KEEPS", the Rehkempers tag "AUTOMATION OUTSIDE HEALTHCARE", the plan graphic label "YOUR WORKFLOW PLAN"
 - Hero form: phone placeholder shortened to "Only if you'd like a call" to fit the half-width field (full text kept on mobile and in the components sheet)

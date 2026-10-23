@@ -106,6 +106,17 @@ for (let i = 0; i < lines.length; i++) {
   if (/^# /.test(l)) continue;                       // title lives on the cover
   if (/^\s*$/.test(l)) { if (!/^\s*(\d+\.|-)\s/.test(lines[i + 1] || '')) inNum = false; continue; }
   let m;
+  if (/^```/.test(l)) {                               // fenced block -> one boxed cell, easy to copy
+    const body = [];
+    while (++i < lines.length && !/^```/.test(lines[i])) body.push(lines[i]);
+    const cb = { style: BorderStyle.SINGLE, size: 6, color: SILVER };
+    C.push(new Table({ width: { size: W, type: WidthType.DXA }, columnWidths: [W], rows: [new TableRow({ children: [new TableCell({
+      width: { size: W, type: WidthType.DXA }, shading: { type: ShadingType.CLEAR, fill: 'F7F7F7' },
+      margins: { top: 140, bottom: 140, left: 180, right: 180 }, borders: { top: { ...cb, color: OR, size: 12 }, bottom: cb, left: cb, right: cb },
+      children: body.map(t => new Paragraph({ spacing: { after: 0, line: 250 }, children: [new TextRun({ text: t, font: M, size: 16, color: INK })] })),
+    })] })] }), new Paragraph({ spacing: { after: 100 }, children: [] }));
+    inNum = false; continue;
+  }
   if ((m = l.match(/^## (.+)/))) { C.push(h1(m[1])); inNum = false; continue; }
   if ((m = l.match(/^### (.+)/))) { C.push(h2(m[1])); inNum = false; continue; }
   if (/^\|/.test(l)) {

@@ -23,8 +23,14 @@ tags: [brand-profile, moms-on-the-move, fitness]
 |---|---|---|---|---|---|
 | ICP1 | School moms | Mothers ~26–40 with school-age kids | TODO | TODO | TODO |
 
-## Visual identity (draft v1, 23 Oct 2026)
-- **Logo concepts:** `Notes/2026-10-23-moms-on-the-move-logo-concepts.html` — A The Loop, B Sunrise Club Badge, C Stride Wordmark. **Chosen:** TODO
+## Visual identity
+- **Feel (Sana, 23 Oct 2026):** chic, vibrant, rich, elegant, aspirational. Moms should want to *be* this. v1 (rounded sans, park greens, cartoon heart/hills) was rejected as "makes me feel old"
+- **v2 concepts (current):** `Notes/2026-10-23-moms-on-the-move-logo-concepts-v2.html`
+  - 01 The Cherry Club: Bodoni Moda + Allura script, M monogram seal; cherry #A50E26, rose #E9A3B0, ballet pink #F6D3D8, cream #FBF6EF, espresso #2E1B17
+  - 02 Riviera Wellness Club: wide serif caps + arch "M" emblem; cobalt #1F3FA8, sky #CFE0F5, butter #F5E6A8, linen #FFFDF6, midnight #121A3A
+  - 03 Golden Hour: fuchsia→tangerine sun, Fraunces light italic; fuchsia #E23E7A, tangerine #FF8B4A, apricot #FFD3B0, sand #FFF4EA, plum #4A1636
+  - **Chosen:** TODO
+- **v1 (rejected, kept for reference):** `Notes/2026-10-23-moms-on-the-move-logo-concepts.html` with the palette below
 - **Palette "Morning in the Park":**
   - Park Pine `#24594B` — primary
   - Sunrise Coral `#FF6F59` — energy accent

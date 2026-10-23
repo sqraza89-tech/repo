@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Moms on the Move v4</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,300..900&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  *{box-sizing:border-box}
+  body{margin:0;background:#F4F0EC;color:#2A0A22;font-family:Jost,system-ui,sans-serif;font-weight:300;padding:40px 16px 72px}
+  .wrap{max-width:1080px;margin:0 auto}
+  h1{font-family:Archivo;font-stretch:125%;font-weight:800;font-size:30px;margin:0 0 6px;letter-spacing:-.5px}
+  .sub{margin:0 0 28px;opacity:.75;max-width:720px;line-height:1.5}
+  section{margin:0 0 56px}
+  h2{font-family:Archivo;font-stretch:125%;font-weight:700;font-size:20px;margin:0 0 4px}
+  h2 span{font-family:Jost;font-weight:300;font-size:13px;letter-spacing:.2em;text-transform:uppercase;opacity:.6;margin-left:10px}
+  p.why{margin:0 0 14px;max-width:740px;line-height:1.5;opacity:.85}
+  .grid{display:grid;grid-template-columns:2fr 1fr 1fr;gap:12px}
+  @media (max-width:760px){.grid{grid-template-columns:1fr}}
+  .tile{border-radius:6px;padding:24px;display:flex;align-items:center;justify-content:center;min-height:220px}
+  svg{max-width:100%;height:auto;display:block}
+  .wm{font-family:Archivo;font-stretch:125%;font-weight:800;letter-spacing:-.04em}
+  .wm2{font-family:Archivo;font-stretch:125%;font-weight:600;letter-spacing:-.01em}
+  .circ{width:150px;height:150px;border-radius:50%;display:flex;align-items:center;justify-content:center}
+  .pal{display:flex;border-radius:6px;overflow:hidden;flex-wrap:wrap}
+  .pal div{flex:1 1 140px;padding:48px 12px 12px;font-size:12px;line-height:1.4}
+  .pal b{display:block;font-weight:500;font-size:13px}
+  ul{line-height:1.7;max-width:740px}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="20" y1="190" x2="180" y2="10">
+      <stop offset="0" stop-color="#FF4D12"/><stop offset=".55" stop-color="#F2265A"/><stop offset="1" stop-color="#E0198A"/>
+    </linearGradient>
+
+    <!-- 1 Arc Stride -->
+    <symbol id="s1" viewBox="0 0 200 200">
+      <g fill="none" stroke="var(--c,url(#g))" stroke-width="9" stroke-linecap="round">
+        <path d="M110 64 C100 112 80 158 46 186"/>
+        <path d="M40 86 C104 70 152 116 160 186"/>
+      </g>
+      <circle cx="122" cy="38" r="15" fill="var(--h,#FF4D12)"/>
+    </symbol>
+
+    <!-- 2 Rising m -->
+    <symbol id="s2" viewBox="0 0 200 200">
+      <path d="M26 164 V134 C26 110 60 110 60 134 V164 V122 C60 88 104 88 104 122 V164 V112 C104 72 136 50 166 42"
+            fill="none" stroke="var(--c,url(#g))" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="182" cy="30" r="12" fill="var(--h,#FF4D12)"/>
+    </symbol>
+
+    <!-- 3 Together -->
+    <symbol id="s3" viewBox="0 0 200 200">
+      <path d="M14 156 C20 124 34 110 50 110 C64 110 68 128 75 128 C82 128 86 110 100 110 C114 110 118 128 125 128 C132 128 136 110 150 110 C166 110 180 124 186 156"
+            fill="none" stroke="var(--c,url(#g))" stroke-width="9" stroke-linecap="round"/>
+      <circle cx="50" cy="80" r="14" fill="var(--h,#FF4D12)"/>
+      <circle cx="100" cy="80" r="14" fill="var(--h2,#F2265A)"/>
+      <circle cx="150" cy="80" r="14" fill="var(--h3,#E0198A)"/>
+    </symbol>
+
+    <!-- 4 Free Spirit -->
+    <symbol id="s4" viewBox="0 0 200 200">
+      <g fill="none" stroke="var(--c,url(#g))" stroke-width="7" stroke-linecap="round">
+        <path d="M84 194 C88 170 96 154 108 140 C120 124 100 110 100 96 C100 80 110 66 124 56 C140 44 150 28 156 10"/>
+        <path d="M108 140 C128 142 138 158 126 178"/>
+        <path d="M122 58 C104 72 82 78 60 72"/>
+      </g>
+      <circle cx="106" cy="36" r="12" fill="var(--h,#FF4D12)"/>
+    </symbol>
+  </defs>
+</svg>
+
+<h1>moms on the move · v4</h1>
+<p class="sub">Four original marks in the style of your references: thin even lines, arcs, a circle head and lots of open space. None of them copies a reference logo. Each is shown as the full logo, reversed out, and as a profile picture.</p>
+
+<!-- each section built the same way -->
+<section>
+  <h2>1 · Arc Stride <span>sleek · athletic</span></h2>
+  <p class="why">Just two crossing arcs and a head: a woman mid-stride. The most minimal and "luxury sportswear" of the four.</p>
+  <div class="grid">
+    <div class="tile" style="background:#FFF6EE"><svg viewBox="0 0 470 170" width="440"><use href="#s1" width="170" height="170"/><text x="176" y="96" class="wm" font-size="70" fill="#2A0A22">moms</text><text x="179" y="140" class="wm2" font-size="33.5" fill="#2A0A22">on the move</text></svg></div>
+    <div class="tile" style="background:linear-gradient(135deg,#FF4D12,#E0198A)"><svg width="150" height="150"><use href="#s1" width="150" height="150" style="--c:#FFF6EE;--h:#FFF6EE"/></svg></div>
+    <div class="tile" style="background:#2A0A22"><div class="circ" style="background:#FFF6EE"><svg width="110" height="110"><use href="#s1" width="110" height="110"/></svg></div></div>
+  </div>
+</section>
+
+<section>
+  <h2>2 · Rising M <span>lettermark · momentum</span></h2>
+  <p class="why">A lowercase "m" whose humps get taller, then leaps up into an arm with a head. It's the M for moms and the feeling of getting stronger each week. This is the strongest option for a profile picture.</p>
+  <div class="grid">
+    <div class="tile" style="background:#FFF6EE"><svg viewBox="0 0 470 170" width="440"><use href="#s2" width="170" height="170"/><text x="176" y="96" class="wm" font-size="70" fill="#2A0A22">moms</text><text x="179" y="140" class="wm2" font-size="33.5" fill="#2A0A22">on the move</text></svg></div>
+    <div class="tile" style="background:linear-gradient(135deg,#FF4D12,#E0198A)"><svg width="150" height="150"><use href="#s2" width="150" height="150" style="--c:#FFF6EE;--h:#FFF6EE"/></svg></div>
+    <div class="tile" style="background:#2A0A22"><div class="circ" style="background:#FFF6EE"><svg width="110" height="110"><use href="#s2" width="110" height="110"/></svg></div></div>
+  </div>
+</section>
+
+<section>
+  <h2>3 · Together <span>community · club</span></h2>
+  <p class="why">Three moms, arms linked: one flowing line makes the shoulders and arms. It says "club" and "you won't do this alone", the warmest of the four.</p>
+  <div class="grid">
+    <div class="tile" style="background:#FFF6EE"><svg viewBox="0 0 470 170" width="440"><use href="#s3" width="170" height="170"/><text x="176" y="96" class="wm" font-size="70" fill="#2A0A22">moms</text><text x="179" y="140" class="wm2" font-size="33.5" fill="#2A0A22">on the move</text></svg></div>
+    <div class="tile" style="background:linear-gradient(135deg,#FF4D12,#E0198A)"><svg width="150" height="150"><use href="#s3" width="150" height="150" style="--c:#FFF6EE;--h:#FFF6EE;--h2:#FFF6EE;--h3:#FFF6EE"/></svg></div>
+    <div class="tile" style="background:#2A0A22"><div class="circ" style="background:#FFF6EE"><svg width="110" height="110"><use href="#s3" width="110" height="110"/></svg></div></div>
+  </div>
+</section>
+
+<section>
+  <h2>4 · Free Spirit <span>feminine · body-confident</span></h2>
+  <p class="why">A curvy line-drawn woman with one arm up: waist, hip and a bent knee. It's about feeling good in your body, and it suits pilates and stretch days best.</p>
+  <div class="grid">
+    <div class="tile" style="background:#FFF6EE"><svg viewBox="0 0 470 170" width="440"><use href="#s4" width="170" height="170"/><text x="176" y="96" class="wm" font-size="70" fill="#2A0A22">moms</text><text x="179" y="140" class="wm2" font-size="33.5" fill="#2A0A22">on the move</text></svg></div>
+    <div class="tile" style="background:linear-gradient(135deg,#FF4D12,#E0198A)"><svg width="150" height="150"><use href="#s4" width="150" height="150" style="--c:#FFF6EE;--h:#FFF6EE"/></svg></div>
+    <div class="tile" style="background:#2A0A22"><div class="circ" style="background:#FFF6EE"><svg width="110" height="110"><use href="#s4" width="110" height="110"/></svg></div></div>
+  </div>
+</section>
+
+<section>
+  <h2>Small-size test <span>whatsapp / instagram</span></h2>
+  <div style="display:flex;gap:18px;align-items:center;flex-wrap:wrap">
+    <div style="width:48px;height:48px;border-radius:50%;background:linear-gradient(135deg,#FF4D12,#E0198A);display:flex;align-items:center;justify-content:center"><svg width="34" height="34"><use href="#s1" width="34" height="34" style="--c:#FFF6EE;--h:#FFF6EE"/></svg></div>
+    <div style="width:48px;height:48px;border-radius:50%;background:linear-gradient(135deg,#FF4D12,#E0198A);display:flex;align-items:center;justify-content:center"><svg width="34" height="34"><use href="#s2" width="34" height="34" style="--c:#FFF6EE;--h:#FFF6EE"/></svg></div>
+    <div style="width:48px;height:48px;border-radius:50%;background:linear-gradient(135deg,#FF4D12,#E0198A);display:flex;align-items:center;justify-content:center"><svg width="34" height="34"><use href="#s3" width="34" height="34" style="--c:#FFF6EE;--h:#FFF6EE;--h2:#FFF6EE;--h3:#FFF6EE"/></svg></div>
+    <div style="width:48px;height:48px;border-radius:50%;background:linear-gradient(135deg,#FF4D12,#E0198A);display:flex;align-items:center;justify-content:center"><svg width="34" height="34"><use href="#s4" width="34" height="34" style="--c:#FFF6EE;--h:#FFF6EE"/></svg></div>
+  </div>
+</section>
+
+<section>
+  <h2>Palette <span>unchanged from v3</span></h2>
+  <div class="pal">
+    <div style="background:#FF4D12;color:#2A0A22"><b>Electric Orange</b>#FF4D12</div>
+    <div style="background:#F2265A;color:#FFF6EE"><b>Hot Coral</b>#F2265A</div>
+    <div style="background:#E0198A;color:#FFF6EE"><b>Fuchsia</b>#E0198A</div>
+    <div style="background:#2A0A22;color:#FFF6EE"><b>Aubergine</b>#2A0A22</div>
+    <div style="background:#FFF6EE;color:#2A0A22;border:1px solid #e6dcd3"><b>Cream</b>#FFF6EE</div>
+  </div>
+</section>
+
+</div>
+</body>
+</html>

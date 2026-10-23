@@ -101,7 +101,7 @@ Not every step needs AI. Most good systems combine the two.
 | **Examples** | Moving files, copying fields between systems, scheduled reports | Reading free text requests, choosing the next step, drafting a response | Approving payments, changing records, replying to complaints |
 | **Cost to run** | Lowest | Model usage per task | Model usage plus review time |
 
-*Link: the HBL Asset Management card below combines rule based automation and RPA.*
+*Link: the asset management card below combines rule based automation and RPA.*
 
 ---
 
@@ -153,9 +153,9 @@ Our multi agent reference architecture has 11 stages. Each agent uses the stages
 | Client | The problem | What we built | Result |
 |---|---|---|---|
 | **A leading Saudi Arabian fast food chain** | High order volumes at peak hours | Deployed xServe, our AI ordering agent, to take orders at peak times in natural conversation. It also suggests upsells and provides nutritional information when customers ask, in English, Urdu or Arabic | Peak hour orders handled by AI, with upsell suggestions and nutrition details built into the ordering flow |
-| **HBL Asset Management** | Fund data reconciled by hand in spreadsheets, with NAV tagging done manually | Automated ingestion and matching, rule based NAV tagging, exception reports, role based access and a dashboard, with RPA entering results into the existing desktop portal | Reconciliation that runs without manual spreadsheet work, with people reviewing only the exceptions |
+| **One of the largest asset management companies in Pakistan** | Fund data reconciled by hand in spreadsheets, with NAV tagging done manually | Automated ingestion and matching, rule based NAV tagging, exception reports, role based access and a dashboard, with RPA entering results into the existing desktop portal | Reconciliation that runs without manual spreadsheet work, with people reviewing only the exceptions |
 
-*xServe card: same wording as the hub, plus the languages (Sana, 20 Oct). HBL card: approved claim A16 (live portfolio page); detail from Sana, 21 Oct; no figures. It is automation and RPA, not an LLM agent, and the card says so; it supports section 5.*
+*xServe card: same wording as the hub, plus the languages (Sana, 20 Oct). Asset management card: detail from Sana, 21 Oct; anonymous per Sana's rule (23 Oct); no figures. It is automation and RPA, not an LLM agent, and the card says so; it supports section 5.*
 
 ---
 
@@ -171,7 +171,7 @@ Our multi agent reference architecture has 11 stages. Each agent uses the stages
 | Services | Customer facing agents · workflow and back office agents · research and knowledge agents · data operations agents · monitoring and compliance agents |
 | Controls | Least access · approval thresholds · escalation · audit trail · limits and off switch · security testing |
 | Languages delivered | English · Urdu · Arabic |
-| Delivered | xServe AI ordering agent · HBL Asset Management reconciliation automation |
+| Delivered | xServe AI ordering agent · fund reconciliation automation for a large asset manager |
 | Stack | OpenAI · Anthropic · LangChain · LangGraph · AutoGen · CrewAI · Pinecone · Chroma · FastAPI · Kubernetes |
 | Related | Generative AI · Large Language Models · Data & AI Consulting · AI Security |
 
@@ -196,7 +196,7 @@ A chatbot answers questions. An agent takes action: it places the order, updates
 Workflows with clear goals, high volume and some variation: taking orders, routing and resolving requests, reconciliation, data entry across systems, research briefings and compliance checks. A 30 minute use case review shows which steps of your workflow suit an agent.
 
 **Can AI agents work with our existing systems?**
-Yes. Agents connect through APIs, databases and connectors to systems such as Salesforce, SAP, Microsoft 365 and your own applications. Where a system has no API, RPA can enter the data, as we did for HBL Asset Management.
+Yes. Agents connect through APIs, databases and connectors to systems such as Salesforce, SAP, Microsoft 365 and your own applications. Where a system has no API, RPA can enter the data, as we did for one of the largest asset management companies in Pakistan.
 
 **How do you stop an AI agent from making a wrong decision?**
 We limit what each agent can access, set approval thresholds for actions that matter, make it escalate when it is unsure, and log every step. Before launch, we test it on real cases and for misuse with our AI Security team.
@@ -249,7 +249,7 @@ Applied AI Solutions · Generative AI · Large Language Models · Data & AI Cons
 
 ### Decisions
 
-- **HBL Asset Management named.** A16 lists it as publicly referenceable (live portfolio page), and Sana asked on 21 Oct to show HBL work. The card is honest that it is automation and RPA, and section 5 explains why that belongs on an agents page. If Sana prefers it anonymous: "An asset management company in Pakistan"
+- **Case studies anonymous, but specific (Sana, 23 Oct).** The HBL Asset Management case is "one of the largest asset management companies in Pakistan". HBL's logo may appear on the site logo wall, with no detail attached. The card is honest that it is automation and RPA, and section 5 explains why that belongs on an agents page
 - **The full 11 stage table lives here.** The hub and Generative AI show the short strip and link to this page
 
 ### Not used
@@ -263,7 +263,7 @@ None on the page.
 
 ## Next steps
 
-- [ ] Sana: review, and confirm naming HBL Asset Management
+- [ ] Sana: review
 - [ ] Devs, now: fix og:title and og:description on the live page
 - [ ] Hub: change the xServe card's capability tag to "AI Agents" (already) and consider "AI ordering agent" wording to match this page
 - [ ] Next leaf page: Computer Vision

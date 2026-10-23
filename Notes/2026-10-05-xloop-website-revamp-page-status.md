@@ -26,7 +26,7 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - Applied AI Solutions hub v1 (16 Oct): new page (URL 404s today), sets the pattern for the 6 leaf pages. `Notes/2026-10-16-xloop-applied-ai-solutions-hub-page-content-v1.docx`. Digital Twin removed, 301 to hub
 - Generative AI v1 (16 Oct): `Notes/2026-10-16-xloop-generative-ai-page-content-v1.docx`. No open [CONFIRM]s
 - Large Language Models v1 (20 Oct): `Notes/2026-10-20-xloop-large-language-models-page-content-v1.docx`. One [CONFIRM] (languages delivered)
-- AI Agents & Autonomous Systems v1 (23 Oct): `Notes/2026-10-23-xloop-ai-agents-page-content-v1.docx`. HBL Asset Management named (A16), pending Sana
+- AI Agents & Autonomous Systems v1 (23 Oct): `Notes/2026-10-23-xloop-ai-agents-page-content-v1.docx`. all cases anonymous but specific (Sana, 23 Oct)
 
 ## Not written yet
 - Applied AI leaf pages (3 left): Computer Vision, Predictive Analytics, Machine Learning

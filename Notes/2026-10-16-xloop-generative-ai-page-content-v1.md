@@ -119,7 +119,7 @@ Generative AI services design and build applications that create text, answers, 
 | **A Canadian healthcare platform** | Thousands of video recordings held insights nobody could search | A transcription engine and a RAG search over an LLM, with a natural language chatbot and a dashboard | The full video archive searchable in plain language |
 | **A leading asset management firm in Pakistan** | Investors needed guidance on fund selection, portfolio performance and their accounts, and had to go through support or long fund reports to get it | An AI assistant inside their platform that answers investor questions and recommends suitable funds in natural conversation | Fund guidance and portfolio answers instantly, without a support queue |
 
-*Both cards match the hub word for word. If Alfalah Investments is named elsewhere, name it here too.*
+*Both cards match the hub word for word. Cards stay anonymous but specific (Sana, 23 Oct).*
 
 ---
 

@@ -161,7 +161,7 @@ Our multi agent reference architecture has 11 stages. Every agent we build uses 
 | **A leading Saudi Arabian fast food chain** | AI Agents | High order volumes at peak hours | Deployed xServe, our AI ordering product, to take orders at peak times. It also suggests upsells and provides nutritional information when customers ask | Peak hour orders handled by AI, in natural conversation, with upsell suggestions and nutrition details built into the ordering flow |
 | **A bank with 1,200 branches across South Asia** | Computer Vision | More than 7,000 cameras, but manual review covered about 20 minutes per branch each month. Security gaps, long waits and branch upkeep issues went unseen | Deployed xVision, our computer vision product, on the existing CCTV feeds. It tracks wait times, customer traffic, ATM status, staff on the floor and suspicious activity, with alerts to a live control panel and dashboards | Continuous, automated monitoring across every branch, in place of monthly manual spot checks |
 
-*The first card matches the Data & AI Consulting page word for word. If Sana names Alfalah Investments there, name it here too.*
+*The first card matches the Data & AI Consulting page word for word. All cards stay anonymous but specific (Sana, 23 Oct); client logos go on the logo wall only.*
 *xVision card from the xVision case study PDF (Jul 2025), shared by Sana 16 Oct. No percentages: the case study's 90%, 25% and 20x conflict with the two older xVision figure sets (C5, C6). Facial recognition features ("premium customer ID", "customer scanning") are left off the public card.*
 
 ---

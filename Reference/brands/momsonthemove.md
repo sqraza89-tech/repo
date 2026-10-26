@@ -62,6 +62,7 @@ tags: [brand-profile, moms-on-the-move, fitness]
 ## Alternative palette: Citrus (26 Oct 2026)
 - From Sana's grapefruit reference. Sana dropped the aqua from the logos, so the palette is Coral #E85B4A (constant accent, brunch), Deep Teal #1D3B3D (main logo, walks, text), Lime #D6E85A (pilates, backgrounds; too light for marks on cream), Cream #FFFDF6
 - Deck: `Notes/2026-10-26-moms-on-the-move-logo-concepts-citrus.pdf` (same layout as the fresh-palette deck)
+- Variant with aqua back in: `Notes/2026-10-26-moms-on-the-move-logo-concepts-citrus-aqua.pdf`. Aqua #8FD6D3 is a supporting colour only (walks, backgrounds, Instagram bands); logos stay teal + coral because Sana doesn't want aqua in the logo itself
 
 ## Alternative palette: Leaf & Violet (26 Oct 2026)
 - From Sana's leaf reference: Electric Crimson #E20942 (constant accent, dots, "ON THE MOVE", brunch), Muted Violet #8B729C (main logo, pilates), Leaf Skin #A6B8A0 (walks, backgrounds). Added neutrals: Warm White #FBF8F5, Deep Plum #2A1F33 (text)

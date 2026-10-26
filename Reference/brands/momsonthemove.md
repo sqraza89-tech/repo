@@ -60,13 +60,20 @@ tags: [brand-profile, moms-on-the-move, fitness]
 - **Ratio:** ~60% cream/blush, 30% pine, 10% coral/butter. No coral/butter small text on cream
 
 ## Alternative palette: Citrus (26 Oct 2026)
-- From Sana's grapefruit reference: Coral #E85B4A (constant accent, replaces peach; brunch), Aqua #8FD6D3 (main logo, walks), Lime #D6E85A (pilates, backgrounds only; too light for marks on cream). Added neutrals: Cream #FFFDF6, Deep Teal #1D3B3D (text)
-- Aqua is too pale for logos on white products, so use Deep Teal / Coral on merch
+- From Sana's grapefruit reference. Sana dropped the aqua from the logos, so the palette is Coral #E85B4A (constant accent, brunch), Deep Teal #1D3B3D (main logo, walks, text), Lime #D6E85A (pilates, backgrounds; too light for marks on cream), Cream #FFFDF6
 - Deck: `Notes/2026-10-26-moms-on-the-move-logo-concepts-citrus.pdf` (same layout as the fresh-palette deck)
 
 ## Alternative palette: Leaf & Violet (26 Oct 2026)
 - From Sana's leaf reference: Electric Crimson #E20942 (constant accent, dots, "ON THE MOVE", brunch), Muted Violet #8B729C (main logo, pilates), Leaf Skin #A6B8A0 (walks, backgrounds). Added neutrals: Warm White #FBF8F5, Deep Plum #2A1F33 (text)
 - Deck: `Notes/2026-10-26-moms-on-the-move-logo-concepts-leaf-violet.pdf`. Three palette decks now exist: fresh, citrus, leaf-violet
+
+## Typography + logo rules (in all three concept PDFs)
+- **The Badge & Running Together:** Lexend Exa Medium ("moms", headlines), Lexend Exa Light tracked +38% ("ON THE MOVE"), Jost Regular (body)
+- **The Loop:** Outfit ExtraBold ("moms"), Outfit SemiBold tracked +12% in the accent colour ("ON THE MOVE"), Outfit Regular (body)
+- Badge: clear space = dot width; min 24 px / 15 mm; circle = main or activity colour, dot = accent; never move the dot inside
+- Loop: clear space = 2× line width; min 20 px / 12 mm; line = main or activity colour, dot = accent; keep the loop open
+- Running Together: clear space = one head width; min 32 px / 18 mm; one mom always accent, partner = main or activity colour; always running right
+- PDFs no longer include merch (Sana removed it); Instagram posts carry coloured caption bands in each palette's activity colours
 
 ## Photography (Sana, 26 Oct 2026)
 - Moms aged ~27–36: never older women. Athletic, inspirational, kind, warm, positive (jogging together, cheering, mats in the park, laughing over brunch)

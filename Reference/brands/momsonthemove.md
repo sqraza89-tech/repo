@@ -60,7 +60,8 @@ tags: [brand-profile, moms-on-the-move, fitness]
 - **Ratio:** ~60% cream/blush, 30% pine, 10% coral/butter. No coral/butter small text on cream
 
 ## Alternative palette: Citrus (26 Oct 2026)
-- From Sana's grapefruit reference. Sana dropped the aqua from the logos, so the palette is Coral #E85B4A (constant accent, brunch), Deep Teal #1D3B3D (main logo, walks, text), Lime #D6E85A (pilates, backgrounds; too light for marks on cream), Cream #FFFDF6
+- From Sana's grapefruit reference. **Final (Sana reverted to the original):** Coral #E85B4A (constant accent, brunch), Aqua #8FD6D3 (main logo, walks), Lime #D6E85A (pilates, backgrounds; never a logo on cream), Cream #FFFDF6, Deep Teal #1D3B3D (text). Badge on cream, Loop (teal heart) on lime, Running Together (coral + cream moms) on aqua; plain photo posts
+- Citrus PDF format (Sana's preference): no merch row, and ONE typography + logo-rules page at the end of the file, not a brief on every slide
 - Deck: `Notes/2026-10-26-moms-on-the-move-logo-concepts-citrus.pdf` (same layout as the fresh-palette deck)
 - Variant with aqua back in: `Notes/2026-10-26-moms-on-the-move-logo-concepts-citrus-aqua.pdf`. Sana wants the logos themselves in aqua (light blue) here: Aqua #8FD6D3 = main logo + walks, Coral = accent/dots/brunch, Lime = pilates, Deep Teal #1D3B3D = text + dark backgrounds only. (The plain citrus PDF is the coral/lime/teal version without aqua.)
 

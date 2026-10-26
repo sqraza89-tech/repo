@@ -64,6 +64,10 @@ tags: [brand-profile, moms-on-the-move, fitness]
 - Aqua is too pale for logos on white products, so use Deep Teal / Coral on merch
 - Deck: `Notes/2026-10-26-moms-on-the-move-logo-concepts-citrus.pdf` (same layout as the fresh-palette deck)
 
+## Alternative palette: Leaf & Violet (26 Oct 2026)
+- From Sana's leaf reference: Electric Crimson #E20942 (constant accent, dots, "ON THE MOVE", brunch), Muted Violet #8B729C (main logo, pilates), Leaf Skin #A6B8A0 (walks, backgrounds). Added neutrals: Warm White #FBF8F5, Deep Plum #2A1F33 (text)
+- Deck: `Notes/2026-10-26-moms-on-the-move-logo-concepts-leaf-violet.pdf`. Three palette decks now exist: fresh, citrus, leaf-violet
+
 ## Photography (Sana, 26 Oct 2026)
 - Moms aged ~27–36: never older women. Athletic, inspirational, kind, warm, positive (jogging together, cheering, mats in the park, laughing over brunch)
 - Mockups use realistic photos, not illustrations: lifestyle shots for Instagram, real product photos (tote, cap, bottle) with the logo placed on them for merch

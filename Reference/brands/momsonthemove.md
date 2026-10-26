@@ -59,6 +59,11 @@ tags: [brand-profile, moms-on-the-move, fitness]
 - **Fonts:** Outfit (headlines), Caveat Brush (handwritten accent)
 - **Ratio:** ~60% cream/blush, 30% pine, 10% coral/butter. No coral/butter small text on cream
 
+## Photography (Sana, 26 Oct 2026)
+- Moms aged ~27–36: never older women. Athletic, inspirational, kind, warm, positive (jogging together, cheering, mats in the park, laughing over brunch)
+- Mockups use realistic photos, not illustrations: lifestyle shots for Instagram, real product photos (tote, cap, bottle) with the logo placed on them for merch
+- The concepts PDF uses free Unsplash photos (no attribution needed); the real account should use the club's own photos
+
 ## Voice
 - **Voice attributes:** TODO (suggested: warm, encouraging, no-pressure, fun)
 - **Words and styles to avoid:** TODO (suggested: body-shaming, "bounce back", weight-loss promises)

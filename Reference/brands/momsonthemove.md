@@ -30,6 +30,7 @@ tags: [brand-profile, moms-on-the-move, fitness]
 - **Typography:** Outfit only. ExtraBold 800 = wordmark/headlines (−2% tracking); SemiBold 600 = tagline/labels (caps, +12–14%) and subheads; Regular 400 = body (11–12 pt, 1.5 line height) and captions
 - **Instagram:** ~2 photos per brand tile; tiles in purple/coral with Outfit headlines + loop symbol; profile picture = purple loop on cream; photos follow the photography guideline below
 - **Final deck:** `Notes/2026-10-26-moms-on-the-move-brand-final.pdf` (3 slides: logo + palette, typography, Instagram feed)
+- **Alternative accent:** `Notes/2026-10-26-moms-on-the-move-brand-final-purple-rose.pdf`: Rose #E0739A as the accent, Coral as support. Accent choice (coral or rose) still open
 
 ## Visual identity
 - **Feel (Sana, 23 Oct 2026):** chic, vibrant, rich, elegant, aspirational. Moms should want to *be* this. v1 (rounded sans, park greens, cartoon heart/hills) was rejected as "makes me feel old"

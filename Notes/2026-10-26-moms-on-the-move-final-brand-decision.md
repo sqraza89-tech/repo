@@ -13,6 +13,7 @@ tags: [moms-on-the-move, brand, logo, decision]
 
 ## Files
 - Final deck: `Notes/2026-10-26-moms-on-the-move-brand-final.pdf` (logo + palette, typography, Instagram feed)
+- Alternative colourway: `Notes/2026-10-26-moms-on-the-move-brand-final-purple-rose.pdf`: same deck with Rose `#E0739A` as the accent (dot, "ON THE MOVE") and Coral `#F5967A` as the supporting colour. Client to pick coral or rose accent
 - Full spec: `Reference/brands/momsonthemove.md`
 - Earlier palette decks (reference): `Notes/2026-10-26-moms-on-the-move-logo-concepts*.pdf`
 

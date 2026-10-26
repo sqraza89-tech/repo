@@ -59,6 +59,11 @@ tags: [brand-profile, moms-on-the-move, fitness]
 - **Fonts:** Outfit (headlines), Caveat Brush (handwritten accent)
 - **Ratio:** ~60% cream/blush, 30% pine, 10% coral/butter. No coral/butter small text on cream
 
+## Alternative palette: Citrus (26 Oct 2026)
+- From Sana's grapefruit reference: Coral #E85B4A (constant accent, replaces peach; brunch), Aqua #8FD6D3 (main logo, walks), Lime #D6E85A (pilates, backgrounds only; too light for marks on cream). Added neutrals: Cream #FFFDF6, Deep Teal #1D3B3D (text)
+- Aqua is too pale for logos on white products, so use Deep Teal / Coral on merch
+- Deck: `Notes/2026-10-26-moms-on-the-move-logo-concepts-citrus.pdf` (same layout as the fresh-palette deck)
+
 ## Photography (Sana, 26 Oct 2026)
 - Moms aged ~27–36: never older women. Athletic, inspirational, kind, warm, positive (jogging together, cheering, mats in the park, laughing over brunch)
 - Mockups use realistic photos, not illustrations: lifestyle shots for Instagram, real product photos (tote, cap, bottle) with the logo placed on them for merch

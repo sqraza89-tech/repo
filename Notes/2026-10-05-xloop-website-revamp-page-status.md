@@ -28,9 +28,10 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - Large Language Models v1 (20 Oct): `Notes/2026-10-20-xloop-large-language-models-page-content-v1.docx`. One [CONFIRM] (languages delivered)
 - AI Agents & Autonomous Systems v1 (23 Oct): `Notes/2026-10-23-xloop-ai-agents-page-content-v1.docx`. all cases anonymous but specific (Sana, 23 Oct)
 - Computer Vision v1 (26 Oct): `Notes/2026-10-26-xloop-computer-vision-page-content-v1.docx`. xVision is the only proof; no open [CONFIRM]s
+- Predictive Analytics v1 (26 Oct): `Notes/2026-10-26-xloop-predictive-analytics-page-content-v1.docx`. No case study exists; labeled examples + data foundation card. 2 [CONFIRM]s for Irfan (ML tools, any delivered forecasting model)
 
 ## Not written yet
-- Applied AI leaf pages (2 left): Predictive Analytics, Machine Learning
+- Applied AI leaf pages (1 left): Machine Learning
 - Mining industry page. Blocked: Harmony Gold details and naming permission
 - Case study pages (Release 2)
 - xLab hub + 7 product pages
@@ -55,7 +56,8 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - [x] Large Language Models v1 (20 Oct)
 - [x] AI Agents v1 (23 Oct)
 - [x] Computer Vision v1 (26 Oct)
-- [ ] Applied AI leaf pages: Predictive Analytics, Machine Learning
+- [x] Predictive Analytics v1 (26 Oct)
+- [ ] Applied AI leaf pages: Machine Learning
 - [ ] Devs, now: lead form heading says "Explore AI Agents for Your Business" on 5 Applied AI leaf pages
 - [ ] xLab hub/products + case study pages (Release 2, by 30 Nov)
 - [ ] Mining once the missing information arrives

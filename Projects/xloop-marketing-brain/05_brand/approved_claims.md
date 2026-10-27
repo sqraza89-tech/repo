@@ -53,7 +53,7 @@ Do not publish any of these until resolved. Each is tracked in `positioning_conf
 |---|---|---|
 | C1 | Founding year (2020 vs 2022) | Two Level-1 sources disagree |
 | C2 | Headcount (80+ / 100 / 120+) | Three Level-1 sources disagree |
-| C3 | Country count (4 / 7+ / 8 / 9 / 10+) | Five sources, five answers. The ACT Wind proposal adds a sixth variant (nine countries including Philippines and Malaysia) |
+| C3 | Country count (4 / 7+ / 8 / 9 / 10+). **RESOLVED 2026-10-27 (Sana): xLoop has served clients in 8 countries. Use "eight countries" for served markets, not offices** | Five sources, five answers. The ACT Wind proposal adds a sixth variant (nine countries including Philippines and Malaysia) |
 | C4 | Solutions delivered (50+ / 75+) | Newer deck claims fewer |
 | C5 | 99.7% detection rate; $50M recalls prevented (xVision) | No traceable source; contradicted by the decks' own xVision figures |
 | C6 | 30% operational efficiency / 25% wait times / 40% security incidents (xVision) | No traceable source; contradicts C5 |

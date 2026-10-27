@@ -282,8 +282,8 @@ Sana asked whether NEPRA needs anything. The page content is fine, but most of t
 
 | 1 Oct brief item | Live on 27 Oct |
 |---|---|
-| Regulations 4–11 → 4–12, add a Regulation 12 (PowerCERT coordination) row | **Not done.** "4 to 11" appears 3 times and "4–11" 4 times; no Regulation 12 row |
-| Confirm "eight countries" (letter says four offices; country count is blocked, C3) | **Still live** |
+| Regulations 4–11 → 4–12, add a Regulation 12 (PowerCERT coordination) row | **Dropped.** Sana, 27 Oct: keep 4 to 11 |
+| Confirm "eight countries" (letter says four offices; country count is blocked, C3) | **Resolved.** Sana, 27 Oct: eight is correct, xLoop has served clients in 8 countries |
 | "Roughly three weeks" (unconfirmed by sales) | Still live |
 | One descriptive H1 rendered in the HTML | H1 is just "NEPRA" |
 | Doubled title suffix | Still "…\| xLoop Digital \| xLoop Digital" |
@@ -294,6 +294,6 @@ Sana asked whether NEPRA needs anything. The page content is fine, but most of t
 
 - [ ] Sana: review
 - [ ] Security lead: [CONFIRM] items 1 to 3 and 5
-- [ ] Devs: NEPRA fixes still outstanding from the 1 Oct brief (Regulation 12, "eight countries", H1, title suffix)
+- [ ] Devs: NEPRA fixes still outstanding: H1, title suffix
 - [ ] Devs: update the Related card description for AI Security on this page
 - [ ] Next: Energy & Utilities industry page

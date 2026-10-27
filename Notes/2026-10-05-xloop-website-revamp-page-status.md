@@ -32,7 +32,7 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - Machine Learning v1 (26 Oct): `Notes/2026-10-26-xloop-machine-learning-page-content-v1.docx`. Applied AI cluster complete
 - AI Security v1 (27 Oct): `Notes/2026-10-27-xloop-ai-security-page-content-v1.docx`. Uncited stats removed; still no publishable AI security case (B1 needs client permission), hidden slot ready. 4 [CONFIRM]s for the security lead. `/ai-security-assessment` is 404, so the CTA is a 30 minute review
 - xSecurity hub v1 (27 Oct): new page `/xsecurity` (404 today; the menu label should point here). `Notes/2026-10-27-xloop-xsecurity-hub-page-content-v1.docx`. Routing to AI Security, Cybersecurity, NEPRA; proof = healthcare VAPT (A7), bank app security (P-04), wind IPP audit (A5)
-- Cybersecurity v1 (27 Oct): `Notes/2026-10-27-xloop-cybersecurity-page-content-v1.docx`. xSecurity section complete (hub + AI Security + Cybersecurity; NEPRA content stands). Counters, ticker and NIST/SOC 2 mapping removed; 4 proof cards. NEPRA 1 Oct dev fixes still not live (Reg 12, eight countries, H1, title suffix)
+- Cybersecurity v1 (27 Oct): `Notes/2026-10-27-xloop-cybersecurity-page-content-v1.docx`. xSecurity section complete (hub + AI Security + Cybersecurity; NEPRA content stands). Counters, ticker and NIST/SOC 2 mapping removed; 4 proof cards. NEPRA dev fixes still open: H1, title suffix (Sana, 27 Oct: keep Regulations 4 to 11; "eight countries" is correct)
 - Banking & Finance industry v1 (27 Oct): `Notes/2026-10-27-xloop-banking-finance-industry-page-content-v1.docx`. First of the 6 industry pages; sets the industry pattern. 7 anonymous cases, live stats and counters removed
 
 ## Not written yet
@@ -64,7 +64,7 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - [x] xSecurity hub v1 (27 Oct)
 - [x] Banking & Finance industry v1 (27 Oct)
 - [x] Cybersecurity v1 (27 Oct)
-- [ ] Devs: NEPRA fixes from the 1 Oct brief still not live: Regulations 4–11 → 4–12 + Reg 12 row, "eight countries", descriptive H1, doubled title suffix
+- [ ] Devs: NEPRA fixes still open: descriptive H1 rendered in HTML, doubled title suffix. (Sana, 27 Oct: keep Regulations 4 to 11, no Reg 12 row; "eight countries" stays, xLoop has served clients in 8 countries)
 - [ ] Devs, now: lead form heading says "Explore AI Agents for Your Business" on 5 Applied AI leaf pages
 - [ ] xLab hub/products + case study pages (Release 2, by 30 Nov)
 - [ ] Mining once the missing information arrives

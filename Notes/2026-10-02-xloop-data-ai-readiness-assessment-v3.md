@@ -48,5 +48,6 @@ boundary cases. Layout not visually checked — no Excel on this machine.
 - [ ] Sign off intent points and lead priority rules (feeds the week-1 lead tracker)
 - [ ] Recalibrate thresholds after 50 completions
 
-Related: [[2026-09-18-xloop-homepage-revamp-review]] ·
+Related: [[2026-10-27-xloop-ai-questionnaires-review]] (20Q/24Q review + 9 lead-scoring fixes) ·
+[[2026-09-18-xloop-homepage-revamp-review]] ·
 [[2026-09-23-xloop-marketing-scrum-q2-q3-plan]] · [[2026-09-28-xloop-linkedin-thought-leadership-plan-q2]]

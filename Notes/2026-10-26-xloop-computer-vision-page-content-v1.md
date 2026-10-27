@@ -223,6 +223,12 @@ Applied AI Solutions · xVision · Predictive Analytics · Machine Learning · A
 
 ## Internal notes (not for design)
 
+### External SEO/AEO/CRO review (shared by Sana, 27 Oct)
+
+Recommended (pending Sana's go ahead, to apply across all 7 Applied AI pages): form cut to 4 fields (Name, Work email, Company, use case) · an answer first sentence under every H2, with xLoop named in the answer block · each service as its own Service entity in schema · visible Last updated date · descriptive anchor text in Related · CTA small line: "…tell you if your cameras can support it, what it would take to build, and give you a straight answer in 30 minutes" · a words only proof line near the final CTA.
+
+Not adopted: separate long tail landing pages (no delivered inspection or OCR case; manufacturing retiring), except a future "CCTV video analytics for banks" page tied to the Banking industry review · moving the FAQ up or a separate FAQ page (duplicates, splits signals) · a client video testimonial (cases are anonymous) · the review's unsourced stats.
+
 ### What's wrong with the live page (26 Oct)
 
 | Live | Problem | In this version |

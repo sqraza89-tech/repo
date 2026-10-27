@@ -11,7 +11,7 @@ Follows [[2026-10-19-xloop-mari-cohort-linkedin-video-script]]. Video editor fee
 
 1. **Opening:** Talent from underserved communities. Trained on merit. Ready for work. xCelerate by xLoop designs and delivers tech training that ends in careers.
 2. **Mari cohort:** Mari Digital Skills, Training & Employment Program · Funded by Mari Energies · 44 graduates · Including 5 women · 5 months of AI · Agentic development · Full stack development · Career readiness · 100% placed into internships and employment · *(Mari testimonial clips)*
-3. **PPL cohort:** Digital Literacy Program for Youth in PPL Communities · Funded by PPL and Dawood Global Foundation · Full Stack Engineering and Data Science Bootcamp · AI · Data science · Full stack engineering · Graduates certified · Top performers recruited · *(PPL testimonial clips)*
+3. **PPL cohort:** Digital Literacy Program for Youth in PPL Communities · Funded by PPL and Dawood Global Foundation · Full Stack Engineering and Data Science Bootcamp · AI · Data science · Full stack engineering · Class of 2025 · Graduates certified · Top performers recruited · *(PPL testimonial clips)*
 4. **Combined impact:** Two programs. One standard: from classroom to career.
 5. **CTA:** Build your next training program with xLoop.
 
@@ -23,6 +23,6 @@ Follows [[2026-10-19-xloop-mari-cohort-linkedin-video-script]]. Video editor fee
 
 ## Next steps
 
-- [ ] Get PPL graduate count and year, then add a stat line to section 3
+- [x] PPL count and year: 15 graduates, 2025 (Sana, 27 Oct). Keep the count out of the video, it's too small to impress; the year can be shown
 - [ ] Confirm "Trained on merit" applies to the PPL cohort, or drop it from the opening
 - [ ] Send v2 to the video editor

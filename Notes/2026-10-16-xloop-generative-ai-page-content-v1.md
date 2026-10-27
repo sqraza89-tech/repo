@@ -21,7 +21,8 @@ tags: [xloop, service-page, applied-ai, generative-ai, site-revamp, seo, aeo]
 | H1 | Generative AI Development Services |
 | Nav label | Generative AI |
 | Breadcrumb | Home › xTend › Applied AI Solutions › Generative AI |
-| Schema | Service · FAQPage · BreadcrumbList |
+| Schema | Service, with each service on this page as its own `Service` entity in `hasOfferCatalog` · FAQPage · BreadcrumbList |
+| Visible "Last updated" date | Yes |
 | Lead form heading | Explore Generative AI for Your Business (fixes the live "Explore AI Agents" label) |
 
 ---
@@ -35,7 +36,7 @@ tags: [xloop, service-page, applied-ai, generative-ai, site-revamp, seo, aeo]
 **Subhead:** Generative AI is easy to demo and hard to trust. We build gen AI applications on your own documents and data, from knowledge assistants to copilots inside the tools your teams already use, with sources, guardrails and monitoring from day one.
 
 **Primary CTA:** Book a 30 Minute AI Use Case Review →
-**Small line under the CTA:** Bring one use case. Our AI engineers will tell you if it can work, what data it needs and how we would build it.
+**Small line under the CTA:** Bring one use case. Our AI engineers will tell you if it can work, what data it needs, how we would build it, and give you a straight answer in 30 minutes.
 
 *Build: hidden `source=generative-ai` tag. Same booking as the Applied AI hub.*
 
@@ -45,7 +46,7 @@ tags: [xloop, service-page, applied-ai, generative-ai, site-revamp, seo, aeo]
 
 **H2:** What Are Generative AI Services?
 
-Generative AI services design and build applications that create text, answers, summaries or images from a business's own data. Typical examples are assistants that answer staff or customer questions from internal documents, tools that draft and summarize documents, and copilots inside everyday software. Built well, they show their sources and stay inside the data each user is allowed to see.
+Generative AI services design and build applications that create text, answers, summaries or images from a business's own data. Typical examples are assistants that answer staff or customer questions from internal documents, tools that draft and summarize documents, and copilots inside everyday software. Built well, they show their sources and stay inside the data each user is allowed to see. xLoop builds them on your documents and data, with guardrails and monitoring from day one.
 
 *Plain text, never collapsed.*
 
@@ -54,6 +55,8 @@ Generative AI services design and build applications that create text, answers, 
 ## 3. Challenges · `#challenges`
 
 **H2:** Generative AI Challenges We Solve
+
+Generative AI projects usually stall on five problems: information nobody can find, data that can't go into public tools, confident wrong answers, documents written from scratch, and copilots nobody uses. Here is how xLoop solves each.
 
 *Design: tabs on desktop, accordion on mobile. Each tab has the quote, what's underneath, what we do and its own CTA.*
 
@@ -70,6 +73,8 @@ Generative AI services design and build applications that create text, answers, 
 ## 4. Services · `#services`
 
 **H2:** Our Generative AI Services
+
+xLoop's generative AI services cover enterprise knowledge assistants, document drafting and extraction, copilots in Microsoft 365 and your CRM, customer facing assistants, and generative design.
 
 *Design: five service blocks. On desktop, a sticky sub nav with one panel per service; stacked on mobile.*
 
@@ -88,6 +93,8 @@ Generative AI services design and build applications that create text, answers, 
 ## 5. Built to be trusted · `#trust`
 
 **H2:** How We Make Generative AI Accurate and Safe
+
+Generative AI is accurate and safe when answers are grounded in your data with sources, guarded on input and output, limited to what each user may see, tested before launch and monitored after.
 
 *Design: five short blocks in a row, then the architecture strip.*
 
@@ -111,6 +118,8 @@ Generative AI services design and build applications that create text, answers, 
 ## 6. Proof · `#proof`
 
 **H2:** Generative AI We've Delivered
+
+xLoop has generative AI in production for a Canadian healthcare platform and a leading asset manager in Pakistan.
 
 *Card format: same as the Applied AI hub. No percentages.*
 
@@ -179,20 +188,26 @@ We agree the baseline before we build: time per task, accuracy, volume handled o
 
 In 30 minutes our AI engineers will look at your use case, the documents and data behind it, and the systems it needs to reach. You'll leave knowing whether it can work, what it needs, and how we would build it.
 
+**Proof line (above the button):** Generative AI in production for a healthcare platform and a leading asset manager.
+
 **CTA:** Book a 30 Minute AI Use Case Review →
 
-**Form fields:** Name · Work email · Company · Role · Describe the use case in one line
+**Form fields:** Name · Work email · Company · Describe the use case in one line
+
+*Four fields only (27 Oct review). Role and size are asked on the call.*
 
 ---
 
 ## 10. Related · `#related`
 
-Applied AI Solutions · Large Language Models · AI Agents & Autonomous Systems · Data & AI Consulting · AI Security
+[All applied AI solutions](/services/applied-ai-solutions) · [LLM development, RAG and fine tuning](/services/large-language-models) · [AI agent development](/services/ai-agents-and-autonomous-systems) · [Data and AI consulting](/ai-consultancy) · [AI security testing](/services/ai-security-service)
 **Resources:** Your Guide to Agentic AI: Technical Architecture and Implementation · The Role of Generative AI in Accelerating Legacy System Modernization · When Gen AI Fails: What Enterprises Get Wrong About AI Use Cases
 
 ---
 
 ## Internal notes (not for design)
+
+**27 Oct pass (external SEO/AEO/CRO review, agreed with Sana):** answer first sentence under each H2 with xLoop named · four field form · each service as its own schema entity · visible last updated date · CTA line ends "a straight answer in 30 minutes" · words only proof line above the final button · descriptive link text in Related. Not adopted: separate long tail pages, FAQ moved up, client video testimonial.
 
 ### What's wrong with the live page (16 Oct)
 

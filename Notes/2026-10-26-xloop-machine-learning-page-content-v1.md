@@ -21,7 +21,8 @@ tags: [xloop, service-page, applied-ai, machine-learning, mlops, site-revamp, se
 | H1 | Machine Learning Development Services |
 | Nav label | Machine Learning |
 | Breadcrumb | Home › xTend › Applied AI Solutions › Machine Learning |
-| Schema | Service · FAQPage · BreadcrumbList |
+| Schema | Service, with each service on this page as its own `Service` entity in `hasOfferCatalog` · FAQPage · BreadcrumbList |
+| Visible "Last updated" date | Yes |
 | Lead form heading | Explore Machine Learning for Your Business (fixes the live "Explore AI Agents" label) |
 | Social share | Replace the og:image (live page uses the AI Consulting hero banner) |
 
@@ -36,7 +37,7 @@ tags: [xloop, service-page, applied-ai, machine-learning, mlops, site-revamp, se
 **Subhead:** Most machine learning never leaves the notebook. We build models on your own data, prove them against how you work today, and run them in production with the monitoring and retraining that keep them accurate.
 
 **Primary CTA:** Book a 30 Minute AI Use Case Review →
-**Small line under the CTA:** Bring one problem. Our AI engineers will tell you if machine learning fits, what data it needs and how we would build it.
+**Small line under the CTA:** Bring one problem. Our AI engineers will tell you if machine learning fits, what data it needs, how we would build it, and give you a straight answer in 30 minutes.
 
 *Build: hidden `source=machine-learning` tag. Same booking as the Applied AI hub.*
 
@@ -46,7 +47,7 @@ tags: [xloop, service-page, applied-ai, machine-learning, mlops, site-revamp, se
 
 **H2:** What Are Machine Learning Services?
 
-Machine learning services build models that learn patterns from your data to classify, detect, recommend or predict, instead of following rules someone wrote by hand. The work covers preparing the data, choosing and training the model, testing it against your current approach, and running it in production with monitoring and retraining.
+Machine learning services build models that learn patterns from your data to classify, detect, recommend or predict, instead of following rules someone wrote by hand. The work covers preparing the data, choosing and training the model, testing it against your current approach, and running it in production with monitoring and retraining. xLoop builds models on your data and keeps them accurate in production.
 
 *Plain text, never collapsed.*
 
@@ -55,6 +56,8 @@ Machine learning services build models that learn patterns from your data to cla
 ## 3. Challenges · `#challenges`
 
 **H2:** Machine Learning Challenges We Solve
+
+Machine learning fits problems where you have examples but the rules are hard to write: routing, flagging, recommending and scoring.
 
 *Design: tabs on desktop, accordion on mobile. Each tab has the quote, what's underneath, what we do and its own CTA.*
 
@@ -71,6 +74,8 @@ Machine learning services build models that learn patterns from your data to cla
 ## 4. Services · `#services`
 
 **H2:** Our Machine Learning Services
+
+xLoop's machine learning services cover classification and scoring models, anomaly detection, recommendation engines, text classification and NLP, and MLOps.
 
 *Design: five service blocks. On desktop, a sticky sub nav; stacked on mobile.*
 
@@ -109,6 +114,8 @@ The right tool depends on your data and your problem. We often combine them.
 
 **H2:** How We Build Machine Learning Models
 
+xLoop builds machine learning models in six steps, from data preparation to monitoring and retraining in production.
+
 *Design: six step pipeline strip, HTML text. Replaces the 11 stage agent diagram.*
 
 | Step | What happens |
@@ -126,6 +133,8 @@ The right tool depends on your data and your problem. We often combine them.
 
 **H2:** How We Keep Models Fair, Explainable and Accountable
 
+Responsible machine learning means models that explain their decisions where it matters, are checked for bias, send hard cases to people, are documented, and are tested for attacks.
+
 - **Explainable where it matters.** For decisions about people or money, we use models and tools that show which factors drove each result
 - **Checked for bias.** We compare results across customer groups and edge cases before launch, and fix what we find
 - **People decide the hard cases.** Low confidence results go to a person, not straight into a decision
@@ -137,6 +146,8 @@ The right tool depends on your data and your problem. We often combine them.
 ## 8. Proof and examples · `#proof`
 
 **H2:** Machine Learning in Production
+
+xLoop trained and runs the detection models behind xVision, which monitors 1,200 bank branches.
 
 *Card format: same as the Applied AI hub. No percentages.*
 
@@ -212,20 +223,26 @@ A first production model usually takes six to twelve weeks, depending on the dat
 
 In 30 minutes our AI engineers will look at the problem, the data you have and where the result needs to go. You'll leave knowing whether machine learning fits, what it needs, and how we would build it.
 
+**Proof line (above the button):** Detection models in production across 1,200 bank branches.
+
 **CTA:** Book a 30 Minute AI Use Case Review →
 
-**Form fields:** Name · Work email · Company · Role · Describe the problem in one line
+**Form fields:** Name · Work email · Company · Describe the problem in one line
+
+*Four fields only (27 Oct review). Role and size are asked on the call.*
 
 ---
 
 ## 12. Related · `#related`
 
-Applied AI Solutions · Predictive Analytics · Computer Vision · Large Language Models · Data Analytics & Engineering
+[All applied AI solutions](/services/applied-ai-solutions) · [Predictive analytics and forecasting](/services/predictive-analytics) · [Computer vision and video analytics](/services/computer-vision) · [LLM development](/services/large-language-models) · [Data platforms and engineering](/services/data-analytics)
 **Resources:** Small vs. Large Language Models: Which is Right for Your Business in 2026 · Building Scalable AI Infrastructure: Lessons from Real-World Implementations
 
 ---
 
 ## Internal notes (not for design)
+
+**27 Oct pass (external SEO/AEO/CRO review, agreed with Sana):** answer first sentence under each H2 with xLoop named · four field form · each service as its own schema entity · visible last updated date · CTA line ends "a straight answer in 30 minutes" · words only proof line above the final button · descriptive link text in Related. Not adopted: separate long tail pages, FAQ moved up, client video testimonial.
 
 ### What's wrong with the live page (26 Oct)
 

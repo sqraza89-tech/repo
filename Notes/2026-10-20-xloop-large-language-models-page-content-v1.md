@@ -21,7 +21,8 @@ tags: [xloop, service-page, applied-ai, llm, rag, fine-tuning, llmops, site-reva
 | H1 | Large Language Model Development Services |
 | Nav label | Large Language Models |
 | Breadcrumb | Home › xTend › Applied AI Solutions › Large Language Models |
-| Schema | Service · FAQPage · BreadcrumbList |
+| Schema | Service, with each service on this page as its own `Service` entity in `hasOfferCatalog` · FAQPage · BreadcrumbList |
+| Visible "Last updated" date | Yes |
 | Lead form heading | Explore LLM Solutions for Your Business (fixes the live "Explore AI Agents" label) |
 
 ---
@@ -35,7 +36,7 @@ tags: [xloop, service-page, applied-ai, llm, rag, fine-tuning, llmops, site-reva
 **Subhead:** The model is the easy choice to get wrong. We pick and test large language models on your own tasks, ground them in your data, tune them where it pays off, and run them where your data is allowed to go, with accuracy and cost measured from the first week.
 
 **Primary CTA:** Book a 30 Minute AI Use Case Review →
-**Small line under the CTA:** Bring one use case. Our AI engineers will tell you which model approach fits, what data it needs and how we would build it.
+**Small line under the CTA:** Bring one use case. Our AI engineers will tell you which model approach fits, what data it needs, how we would build it, and give you a straight answer in 30 minutes.
 
 *Build: hidden `source=llm` tag. Same booking as the Applied AI hub.*
 
@@ -45,7 +46,7 @@ tags: [xloop, service-page, applied-ai, llm, rag, fine-tuning, llmops, site-reva
 
 **H2:** What Are LLM Development Services?
 
-LLM development services choose, adapt and run large language models for a specific business use. The work covers testing models on your own tasks, connecting them to your data with retrieval (RAG), fine tuning where general models fall short, deploying them in the right environment, and monitoring accuracy and cost once they are live.
+LLM development services choose, adapt and run large language models for a specific business use. The work covers testing models on your own tasks, connecting them to your data with retrieval (RAG), fine tuning where general models fall short, deploying them in the right environment, and monitoring accuracy and cost once they are live. xLoop runs this full lifecycle, from model choice to monitoring in production.
 
 *Plain text, never collapsed.*
 
@@ -54,6 +55,8 @@ LLM development services choose, adapt and run large language models for a speci
 ## 3. Challenges · `#challenges`
 
 **H2:** LLM Challenges We Solve
+
+Most LLM projects run into the same five problems: choosing a model, fluent but wrong answers, data that can't leave your environment, costs that grow with usage, and missing domain knowledge.
 
 *Design: tabs on desktop, accordion on mobile. Each tab has the quote, what's underneath, what we do and its own CTA.*
 
@@ -71,7 +74,7 @@ LLM development services choose, adapt and run large language models for a speci
 
 **H2:** Our LLM Services
 
-From choosing the model to running it in production.
+xLoop's LLM services cover the full model lifecycle: model selection and evaluation, RAG, fine tuning, private and self hosted deployment, and LLMOps.
 
 **Flow strip (HTML text, not an image):** Select → Ground → Tune → Deploy → Operate
 
@@ -93,7 +96,7 @@ From choosing the model to running it in production.
 
 **H2:** Public API, Private Cloud or Self Hosted?
 
-Where the model runs decides what data it can see, what it costs and how much you control. Most enterprises use more than one option.
+Most enterprises run sensitive use cases on a model through their own cloud provider, prototypes on public APIs, and strict data or high volume cases on self hosted models. Where the model runs decides what data it can see, what it costs and how much you control.
 
 *Design: a real HTML table, three columns. AEO friendly; keep as text.*
 
@@ -111,6 +114,8 @@ Where the model runs decides what data it can see, what it costs and how much yo
 
 **H2:** How We Keep LLM Answers Accurate
 
+LLM answers stay accurate when every change is measured against a test set, answers are grounded in your documents, output is validated, and people review what matters.
+
 - **A test set before anything else.** Real questions with known good answers, so every model and every change is measured the same way
 - **Grounded in your data.** Retrieval brings in the right passages, and the answer cites them
 - **Validation on the output.** Answers are checked for format, policy and confidence before they reach users
@@ -124,6 +129,8 @@ Where the model runs decides what data it can see, what it costs and how much yo
 ## 7. Proof · `#proof`
 
 **H2:** LLM Solutions We've Delivered
+
+xLoop has language models in production for a leading asset manager in Pakistan and a Canadian healthcare platform.
 
 *Card format: same as the Applied AI hub. No percentages.*
 
@@ -192,20 +199,26 @@ A first production pilot usually takes six to twelve weeks, depending on the dat
 
 In 30 minutes our AI engineers will look at your use case, the data behind it and your rules on where data can go. You'll leave knowing which model approach fits, what it needs, and how we would build it.
 
+**Proof line (above the button):** Language models in production for a healthcare platform and a leading asset manager, and in English, Urdu and Arabic through xServe.
+
 **CTA:** Book a 30 Minute AI Use Case Review →
 
-**Form fields:** Name · Work email · Company · Role · Describe the use case in one line
+**Form fields:** Name · Work email · Company · Describe the use case in one line
+
+*Four fields only (27 Oct review). Role and size are asked on the call.*
 
 ---
 
 ## 11. Related · `#related`
 
-Applied AI Solutions · Generative AI · AI Agents & Autonomous Systems · Data & AI Consulting · AI Security
+[All applied AI solutions](/services/applied-ai-solutions) · [Generative AI applications and assistants](/services/generative-ai) · [AI agent development](/services/ai-agents-and-autonomous-systems) · [Data and AI consulting](/ai-consultancy) · [AI security testing](/services/ai-security-service)
 **Resources:** Small vs. Large Language Models: Which is Right for Your Business in 2026 · LLMOps vs MLOps: What's Changing in the AI Lifecycle · RAG vs Reflection Agents vs Autonomous AI
 
 ---
 
 ## Internal notes (not for design)
+
+**27 Oct pass (external SEO/AEO/CRO review, agreed with Sana):** answer first sentence under each H2 with xLoop named · four field form · each service as its own schema entity · visible last updated date · CTA line ends "a straight answer in 30 minutes" · words only proof line above the final button · descriptive link text in Related. Not adopted: separate long tail pages, FAQ moved up, client video testimonial.
 
 ### What's wrong with the live page (20 Oct)
 

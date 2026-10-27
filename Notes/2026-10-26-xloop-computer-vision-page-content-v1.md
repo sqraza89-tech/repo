@@ -21,7 +21,8 @@ tags: [xloop, service-page, applied-ai, computer-vision, video-analytics, xvisio
 | H1 | Computer Vision and Video Analytics Services |
 | Nav label | Computer Vision |
 | Breadcrumb | Home › xTend › Applied AI Solutions › Computer Vision |
-| Schema | Service · FAQPage · BreadcrumbList |
+| Schema | Service, with each service on this page as its own `Service` entity in `hasOfferCatalog` · FAQPage · BreadcrumbList |
+| Visible "Last updated" date | Yes |
 | Lead form heading | Explore Computer Vision for Your Business (fixes the live "Explore AI Agents" label) |
 
 ---
@@ -35,7 +36,7 @@ tags: [xloop, service-page, applied-ai, computer-vision, video-analytics, xvisio
 **Subhead:** Most cameras record everything and tell you nothing until someone goes looking. We build computer vision that watches continuously, flags what matters as it happens, and turns your existing cameras and images into decisions.
 
 **Primary CTA:** Book a 30 Minute AI Use Case Review →
-**Small line under the CTA:** Bring one use case. Our AI engineers will tell you if your cameras and footage can support it, and how we would build it.
+**Small line under the CTA:** Bring one use case. Our AI engineers will tell you if your cameras can support it, what it would take to build, and give you a straight answer in 30 minutes.
 
 *Build: hidden `source=computer-vision` tag. Same booking as the Applied AI hub.*
 
@@ -45,7 +46,7 @@ tags: [xloop, service-page, applied-ai, computer-vision, video-analytics, xvisio
 
 **H2:** What Are Computer Vision Services?
 
-Computer vision services build AI models that interpret images and video: spotting a defect, counting people in a queue, reading a document or flagging unusual activity on a camera feed. The models run on your existing cameras or image sources, at the edge or in the cloud, and send alerts and data to the systems your teams already use.
+Computer vision services use AI to interpret images and video, automating tasks such as CCTV monitoring, visual inspection and document OCR. xLoop builds these models to run on your existing cameras or image sources, at the edge or in the cloud, and sends alerts and data to the systems your teams already use.
 
 *Plain text, never collapsed.*
 
@@ -54,6 +55,8 @@ Computer vision services build AI models that interpret images and video: spotti
 ## 3. Challenges · `#challenges`
 
 **H2:** Computer Vision Challenges We Solve
+
+Computer vision pays off where cameras or images already exist but nobody has time to look: bank branches, stores, production lines and document heavy back offices.
 
 *Design: tabs on desktop, accordion on mobile. Each tab has the quote, what's underneath, what we do and its own CTA.*
 
@@ -71,6 +74,8 @@ Computer vision services build AI models that interpret images and video: spotti
 
 **H2:** Our Computer Vision Services
 
+xLoop's computer vision services cover CCTV video analytics for banks, retail and other site networks, branch and store analytics, automated visual inspection for quality control, and invoice and form OCR.
+
 *Design: four service blocks, then the xVision product block.*
 
 | Service | What we build | You get |
@@ -78,7 +83,7 @@ Computer vision services build AI models that interpret images and video: spotti
 | **1. CCTV and video analytics** | Models on your existing camera feeds that track queues and wait times, customer traffic, staff presence, equipment status and suspicious activity, with live alerts and dashboards | Continuous monitoring across every site, instead of occasional manual review |
 | **2. Branch, store and site analytics** | Footfall, dwell time, queue length and service measures for branches, stores and public spaces, compared across locations | One view of how every location is performing, from data you already record |
 | **3. Visual inspection and quality control** | Models that check products, parts and packaging for defects, damage and missing items, on the line or from photos, with uncertain cases sent for review | Every item inspected, consistently, at line speed |
-| **4. Document intelligence and OCR** | Reading invoices, forms, IDs and contracts, extracting the fields, and validating them against your business rules before they enter your systems | Less manual data entry, and fewer errors reaching your systems |
+| **4. Invoice, form and document OCR** | Reading invoices, forms, IDs and contracts, extracting the fields, and validating them against your business rules before they enter your systems | Less manual data entry, and fewer errors reaching your systems |
 
 **H3:** xVision, Our Video Analytics Product
 
@@ -96,6 +101,8 @@ xVision turns existing CCTV into real time insight across operations, customer e
 
 **H2:** How We Deliver Computer Vision
 
+xLoop delivers computer vision in five steps, from a camera and site assessment to models deployed at the edge or in the cloud and retrained in production.
+
 *Design: five step pipeline strip, HTML text. Replaces the 11 stage agent diagram, which doesn't describe vision work.*
 
 | Step | What happens |
@@ -112,7 +119,7 @@ xVision turns existing CCTV into real time insight across operations, customer e
 
 **H2:** Computer Vision Designed for Privacy
 
-Video of people is sensitive. We design for that from the start.
+Privacy in computer vision means collecting only what the use case needs, anonymizing people by default, processing on site, keeping less footage and controlling access. Video of people is sensitive, so xLoop designs for this from the start.
 
 - **Only what the use case needs.** Count and track movement without identifying people where identity isn't required
 - **Anonymize by default.** Blur or mask faces and number plates in stored footage and dashboards where the use case allows
@@ -127,6 +134,8 @@ Video of people is sensitive. We design for that from the start.
 ## 7. Proof · `#proof`
 
 **H2:** Computer Vision We've Delivered
+
+xLoop's xVision monitors 1,200 bank branches and more than 7,000 cameras across South Asia.
 
 *Card format: same as the Applied AI hub. No percentages.*
 
@@ -208,20 +217,26 @@ A first production pilot usually takes six to twelve weeks, depending on the num
 
 In 30 minutes our AI engineers will look at your cameras or image sources, the events you want to catch and the systems that need the results. You'll leave knowing whether it can work, what it needs, and how we would build it.
 
+**Proof line (above the button):** Already monitoring 1,200 bank branches and 7,000+ cameras.
+
 **CTA:** Book a 30 Minute AI Use Case Review →
 
-**Form fields:** Name · Work email · Company · Role · Number of sites or cameras · Describe the use case in one line
+**Form fields:** Name · Work email · Company · Describe the use case in one line
+
+*Four fields only (27 Oct review). Role and size are asked on the call.*
 
 ---
 
 ## 11. Related · `#related`
 
-Applied AI Solutions · xVision · Predictive Analytics · Machine Learning · AI Security
+[All applied AI solutions](/services/applied-ai-solutions) · [xVision video analytics product](/xlab/xVision) · [Predictive analytics and forecasting](/services/predictive-analytics) · [Custom machine learning models](/services/machine-learning) · [AI security testing](/services/ai-security-service)
 **Resources:** 5 Signs Your Quality Control Process Is Ready for Autonomous Inspection · How AI-Powered Visual Intelligence is Transforming Modern Industries · Modernizing Manufacturing: Using Computer Vision for Real-Time Quality Control
 
 ---
 
 ## Internal notes (not for design)
+
+**27 Oct pass (external SEO/AEO/CRO review, agreed with Sana):** answer first sentence under each H2 with xLoop named · four field form · each service as its own schema entity · visible last updated date · CTA line ends "a straight answer in 30 minutes" · words only proof line above the final button · descriptive link text in Related. Not adopted: separate long tail pages, FAQ moved up, client video testimonial.
 
 ### External SEO/AEO/CRO review (shared by Sana, 27 Oct)
 

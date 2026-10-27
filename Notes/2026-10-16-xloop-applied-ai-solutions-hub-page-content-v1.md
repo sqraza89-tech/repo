@@ -21,7 +21,7 @@ tags: [xloop, service-page, applied-ai, ai-development, generative-ai, llm, ai-a
 | H1 | Applied AI Solutions |
 | Nav label | Applied AI Solutions |
 | Breadcrumb | Home › xTend › Applied AI Solutions |
-| Schema | Service (with the six children as `hasOfferCatalog`) · FAQPage · BreadcrumbList · Organization |
+| Schema | Service, with the six capabilities as `Service` entities in `hasOfferCatalog` · FAQPage · BreadcrumbList · Organization |
 | Visible "Last updated" date | Yes |
 
 **Build rules:** server rendered, one H1, real tables, anchor IDs, no counters, no typing animation.
@@ -37,7 +37,7 @@ tags: [xloop, service-page, applied-ai, ai-development, generative-ai, llm, ai-a
 **Subhead:** A model that works in a demo is the easy part. We build AI that runs inside your business: generative AI, language models, agents, computer vision and machine learning, with guardrails, human approval and monitoring designed in from the first sprint.
 
 **Primary CTA:** Book a 30 Minute AI Use Case Review →
-**Small line under the CTA:** Bring one use case. Our AI engineers will tell you if it can work, what data it needs and how we would build it.
+**Small line under the CTA:** Bring one use case. Our AI engineers will tell you if it can work, what data it needs, how we would build it, and give you a straight answer in 30 minutes.
 
 **Trust line (text):** Technology partners: AWS · Microsoft · Snowflake · Databricks · Salesforce
 
@@ -49,7 +49,7 @@ tags: [xloop, service-page, applied-ai, ai-development, generative-ai, llm, ai-a
 
 **H2:** What Are Applied AI Solutions?
 
-Applied AI solutions are AI systems built to do a specific job inside a business: answer customer questions, read documents, inspect images, forecast demand or run a workflow. Unlike a research model or a demo, they connect to your data and systems, run under monitoring, and have an owner after go live.
+Applied AI solutions are AI systems built to do a specific job inside a business: answer customer questions, read documents, inspect images, forecast demand or run a workflow. Unlike a research model or a demo, they connect to your data and systems, run under monitoring, and have an owner after go live. xLoop builds applied AI on your data and runs it with guardrails, human approval and monitoring.
 
 *Plain text, never collapsed.*
 
@@ -58,6 +58,8 @@ Applied AI solutions are AI systems built to do a specific job inside a business
 ## 3. Capabilities · `#capabilities`
 
 **H2:** Our Applied AI Capabilities
+
+xLoop builds six kinds of applied AI: generative AI, large language models, AI agents, computer vision, predictive analytics and machine learning. Each runs in production on your data, with guardrails and monitoring.
 
 *Design: six cards in a 3 × 2 grid, stacked on mobile. Each card has the name, one line on what it does, typical uses, and its own CTA to the leaf page.*
 
@@ -78,7 +80,7 @@ Applied AI solutions are AI systems built to do a specific job inside a business
 
 **H2:** Which AI Capability Do You Need?
 
-Start from the job, not the technology.
+The right AI capability depends on the job: language models for documents and questions, agents for processes, computer vision for images and video, and predictive models for forecasts. Start from the job, not the technology.
 
 | If you need to | Start with |
 |---|---|
@@ -97,7 +99,7 @@ Start from the job, not the technology.
 
 **H2:** What Production Ready AI Means
 
-Most pilots stall between the demo and the business. These are the things we build in from the start, so yours doesn't.
+Production ready AI is grounded in your data, guarded on input and output, approved by people where it matters, monitored, security tested and running in your environment. Most pilots stall because one of these is missing, so xLoop builds all six in from the start.
 
 *Design: six short blocks in a 3 × 2 grid. Text only.*
 
@@ -135,6 +137,8 @@ Our multi agent reference architecture has 11 stages. Every agent we build uses 
 
 **H2:** How an Applied AI Project Works
 
+An applied AI project with xLoop runs in four steps: a 30 minute use case review, discovery and design, a production pilot in six to twelve weeks, then a phased rollout.
+
 *Design: four step timeline, same pattern as the other service pages.*
 
 | Step | What happens | You get |
@@ -151,6 +155,8 @@ Our multi agent reference architecture has 11 stages. Every agent we build uses 
 ## 8. Proof · `#proof`
 
 **H2:** AI Solutions We've Delivered
+
+xLoop has AI in production for a bank with 1,200 branches, a leading Saudi Arabian fast food chain, a Canadian healthcare platform and a leading asset manager in Pakistan. Clients are anonymous; every detail is from delivered work.
 
 *Card format: client, the problem, what we built, the result, and a tag for the capability. Same card pattern as the Data & AI Consulting page. No percentages on any card.*
 
@@ -222,20 +228,26 @@ Yes. We document the system, hand over monitoring, and can train your team throu
 
 In 30 minutes our AI engineers will look at your use case, the data behind it and the systems it needs to reach. You'll leave knowing whether it can work, what it needs, and how we would build it.
 
+**Proof line (above the button):** AI in production for a bank with 1,200 branches, a Gulf fast food chain and one of Pakistan's largest asset managers.
+
 **CTA:** Book a 30 Minute AI Use Case Review →
 
-**Form fields:** Name · Work email · Company · Role · Capability (Generative AI · LLMs · AI agents · Computer vision · Predictive analytics · Machine learning · Not sure) · Describe the use case in one line
+**Form fields:** Name · Work email · Company · Describe the use case in one line
+
+*Four fields only (27 Oct review). Role and size are asked on the call.*
 
 ---
 
 ## 12. Related · `#related`
 
-Data & AI Consulting · Data Analytics & Engineering · AI Security · Corporate AI Training
+[Data and AI consulting and strategy](/ai-consultancy) · [Data platforms and engineering](/services/data-analytics) · [AI security testing and red teaming](/services/ai-security-service) · [Corporate AI training for teams](/xcelerate/corporate-ai-training)
 **Resources:** Your Guide to Agentic AI: Technical Architecture and Implementation · RAG vs Reflection Agents vs Autonomous AI · When Gen AI Fails: What Enterprises Get Wrong About AI Use Cases
 
 ---
 
 ## Internal notes (not for design)
+
+**27 Oct pass (external SEO/AEO/CRO review, agreed with Sana):** answer first sentence under each H2 with xLoop named · four field form · each service as its own schema entity · visible last updated date · CTA line ends "a straight answer in 30 minutes" · words only proof line above the final button · descriptive link text in Related. Not adopted: separate long tail pages, FAQ moved up, client video testimonial.
 
 ### Live state (16 Oct 2026)
 

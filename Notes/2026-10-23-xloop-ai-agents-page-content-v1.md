@@ -21,7 +21,8 @@ tags: [xloop, service-page, applied-ai, ai-agents, agentic-ai, automation, site-
 | H1 | AI Agent Development Services |
 | Nav label | AI Agents & Autonomous Systems |
 | Breadcrumb | Home › xTend › Applied AI Solutions › AI Agents & Autonomous Systems |
-| Schema | Service · FAQPage · BreadcrumbList |
+| Schema | Service, with each service on this page as its own `Service` entity in `hasOfferCatalog` · FAQPage · BreadcrumbList |
+| Visible "Last updated" date | Yes |
 | Lead form heading | Explore AI Agents for Your Business (already correct on the live page) |
 | Social share | Set og:title and og:description to this page's own title and meta (live page falls back to the homepage default) |
 
@@ -36,7 +37,7 @@ tags: [xloop, service-page, applied-ai, ai-agents, agentic-ai, automation, site-
 **Subhead:** A chatbot answers. An agent gets the work done. We build AI agents that take orders, process requests and move work between your systems, with clear limits on what they can do alone and a person approving everything that matters.
 
 **Primary CTA:** Book a 30 Minute AI Use Case Review →
-**Small line under the CTA:** Bring one workflow. Our AI engineers will tell you which steps an agent can take over, what it needs and how we would build it.
+**Small line under the CTA:** Bring one workflow. Our AI engineers will tell you which steps an agent can take over, what it needs, how we would build it, and give you a straight answer in 30 minutes.
 
 *Build: hidden `source=ai-agents` tag. Same booking as the Applied AI hub.*
 
@@ -46,7 +47,7 @@ tags: [xloop, service-page, applied-ai, ai-agents, agentic-ai, automation, site-
 
 **H2:** What Are AI Agents?
 
-AI agents are software systems that use a language model to plan and carry out a task: reading a request, deciding the steps, calling tools and business systems, and checking the result. Unlike fixed automation, they handle variation in the input. In a business, they work within set permissions, and hand decisions they are not sure about to a person.
+AI agents are software systems that use a language model to plan and carry out a task: reading a request, deciding the steps, calling tools and business systems, and checking the result. Unlike fixed automation, they handle variation in the input. In a business, they work within set permissions, and hand decisions they are not sure about to a person. xLoop builds agents on an 11 stage architecture, with human approval and monitoring built in.
 
 *Plain text, never collapsed.*
 
@@ -55,6 +56,8 @@ AI agents are software systems that use a language model to plan and carry out a
 ## 3. Challenges · `#challenges`
 
 **H2:** Problems AI Agents Solve
+
+AI agents solve work that is high volume, repetitive and spread across systems: peak demand, manual data transfer, assistants that can't act, brittle automation, and the worry of AI acting alone.
 
 *Design: tabs on desktop, accordion on mobile. Each tab has the quote, what's underneath, what we do and its own CTA.*
 
@@ -71,6 +74,8 @@ AI agents are software systems that use a language model to plan and carry out a
 ## 4. Services · `#services`
 
 **H2:** Our AI Agent Services
+
+xLoop builds five kinds of AI agents: customer facing agents, workflow and back office agents, research agents, data operations agents, and monitoring and compliance agents.
 
 *Design: five service blocks. On desktop, a sticky sub nav with one panel per service; stacked on mobile.*
 
@@ -90,7 +95,7 @@ AI agents are software systems that use a language model to plan and carry out a
 
 **H2:** AI Agent, Automation or Both?
 
-Not every step needs AI. Most good systems combine the two.
+Use rule based automation for fixed steps, AI agents for steps that need judgment, and human approval for decisions with real impact. Not every step needs AI, and most good systems combine the two.
 
 *Design: a real HTML table. AEO friendly; keep as text.*
 
@@ -135,6 +140,8 @@ Our multi agent reference architecture has 11 stages. Each agent uses the stages
 
 **H2:** How We Keep AI Agents in Control
 
+AI agents stay in control when each one has least access, approval thresholds, escalation rules, a full audit trail, limits and an off switch.
+
 - **Least access.** Each agent can only use the systems and actions its job needs
 - **Approval thresholds.** You decide which actions need a person, by type, value or risk
 - **Escalation, not guessing.** When confidence is low or the case is new, the agent stops and hands over with context
@@ -147,6 +154,8 @@ Our multi agent reference architecture has 11 stages. Each agent uses the stages
 ## 8. Proof · `#proof`
 
 **H2:** AI Agents and Automation We've Delivered
+
+xLoop has an AI ordering agent in production for a leading Saudi Arabian fast food chain, and reconciliation automation for one of the largest asset managers in Pakistan.
 
 *Card format: same as the Applied AI hub. No percentages.*
 
@@ -218,20 +227,26 @@ Monitoring of accuracy, cost and response time, updates when your systems or rul
 
 In 30 minutes our AI engineers will look at one of your workflows, the systems it touches and where people step in today. You'll leave knowing which steps an agent can take over, what it needs, and how we would build it.
 
+**Proof line (above the button):** An AI ordering agent already in production, in English, Urdu and Arabic.
+
 **CTA:** Book a 30 Minute AI Use Case Review →
 
-**Form fields:** Name · Work email · Company · Role · Describe the workflow in one line
+**Form fields:** Name · Work email · Company · Describe the workflow in one line
+
+*Four fields only (27 Oct review). Role and size are asked on the call.*
 
 ---
 
 ## 12. Related · `#related`
 
-Applied AI Solutions · Generative AI · Large Language Models · Data & AI Consulting · AI Security
+[All applied AI solutions](/services/applied-ai-solutions) · [Generative AI assistants](/services/generative-ai) · [LLM development and hosting](/services/large-language-models) · [Data and AI consulting](/ai-consultancy) · [AI security testing for agents](/services/ai-security-service)
 **Resources:** The Rise of AI Agents: How Enterprises Are Moving Beyond Chatbots · Using AI Agents in DevOps to Automate CI/CD, Incident Response, & Root Cause Analysis · Rethinking Loan Operations: How AI Agents Are Accelerating Approval Cycles
 
 ---
 
 ## Internal notes (not for design)
+
+**27 Oct pass (external SEO/AEO/CRO review, agreed with Sana):** answer first sentence under each H2 with xLoop named · four field form · each service as its own schema entity · visible last updated date · CTA line ends "a straight answer in 30 minutes" · words only proof line above the final button · descriptive link text in Related. Not adopted: separate long tail pages, FAQ moved up, client video testimonial.
 
 ### What's wrong with the live page (23 Oct)
 

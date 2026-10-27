@@ -21,7 +21,8 @@ tags: [xloop, service-page, applied-ai, predictive-analytics, forecasting, churn
 | H1 | Predictive Analytics Services |
 | Nav label | Predictive Analytics |
 | Breadcrumb | Home › xTend › Applied AI Solutions › Predictive Analytics |
-| Schema | Service · FAQPage · BreadcrumbList |
+| Schema | Service, with each service on this page as its own `Service` entity in `hasOfferCatalog` · FAQPage · BreadcrumbList |
+| Visible "Last updated" date | Yes |
 | Lead form heading | Explore Predictive Analytics for Your Business (fixes the live "Explore AI Agents" label) |
 
 ---
@@ -35,7 +36,7 @@ tags: [xloop, service-page, applied-ai, predictive-analytics, forecasting, churn
 **Subhead:** A forecast only matters if someone acts on it. We build predictive models on your own data and put the results where decisions are made: in the reorder, the retention call, the staffing plan and the credit decision.
 
 **Primary CTA:** Book a 30 Minute AI Use Case Review →
-**Small line under the CTA:** Bring one decision you want to predict. Our AI engineers will tell you if your data can support it, and how we would build it.
+**Small line under the CTA:** Bring one decision you want to predict. Our AI engineers will tell you if your data can support it, how we would build it, and give you a straight answer in 30 minutes.
 
 *Build: hidden `source=predictive-analytics` tag. Same booking as the Applied AI hub.*
 
@@ -45,7 +46,7 @@ tags: [xloop, service-page, applied-ai, predictive-analytics, forecasting, churn
 
 **H2:** What Is Predictive Analytics?
 
-Predictive analytics uses historical data and machine learning to estimate what is likely to happen next: how much stock you will need, which customers are likely to leave, which applications carry more risk, or when equipment may fail. Business intelligence shows what happened. Predictive analytics shows what is likely to happen, early enough to act.
+Predictive analytics uses historical data and machine learning to estimate what is likely to happen next: how much stock you will need, which customers are likely to leave, which applications carry more risk, or when equipment may fail. Business intelligence shows what happened. Predictive analytics shows what is likely to happen, early enough to act. xLoop builds predictive models on your own data and delivers the results into the reports and systems where decisions are made.
 
 *Plain text, never collapsed.*
 
@@ -54,6 +55,8 @@ Predictive analytics uses historical data and machine learning to estimate what 
 ## 3. Challenges · `#challenges`
 
 **H2:** Forecasting Challenges We Solve
+
+Predictive analytics helps wherever a decision depends on what happens next: stock levels, customer churn, risk, staffing and planning.
 
 *Design: tabs on desktop, accordion on mobile. Each tab has the quote, what's underneath, what we do and its own CTA.*
 
@@ -70,6 +73,8 @@ Predictive analytics uses historical data and machine learning to estimate what 
 ## 4. Services · `#services`
 
 **H2:** Our Predictive Analytics Services
+
+xLoop's predictive analytics services cover demand and inventory forecasting, churn prediction, risk scoring, operational and capacity forecasting, and forecasts delivered into your reports and systems.
 
 *Design: five service blocks. On desktop, a sticky sub nav; stacked on mobile.*
 
@@ -88,6 +93,8 @@ Predictive analytics uses historical data and machine learning to estimate what 
 ## 5. How we deliver · `#process`
 
 **H2:** How We Build Predictive Models
+
+xLoop builds predictive models in six steps, starting from the decision the forecast must drive and ending with monitoring and retraining in production.
 
 *Design: six step pipeline strip, HTML text. Replaces the 11 stage agent diagram, which doesn't describe forecasting.*
 
@@ -121,6 +128,8 @@ Most forecasting projects that fail, fail on the data. Before we build a model, 
 ## 7. What it looks like · `#examples`
 
 **H2:** What Predictive Analytics Looks Like in Practice
+
+Predictive analytics works when the forecast lands in the system where the decision is made. These examples show the pattern.
 
 *Design: three example cards. Label the section clearly as examples. These are not client case studies and must not carry client descriptors or results.*
 
@@ -188,20 +197,26 @@ A first production model usually takes six to twelve weeks, depending on the dat
 
 In 30 minutes our AI engineers will look at the decision you want to improve, the data behind it and where the forecast needs to go. You'll leave knowing whether your data can support it, and how we would build it.
 
+**Proof line (above the button):** Built on data platforms we have delivered for retail, healthcare and utilities.
+
 **CTA:** Book a 30 Minute AI Use Case Review →
 
-**Form fields:** Name · Work email · Company · Role · What do you want to predict? (one line)
+**Form fields:** Name · Work email · Company · What do you want to predict? (one line)
+
+*Four fields only (27 Oct review). Role and size are asked on the call.*
 
 ---
 
 ## 11. Related · `#related`
 
-Applied AI Solutions · Machine Learning · Data Analytics & Engineering · Computer Vision · Data & AI Consulting
+[All applied AI solutions](/services/applied-ai-solutions) · [Custom machine learning models](/services/machine-learning) · [Data platforms and engineering](/services/data-analytics) · [Computer vision and video analytics](/services/computer-vision) · [Data and AI consulting](/ai-consultancy)
 **Resources:** How AI Transforms Strategic Decision Making · The 6 Must-Know AI Frameworks for CIOs: Pick the Right Vendor in 2025 · Why Data Quality Is the Real Backbone of AI Success
 
 ---
 
 ## Internal notes (not for design)
+
+**27 Oct pass (external SEO/AEO/CRO review, agreed with Sana):** answer first sentence under each H2 with xLoop named · four field form · each service as its own schema entity · visible last updated date · CTA line ends "a straight answer in 30 minutes" · words only proof line above the final button · descriptive link text in Related. Not adopted: separate long tail pages, FAQ moved up, client video testimonial.
 
 ### What's wrong with the live page (26 Oct)
 

@@ -31,6 +31,7 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - Predictive Analytics v1 (26 Oct): `Notes/2026-10-26-xloop-predictive-analytics-page-content-v1.docx`. No case study exists; labeled examples + data foundation card. 2 [CONFIRM]s for Irfan (ML tools, any delivered forecasting model)
 - Machine Learning v1 (26 Oct): `Notes/2026-10-26-xloop-machine-learning-page-content-v1.docx`. Applied AI cluster complete
 - AI Security v1 (27 Oct): `Notes/2026-10-27-xloop-ai-security-page-content-v1.docx`. Uncited stats removed; still no publishable AI security case (B1 needs client permission), hidden slot ready. 4 [CONFIRM]s for the security lead. `/ai-security-assessment` is 404, so the CTA is a 30 minute review
+- xSecurity hub v1 (27 Oct): new page `/xsecurity` (404 today; the menu label should point here). `Notes/2026-10-27-xloop-xsecurity-hub-page-content-v1.docx`. Routing to AI Security, Cybersecurity, NEPRA; proof = healthcare VAPT (A7), bank app security (P-04), wind IPP audit (A5)
 
 ## Not written yet
 - Mining industry page. Blocked: Harmony Gold details and naming permission
@@ -38,7 +39,7 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - xLab hub + 7 product pages
 
 ## Written in August, now out of date
-- xSecurity hub: confirm the AI Security Assessment is live at `/ai-security-assessment` before using it as the main CTA
+- Cybersecurity page: needs its own refresh (0% counters, repeated technique ticker, uncited "Market Intelligence" band). Not on the original list
 - Industries: 9 → 6 (Mining replaces Manufacturing; 301 redirects for Smart Cities, Telco, EdTech); review the remaining 6
 - xCrowdIQ (experimental) and xVoltIQ (possible partner outcomes): check before featuring
 
@@ -59,6 +60,7 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - [x] Predictive Analytics v1 (26 Oct)
 - [x] Machine Learning v1 (26 Oct). Applied AI cluster complete (hub + 6)
 - [x] AI Security v1 (27 Oct)
+- [x] xSecurity hub v1 (27 Oct)
 - [ ] Devs, now: lead form heading says "Explore AI Agents for Your Business" on 5 Applied AI leaf pages
 - [ ] xLab hub/products + case study pages (Release 2, by 30 Nov)
 - [ ] Mining once the missing information arrives

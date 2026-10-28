@@ -5,6 +5,8 @@ tags: [xloop, data-ai-readiness, lead-capture, competitive-analysis, release-1]
 
 # Data & AI Readiness Assessment v3
 
+> **Updated on 2026-10-28 by [[2026-10-28-xloop-data-ai-readiness-assessment-v4]]** (S2.3 output checks, "Not sure" scoring, P1, lead-scoring fixes). Use v4 for anything new.
+
 Workbook: `Notes/2026-10-02-xloop-data-ai-readiness-assessment-v3.xlsx` (9 tabs).
 Supersedes [[2026-09-16-genai-readiness-assessment-v2]] (GenAI only) and the 24-question v1.
 For Release 1, shipping with homepage v2 by Fri 31 Oct 2026.

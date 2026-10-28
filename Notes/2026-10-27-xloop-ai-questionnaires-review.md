@@ -93,5 +93,5 @@ Neither new file has lead scoring, so v3's is the only one to check.
 ## Next steps
 - [ ] Sana: confirm v3 stays the website tool (blog already promises 18 questions, three scores)
 - [ ] Reply to Irfan and the engineers: thanks, and which of their items go into v3
-- [ ] Apply the 6 question changes and 9 lead-scoring fixes to the v3 workbook
+- [x] Apply the 6 question changes and 9 lead-scoring fixes: done in v4 ([[2026-10-28-xloop-data-ai-readiness-assessment-v4]])
 - [ ] Get sales sign-off on the updated lead priority rules

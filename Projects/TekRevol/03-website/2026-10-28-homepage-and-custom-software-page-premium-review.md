@@ -1,0 +1,122 @@
+---
+date: 2026-10-28
+tags: [tekrevol, website, review, homepage, custom-software, premium]
+---
+
+# Review: homepage v2 + custom software page (team draft)
+
+Files reviewed: `tekrevol-homepage-v2-preview-with-video (18).html`, `tekrevol-custom-software-page-clean (1).html` (Downloads, 28 Oct 2026). Positioning shift: software development first, AI as a capability, premium feel.
+
+## Verdict
+
+- The bones are good: real case numbers, a clear "how it starts" process, commitments, FAQs. The content can work.
+- It does not feel premium because it is built like a lead-gen agency template: Poppins Bold, navy + legacy orange, a card grid in every section, an orange half-headline in every section, badges and "free consultation" everywhere. Premium is restraint, and this page is never quiet.
+- Swapping in the new colors alone will not fix it. Type, density and tone have to change too.
+
+## Design feedback
+
+### 1. It's using the retired system
+- Font is **Poppins** (bold/extra-bold). The brand system retired Poppins and Inter as "category defaults". Use **Host Grotesk 500** with tight tracking (-0.035 to -0.04em) for headlines, Regular for text, **JetBrains Mono** for eyebrows, labels and proof numbers.
+- Colors are legacy: navy `#0B2A3F`, orange `#F47B20`, dark text `#1F2D3A`. The system says don't use the legacy orange, and navy was rejected as retro.
+- Swap to: Carbon `#0C0807` (dark ground), Graphite `#1A1413` (raised dark), Pearl `#F2F1EF` (light ground), Chrome `#DADAD8` (hairlines), Molten Orange `#FF4F0F` (CTAs and one highlight per view), Flare `#FF8A3D` (hover).
+
+### 2. The two-tone headline on every section
+- "Results our clients **can measure**", "Pick the model **that fits your team**", "What happens **after you reach out**"… 10+ sections in a row.
+- This is the single biggest "template" tell. Premium sites use one color for headlines and let size and space do the work.
+- Fix: headlines in ink (or white on carbon). Orange only on the CTA and maybe one word on the whole page.
+
+### 3. Too many boxes, too little space
+- 14 sections on the homepage, almost all rounded cards with icon chips. Services, cases, ways of working, commitments, industries, podcasts all look the same.
+- Fix: cut to ~8 sections, more vertical space between them, bigger type, fewer borders. Use hairline rules and grid alignment instead of cards. Let 1 or 2 sections be pure typography.
+
+### 4. Hero looks stock
+- Dark blurred photo of a laptop with code, plus three sticker medallions (Inc, Clutch, ISO) bottom right. Sticker badges read as budget.
+- Fix: Carbon ground with the Molten gradient field or a molten-glass render, Strata motif building on the right as the one motion moment (per `09-website.md`). Move badges to a quiet proof band in white at ~60% opacity. Add a thin "spec row" under the hero (mono labels: Since 2018 · 4.8 Clutch · US UK UAE Qatar).
+
+### 5. Proof is overloaded and dated
+- Inc. 5000 **2022** shows up 5 times (hero pill, 2 stat tiles, recognition card, form). In late 2026, a 2022 ranking repeated this often makes the brand look like it peaked 4 years ago.
+- Award wall has 6 medallions, including two with `[year]` placeholders and a 2020 award.
+- Fix: one proof band, 3 or 4 strongest signals, once. Drop anything older than 2023 from the homepage.
+
+### 6. Client "logos" are bold text
+- The logo bar is company names in Poppins Bold (homepage) and boxed chips (custom page). It reads unfinished.
+- Fix: real monochrome logos at even optical size, or remove the bar.
+
+### 7. CTA noise
+- "Get a free consultation" appears ~8 times on the homepage, plus "Book a call", "Get a fixed quote", "Plan a team", "Talk about a takeover", "Ask for a client reference".
+- Fix: one primary CTA, repeated at hero, mid-page and close. Secondary actions as text links. Drop "free" from the button (it's a discount signal); something like "Start a project" or "Plan your build".
+
+### 8. Visual system breaks in places
+- Podcast/webinar thumbnails are external graphics (red, blue, different fonts). Industry cards use generic stock photos with dark gradients.
+- Fix: re-crop podcast tiles into a brand frame (carbon, speaker cutout, mono label), or move them off the homepage. Industry images in the brand's imagery style or none.
+
+### 9. Unfinished bits visible
+- `[Client name]`, `[Company]`, `[Title]`, `[year]`, `[Pull a one-line quote from this video]`, `[One phone number]`, and a dev note in the footer ("Keep current footer links. Replace the 14-city line…").
+- Fine for a draft, but it hurts the review. Fill them before showing the CEO.
+
+## Content feedback
+
+### 1. Keyword stuffing makes it sound like an SEO page
+- Homepage: "As a full cycle software development company", "Treat us as your software product development company", "What you can expect from us as your software development partner", "Software development company FAQs".
+- Custom page: "custom software development" is in the H1 and 3 more H2s, plus "As a custom software development company" in the intro.
+- Keep the keyword in the H1/eyebrow, title tag and FAQs. Everywhere else, write like a person. Premium brands don't keep telling you what category they are in.
+
+### 2. Hero headline
+- "The software development company that builds for the business you're becoming" — the idea ("the business you're becoming") is good, the line is long and the keyword phrase blunts it.
+- Options (eyebrow in mono: `CUSTOM SOFTWARE DEVELOPMENT`):
+  - "Software for the company you're becoming."
+  - "Built for the company you're becoming."
+  - "Software that grows as fast as you do."
+- Subhead can carry the rest: what you build, for whom, AI where it pays off. "With AI where it pays off" is a strong line for the new positioning; keep it.
+- Use the approved line "Young in approach. Enterprise in output." somewhere (proof band or closing CTA).
+
+### 3. "Small and mid-sized businesses" positions down
+- Custom page H1: "…for small and mid-sized businesses", and H2 "Why SMBs choose TekRevol". "Small" undercuts premium.
+- Suggest "growing companies" or "mid-market companies". **Decision needed:** is the ICP SMB or mid-market? If it's SMB for SEO, keep it in the meta title and one body line, not the H1.
+
+### 4. The rescue pitch is back
+- "Project takeover — Best for a build another team left unfinished", "We take over projects other teams left unfinished", "A rebuild or rescue".
+- This was rejected before as not premium (defines us by someone else's failure). Reframe as the next stage: "Taking a working product further", "Already have a build? We take it to production." Keep the Equitrip proof, drop the blame.
+
+### 5. Too much reassurance
+- "We reply within 6 hours" appears ~5 times. Plus "free consultation", "Honest advice", "An NDA before you share details".
+- Repeated reassurance reads like a vendor trying to overcome distrust. Say the 6-hour reply once near the form. Keep the commitments block (it's good), cut the rest.
+
+### 6. Testimonials signal offshore risk
+- "I was initially hesitant due to past experiences with remote developers…" (used on both pages). It plants the exact doubt we don't want.
+- Pick quotes about outcomes, judgment or partnership. The Keith Cascarelli quote on the custom page (milestones, process) is closer.
+
+### 7. Facts to verify
+- **500+ projects** here vs **800+** in the brand system's proof band. Pick one and use it everywhere.
+- **OpenAI and Anthropic shown as "Partners"** next to AWS and Microsoft. Confirm a formal partnership exists; if not, remove or relabel as "We build on".
+- Libido Health "80% fewer no-shows", Schology "150% retention" etc. say they come from published case studies; keep the source links handy.
+
+### 8. What's working (keep)
+- Results cards with one hard number each — strongest section on the page.
+- "What happens after you reach out" timeline — clear and confident (rename the "Honest advice" step).
+- Commitments block (IP, NDA, compliance from sprint one, one PMO).
+- Custom page "When custom software makes sense" checklist + Rehkemper story — great buyer language.
+- FAQ block with "Ask an AI assistant" — good for AEO.
+
+## Suggested homepage structure (8 sections)
+
+1. Hero — carbon, Molten field + Strata, short H1, one CTA, spec row
+2. Proof band — 3–4 signals, logos in white, once
+3. What we build — 4 pillars, not 8 cards (Custom software · Mobile and web · Enterprise and integration · AI where it pays off); rest as links
+4. Results — the 5 case numbers, larger and more editorial
+5. How we work — timeline + ways of working merged
+6. Client voices — 1 video + 1 quote, real names
+7. FAQ
+8. Closing CTA — carbon, one line, one button
+
+Cut or move: industries grid (to its own page or a single row of links), podcasts (to Insights), recognition wall (fold into proof band), separate commitments section (merge into How we work).
+
+## Next steps
+
+- [ ] Team re-skins both pages on the current design system (`01-brand-system/design-system/`): Host Grotesk, Carbon/Pearl/Molten
+- [ ] Remove the two-tone headlines and cut the homepage to ~8 sections
+- [ ] Rewrite hero H1 and de-stuff keyword headings
+- [ ] Reframe "Project takeover" / "rebuild or rescue" as next-stage work
+- [ ] Decide ICP wording: SMB vs mid-market
+- [ ] Verify 500+ vs 800+ projects and the OpenAI/Anthropic partner logos
+- [ ] Fill all placeholders and remove the footer dev note before CEO review

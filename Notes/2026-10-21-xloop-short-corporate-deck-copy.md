@@ -234,6 +234,10 @@ San Mateo · Dubai · Doha · Karachi
 
 ## Next steps
 
+- [ ] Confirm SA partner spellings with Nasir: "iqb" = iqbusiness? What is "ADG"?
+- [ ] Ask Nasir if Repeat Business needs a number (board figure is internal only)
+- [ ] Get shareholder logo files (Gul Ahmed, ACT Group, Akhtar Group) for design
+
 - [x] Design handoff: `Notes/2026-10-22-xloop-short-corporate-deck-design-handoff.docx`
 
 - [ ] Agree the new visual direction on 1–2 sample slides before building all 11

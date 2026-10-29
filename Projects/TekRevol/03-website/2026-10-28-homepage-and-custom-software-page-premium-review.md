@@ -111,6 +111,41 @@ Files reviewed: `tekrevol-homepage-v2-preview-with-video (18).html`, `tekrevol-c
 
 Cut or move: industries grid (to its own page or a single row of links), podcasts (to Insights), recognition wall (fold into proof band), separate commitments section (merge into How we work).
 
+## Also from the brand guide
+
+- Buttons should be **square with a 45° notch** on the top-right corner, not rounded pills. Notch only on the most important element in a view.
+- Strata motif: stacked horizontal bars, widest at the bottom, brightening upward (Oxblood > Core Red > Molten > Flare). One per page.
+
+## GPT mockup prompt (hero + results)
+
+See chat 2026-10-29; prompt kept here so the team can reuse it.
+
+```
+Create a high-fidelity desktop website mockup (1440px wide, homepage top section) for TekRevol, a premium custom software development company. Style: quiet, expensive, editorial, like Linear, Vercel or Stripe, not a lead-gen agency template.
+
+Brand system (follow exactly):
+- Font: Host Grotesk, headlines Medium weight with tight letter spacing; small labels in JetBrains Mono uppercase.
+- Colors: Carbon #0C0807 near-black background, Graphite #1A1413 raised panels, Pearl #F2F1EF light background, Chrome #DADAD8 hairlines, Molten Orange #FF4F0F used sparingly for the primary button and small accents only.
+- Buttons are square-cornered with a single 45-degree notch cut on the top-right corner. No rounded pills.
+- Headlines are one color only (white on dark, near-black on light). Never highlight part of a headline in orange.
+- Lots of negative space, thin hairline rules instead of boxed cards, strict 12-column grid alignment.
+
+Section 1, hero (Carbon background, full viewport):
+- Top nav: white "TEKREVOL" wordmark left; links Services, Work, Industries, Insights, About; one notched orange button "Start a project".
+- Left side: small mono label "CUSTOM SOFTWARE DEVELOPMENT". Large headline in white, two lines: "Software for the company you're becoming." Below, one short line in muted grey: "Custom software and mobile apps that keep up as you grow, with AI where it pays off." One notched orange button "Start a project" and a plain white text link "See our work →".
+- Right side: abstract 3D molten glass render — flowing liquid glass and polished chrome glowing molten orange from within, layered translucent planes, soft reflections, dark carbon environment. Integrated with the "Strata" motif: stacked horizontal bars, widest at the bottom, brightening upward from oxblood to red to molten orange to light flare orange.
+- Bottom of hero: a thin hairline rule, then a spec row of four small columns in mono labels and white values: "SINCE / 2018", "PROJECTS / 500+", "CLUTCH / 4.8 rating", "OFFICES / US · UK · UAE · Qatar".
+
+Section 2, proof band (Graphite): a single row of six client logos in white at 60% opacity, evenly spaced, no boxes.
+
+Section 3, results (Pearl background):
+- Mono label "CLIENT RESULTS", headline in near-black: "Results our clients can measure."
+- Five results laid out editorially in columns separated by thin vertical hairlines (no cards, no icons): each has a small mono industry label, the client name, one large number, and one short line. Energy / Kinder Morgan / 46% / fewer reporting errors. Healthcare / Libido Health / 80% / fewer session no-shows. Education / Schology / 150% / better student retention. Roadside / Hard Shoulder / 40% / faster response times. Real estate / Houze Hookup / 5M+ / property reels played.
+- Large numbers in near-black, not orange.
+
+Avoid: navy or blue, Poppins, rounded pill buttons, icon chips, stock photos of laptops or code, award badges or sticker seals, gradients on text, drop shadows, clutter. Render text crisp and spelled exactly as given.
+```
+
 ## Next steps
 
 - [ ] Team re-skins both pages on the current design system (`01-brand-system/design-system/`): Host Grotesk, Carbon/Pearl/Molten

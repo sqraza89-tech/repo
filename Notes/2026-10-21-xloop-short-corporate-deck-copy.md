@@ -9,7 +9,7 @@ Brief from Nasir: short version of the corporate deck, minimal text, 11 slides, 
 Source: `Downloads/Decks (2).pptx` (106 slides), checked against the Marketing Brain approved claims.
 Visual direction is changing, so this is copy only.
 
-**Rules agreed with Sana (22 Oct):** no client names anywhere in the deck. Every case study is anonymized but specific (region, sector, scale, platform). No revenue figure. Contact email is info@xloopdigital.com.
+**Rules agreed with Sana (22 Oct):** no client names on any case study. Every case study is anonymized but specific (region, sector, scale, platform). No revenue figure. Contact email is info@xloopdigital.com.
 
 ## Numbers: brief vs deck
 
@@ -63,17 +63,21 @@ Skills gaps that hiring can't close. We train cohorts that graduate into jobs.
 
 # The partners we work with
 
-**Technology partners**
-AWS · Microsoft · Snowflake · Databricks · Salesforce
+**Cloud & data platforms**
+AWS · Microsoft · Snowflake · Databricks
+
+**CRM & business platforms**
+Salesforce · Creatio · Pipedrive
 
 **Partners in South Africa**
-Pick n Pay · ioco · Absa · Lombard · Standard Bank
+Pick n Pay · ioco · Absa · Lombard · Standard Bank · Data Centrix · Synthesis · iqbusiness · ADG · Moyo
 
 **Training partner**
 Emeritus
 
-> Logos only, no descriptions. Do not add "Microsoft Solutions Partner" or any partner tier: it is not an approved claim.
+> Logos only, no descriptions. No partner tiers or badges (Microsoft, Creatio and Pipedrive tiers are unconfirmed).
 > Pick n Pay stays here. Its Snowflake retail case is left out of slide 6 so the two do not overlap.
+> Nasir's added SA partners (29 Oct): Data Centrix, Synthesis, iqbusiness ("iqb" in his message), ADG, Moyo. Creatio and Pipedrive grouped with Salesforce as CRM platforms.
 
 ## Slide 5: Client Portfolio
 
@@ -144,41 +148,57 @@ A leading Pakistani commercial bank
 Cloud native and mobile app development for the bank's own professionals.
 → **3** cohorts · **70+** professionals · **240+** hours each
 
-**Digital Skills & Employment Program (CSR)**
+**AI & Full Stack Talent Program**
 One of Pakistan's largest gas producers
-Five months of AI, agentic and full stack development for youth from underserved communities.
+Five months of AI, agentic and full stack development for a merit selected cohort of young engineers.
 → **44** graduates · **100%** placed in internships and jobs
 
-**Full Stack & Data Science Bootcamp (CSR, 2025)**
-A national oil and gas company, with a social impact foundation
-Youth from the communities around the company's operations, trained in AI, data science and full stack engineering.
+**Full Stack & Data Science Bootcamp (2025)**
+A national oil and gas exploration company
+Young talent trained in AI, data science and full stack engineering, ending in capstone projects.
 → Top performers recruited
 
-## Slide 10: What Clients Say About Us
+> CSR removed from titles and descriptors (Nasir, 29 Oct).
 
-"[xLoop's] commitment to excellence and their ability to deliver complex projects on time and within budget have been instrumental in our success."
-Founder & CEO, a cloud and cybersecurity company
+## Slide 10: Why xLoop
 
-"What impressed us most was their willingness to learn about our industry and adapt their approach to meet our unique needs."
-An agri-fintech platform, Pakistan
+Replaces the testimonials slide (Nasir, 29 Oct).
 
-"We highly recommend xLoop as a trusted and reliable partner for digital transformation initiatives."
-A digital health platform
+**AI Native Engineering**
+Our engineers build with AI coding assistants, and an engineer reviews and tests every change.
 
-> All three quotes are verbatim from the signed testimonials document. "[xLoop's]" fixes "xLoop commitment" in the original.
-> Third quote is Serefin (22 Oct), chosen over Skillforte because Skillforte's industry is unknown, so its attribution would be vague. Skillforte alt: "Their deep project understanding, timely delivery and professional approach have exceeded our expectations."
-> Design docx removes hyphens in prose per brand voice (30 minute, 11 stage, rule based, lower risk, agri fintech).
+**Diversified Skill Set**
+Data, cloud, AI, security, app engineering and training under one roof.
+
+**Multi Industry Experience**
+Banking, retail, real estate, healthcare, logistics and travel.
+
+**Global Presence**
+8 countries served. Offices in San Mateo, Dubai, Doha and Karachi.
+
+**Strong Financial Backing**
+Backed by established business groups: Gul Ahmed, ACT Group and Akhtar Group. (+ logos)
+
+**Repeat Business**
+Clients come back for follow on projects and long term dedicated teams.
+
+**Experienced Leadership**
+Leaders who have built and scaled technology businesses, directly involved in every engagement.
+
+> Shareholders from the old deck's "Financially Strong Shareholders" slide (S25). That slide was made for the board; Nasir asked for it here, so it's fine to use.
+> Repeat business has no number: the repeat client figure given to the board is internal only. Evidence on file: FitLynk now works exclusively with xLoop, and Serefin keeps a dedicated xLoop resource.
+> Testimonials kept on file in case they come back: Cloud Titans ("[xLoop's] commitment to excellence..."), Beythak ("What impressed us most..."), Serefin ("We highly recommend xLoop..."), Skillforte ("Their deep project understanding...").
 
 ## Slide 11: CTA
 
 # Find out if your data is ready for AI
-Book a 30-minute Data & AI Readiness Review. You leave with ranked use cases and a clear first step.
+Book a free 30 minute consultation with our data and AI team. You leave with ranked use cases and a clear first step.
 
-**Button:** Book Your Readiness Review
-info@xloopdigital.com · xloopdigital.com
+**Button (clickable):** Book a Free Consultation → https://www.xloopdigital.com/ai-consultancy
+**Contact (clickable):** info@xloopdigital.com · xloopdigital.com
 San Mateo · Dubai · Doha · Karachi
 
-> Why this CTA: it promises something the buyer gets in 30 minutes, it matches the data-first cover, and it uses the same review name as the website. "Call us" would need a phone number, and an email plus booking link is enough on its own.
+> The link goes to the live "Get a Free Consultation" form on the AI Consultancy page. Update it if that page moves in the site revamp.
 
 ## Why these case studies
 
@@ -199,6 +219,15 @@ San Mateo · Dubai · Doha · Karachi
 - PPL program year: 2025, graduate count unknown, so no number
 - No names on testimonials
 - CTA: booking + info@xloopdigital.com, no phone
+
+## Changes from Nasir (29 Oct)
+
+- SA partners added: Data Centrix, Synthesis, iqbusiness, ADG, Moyo
+- Creatio and Pipedrive added, grouped with Salesforce under CRM & business platforms
+- CSR removed from the training slide
+- Testimonials slide replaced with Why xLoop (seven points, shareholder logos)
+- CTA is a clickable Book a Free Consultation button
+- Design handoff v2: `Notes/2026-10-29-xloop-short-corporate-deck-design-handoff-v2.docx`
 - Pick n Pay stays on the partners slide; its retail case is not used
 - Cover: "Data & AI" with "Consulting · Engineering" under it (Nasir approved, 22 Oct)
 - "Standard" = Standard Bank (confirmed)

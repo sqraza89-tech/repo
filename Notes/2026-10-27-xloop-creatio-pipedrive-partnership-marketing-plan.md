@@ -5,7 +5,7 @@ tags: [xloop, partnership, creatio, pipedrive, crm, go-to-market, sales-enableme
 
 # xLoop: Creatio + Pipedrive partnership marketing plan
 
-Requested by **Huzaifa Valika, VP Enterprise Sales**. Builds on
+Requested by **Huzaifa Valika, VP Enterprise Sales**. Word version to send him: `Notes/2026-10-29-xloop-creatio-pipedrive-partnership-marketing-plan.docx` (dates shifted to this week). Builds on
 [[2026-09-08-xloop-pipedrive-solution-provider-application]] and
 [[2026-10-19-xloop-partner-form-answers]].
 

@@ -151,6 +151,12 @@ Avoid: navy or blue, Poppins, rounded pill buttons, icon chips, stock photos of 
 - Direction approved as the premium reference: carbon hero, molten-glass Strata, one-color headlines, mono spec row, hairline results grid.
 - Fix before sharing: remove the IBM logo (not a client, GPT invented it); real logos only. Use the real TekRevol logo mark, not a typed wordmark. Buttons in Host Grotesk, not mono. More space above the results section. Hero H1 for SEO: the visible headline is the brand line, so "custom software development" must sit in the H1 tag or the title/meta (dev decision).
 
+## GPT mockup part 2: What we build + How we work (2026-10-30)
+
+- What we build (carbon): "One team, from first sprint to scale." 4 pillars (Custom software featured with notch + glow; Mobile and web apps; Enterprise and integration; AI where it pays off), then text links MVP · Cloud and DevOps · Staff augmentation · Dedicated teams.
+- How we work (pearl): "Working software every two weeks." 5-step hairline timeline (We reply · Straight advice · A fixed quote · Your MVP · Working software), then 4 ways to work (Fixed-scope · Dedicated team · Staff augmentation · Taking a product further), commitments as one mono line, one "Start a project" button.
+- Next prompt still to write: client voices, FAQ, closing CTA.
+
 ## Next steps
 
 - [ ] Team re-skins both pages on the current design system (`01-brand-system/design-system/`): Host Grotesk, Carbon/Pearl/Molten

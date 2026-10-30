@@ -164,6 +164,7 @@ Avoid: navy or blue, Poppins, rounded pill buttons, icon chips, stock photos of 
 - FAQ mockup approved. Tweaks: darker answer grey, align top hairline with question text, headline 15–20% smaller. Build: sticky left column, FAQPage schema, write the 5 missing answers (2–3 sentences each, from team draft).
 - Closing CTA mockup approved ("Let's build what comes next."). Fixes: button in Host Grotesk (all buttons, firm rule), drop "and the first call is free" → "Share a few details. We reply within 6 hours.", final background rendered from the brand guide's reeded-light prompt.
 - Full homepage mockup set complete (hero+results, what we build, how we work, ways to work, client voices, FAQ, closing CTA). Before sharing: remove IBM logo and the Keith caption on the AI face; share images in page order with this file as notes.
+- Figma reference board: main frame W 1440, vertical auto layout gap 0, 12-col grid (margin 120, gutter 24). One clipped section frame per image (W 1440): Hero 960 · What we build 560 · How we work 660 · Ways to work 840 · Client voices 1040 · FAQ 980 · Closing CTA 900 (~5,940 total). 160px from frame top to label; fill sampled from image; hairline #DADAD8 between voices and FAQ; fix notes beside each section.
 
 ## Next steps
 

@@ -146,6 +146,11 @@ Section 3, results (Pearl background):
 Avoid: navy or blue, Poppins, rounded pill buttons, icon chips, stock photos of laptops or code, award badges or sticker seals, gradients on text, drop shadows, clutter. Render text crisp and spelled exactly as given.
 ```
 
+## GPT mockup result (2026-10-30)
+
+- Direction approved as the premium reference: carbon hero, molten-glass Strata, one-color headlines, mono spec row, hairline results grid.
+- Fix before sharing: remove the IBM logo (not a client, GPT invented it); real logos only. Use the real TekRevol logo mark, not a typed wordmark. Buttons in Host Grotesk, not mono. More space above the results section. Hero H1 for SEO: the visible headline is the brand line, so "custom software development" must sit in the H1 tag or the title/meta (dev decision).
+
 ## Next steps
 
 - [ ] Team re-skins both pages on the current design system (`01-brand-system/design-system/`): Host Grotesk, Carbon/Pearl/Molten

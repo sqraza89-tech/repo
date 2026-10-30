@@ -160,6 +160,7 @@ Avoid: navy or blue, Poppins, rounded pill buttons, icon chips, stock photos of 
 - "How we work" redo (2026-10-30) approved as the spacing reference. Build tweaks: section padding 160–200px (mockup has ~330/400), darken step description grey for contrast, match right margin to left, "8–16" with en dash, optional orange line segment from step 1 to 2.
 - "Ways to work" (carbon) approved. Build tweaks: equal text inset after each divider (col 1 is flush), last title clears the right edge, padding 160–200px.
 - Final prompts given for: Client voices (pearl, video still + Keith Cascarelli/WTT quote, verify exact wording on Clutch), FAQ (pearl, "Software development, answered.", 6 questions, AI-assistant links), Closing CTA (carbon reeded light, "Let's build what comes next.", no second Strata, office cities + info@tekrevol.com).
+- Client voices mockup: layout approved. GPT labeled its AI face "Keith Cascarelli, CEO, WTT"; remove/placeholder before sharing (fake face + unverified title). In build, video = a different real client; Keith's quote stays right. Add a column of gap before the quote, keep 160px below, keep hanging quote mark.
 
 ## Next steps
 

@@ -158,6 +158,8 @@ Avoid: navy or blue, Poppins, rounded pill buttons, icon chips, stock photos of 
 - Next prompt still to write: client voices, FAQ, closing CTA.
 - Result felt cramped (Sana agreed). Decision: one section per GPT frame on a tall canvas (1440 x 1000–1100), 160px top/bottom, 120px side margins, one left edge. "Ways to work" split into its own carbon section (with commitments line + button); "How we work" = timeline only, one-line step text. Buttons in Host Grotesk, never mono.
 - "How we work" redo (2026-10-30) approved as the spacing reference. Build tweaks: section padding 160–200px (mockup has ~330/400), darken step description grey for contrast, match right margin to left, "8–16" with en dash, optional orange line segment from step 1 to 2.
+- "Ways to work" (carbon) approved. Build tweaks: equal text inset after each divider (col 1 is flush), last title clears the right edge, padding 160–200px.
+- Final prompts given for: Client voices (pearl, video still + Keith Cascarelli/WTT quote, verify exact wording on Clutch), FAQ (pearl, "Software development, answered.", 6 questions, AI-assistant links), Closing CTA (carbon reeded light, "Let's build what comes next.", no second Strata, office cities + info@tekrevol.com).
 
 ## Next steps
 

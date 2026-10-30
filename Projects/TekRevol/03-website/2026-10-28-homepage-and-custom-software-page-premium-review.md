@@ -156,6 +156,7 @@ Avoid: navy or blue, Poppins, rounded pill buttons, icon chips, stock photos of 
 - What we build (carbon): "One team, from first sprint to scale." 4 pillars (Custom software featured with notch + glow; Mobile and web apps; Enterprise and integration; AI where it pays off), then text links MVP · Cloud and DevOps · Staff augmentation · Dedicated teams.
 - How we work (pearl): "Working software every two weeks." 5-step hairline timeline (We reply · Straight advice · A fixed quote · Your MVP · Working software), then 4 ways to work (Fixed-scope · Dedicated team · Staff augmentation · Taking a product further), commitments as one mono line, one "Start a project" button.
 - Next prompt still to write: client voices, FAQ, closing CTA.
+- Result felt cramped (Sana agreed). Decision: one section per GPT frame on a tall canvas (1440 x 1000–1100), 160px top/bottom, 120px side margins, one left edge. "Ways to work" split into its own carbon section (with commitments line + button); "How we work" = timeline only, one-line step text. Buttons in Host Grotesk, never mono.
 
 ## Next steps
 

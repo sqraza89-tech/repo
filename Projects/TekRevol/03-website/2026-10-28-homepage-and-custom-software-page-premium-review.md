@@ -162,6 +162,8 @@ Avoid: navy or blue, Poppins, rounded pill buttons, icon chips, stock photos of 
 - Final prompts given for: Client voices (pearl, video still + Keith Cascarelli/WTT quote, verify exact wording on Clutch), FAQ (pearl, "Software development, answered.", 6 questions, AI-assistant links), Closing CTA (carbon reeded light, "Let's build what comes next.", no second Strata, office cities + info@tekrevol.com).
 - Client voices mockup: layout approved. GPT labeled its AI face "Keith Cascarelli, CEO, WTT"; remove/placeholder before sharing (fake face + unverified title). In build, video = a different real client; Keith's quote stays right. Add a column of gap before the quote, keep 160px below, keep hanging quote mark.
 - FAQ mockup approved. Tweaks: darker answer grey, align top hairline with question text, headline 15–20% smaller. Build: sticky left column, FAQPage schema, write the 5 missing answers (2–3 sentences each, from team draft).
+- Closing CTA mockup approved ("Let's build what comes next."). Fixes: button in Host Grotesk (all buttons, firm rule), drop "and the first call is free" → "Share a few details. We reply within 6 hours.", final background rendered from the brand guide's reeded-light prompt.
+- Full homepage mockup set complete (hero+results, what we build, how we work, ways to work, client voices, FAQ, closing CTA). Before sharing: remove IBM logo and the Keith caption on the AI face; share images in page order with this file as notes.
 
 ## Next steps
 

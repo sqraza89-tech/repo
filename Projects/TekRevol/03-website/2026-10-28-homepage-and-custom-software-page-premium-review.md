@@ -157,6 +157,7 @@ Avoid: navy or blue, Poppins, rounded pill buttons, icon chips, stock photos of 
 - How we work (pearl): "Working software every two weeks." 5-step hairline timeline (We reply · Straight advice · A fixed quote · Your MVP · Working software), then 4 ways to work (Fixed-scope · Dedicated team · Staff augmentation · Taking a product further), commitments as one mono line, one "Start a project" button.
 - Next prompt still to write: client voices, FAQ, closing CTA.
 - Result felt cramped (Sana agreed). Decision: one section per GPT frame on a tall canvas (1440 x 1000–1100), 160px top/bottom, 120px side margins, one left edge. "Ways to work" split into its own carbon section (with commitments line + button); "How we work" = timeline only, one-line step text. Buttons in Host Grotesk, never mono.
+- "How we work" redo (2026-10-30) approved as the spacing reference. Build tweaks: section padding 160–200px (mockup has ~330/400), darken step description grey for contrast, match right margin to left, "8–16" with en dash, optional orange line segment from step 1 to 2.
 
 ## Next steps
 

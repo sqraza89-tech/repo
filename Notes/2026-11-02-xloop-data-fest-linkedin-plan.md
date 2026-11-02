@@ -9,6 +9,10 @@ tags: [xloop, linkedin, events, data-fest]
 - **Decision (Sana):** keep it minimal. One company post that Sarosh and Daniyal reshare with a one-line note. No separate personal posts, no carousel
 - **Their takeaway (WhatsApp):** "Learn to be a business person first, then a data person", from speaker Aveena Mothilall (Twinings). Spelling and title not verified (web search found nothing); confirm before tagging
 
+## Open question: company page or personal?
+- Sana felt iffy about a company-page post for audience-only attendance
+- Recommendation (pending Sana's call): post from Sarosh's profile in first person, tag Daniyal; xLoop page reposts with one line. Same draft, reworded
+
 ## Photos
 - Use: Sarosh + Daniyal at the Snowflake stand (the only one with our people in it)
 - Optional second: main hall crowd shot (wide, shows scale)

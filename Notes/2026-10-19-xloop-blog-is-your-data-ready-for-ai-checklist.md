@@ -246,7 +246,7 @@ Less than most people expect. Layered architecture, governance and pipeline desi
 ## Next steps
 - [ ] Sana review
 - [x] Irfan Shaikh confirmed "two to four weeks" applies to data readiness (19 Oct 2026)
-- [ ] Irfan Shaikh technical check (ten points, score bands)
+- [ ] Irfan Shaikh technical check (ten points, score bands). Word copy for him built 2 Nov 2026: `2026-10-19-xloop-blog-is-your-data-ready-for-ai-checklist.docx` (post copy only). Not live as of 2 Nov (slug 404s); hold the LinkedIn first comment until published
 - [ ] Sana sets publish date
 - [ ] Hand to dev/CMS with schema; set datePublished
 - [ ] Add links to this post from the two existing cluster blogs

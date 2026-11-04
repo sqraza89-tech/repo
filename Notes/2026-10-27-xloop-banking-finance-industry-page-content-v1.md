@@ -240,6 +240,8 @@ Hero (industry eyebrow, H1 "AI and Data Solutions for [Industry]") → answer bl
 3. Resolved 4 Nov: three live banking blogs chosen. Other live finance posts if design wants more: Smart Onboarding in Retail Banking with AI (Jul 2025) · Agentic AI in Wealth Management (May 2026; British "Optimising" in its title) · 5+ Examples of Generative AI in Finance (Apr 2025) · AI in banking: 5 Transformative Trends Reshaping Finance in 2025 (dated title)
 4. Legacy page is not live yet (404); its link waits for launch
 
+**Docx note (4 Nov):** Sana highlighted the Corporate AI Training and AI Security links in the docx. Edit the docx in place from now on; a rebuild from this md would drop her highlights.
+
 ## Next steps
 
 - [ ] Sana: review

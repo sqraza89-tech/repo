@@ -95,14 +95,14 @@ xLoop's solutions for energy and utilities cover operational data platforms, pre
 
 **H2:** Our Work in Energy and Utilities
 
-xLoop has delivered an IT/OT compliance audit for a wind power producer in Pakistan and reengineered the data pipelines of a water utility.
+xLoop has delivered an IT/OT compliance audit for a wind power producer in Pakistan and reengineered the data pipelines of a water utility in the UK.
 
 *Card format: same as the Banking page. Anonymous but specific. Two cards; no filler.*
 
 | Client | The problem | What we did | Result |
 |---|---|---|---|
 | **A 30 MW wind power producer in Pakistan** | IT/OT security obligations under the NEPRA regulations, across a head office and two plant sites | An IT and OT compliance audit covering policy, controls, network segregation and a non intrusive OT assessment | A clause by clause compliance report, gap analysis and remediation plan |
-| **A water utility** | Operations teams couldn't count on complete, timely data | Traced the slowdowns to root causes in the existing SQL, stored procedure and PySpark code, and reengineered it without replacing the platform | Dependable data for operational monitoring and decisions, from the platform the utility already owned |
+| **A water utility in the UK** | Operations teams couldn't count on complete, timely data | Traced the slowdowns to root causes in the existing SQL, stored procedure and PySpark code, and reengineered it without replacing the platform | Dependable data for operational monitoring and decisions, from the platform the utility already owned |
 
 *Wind card links to [NEPRA IT/OT Compliance](/services/nepra). Water card wording matches the Data Analytics and Legacy pages.*
 
@@ -114,7 +114,7 @@ xLoop has delivered an IT/OT compliance audit for a wind power producer in Pakis
 
 xLoop designs energy and utilities AI around one rule: nothing we build or test should put plant availability or safety at risk.
 
-- **Read, don't touch.** Models read from historians and data copies, not from live controllers, unless you decide otherwise
+- **Read, don't touch.** Models read from data copies, not from live controllers, unless you decide otherwise
 - **Passive OT assessment.** We review OT networks and configuration without sending traffic that could affect controllers
 - **Runs on site when it must.** Models and video analytics can run at the edge or on premise, so plant data doesn't have to leave the site
 - **People make the operational call.** Predictions and alerts go to your engineers, who decide what happens next
@@ -133,7 +133,7 @@ xLoop designs energy and utilities AI around one rule: nothing we build or test 
 | Who we work with | Power producers, including renewables · transmission and distribution companies · water utilities |
 | Common triggers | Unreliable operational data · unplanned outages · rough forecasts · a NEPRA IT/OT audit · IT and OT networks connected |
 | Solutions | Operational data platforms · predictive maintenance · demand and generation forecasting · site monitoring · knowledge assistants · IT/OT security and NEPRA compliance |
-| Delivered | IT/OT compliance audit for a 30 MW wind power producer · data pipeline reengineering for a water utility |
+| Delivered | IT/OT compliance audit for a 30 MW wind power producer · data pipeline reengineering for a water utility in the UK |
 | Credentials | Certified ISO 27001 and ISO 42001 Lead Auditors |
 | Deployment | Edge · on premise · private or public cloud |
 | Where to start | 30 minute AI Use Case Review · NEPRA licensees: [NEPRA IT/OT Compliance](/services/nepra) |
@@ -211,14 +211,14 @@ In 30 minutes our team will look at one use case, the plant and network data beh
 ### Decisions
 
 - **Proof is two cards, honestly.** The wind IPP audit (A5, already live on NEPRA in the same wording) and the water utility (P-09, approved business framing). Not used: **Mari Energies** (CSR training only, never energy proof), **xVoltIQ** (likely partner technology; its 15% and 20% figures are blocked, C10), the **xVision** card (banking)
-- **Water utility stays unnamed and without a country.** The internal register names it; the brain says do not name. If Sana wants "anonymous but specific", "a UK water utility" is the option. [CONFIRM]
+- **Water utility:** unnamed, "a water utility in the UK" (Sana, 4 Nov: UK). Written to match "a healthcare platform in Canada"
 - **Oil and gas:** not in "Who we work with", since nothing is delivered. The Cybersecurity page's Energy card still mentions oil and gas operators as a market, which is fine there
 - **Solutions are capabilities.** Predictive maintenance, forecasting, site monitoring and knowledge assistants have no energy delivery on file; they are written as what we build, linked to the service pages that carry proof from other industries
 - **Keyword split:** compliance audit terms go to NEPRA. This page mentions NEPRA to route NEPRA licensees, but doesn't target "NEPRA compliance audit"
 
 ### Open [CONFIRM] items
 
-1. Water utility descriptor: "a water utility" or "a UK water utility"
+1. Resolved 4 Nov: UK
 2. Resolved 4 Nov: the refreshed NEPRA blog is live at the old OT/IT URL; Resources uses its new title
 3. A5: the account owner's OK on the wind reference (open since August; already live)
 

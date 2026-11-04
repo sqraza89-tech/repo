@@ -236,7 +236,7 @@ In 30 minutes our security team will look at what you need tested, from domains 
 
 [All xSecurity services](/xsecurity) · [AI security services: red teaming, audits and AI SOC](/services/ai-security-service) · [NEPRA IT/OT compliance for the power sector](/services/nepra) · [Cloud and hyperscaling](/services/cloud-and-hyperscaling)
 
-**Resources:** Why OT and IT Security Can't Be an Afterthought in Digital Transformation · AI Governance and Cybersecurity Strategies for Modern Enterprises
+**Resources:** NEPRA IT/OT Security Regulations: What Power Companies Must Do, and What an Audit Looks Like · AI Governance and Cybersecurity Strategies for Modern Enterprises
 
 *Use each blog's published title as the link text. Both are live (sitemap, 27 Oct).*
 

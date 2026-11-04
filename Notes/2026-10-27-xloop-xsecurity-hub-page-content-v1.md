@@ -179,7 +179,7 @@ In 30 minutes our security team will look at what you are running, from AI tools
 
 [AI security services: red teaming, audits and AI SOC](/services/ai-security-service) · [Cybersecurity services: VAPT, cloud and SOC](/services/cyber-security-service) · [NEPRA IT/OT compliance for the power sector](/services/nepra) · [Data and AI consulting](/ai-consultancy)
 
-**Resources:** Is Your AI Actually Secure? What Enterprise Leaders Need to Know in 2026 · Why OT and IT Security Can't Be an Afterthought in Digital Transformation · AI Governance and Cybersecurity Strategies for Modern Enterprises · Launching xSecurity: Pioneering AI Security Services for Digital Trust (Media & Mentions)
+**Resources:** Is Your AI Actually Secure? What Enterprise Leaders Need to Know in 2026 · NEPRA IT/OT Security Regulations: What Power Companies Must Do, and What an Audit Looks Like · AI Governance and Cybersecurity Strategies for Modern Enterprises · Launching xSecurity: Pioneering AI Security Services for Digital Trust (Media & Mentions)
 
 *Use each item's published title as the link text. All four are live (sitemap, 27 Oct).*
 

@@ -187,7 +187,7 @@ In 30 minutes our team will look at one use case, the plant and network data beh
 
 [NEPRA IT/OT compliance for the power sector](/services/nepra) · [Cybersecurity and OT security](/services/cyber-security-service) · [Predictive analytics and forecasting](/services/predictive-analytics) · [Data analytics and engineering](/services/data-analytics) · [Computer vision for site monitoring](/services/computer-vision)
 
-**Resources:** Why OT and IT Security Can't Be an Afterthought in Digital Transformation · [CONFIRM: the refreshed NEPRA IT/OT regulations blog title, once republished]
+**Resources:** NEPRA IT/OT Security Regulations: What Power Companies Must Do, and What an Audit Looks Like
 
 ---
 
@@ -219,7 +219,7 @@ In 30 minutes our team will look at one use case, the plant and network data beh
 ### Open [CONFIRM] items
 
 1. Water utility descriptor: "a water utility" or "a UK water utility"
-2. Title of the refreshed NEPRA regulations blog (19 Oct refresh) for Resources, once republished
+2. Resolved 4 Nov: the refreshed NEPRA blog is live at the old OT/IT URL; Resources uses its new title
 3. A5: the account owner's OK on the wind reference (open since August; already live)
 
 ## Next steps

@@ -196,7 +196,9 @@ In 30 minutes our team will look at one use case, the data and systems behind it
 
 [LLM assistants and RAG](/services/large-language-models) · [AI agents for operations](/services/ai-agents-and-autonomous-systems) · [Branch video analytics with computer vision](/services/computer-vision) · [AI security testing](/services/ai-security-service) · [Legacy system modernization](/services/legacy-system-modernization)
 
-**Resources:** [CONFIRM: pick two or three live blogs on banking or financial services AI; none of the three blogs on the live page are about banking]
+**Resources:** [AI in Banking: Where It Works, What It Takes, and Why Getting It Right Matters](/insights/blogs/ai-in-banking-where-it-works-what-it-takes-and-why-it-matters) · [How Agentic AI Prevents Fraud in Financial Services](/insights/blogs/how-agentic-ai-prevents-fraud-in-financial-services) · [Rethinking Loan Operations: How AI Agents Are Accelerating Approval Cycles](/insights/blogs/rethinking-loan-operations-how-ai-agents-are-accelerating-approval-cycles)
+
+*Replaces the three blogs on the live page (quality control, South Africa, DevOps), which are not about banking.*
 
 ---
 
@@ -235,7 +237,7 @@ Hero (industry eyebrow, H1 "AI and Data Solutions for [Industry]") → answer bl
 
 1. Bank app security client is in Pakistan (shared with the xSecurity hub)
 2. Financial wellness card: wait for ABHI's OK, or use it anonymous now (already on the Cloud page)
-3. Two or three live blogs relevant to banking for the Resources line
+3. Resolved 4 Nov: three live banking blogs chosen. Other live finance posts if design wants more: Smart Onboarding in Retail Banking with AI (Jul 2025) · Agentic AI in Wealth Management (May 2026; British "Optimising" in its title) · 5+ Examples of Generative AI in Finance (Apr 2025) · AI in banking: 5 Transformative Trends Reshaping Finance in 2025 (dated title)
 4. Legacy page is not live yet (404); its link waits for launch
 
 ## Next steps

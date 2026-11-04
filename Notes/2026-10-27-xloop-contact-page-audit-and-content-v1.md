@@ -78,10 +78,10 @@ tags: [xloop, contact-page, conversion, cro, lead-form, site-revamp, rebrand, se
 
 | Card | Copy | Link |
 |---|---|---|
-| **Email** | Prefer email? Write to us directly. | `info@xloopdigital.com` |
-| **NEPRA and security** | Power sector licensees and security inquiries can reach our security team directly. | `xsecurity@xloopdigital.com` · `+92 21 3586 9200` |
-| **Careers** | Looking for a role at xLoop? See open positions. | `/insights/careers` |
-| **Partners and press** | Partnerships, events and media requests. | `info@xloopdigital.com` [CONFIRM: separate address?] |
+| **Email** | Prefer email? Write to us directly. | [info@xloopdigital.com](mailto:info@xloopdigital.com) |
+| **NEPRA and security** | Power sector licensees and security inquiries can reach our security team directly. | [xsecurity@xloopdigital.com](mailto:xsecurity@xloopdigital.com) · [+92 21 3586 9200](tel:+922135869200) |
+| **Careers** | Looking for a role at xLoop? See open positions. | [Open positions](/insights/careers) |
+| **Partners and press** | Partnerships, events and media requests. | [info@xloopdigital.com](mailto:info@xloopdigital.com) [CONFIRM: separate address?] |
 
 ---
 

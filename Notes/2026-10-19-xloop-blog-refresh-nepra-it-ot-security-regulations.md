@@ -4,12 +4,13 @@ tags: [xloop, blog, refresh, BOFU, ICP4, nepra, ot-security]
 brand: xLoop
 icp: ICP4 Regulated Compliance Owner (NEPRA)
 stage: BOFU
-status: draft
+status: published
 ---
 
 # Blog refresh B1: NEPRA IT/OT Security Regulations
 
 **Plan row:** B1 · planned publish Mon 5 Oct 2026 (now late; draft was due Mon 28 Sep 2026) · Industry proof, Energy & utilities · REFRESH · BOFU
+**Published (checked 4 Nov 2026):** live at the kept URL with the new title and H1. The old title "Why OT and IT Security Can't Be an Afterthought in Digital Transformation" no longer exists; service pages link this post by its new title.
 **Live URL (kept):** `/insights/blogs/why-ot-it-security-cant-be-an-afterthought-in-digital-transformation`
 **Refresh level:** Heavy. The old post is a generic "IT/OT convergence" piece with no ICP, an unsourced statistic and a form CTA. The body is rewritten around ICP4's question; URL kept, original publish date kept (Thu 7 May 2026), and a few original sections reused where they still fit.
 

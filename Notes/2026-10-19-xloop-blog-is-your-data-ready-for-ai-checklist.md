@@ -59,61 +59,61 @@ Pick one use case you want to fund, then score the data behind it on each point:
 
 ### 1. Sources: do you know every system that holds the data for this use case?
 
-Ready looks like a written list of every source system, including the spreadsheets and exports people actually rely on. If nobody can produce that list in a day, the AI project will discover the sources for you, one surprise at a time.
+Your team can produce a written list of every source system, including the spreadsheets and exports people actually rely on. If nobody can produce that list in a day, the AI project will discover the sources for you, one surprise at a time.
 
 **Test:** Can your team name every system that feeds the use case, and who runs each one?
 
 ### 2. Definitions: does a "customer", "order" or "active account" mean the same thing everywhere?
 
-Ready looks like agreed business definitions for the terms the use case depends on. When finance and sales count customers differently, a model trained on both will learn both, and nobody will trust its answer.
+Every term the use case depends on has one agreed business definition, used by every team. When finance and sales count customers differently, a model trained on both will learn both, and nobody will trust its answer.
 
 **Test:** If two teams report the same number this month, do they match?
 
 ### 3. Duplicates: is each customer, product or asset recorded once?
 
-Ready looks like one record per real thing, or a known rule for merging records. Duplicates inflate counts, split histories, and give a model a distorted picture of who your customers are.
+Each real customer, product or asset appears once, or there is a known rule for merging its records. Duplicates inflate counts, split histories, and give a model a distorted picture of who your customers are.
 
 **Test:** Do you know roughly what share of your core records are duplicates?
 
 ### 4. Gaps: are the fields the use case needs actually filled in?
 
-Ready looks like measured completeness for the fields that matter, not for the whole database. A churn model can't learn from a cancellation reason that is blank in most records.
+Completeness is measured for the fields that matter to this use case, not for the whole database. A churn model can't learn from a cancellation reason that is blank in most records.
 
 **Test:** For the five fields this use case depends on most, do you know how often each is empty?
 
 ### 5. Ownership: does each dataset have a named owner who can approve changes?
 
-Ready looks like a named person, not a department, for every dataset in scope. Without an owner, quality problems get reported and never fixed, and nobody can say whether data may be used for a new purpose.
+Every dataset in scope has a named person as its owner, not a department. Without an owner, quality problems get reported and never fixed, and nobody can say whether data may be used for a new purpose.
 
 **Test:** For each source on your list, can you name the person who decides what "correct" means?
 
 ### 6. Lineage: can you trace a number back to where it came from?
 
-Lineage is the record of where data originated and every step that changed it on the way. Ready looks like being able to follow a figure from a report back through each transformation to its source. When an AI output looks wrong, lineage is how you find out why in hours instead of weeks.
+Lineage is the record of where data originated and every step that changed it on the way. With lineage in place, you can follow a figure from a report back through each transformation to its source. When an AI output looks wrong, lineage is how you find out why in hours instead of weeks.
 
 **Test:** Pick a number from last month's board report. Can someone trace it to source today?
 
 ### 7. Access: can the tools that need the data reach it through pipelines or APIs?
 
-Ready looks like data that flows to where it is used through documented pipelines or APIs, not through manual exports. If every refresh depends on someone downloading a file, an AI system built on it will be as reliable as that person's calendar.
+Data reaches the tools that use it through documented pipelines or APIs, not through manual exports. If every refresh depends on someone downloading a file, an AI system built on it will be as reliable as that person's calendar.
 
 **Test:** Could a new application read this data next week without anyone emailing a file?
 
 ### 8. Security: do permissions follow the data into AI tools?
 
-Ready looks like access rules that still apply when the data is used by a model, a search index or an assistant. An assistant built on your documents should not show a junior analyst what only the board may see.
+Access rules still apply when the data is used by a model, a search index or an assistant. An assistant built on your documents should not show a junior analyst what only the board may see.
 
 **Test:** Could an assistant built on your documents respect who is allowed to see what?
 
 ### 9. Volume: is there enough history for the use case?
 
-Ready looks like enough relevant records, over enough time, to reflect how the business actually behaves, including seasonal swings and rare events. "Enough" depends on the use case: a forecast needs more history than a document search assistant does.
+There are enough relevant records, over enough time, to reflect how the business actually behaves, including seasonal swings and rare events. "Enough" depends on the use case: a forecast needs more history than a document search assistant does.
 
 **Test:** Does your history cover at least one full business cycle for this use case?
 
 ### 10. Freshness: is the data current enough for the decision it supports?
 
-Ready looks like a known refresh schedule that matches the decision. A monthly report can run on last week's data. A fraud check can't. Agree the freshness the use case needs before you build, then confirm the pipeline delivers it.
+The data refreshes on a known schedule that matches the decision it supports. A monthly report can run on last week's data. A fraud check can't. Agree the freshness the use case needs before you build, then confirm the pipeline delivers it.
 
 **Test:** Do you know how old the data is when it reaches the people or systems that use it?
 
@@ -242,6 +242,8 @@ Less than most people expect. Layered architecture, governance and pipeline desi
 4. **Proof use.** Retailer (A9 / P-01) and water utility (P-09) used anonymized, in approved wording, no figures.
 5. **"AI-ready"** keeps its hyphen: it is the search term and the plan's FAQ wording. Other hyphens removed from prose per brand voice.
 6. **Old cluster pages** still carry "2025 Guide" in the title tag (`common-data-challenges`); worth a refresh when this goes live.
+
+**4 Nov:** the ten checklist answers no longer open with "Ready looks like" (Irfan: repetitive). Each now states the ready condition directly. Changed in md and in the docx in place.
 
 ## Next steps
 - [ ] Sana review

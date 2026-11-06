@@ -141,6 +141,14 @@ Don't change things in the first 3 to 4 days. LinkedIn needs that time to learn.
 - [ ] No energy-sector framing; Mari appears as CSR funder and collaborator only
 - [ ] Named owner on the training team for lead form inquiries
 
+## Open: lead form vs landing page (raised 6 Nov, not yet decided)
+
+- Sana questioned the lead form: Lead Gen Forms only work under the lead generation objective, cost more for senior audiences, and feel salesy for a brand campaign
+- **Recommended:** Campaign 2 becomes **Website visits** (same 50%+ viewers retargeting) → Sponsored Talent Programs page on the new xCelerate section; Campaign 1 video ads also carry a "Learn more" link to it
+- Needs: xCelerate pages live by Mon 30 Nov, LinkedIn Insight Tag on xloop.com (production devs), UTM-tagged links
+- **Fallback if pages aren't live:** drop Campaign 2, move its USD 140 into video views, link to the current xCelerate page (never the homepage)
+- Word doc still shows the lead form version; update it once decided
+
 ## Next steps
 
 - [ ] Ali to share with Nasir for go-ahead

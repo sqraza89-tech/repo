@@ -25,6 +25,8 @@ Four proposed AI-first pillars (**not final**: Decision D01 on Abeer's plan; don
 Off-pillar, not on the homepage: game development, blockchain, digital marketing.
 
 ## ICPs
+**Update 2026-11-06:** target is SMB + mid-market (ICP2 to ICP4). Founders (ICP1) are no longer targeted; founder pages stay live for SEO only. See `Projects/TekRevol/03-website/2026-11-06-website-blueprint-v1.md`.
+
 | ID | ICP | Main worry | In their words | Leads with | CTA |
 |---|---|---|---|---|---|
 | ICP1 | Founder (first product, often a stalled AI-builder prototype) | Getting burned again; scope and cost spiraling | "every existing app covers only 50 to 60% of what I need" | Trust | Low-pressure conversation |

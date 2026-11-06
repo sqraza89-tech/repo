@@ -28,6 +28,7 @@ Everything made for TekRevol lives here.
 | `_build/report-docx/` | **Word report builder:** markdown report → two .docx (Cover A abstract, Cover B glass) + `render-check.ps1` (embed fonts, PDF, PNG QA). Used for every TekRevol Word report |
 
 ## Key links
+- **Website rebuild (current, 2026-11-06):** roadmap `03-website/2026-11-06-website-rebuild-roadmap.md` + blueprint v1 `03-website/2026-11-06-website-blueprint-v1.md` (SMB + mid-market, founders out of nav, 5 pillars, ~31 launch pages on 12 templates; awaiting Sana approval)
 - **Brand guidelines:** `01-brand-system/deck-v7/` (Cyan and Mono)
 - Older v2 web page (superseded): https://claude.ai/artifact/HpisETnNbr4fyuqKkUWz5z · font comparison: https://claude.ai/artifact/Fjt5fezUGewSwkuUTLc44D
 - **Brand profile used by the skills:** `Reference/brands/tekrevol.md`

@@ -183,3 +183,4 @@ Nothing ships until these are confirmed in writing. Owner in brackets.
 - [ ] Get signing details, tier, Creatio brand rules, signing photo and Creatio contact from Huzaifa
 - [ ] Decide where the CTA links while the CRM page is unbuilt
 - [ ] Draft the campaign for the CEO review
+- Campaign first draft: [[2026-11-10-xloop-creatio-signing-social-campaign-draft-v1]]. Public "Creatio vs Salesforce" blog dropped: Salesforce is a listed xLoop technology partner (A2)

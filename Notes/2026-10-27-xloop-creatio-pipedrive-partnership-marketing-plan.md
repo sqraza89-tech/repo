@@ -169,3 +169,17 @@ Nothing ships until these are confirmed in writing. Owner in brackets.
 - [Creatio partner-driven strategy](https://www.creatio.com/partners/partner-driven-strategy)
 - [Pipedrive solution provider partnership](https://www.pipedrive.com/en/solution-provider-partnership)
 - [Pipedrive program announcement (BusinessWire, Jun 2025)](https://businesswire.com/news/home/20250610391775/en/Pipedrive-Announces-New-Solution-Provider-Partner-Program-to-Enhance-Global-Growth)
+
+## Update Tue 10 Nov 2026: CEO request
+
+- Nasir (CEO), via Huzaifa on Thu 5 Nov 2026: "work with Sana and build a campaign around the
+  Creatio signing to be pushed into social media" and "discuss the 1st draft with me next Friday"
+- So the **Creatio signing is confirmed**. The campaign is **Creatio only**; Pipedrive stays out of it
+- Review date: assumed **Fri 13 Nov 2026** (could mean Fri 20 Nov; confirm with Huzaifa)
+- First draft = campaign outline + post copy (announcement carousel, Huzaifa post, CEO post,
+  4-week follow-up series) + visual brief for Omais
+
+- [ ] Confirm the review date with Huzaifa
+- [ ] Get signing details, tier, Creatio brand rules, signing photo and Creatio contact from Huzaifa
+- [ ] Decide where the CTA links while the CRM page is unbuilt
+- [ ] Draft the campaign for the CEO review

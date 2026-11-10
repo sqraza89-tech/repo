@@ -9,7 +9,7 @@ For the CEO review with **Mir Nasir** and **Huzaifa Valika** (assumed **Fri 13 N
 Request: "work with Sana and build a campaign around the Creatio signing to be pushed into social media."
 Parent plan: [[2026-10-27-xloop-creatio-pipedrive-partnership-marketing-plan]].
 
-Items in `[square brackets]` are waiting on Huzaifa's inputs.
+Items in `[square brackets]` are waiting on Huzaifa's inputs. Word version for the review: `Notes/2026-11-10-xloop-creatio-signing-social-campaign-draft-v1.docx`.
 
 ## Campaign on one page
 

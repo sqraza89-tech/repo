@@ -35,6 +35,7 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - Cybersecurity v1 (27 Oct): `Notes/2026-10-27-xloop-cybersecurity-page-content-v1.docx`. xSecurity section complete (hub + AI Security + Cybersecurity; NEPRA content stands). Counters, ticker and NIST/SOC 2 mapping removed; 4 proof cards. NEPRA dev fixes still open: H1, title suffix (Sana, 27 Oct: keep Regulations 4 to 11; "eight countries" is correct)
 - Energy & Utilities industry v1 (27 Oct): `Notes/2026-10-27-xloop-energy-utilities-industry-page-content-v1.docx`. Proof = wind IPP audit + water utility pipelines; Mari and xVoltIQ not used
 - Contact page audit + content v1 (27 Oct, added by Sana): `Notes/2026-10-27-xloop-contact-page-audit-and-content-v1.docx`. Routing dropdown, 4 required fields, reply time, other routes, GA4 generate_lead
+- Healthcare, Transport & Logistics, Retail & eCommerce industry v1 (10 Nov): `Notes/2026-11-10-xloop-{healthcare,transport-logistics,retail-ecommerce}-industry-page-content-v1.docx`. Industries complete except Mining (blocked)
 - Banking & Finance industry v1 (27 Oct): `Notes/2026-10-27-xloop-banking-finance-industry-page-content-v1.docx`. First of the 6 industry pages; sets the industry pattern. 7 anonymous cases, live stats and counters removed
 
 ## Not written yet
@@ -43,7 +44,6 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - xLab hub + 7 product pages
 
 ## Written in August, now out of date
-- Industries: 9 → 6 (Mining replaces Manufacturing; 301 redirects for Smart Cities, Telco, EdTech). Banking + Energy done 27 Oct; Healthcare, Transport & Logistics, Retail & eCommerce to go; Mining blocked
 - xCrowdIQ (experimental) and xVoltIQ (possible partner outcomes): check before featuring
 
 ## Next steps
@@ -68,6 +68,8 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - [x] Cybersecurity v1 (27 Oct)
 - [x] Energy & Utilities industry v1 (27 Oct)
 - [x] Contact page audit + content v1 (27 Oct)
+- [x] Healthcare, Transport & Logistics, Retail & eCommerce v1 (10 Nov). Industries done except Mining
+- [ ] Devs: 301 Smart Cities, Telco/ICT, EdTech; Manufacturing → Mining in menu once Mining is written; render the repeated challenges sections once (Transport, Retail); fix the banking text on the live Healthcare Population Health card
 - [ ] Devs: contact form changes (routing dropdown, required fields, invisible CAPTCHA, GA4 generate_lead), one H1, ContactPage schema
 - [ ] Devs: NEPRA fixes still open: descriptive H1 rendered in HTML, doubled title suffix. (Sana, 27 Oct: keep Regulations 4 to 11, no Reg 12 row; "eight countries" stays, xLoop has served clients in 8 countries)
 - [ ] Devs, now: lead form heading says "Explore AI Agents for Your Business" on 5 Applied AI leaf pages

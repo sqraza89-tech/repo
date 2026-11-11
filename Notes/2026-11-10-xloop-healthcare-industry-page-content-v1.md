@@ -185,7 +185,7 @@ In 30 minutes our team will look at one use case, the data behind it and the pri
 
 ## 10. Related · `#related`
 
-[LLM search and assistants](/services/large-language-models) · [Data analytics and engineering](/services/data-analytics) · [Security testing for health platforms](/services/cyber-security-service) · [AI security for patient facing assistants](/services/ai-security-service) · [AI agents for patient portals](/services/ai-agents-and-autonomous-systems)
+[LLM search and assistants](/services/large-language-models) · [Data analytics and engineering](/services/data-analytics) · [Security testing for health platforms](/services/cyber-security-service) · [AI security for patient facing assistants](/services/ai-security-service) · [AI agents for patient portals](/services/ai-agents-and-autonomous-systems) · [Computer vision for patient flow](/services/computer-vision)
 
 **Resources:** [The Future of Healthcare Portals: How AI Agents are Transforming Patient Engagement](/insights/blogs/the-future-of-healthcare-portals-how-ai-agents-are-transforming-patient-engagement) · [Predictive Analytics in Healthcare: Optimizing Outcomes & Efficiency](/insights/blogs/predictive-analytics-healthcare-outcomes-efficiency) · [3+ Applications of Big Data in Healthcare (Real Examples)](/insights/blogs/3-applications-of-big-data-in-healthcare-real-examples)
 

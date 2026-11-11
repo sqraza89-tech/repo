@@ -148,8 +148,8 @@ xLab products are running in a bank with 1,200 branches across South Asia, a lea
 |---|---|
 | What it is | xLoop's AI product studio |
 | Products | xVision · xServe · HR App Pilot · Chat Genie |
-| Custom products | Empathize · Profile · Ideate · MVP · Test · Upscale |
-| In use at | A bank with 1,200 branches · a leading Saudi Arabian fast food chain |
+| Custom build process | Empathize · Profile · Ideate · MVP · Test · Upscale |
+| In use at | A bank with 1,200 branches · a leading Saudi Arabian fast food chain · xLoop (HR App Pilot, internal) |
 | Deployment | Cloud · private cloud · on premise |
 | Where to start | 30 minute Product Fit Call |
 | Related | Applied AI Solutions · AI Agents · Computer Vision · Data & AI Consulting |

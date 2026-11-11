@@ -17,7 +17,7 @@ tags: [xloop, industry-page, retail, ecommerce, qsr, snowflake, xserve, site-rev
 | Field | Value |
 |---|---|
 | Title tag | `AI and Data Solutions for Retail and eCommerce \| xLoop` |
-| Meta description | `Data, AI and cloud for retailers, ecommerce brands and restaurant chains: one source of truth on Snowflake, AI ordering agents, demand forecasting and peak scale.` |
+| Meta description | `Data, AI and cloud for retailers, ecommerce brands and restaurant chains: Snowflake data platforms, AI agents, AI ordering, demand forecasting and peak scale.` |
 | H1 | AI and Data Solutions for Retail and eCommerce |
 | Nav label | Retail & eCommerce |
 | Breadcrumb | Home › Industries › Retail & eCommerce |
@@ -95,13 +95,14 @@ xLoop's solutions for retail and ecommerce cover retail data platforms, AI order
 
 **H2:** Our Work in Retail and eCommerce
 
-xLoop has built a single source of truth on Snowflake for a South African retailer, deployed AI ordering for a Saudi Arabian fast food chain, planned a cloud migration for a Middle East retail group, and moved an ecommerce brand to AWS.
+xLoop has moved a South African retailer's reporting onto Snowflake and built it an executive AI agent, deployed AI ordering for a Saudi Arabian fast food chain, planned a cloud migration for a Middle East retail group, and moved an ecommerce brand to AWS.
 
 *Card format: same as the Banking page. Anonymous but specific. Wording matches the service pages.*
 
 | Client | Type | The problem | What we built | Result |
 |---|---|---|---|---|
-| **A leading South African retailer** | Data | Data spread across SAP ERP, SAP BW and application databases, with competing sources of truth | Built a centralized lakehouse on Snowflake and AWS, and moved every source into it | Reporting, data analysis, data science models and AI use cases now run from one trusted source |
+| **A leading South African retailer** | Data | Power BI reports ran heavy transformation logic directly on MySQL source databases. Model refreshes took five to six hours and clashed with each other, holding up operations teams every day | Migrated the data to Snowflake with a medallion architecture (bronze, silver and gold layers), moved the transformations into Snowflake, and built curated views for Power BI and other teams | Report refresh time cut from five to six hours to 10 to 15 minutes, with simpler maintenance |
+| **A leading South African retailer** | AI | Executives depended on analysts and prepared reports for every question and follow up | An executive AI agent on Snowflake Cortex that answers plain English questions on orders and deliveries, revenue, average order value, perfect order rate, campaigns, and driver and store performance, and explains unusual highs and lows. Access is limited to authorized executives | Executives get answers and follow ups themselves, without waiting for an analyst or a report |
 | **A leading Saudi Arabian fast food chain** | AI | High order volumes at peak hours | Deployed xServe, our AI ordering agent, to take orders at peak times in natural conversation. It also suggests upsells and provides nutritional information when customers ask, in English, Urdu or Arabic | Peak hour orders handled by AI, with upsell suggestions and nutrition details built into the ordering flow |
 | **A leading Middle East retail and real estate group** | Cloud | A large AWS estate, including a Vertica data platform, to move to Azure | Mapped every application, workload and data dependency, built a total cost of ownership model and sequenced the move into migration waves, jointly with Microsoft | A migration plan the business can fund and run in controlled waves |
 | **An ecommerce brand** | Cloud | A legacy single server setup that limited growth | Migrated to AWS, decoupled the application layers and updated the codebase | A foundation for scalable operations |
@@ -132,7 +133,7 @@ xLoop designs retail systems for the days that matter most: sales events, holida
 | Common triggers | Competing sales numbers · peak hour order volume · stockouts and overstock · site failures at peak · store footage nobody watches |
 | Solutions | Retail data platforms · AI ordering and service agents · demand forecasting · personalization · store analytics · cloud for peak demand |
 | Products | xServe (AI ordering) · xVision (video analytics) |
-| Delivered | Snowflake source of truth for a South African retailer · AI ordering for a Saudi Arabian fast food chain · AWS to Azure migration plan for a Middle East retail group · ecommerce move to AWS |
+| Delivered | Snowflake reporting platform and an executive AI agent for a South African retailer · AI ordering for a Saudi Arabian fast food chain · AWS to Azure migration plan for a Middle East retail group · ecommerce move to AWS |
 | Where to start | 30 minute AI Use Case Review |
 | Related | Data Analytics & Engineering · AI Agents · Predictive Analytics · Cloud & Hyperscaling |
 
@@ -148,7 +149,7 @@ xLoop designs retail systems for the days that matter most: sales events, holida
 Retailers use AI to forecast demand and stock, recommend products, take orders and answer customers through AI agents, measure store performance from cameras, and detect fraud. xLoop has built retail data platforms and AI ordering agents for retailers and restaurant chains.
 
 **Do we need clean data before starting AI?**
-You need the data for one use case to be reliable, not all your data to be perfect. Where sales, stock and customer data disagree, we bring them into one source of truth first, as we did on Snowflake for a South African retailer.
+You need the data for one use case to be reliable, not all your data to be perfect. Where sales, stock and customer data disagree, we bring them into one source of truth first, as we did on Snowflake for a South African retailer, cutting its report refresh time from hours to minutes.
 
 **Can an AI agent take orders in more than one language?**
 Yes. xServe, our AI ordering agent, takes orders in English, Urdu and Arabic, suggests upsells and answers nutrition questions for a Saudi Arabian fast food chain.
@@ -170,7 +171,7 @@ A first production pilot usually takes six to twelve weeks, depending on the use
 
 In 30 minutes our team will look at one use case, the sales, stock or customer data behind it, and the systems it touches. You'll leave knowing whether it can work, what it would take, and how we would build it.
 
-**Proof line (above the button):** One source of truth for a South African retailer, and AI ordering at peak hours for a Saudi Arabian fast food chain.
+**Proof line (above the button):** Report refreshes cut from hours to minutes for a South African retailer, and AI ordering at peak hours for a Saudi Arabian fast food chain.
 
 **CTA:** Book a 30 Minute AI Use Case Review →
 
@@ -204,7 +205,7 @@ In 30 minutes our team will look at one use case, the sales, stock or customer d
 
 ### Decisions
 
-- **Four proof cards**, all with service page wording: P-01 South African retailer (Data page wording "A leading South African retailer"; the Data & AI Consulting page uses "One of the largest South African retailers", the same open point as before), xServe (approved as a deployment, B5; no 45% or 78%), the Middle East retail and real estate group (the AWS to Azure **plan**, never "migrated"; never name the client), the ecommerce brand (Cloud page wording; candidate P-16, which the Cloud page already uses)
+- **South African retailer cards follow Irfan's Pick n Pay document (Sana, 11 Nov: base it on his document, don't invent).** MySQL to Snowflake, refresh 5 to 6 hours → 10 to 15 minutes, plus the executive Cortex agent. The SAP ERP/BW wording (A9) is no longer used here. "6x" not used (unclear). Earlier note: P-01 South African retailer (Data page wording "A leading South African retailer"; the Data & AI Consulting page uses "One of the largest South African retailers", the same open point as before), xServe (approved as a deployment, B5; no 45% or 78%), the Middle East retail and real estate group (the AWS to Azure **plan**, never "migrated"; never name the client), the ecommerce brand (Cloud page wording; candidate P-16, which the Cloud page already uses)
 - **Personalization, fraud and store analytics** are capabilities without retail delivery on file. Written as what we build, linked to service pages. Fraud is mentioned in the answer block and FAQ only, not as a solution block
 - **Quick service restaurants** are in scope here because xServe is the strongest retail AI proof
 - **URL:** keep `/industries/retail-and-eCommerce` (the capital C is unusual but indexed). Same option as Transport: fix with a 301 now, while industries are being redirected, or keep

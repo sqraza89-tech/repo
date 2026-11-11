@@ -47,7 +47,7 @@ Wording follows the site card format (client · problem · what we built · resu
 
 The site currently says (approved claim A9, CTO 17 Sep): *"Data spread across SAP ERP, SAP BW and application databases… a centralized lakehouse on Snowflake and AWS."* Irfan's document says the source was **MySQL**, with Power BI on top, and doesn't mention SAP or AWS.
 
-These may be two phases of the same program, or the earlier wording may be wrong. Until Irfan confirms, don't change the live cards, and don't publish both versions side by side.
+**Resolved (Sana, 11 Nov): base everything on Irfan's document; don't invent.** New copy uses MySQL to Snowflake and the refresh time. "6x" is not used (unclear). The SAP ERP/BW wording stays only on pages already with design, until they're next updated
 
 ## Questions for Irfan
 
@@ -59,6 +59,6 @@ These may be two phases of the same program, or the earlier wording may be wrong
 
 ## Next steps
 
-- [ ] Sana: send the five questions to Irfan
+- [x] Sana: no questions to Irfan needed; use the document as is (11 Nov)
 - [ ] After his answers: update the Data Analytics, AI Agents and Retail pages, and the marketing brain (A9, proof library)
 - [ ] Portfolio: one anonymous case study page covering all four projects

@@ -6,7 +6,7 @@ tags: [xloop, xlab, hub, ai-products, xvision, xserve, hr-app-pilot, chat-genie,
 # xLab Hub · Page Content v1 (for design handoff)
 
 **URL:** `/xlab` (keep). `/xlab/design-studio` shows the same page today; **301 it to `/xlab`** (Sana, 11 Nov: xLab is the design studio, one page only)
-**Children:** xVision · xServe · HR App Pilot · Chat Genie. xCrowdIQ, xVoltIQ and Meta Human are not featured (see internal notes)
+**Children:** xVision · xServe · HR App Pilot · Chat Genie. xCrowdIQ, xVoltIQ and Meta Human come off the xLab menu (Sana, 11 Nov)
 **Scope:** xLoop's AI products and the product studio behind them. A routing page: what each product does, who it's for, the proof, and a way to find the right fit. Detail lives on the product pages
 **Design:** the hub layout used for Applied AI Solutions and xSecurity, in the xLab look. Product cards are the main element
 
@@ -118,6 +118,7 @@ Every xLab product is built to run inside a real business, not just in a demo.
 
 - **Runs on your systems.** Connects to the cameras, ordering channels, HR and ERP systems and databases you already use
 - **Configured to your business.** Your policies, menu, rules and data, not a generic setup
+- **Add a digital human interface.** Our digital human front end can sit on top of an assistant such as HR App Pilot or Chat Genie, so people can talk to it face to face
 - **People stay in charge.** Products hand over to staff for anything that needs judgment
 - **Deploys where you need it.** Cloud, private cloud or on premise, depending on the product and your data rules
 - **Security tested.** Each deployment is tested for data leakage and misuse before it goes live
@@ -238,7 +239,7 @@ Irfan's document lists four Pick n Pay projects. They are services work, so they
 
 ### Open [CONFIRM] items
 
-1. Sana: remove xCrowdIQ, xVoltIQ and Meta Human from the xLab menu, and noindex or redirect their pages?
+1. Resolved 11 Nov: xCrowdIQ, xVoltIQ and Meta Human off the menu, pages 301 to `/xlab`. Meta Human is an interface, not a product (Sana): an add-on line in "What every xLab product has in common", and on the HR App Pilot and Chat Genie pages. Its 40% and 60% figures are never used
 2. Chat Genie proof line: **asked Wassay (product owner), 11 Nov; waiting.** Has a client used it (and whether the Pick n Pay executive BI agent was Chat Genie). Fallback until then (Sana may paste it): "Connects to your existing databases and BI tools", or no proof line on that card
 3. HR App Pilot: any client deployment besides xLoop's own use? (Odoo question resolved 11 Nov)
 4. Irfan: typical deployment time for a configured xLab product

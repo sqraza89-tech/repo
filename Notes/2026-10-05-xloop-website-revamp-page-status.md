@@ -44,6 +44,13 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - Case study pages (Release 2)
 - xLab hub + 7 product pages
 
+## Added to the revamp (Sana, 11 Nov)
+- About Us
+- Careers
+- Media & Mentions (listing) and the PR pages under it
+- Privacy Policy and Terms (carry the ISO 27001 cookie and privacy gaps G1 to G13, logged 29 Sep)
+- Contact Us: done 27 Oct, waiting on Sana's review
+
 ## Written in August, now out of date
 - xCrowdIQ (experimental) and xVoltIQ (possible partner outcomes): check before featuring
 
@@ -77,6 +84,8 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - [x] xLab hub v1 (11 Nov)
 - [x] Blog sidebar + footer banner forms (11 Nov): newsletter signup replaced with inquiry forms (no newsletter exists). `Notes/2026-11-11-xloop-blog-sidebar-and-footer-forms-copy.docx`
 - [ ] Sana: check the HBL Asset Management case (reconciliation automation, as on AI Agents + Banking pages, or advisory assistant?) and fix those cards if wrong
+- [ ] Devs: remove xCrowdIQ, xVoltIQ and Meta Human from the xLab menu; 301 their pages to `/xlab` (Sana, 11 Nov). Meta Human becomes an add-on line on the hub, HR App Pilot and Chat Genie pages
+- [ ] Pick n Pay wording follows Irfan's document (Sana, 11 Nov). Retail page updated. Older pages with the SAP ERP/BW wording: Data Analytics, Legacy, Data & AI Consulting, Predictive Analytics (and the homepage v2 and data checklist blog). Update only if they haven't gone to design yet
 - [ ] HR App Pilot: any client deployment besides xLoop's own internal use (on Odoo; integrates with any HR/ERP system, Sana 11 Nov)
 - [ ] xLab product pages: xVision, xServe, HR App Pilot, Chat Genie (by 30 Nov) + case study pages (Release 2)
 - [ ] Mining once the missing information arrives

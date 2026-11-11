@@ -212,7 +212,8 @@ In 30 minutes our team will look at one use case, the systems and data behind it
 
 ### Open [CONFIRM] items
 
-1. Any port, terminal or freight work beyond the container depot?
+1. Any port, terminal or freight work beyond the container depot? **Found 11 Nov:** Drydocks World ("a global maritime services company"), a single source of truth on Databricks, listed by sales in the Poland pitch brief (16 Oct), status and naming unconfirmed. If sales confirm live or in progress plus one result, add it as a second card
+1a. Container depot descriptor: Sana finds "a container depot" generic. Ask delivery for its country or a real scale fact; "one of the largest container depots in [country]" only if confirmed
 2. Mention TPL Trakker as a partner here?
 3. Fix the URL to `/industries/transport-and-logistics` with a 301, or keep it?
 

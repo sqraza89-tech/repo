@@ -38,7 +38,7 @@ tags: [xloop, xlab, hub, ai-products, xvision, xserve, hr-app-pilot, chat-genie,
 **Subhead:** xLab is where we turn the AI we build for clients into products you can deploy, and where we build new ones with you. Start with a product already working in banks and restaurant chains, or build your own on the same foundations.
 
 **Primary CTA:** Book a 30 Minute Product Walkthrough →
-**Small line under the CTA:** Pick a product or describe the problem. We'll show it working, tell you what it would take to run on your systems, and give you a straight answer in 30 minutes.
+**Small line under the CTA:** Pick a product or tell us the problem. We'll show it working and give you a straight answer on whether it fits, in 30 minutes.
 
 *Build: hidden `source=xlab-hub` tag. The form's last field lets the visitor pick a product, so the right team runs the walkthrough.*
 
@@ -183,7 +183,7 @@ Yes. Depending on the product and your data rules, they can run in the cloud, in
 
 **H2:** See an xLab Product Working
 
-In 30 minutes we'll show you the product that fits your problem, working, and tell you what it would take to run it on your systems, or whether we should build something new with you.
+In 30 minutes we'll show you the product that fits your problem, working, and tell you whether it fits or whether a custom build makes more sense.
 
 **Proof line (above the button):** Running in a bank with 1,200 branches, a leading Saudi Arabian fast food chain and a bank in Pakistan.
 

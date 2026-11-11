@@ -75,7 +75,7 @@ xLoop's xLab products are built from client work, so each one started as a real 
 
 **H2:** Which xLab Product Fits Your Problem?
 
-Start with the problem. If none of these match, xLab builds the product that does.
+Start with the problem. If none of these match, xLab can build you a custom product that does.
 
 *Design: a two column "If… then…" list, HTML text.*
 

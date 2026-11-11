@@ -199,7 +199,7 @@ In 30 minutes we'll talk through the problem you want to solve and tell you whic
 
 [All applied AI solutions](/services/applied-ai-solutions) · [AI agents and autonomous systems](/services/ai-agents-and-autonomous-systems) · [Computer vision and video analytics](/services/computer-vision) · [Data and AI consulting](/ai-consultancy)
 
-**Resources:** [CONFIRM: two live blogs about xLab products, if any; otherwise the AI agents and computer vision blogs]
+**Resources:** [Choosing Between Off-the-Shelf & Custom AI Solutions](/insights/blogs/choosing-between-off-the-shelf-and-custom-ai-solutions) · [How AI Transforms Strategic Decision Making](/insights/blogs/how-ai-transforms-strategic-decision-making) · [How AI-Powered Visual Intelligence is Transforming Modern Industries](/insights/blogs/how-ai-powered-visual-intelligence-is-transforming-modern-industries)
 
 ---
 
@@ -242,7 +242,7 @@ Irfan's document lists four Pick n Pay projects. They are services work, so they
 2. Chat Genie proof line: **asked Wassay (product owner), 11 Nov; waiting.** Has a client used it (and whether the Pick n Pay executive BI agent was Chat Genie). Fallback until then (Sana may paste it): "Connects to your existing databases and BI tools", or no proof line on that card
 3. HR App Pilot: any client deployment besides xLoop's own use? (Odoo question resolved 11 Nov)
 4. Irfan: typical deployment time for a configured xLab product
-5. Live blogs about xLab products for Resources
+5. Resolved 11 Nov: no blog is about one product; picked the product vs custom blog, one featuring Chat Genie and xVision, and one linking to xVision. Not used: Small vs Large Language Models ("in 2025" title), the manufacturing CV blog (industry retiring)
 
 ## Next steps
 

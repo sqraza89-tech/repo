@@ -75,6 +75,7 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - [ ] Devs: NEPRA fixes still open: descriptive H1 rendered in HTML, doubled title suffix. (Sana, 27 Oct: keep Regulations 4 to 11, no Reg 12 row; "eight countries" stays, xLoop has served clients in 8 countries)
 - [ ] Devs, now: lead form heading says "Explore AI Agents for Your Business" on 5 Applied AI leaf pages
 - [x] xLab hub v1 (11 Nov)
+- [x] Blog sidebar + footer banner forms (11 Nov): newsletter signup replaced with inquiry forms (no newsletter exists). `Notes/2026-11-11-xloop-blog-sidebar-and-footer-forms-copy.docx`
 - [ ] Sana: check the HBL Asset Management case (reconciliation automation, as on AI Agents + Banking pages, or advisory assistant?) and fix those cards if wrong
 - [ ] HR App Pilot: any client deployment besides xLoop's own internal use (on Odoo; integrates with any HR/ERP system, Sana 11 Nov)
 - [ ] xLab product pages: xVision, xServe, HR App Pilot, Chat Genie (by 30 Nov) + case study pages (Release 2)

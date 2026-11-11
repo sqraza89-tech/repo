@@ -95,12 +95,13 @@ xLoop's solutions for transport and logistics cover operations platforms and fie
 
 **H2:** Our Work in Transport and Logistics
 
-xLoop built the cloud operations platform and field app that runs a container depot's inspections, repairs, scheduling, invoicing and capacity tracking.
+xLoop has built a single source of truth on Databricks for a global maritime services company, and the cloud operations platform and field app that runs a container depot's inspections, repairs, scheduling, invoicing and capacity tracking.
 
-*Card format: same as the Banking page. Anonymous. One strong card; no filler.*
+*Card format: same as the Banking page. Anonymous. Two cards.*
 
 | Client | The problem | What we built | Result |
 |---|---|---|---|
+| **A global maritime services company** | Operational and business data spread across many systems, with no single trusted view | Built a single source of truth on Databricks, bringing those systems into one data platform | One trusted data platform for reporting and analysis, delivered and signed off |
 | **A container depot** | Inspections, repair jobs, scheduling, invoicing and capacity tracked in separate places, with data in silos | A cloud native platform for container inspection, automated repair job management, workforce scheduling, rule based invoicing and capacity tracking, with a mobile app for job assignment, container scanning and digital approvals | Data that used to sit in silos now lives in one operational platform |
 
 **Line below:** We also partner with RTW on AI in ERP for supply chains.
@@ -130,7 +131,7 @@ xLoop builds logistics systems around the way yards, fleets and warehouses actua
 | Who we work with | Container depots and terminals · logistics and freight operators · fleet operators · warehouses |
 | Common triggers | Operations split across systems and paper · yard or warehouse capacity surprises · slow, error prone invoicing · equipment downtime · customer status calls |
 | Solutions | Operations platforms and field apps · operational data · forecasting · predictive maintenance · document and invoicing automation · customer service assistants |
-| Delivered | Cloud operations platform and field app for a container depot |
+| Delivered | Databricks data platform for a global maritime services company · cloud operations platform and field app for a container depot |
 | Partners | RTW (AI in ERP for supply chains) |
 | Where to start | 30 minute AI Use Case Review |
 | Related | Web & App Development · Cloud & Hyperscaling · Data Analytics & Engineering · Predictive Analytics |
@@ -169,7 +170,7 @@ A first production pilot usually takes six to twelve weeks, depending on the use
 
 In 30 minutes our team will look at one use case, the systems and data behind it, and how your field teams work. You'll leave knowing whether it can work, what it would take, and how we would build it.
 
-**Proof line (above the button):** A container depot's inspections, repairs, scheduling and invoicing now run on one platform we built.
+**Proof line (above the button):** A single source of truth for a global maritime services company, and one platform for a container depot's operations.
 
 **CTA:** Book a 30 Minute AI Use Case Review →
 
@@ -212,7 +213,7 @@ In 30 minutes our team will look at one use case, the systems and data behind it
 
 ### Open [CONFIRM] items
 
-1. Any port, terminal or freight work beyond the container depot? **Found 11 Nov:** Drydocks World ("a global maritime services company"), a single source of truth on Databricks, listed by sales in the Poland pitch brief (16 Oct), status and naming unconfirmed. If sales confirm live or in progress plus one result, add it as a second card
+1. Resolved 11 Nov: Drydocks World ("a global maritime services company") added as a card. Sana: delivered, signed off, client satisfied; no measured results. Problem column is inferred from "single source of truth"; swap in the real situation if known. Never name the client
 1a. Container depot descriptor: Sana finds "a container depot" generic. Ask delivery for its country or a real scale fact; "one of the largest container depots in [country]" only if confirmed
 2. Mention TPL Trakker as a partner here?
 3. Fix the URL to `/industries/transport-and-logistics` with a 301, or keep it?

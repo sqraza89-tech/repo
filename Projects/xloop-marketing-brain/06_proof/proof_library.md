@@ -157,6 +157,14 @@ available.
 | Conflict | P-01 / A9 say SAP ERP + SAP BW + app databases → Snowflake on AWS. This document says MySQL. **Do not publish both until Irfan reconciles** |
 | Public use | ⚠️ Pending Irfan: source systems, the "6x" wording, whether the BI agent is Chat Genie, OK to publish the refresh time |
 
+## P-18 · Global maritime services company: Databricks data platform (added 2026-11-11)
+| Field | Value |
+|---|---|
+| Client | **Anonymised** — "a global maritime services company" (Drydocks World; never name) |
+| Intervention | Single source of truth on Databricks, bringing multiple systems into one data platform |
+| Outcome | Delivered and signed off; client satisfied (Sana, 2026-11-11). **No measured results** |
+| Public use | ✅ Anonymised, words only |
+
 ## P-13 · Client testimonials
 | Client | Quote | Public use |
 |---|---|---|

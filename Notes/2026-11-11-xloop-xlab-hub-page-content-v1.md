@@ -7,7 +7,7 @@ tags: [xloop, xlab, hub, ai-products, xvision, xserve, hr-app-pilot, chat-genie,
 
 **URL:** `/xlab` (keep). `/xlab/design-studio` shows the same page today; **301 it to `/xlab`** (Sana, 11 Nov: xLab is the design studio, one page only)
 **Children:** xVision · xServe · HR App Pilot · Chat Genie. xCrowdIQ, xVoltIQ and Meta Human are not featured (see internal notes)
-**Scope:** xLoop's AI products and the product studio behind them. A routing page: what each product does, who it's for, the proof, and a way to see it working. Detail lives on the product pages
+**Scope:** xLoop's AI products and the product studio behind them. A routing page: what each product does, who it's for, the proof, and a way to find the right fit. Detail lives on the product pages
 **Design:** the hub layout used for Applied AI Solutions and xSecurity, in the xLab look. Product cards are the main element
 
 ---
@@ -23,7 +23,7 @@ tags: [xloop, xlab, hub, ai-products, xvision, xserve, hr-app-pilot, chat-genie,
 | Breadcrumb | Home › xLab |
 | Schema | `ItemList` of the four products, each as a `SoftwareApplication` (name, description, applicationCategory, url) · Service for custom AI product development · FAQPage · BreadcrumbList |
 | Visible "Last updated" date | Yes |
-| Lead form heading | See an xLab Product Working |
+| Lead form heading | Find the Right xLab Product |
 
 **Build rules:** server rendered, one H1, real tables, anchor IDs, no counters, no typing animation. The live page repeats several sections twice in the HTML; render each once.
 
@@ -37,10 +37,10 @@ tags: [xloop, xlab, hub, ai-products, xvision, xserve, hr-app-pilot, chat-genie,
 
 **Subhead:** xLab is where we turn the AI we build for clients into products you can deploy, and where we build new ones with you. Start with a product already working in banks and restaurant chains, or build your own on the same foundations.
 
-**Primary CTA:** Book a 30 Minute Product Walkthrough →
-**Small line under the CTA:** Pick a product or tell us the problem. We'll show it working and give you a straight answer on whether it fits, in 30 minutes.
+**Primary CTA:** Book a 30 Minute Product Fit Call →
+**Small line under the CTA:** Tell us the problem you want to solve. We'll tell you which product fits, or whether a custom build makes more sense, in 30 minutes.
 
-*Build: hidden `source=xlab-hub` tag. The form's last field lets the visitor pick a product, so the right team runs the walkthrough.*
+*Build: hidden `source=xlab-hub` tag. The form's last field lets the visitor pick a product, so the right team takes the call.*
 
 ---
 
@@ -151,7 +151,7 @@ xLab products are running in a bank with 1,200 branches, a leading Saudi Arabian
 | Custom products | Empathize · Profile · Ideate · MVP · Test · Upscale |
 | In use at | A bank with 1,200 branches · a leading Saudi Arabian fast food chain · a bank in Pakistan |
 | Deployment | Cloud · private cloud · on premise |
-| Where to start | 30 minute Product Walkthrough |
+| Where to start | 30 minute Product Fit Call |
 | Related | Applied AI Solutions · AI Agents · Computer Vision · Data & AI Consulting |
 
 ---
@@ -175,19 +175,19 @@ Yes. Each deployment is configured to your systems, data, rules and language, an
 Yes. Depending on the product and your data rules, they can run in the cloud, in your private cloud or on premise. xVision, for example, can process video on site so footage doesn't leave the premises.
 
 **How long does it take to deploy an xLab product?**
-[CONFIRM with Irfan: typical deployment time for a configured product, and how it compares with the six to twelve week custom AI pilot.] We agree the timeline during the walkthrough, once we have seen your systems.
+[CONFIRM with Irfan: typical deployment time for a configured product, and how it compares with the six to twelve week custom AI pilot.] We agree the timeline once we understand your systems and requirements.
 
 ---
 
 ## 10. CTA band · `#start`
 
-**H2:** See an xLab Product Working
+**H2:** Find the Right xLab Product for Your Problem
 
-In 30 minutes we'll show you the product that fits your problem, working, and tell you whether it fits or whether a custom build makes more sense.
+In 30 minutes we'll talk through the problem you want to solve and tell you which xLab product fits, or whether a custom build makes more sense.
 
 **Proof line (above the button):** Running in a bank with 1,200 branches, a leading Saudi Arabian fast food chain and a bank in Pakistan.
 
-**CTA:** Book a 30 Minute Product Walkthrough →
+**CTA:** Book a 30 Minute Product Fit Call →
 
 **Form fields:** Name · Work email · Company · Which product? (xVision · xServe · HR App Pilot · Chat Genie · A custom product · Not sure)
 
@@ -230,7 +230,7 @@ In 30 minutes we'll show you the product that fits your problem, working, and te
 - **HR App Pilot proof:** the case study (Apr 2026) shows the product inside a Pakistani bank (salary slips, provident fund loans, OPD claims, "Alfalah Kamyab Karobar Account" in a screenshot). Written as "a bank in Pakistan". Its "92% client retention, 98% satisfaction, 75+ projects" block is the blocked sitewide set (C7, C4) and is not used
 - **Naming:** the brain flags three things called "App Pilot". This page uses **HR App Pilot** only for the HR product. The Alfalah Investments LLM assistant is described as an investment assistant elsewhere, never as App Pilot
 - **Chat Genie proof:** the case study PDF couldn't be read here (no PDF renderer on this machine). [CONFIRM] the delivered client in words. **Possible link:** Irfan's Pick n Pay document describes an executive conversational BI agent and a data discovery agent built on Snowflake Cortex. If those were built as Chat Genie, it would be Chat Genie's strongest proof. Ask Irfan before claiming it
-- **CTA:** "Product Walkthrough" rather than "Use Case Review", because hub visitors are looking at products. Same 30 minute format
+- **CTA:** "Product Fit Call". No demo or "show it working" promise on the first call (Sana, 11 Nov): a custom build doesn't exist yet, and a configured product can't be shown before setup. The call recommends a product or a custom build
 
 ### Pick n Pay projects (Irfan, 11 Nov) and where they go
 

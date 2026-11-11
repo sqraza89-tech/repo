@@ -67,10 +67,9 @@ Most healthcare AI ideas stall on three things: knowledge locked in formats nobo
 | "The answers are in our recordings and documents, but nobody can find them." | Thousands of hours of video, notes and reports with no way to search them | Transcribe and index the archive, and build a plain language search with an AI assistant that cites its sources | Make our archive searchable → |
 | "Our platform has to serve far more health workers than it was built for." | Infrastructure and code designed for a pilot, now running a national program | Scale the data infrastructure and modernize the application, in phases, while the program keeps running | Plan our platform scale up → |
 | "Patients can't get simple answers without calling us." | Portals that show information but can't answer questions or complete tasks | Add AI assistants to portals that answer questions, book and remind, and hand over to staff | Plan a patient assistant → |
-| "Our waiting areas are packed, and we never know when the rush will hit." | Patient arrivals handled on the day, with no view of queue length, wait times or busy hours | Measure queues and wait times from existing cameras, forecast busy hours from past arrivals, and let patients book or check in ahead | Reduce our waiting times → |
-| "Patients end up in the wrong queue because they don't know which service they need." | No simple way to point people to the right clinic, test or form before they arrive | Add an assistant that asks a few questions and points patients to the right service, form or appointment, without giving medical advice | Plan a patient guide → |
 | "We're not sure where patient data could be exposed." | A web footprint that grew faster than anyone tested it | Run a VAPT across every domain and application, and fix the exposure we find | Test our platform → |
 | "Admin work takes time away from care." | Forms, claims and documentation handled by hand | Automate document handling and routine admin with AI agents, with staff approving what matters | Automate our admin work → |
+| "Our waiting areas are packed, and we never know when the rush will hit." | Patient arrivals handled on the day, with no view of queue length, wait times or busy hours | Measure queues and wait times from existing cameras, forecast busy hours from past arrivals, and let patients book or check in ahead | Reduce our waiting times → |
 
 ---
 
@@ -215,7 +214,7 @@ In 30 minutes our team will look at one use case, the data behind it and the pri
 
 - **Two Canadian cards, two descriptors.** The RAG search card uses "A Canadian healthcare platform" (as on the LLM and Generative AI pages) and the VAPT card uses "A healthcare platform in Canada" (as on the security pages). The brain lists them as two engagements with the same platform. If Sana wants one descriptor across the site, pick one and update the other pages too
 - **Immunization card** (P-02): "One of Pakistan's leading NGOs", "a modern Java release" (never "Java 19"), no "real-time analytics" (unverified), never name IRD or WHO. "Some with no connectivity" comes from the brain's problem field
-- **Queues and patient guidance added (Sana, 11 Nov).** Capability only in healthcare; the queue capability is proven in bank branches (xVision). The patient guide routes to services and never gives medical advice. Seven tabs: if too many for design, drop the admin row first
+- **Queue challenge added (Sana, 11 Nov), as the sixth tab.** Capability only in healthcare; the queue capability is proven in bank branches (xVision). A "wrong queue" patient guide row was offered and not used
 - **No diagnostics or imaging.** No delivered work, and clinical claims carry real risk. The FAQ answers the question directly instead of avoiding it
 - **Canadian evidence, priority geographies elsewhere** (brain note): the page doesn't state a target region; it leads with the work
 

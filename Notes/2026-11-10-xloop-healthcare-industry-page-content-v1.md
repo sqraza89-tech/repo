@@ -67,6 +67,8 @@ Most healthcare AI ideas stall on three things: knowledge locked in formats nobo
 | "The answers are in our recordings and documents, but nobody can find them." | Thousands of hours of video, notes and reports with no way to search them | Transcribe and index the archive, and build a plain language search with an AI assistant that cites its sources | Make our archive searchable → |
 | "Our platform has to serve far more health workers than it was built for." | Infrastructure and code designed for a pilot, now running a national program | Scale the data infrastructure and modernize the application, in phases, while the program keeps running | Plan our platform scale up → |
 | "Patients can't get simple answers without calling us." | Portals that show information but can't answer questions or complete tasks | Add AI assistants to portals that answer questions, book and remind, and hand over to staff | Plan a patient assistant → |
+| "Our waiting areas are packed, and we never know when the rush will hit." | Patient arrivals handled on the day, with no view of queue length, wait times or busy hours | Measure queues and wait times from existing cameras, forecast busy hours from past arrivals, and let patients book or check in ahead | Reduce our waiting times → |
+| "Patients end up in the wrong queue because they don't know which service they need." | No simple way to point people to the right clinic, test or form before they arrive | Add an assistant that asks a few questions and points patients to the right service, form or appointment, without giving medical advice | Plan a patient guide → |
 | "We're not sure where patient data could be exposed." | A web footprint that grew faster than anyone tested it | Run a VAPT across every domain and application, and fix the exposure we find | Test our platform → |
 | "Admin work takes time away from care." | Forms, claims and documentation handled by hand | Automate document handling and routine admin with AI agents, with staff approving what matters | Automate our admin work → |
 
@@ -76,14 +78,15 @@ Most healthcare AI ideas stall on three things: knowledge locked in formats nobo
 
 **H2:** Our Solutions for Healthcare
 
-xLoop's solutions for healthcare cover medical knowledge search and assistants, patient engagement, health data platforms at scale, demand and capacity forecasting, administrative automation, and security testing for health platforms.
+xLoop's solutions for healthcare cover medical knowledge search and assistants, patient engagement, patient flow and queue management, health data platforms at scale, demand and capacity forecasting, administrative automation, and security testing for health platforms.
 
-*Design: six solution blocks, each linking to its service page. Each is its own `Service` entity in schema.*
+*Design: seven solution blocks, each linking to its service page. Each is its own `Service` entity in schema.*
 
 | Solution | What we build | Service page |
 |---|---|---|
 | **Medical knowledge search and assistants** | Transcription and RAG search over recordings, notes and documents, with an assistant that answers in plain language and cites the source | [Large Language Models](/services/large-language-models) |
 | **Patient engagement and portal assistants** | AI assistants inside patient portals and apps that answer questions, manage bookings and reminders, and hand over to staff | [AI Agents & Autonomous Systems](/services/ai-agents-and-autonomous-systems) |
+| **Patient flow and queue management** | Queue length and wait times measured from existing cameras, busy hours forecast from past arrivals, and online booking and check in, so patients spend less time waiting | [Computer Vision](/services/computer-vision) · [Predictive Analytics](/services/predictive-analytics) |
 | **Health data platforms at scale** | Data infrastructure for health programs and platforms that grow from thousands to billions of records, with modernization of the code underneath | [Data Analytics & Engineering](/services/data-analytics) |
 | **Demand and capacity forecasting** | Forecasts for patient volumes, appointments, staffing and supplies, built from your historical and operational data | [Predictive Analytics](/services/predictive-analytics) |
 | **Administrative automation** | Agents that read forms and documents, extract the data, check it against your rules and enter it into existing systems | [Generative AI](/services/generative-ai) |
@@ -130,8 +133,8 @@ xLoop designs healthcare AI so that patient data stays protected and clinical de
 | | |
 |---|---|
 | Who we work with | Digital health platforms · healthcare providers · public health programs and NGOs |
-| Common triggers | Unsearchable recordings and records · a platform outgrowing its pilot · patient service load · a security review · admin backlog |
-| Solutions | Medical knowledge search · patient assistants · health data platforms · demand forecasting · admin automation · security testing |
+| Common triggers | Unsearchable recordings and records · a platform outgrowing its pilot · crowded waiting areas · patient service load · a security review · admin backlog |
+| Solutions | Medical knowledge search · patient assistants · patient flow and queues · health data platforms · demand forecasting · admin automation · security testing |
 | Delivered | RAG search over a video archive and VAPT across 200+ domains for a healthcare platform in Canada · data infrastructure for a national immunization platform with over a billion records |
 | Deployment | Private cloud · on premise · public cloud |
 | Where to start | 30 minute AI Use Case Review |
@@ -212,6 +215,7 @@ In 30 minutes our team will look at one use case, the data behind it and the pri
 
 - **Two Canadian cards, two descriptors.** The RAG search card uses "A Canadian healthcare platform" (as on the LLM and Generative AI pages) and the VAPT card uses "A healthcare platform in Canada" (as on the security pages). The brain lists them as two engagements with the same platform. If Sana wants one descriptor across the site, pick one and update the other pages too
 - **Immunization card** (P-02): "One of Pakistan's leading NGOs", "a modern Java release" (never "Java 19"), no "real-time analytics" (unverified), never name IRD or WHO. "Some with no connectivity" comes from the brain's problem field
+- **Queues and patient guidance added (Sana, 11 Nov).** Capability only in healthcare; the queue capability is proven in bank branches (xVision). The patient guide routes to services and never gives medical advice. Seven tabs: if too many for design, drop the admin row first
 - **No diagnostics or imaging.** No delivered work, and clinical claims carry real risk. The FAQ answers the question directly instead of avoiding it
 - **Canadian evidence, priority geographies elsewhere** (brain note): the page doesn't state a target region; it leads with the work
 

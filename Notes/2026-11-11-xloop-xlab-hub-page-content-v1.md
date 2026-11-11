@@ -35,7 +35,7 @@ tags: [xloop, xlab, hub, ai-products, xvision, xserve, hr-app-pilot, chat-genie,
 
 **H1:** AI Products and Custom AI Solutions
 
-**Subhead:** xLab is where we turn the AI we build for clients into products you can deploy, and where we build new ones with you. Start with a product already working in banks and restaurant chains, or build your own on the same foundations.
+**Subhead:** xLab is where we turn the AI we build for clients into products you can deploy, and where we build new ones with you. Start with a product already working in banking and quick service restaurants, or build your own on the same foundations.
 
 **Primary CTA:** Book a 30 Minute Product Fit Call →
 **Small line under the CTA:** Tell us the problem you want to solve. We'll tell you which product fits, or whether a custom build makes more sense, in 30 minutes.
@@ -66,7 +66,7 @@ xLoop's xLab products are built from client work, so each one started as a real 
 |---|---|---|---|---|
 | **xVision** | Computer vision that turns existing CCTV into live alerts and dashboards for queues, traffic, equipment and security | Banks, retail and other site networks | Monitoring 1,200 bank branches and more than 7,000 cameras across South Asia | [Explore xVision](/xlab/xVision) · [Computer vision services](/services/computer-vision) |
 | **xServe** | An AI ordering agent that takes orders in natural conversation at peak hours, suggests upsells and answers nutrition questions | Quick service restaurant chains | Handling peak hour orders for a leading Saudi Arabian fast food chain, in English, Urdu and Arabic | [Explore xServe](/xlab/xServe) · [AI agents services](/services/ai-agents-and-autonomous-systems) |
-| **HR App Pilot** | An AI assistant that answers policy questions, handles leave, documents and claims, and takes action in your HR and ERP systems | HR teams in mid size and large organizations | Handling employee requests, from salary slips to medical claims, for a bank in Pakistan | [Explore HR App Pilot](/xlab/hr-app-pilot) · [AI agents services](/services/ai-agents-and-autonomous-systems) |
+| **HR App Pilot** | An AI assistant that answers policy questions, handles leave, documents and claims, and takes action in your HR and ERP systems | HR teams in mid size and large organizations | Works with Odoo ERP for payroll and finance requests | [Explore HR App Pilot](/xlab/hr-app-pilot) · [AI agents services](/services/ai-agents-and-autonomous-systems) |
 | **Chat Genie** | Ask your business data questions in plain language and get answers, charts and summaries, without waiting for a report | Business and operations teams | [CONFIRM: delivered client, in words] | [Explore Chat Genie](/xlab/chat-genie) · [LLM services](/services/large-language-models) |
 
 ---
@@ -128,7 +128,7 @@ Every xLab product is built to run inside a real business, not just in a demo.
 
 **H2:** xLab Products in Use
 
-xLab products are running in a bank with 1,200 branches, a leading Saudi Arabian fast food chain, and a bank in Pakistan.
+xLab products are running in a bank with 1,200 branches across South Asia and a leading Saudi Arabian fast food chain.
 
 *Card format: same as the Applied AI hub. Anonymous but specific. No percentages. Replaces the live "Some Cool Stuff We've Built" block.*
 
@@ -136,7 +136,6 @@ xLab products are running in a bank with 1,200 branches, a leading Saudi Arabian
 |---|---|---|---|---|
 | **A bank with 1,200 branches across South Asia** | xVision | More than 7,000 cameras, but manual review covered about 20 minutes per branch each month | xVision on the existing CCTV, tracking wait times, customer traffic, ATM status, staff on the floor and suspicious activity | Continuous, automated monitoring across every branch, in place of monthly spot checks |
 | **A leading Saudi Arabian fast food chain** | xServe | High order volumes at peak hours | xServe taking orders at peak times in natural conversation, suggesting upsells and providing nutritional information, in English, Urdu or Arabic | Peak hour orders handled by AI, with upsell suggestions and nutrition details built into the ordering flow |
-| **A bank in Pakistan** | HR App Pilot | Employees waited on HR for routine services such as salary slips, leave, loans and medical claims | HR App Pilot as a conversational assistant that fetches salary slips, checks eligibility and submits loan, leave and claim requests | Employee services on demand, with less manual work for HR |
 
 ---
 
@@ -149,7 +148,7 @@ xLab products are running in a bank with 1,200 branches, a leading Saudi Arabian
 | What it is | xLoop's AI product studio |
 | Products | xVision · xServe · HR App Pilot · Chat Genie |
 | Custom products | Empathize · Profile · Ideate · MVP · Test · Upscale |
-| In use at | A bank with 1,200 branches · a leading Saudi Arabian fast food chain · a bank in Pakistan |
+| In use at | A bank with 1,200 branches · a leading Saudi Arabian fast food chain |
 | Deployment | Cloud · private cloud · on premise |
 | Where to start | 30 minute Product Fit Call |
 | Related | Applied AI Solutions · AI Agents · Computer Vision · Data & AI Consulting |
@@ -185,7 +184,7 @@ Yes. Depending on the product and your data rules, they can run in the cloud, in
 
 In 30 minutes we'll talk through the problem you want to solve and tell you which xLab product fits, or whether a custom build makes more sense.
 
-**Proof line (above the button):** Running in a bank with 1,200 branches, a leading Saudi Arabian fast food chain and a bank in Pakistan.
+**Proof line (above the button):** Running in a bank with 1,200 branches and a leading Saudi Arabian fast food chain.
 
 **CTA:** Book a 30 Minute Product Fit Call →
 
@@ -227,7 +226,7 @@ In 30 minutes we'll talk through the problem you want to solve and tell you whic
 
 - **Four products featured:** xVision, xServe, HR App Pilot and Chat Genie (Sana confirmed all four as products, 15 Sep). Custom builds are a section on the same page, not a separate Design Studio page (Sana, 11 Nov: xLab is the design studio)
 - **Not featured on the hub:** **xCrowdIQ** (experimental; the Qatar plan is internal and no delivery exists) · **xVoltIQ** (likely partner technology; its 15% and 20% figures are blocked, C10) · **Meta Human** (blocked figures; the brain says decide invest or retire). Recommendation: remove all three from the xLab menu, and either noindex the pages or redirect them to `/xlab`, until each has a decision. **Needs Sana's decision**
-- **HR App Pilot proof:** the case study (Apr 2026) shows the product inside a Pakistani bank (salary slips, provident fund loans, OPD claims, "Alfalah Kamyab Karobar Account" in a screenshot). Written as "a bank in Pakistan". Its "92% client retention, 98% satisfaction, 75+ projects" block is the blocked sitewide set (C7, C4) and is not used
+- **HR App Pilot proof: none confirmed (Sana, 11 Nov).** The case study image (Apr 2026) shows salary slips, provident fund loans, OPD claims and an "Alfalah Kamyab Karobar Account" screen, but names no client and may be a design demo. Sana doesn't know of a bank deployment; the Alfalah Investments work was App Pilot (investment assistant), not HR App Pilot. Card removed; proof line uses the Odoo integration from the live product page
 - **Naming:** the brain flags three things called "App Pilot". This page uses **HR App Pilot** only for the HR product. The Alfalah Investments LLM assistant is described as an investment assistant elsewhere, never as App Pilot
 - **Chat Genie proof:** the case study PDF couldn't be read here (no PDF renderer on this machine). [CONFIRM] the delivered client in words. **Possible link:** Irfan's Pick n Pay document describes an executive conversational BI agent and a data discovery agent built on Snowflake Cortex. If those were built as Chat Genie, it would be Chat Genie's strongest proof. Ask Irfan before claiming it
 - **CTA:** "Product Fit Call". No demo or "show it working" promise on the first call (Sana, 11 Nov): a custom build doesn't exist yet, and a configured product can't be shown before setup. The call recommends a product or a custom build
@@ -240,7 +239,7 @@ Irfan's document lists four Pick n Pay projects. They are services work, so they
 
 1. Sana: remove xCrowdIQ, xVoltIQ and Meta Human from the xLab menu, and noindex or redirect their pages?
 2. Chat Genie proof line: **asked Wassay (product owner), 11 Nov; waiting.** Has a client used it (and whether the Pick n Pay executive BI agent was Chat Genie). Fallback until then (Sana may paste it): "Connects to your existing databases and BI tools", or no proof line on that card
-3. HR App Pilot client descriptor: "a bank in Pakistan" OK?
+3. HR App Pilot: has it been deployed for any client? If yes, who (in words)? Odoo ERP integration: confirmed in a real deployment or a product feature?
 4. Irfan: typical deployment time for a configured xLab product
 5. Live blogs about xLab products for Resources
 

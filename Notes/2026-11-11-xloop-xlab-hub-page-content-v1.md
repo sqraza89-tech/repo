@@ -239,7 +239,7 @@ Irfan's document lists four Pick n Pay projects. They are services work, so they
 ### Open [CONFIRM] items
 
 1. Sana: remove xCrowdIQ, xVoltIQ and Meta Human from the xLab menu, and noindex or redirect their pages?
-2. Chat Genie proof line: ask Irfan if a client has used it (and whether the Pick n Pay executive BI agent was Chat Genie). Fallback until then (Sana may paste it): "Connects to your existing databases and BI tools", or no proof line on that card
+2. Chat Genie proof line: **asked Wassay (product owner), 11 Nov; waiting.** Has a client used it (and whether the Pick n Pay executive BI agent was Chat Genie). Fallback until then (Sana may paste it): "Connects to your existing databases and BI tools", or no proof line on that card
 3. HR App Pilot client descriptor: "a bank in Pakistan" OK?
 4. Irfan: typical deployment time for a configured xLab product
 5. Live blogs about xLab products for Resources

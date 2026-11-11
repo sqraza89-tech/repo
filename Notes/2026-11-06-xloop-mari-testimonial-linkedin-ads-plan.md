@@ -9,6 +9,8 @@ tags: [xloop, xcelerate, mari, csr, linkedin, facebook, paid, media-plan, govern
 
 **v5 changes (10 Nov):** Ali's email: Nasir wants **Facebook alongside LinkedIn**, within the same budget. Split USD 300 LinkedIn + USD 150 Facebook = USD 450. Launch moved to **Mon 16 Nov** (approval still pending). v4 (6 Nov) was LinkedIn only.
 
+**Approved version (11 Nov):** Sana's own edit, `Notes/Mari ad campaign plan.docx`. It's trimmed (no dates, no claim section, no Ad 1) and has the Facebook part added. This md is the working draft; edit the docx going forward.
+
 Related: [[2026-10-19-xloop-mari-cohort-linkedin-video-script]]
 
 ## Campaign at a glance

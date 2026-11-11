@@ -87,6 +87,7 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - [ ] Devs: remove xCrowdIQ, xVoltIQ and Meta Human from the xLab menu; 301 their pages to `/xlab` (Sana, 11 Nov). Meta Human becomes an add-on line on the hub, HR App Pilot and Chat Genie pages
 - [ ] Pick n Pay text changes for dev and design: `Notes/2026-11-11-xloop-pick-n-pay-text-changes-for-dev.docx` (blog live first; Predictive Analytics, Data Analytics, Legacy, Data & AI Consulting, Homepage, DT hub in design). Retail page done; md sources updated 11 Nov
 - [ ] HR App Pilot: any client deployment besides xLoop's own internal use (on Odoo; integrates with any HR/ERP system, Sana 11 Nov)
-- [ ] xLab product pages: xVision, xServe, HR App Pilot, Chat Genie (by 30 Nov) + case study pages (Release 2)
+- [x] xVision product page v1 (11 Nov): `Notes/2026-11-11-xloop-xvision-product-page-content-v1.docx`. Sets the product page pattern
+- [ ] xLab product pages: xServe, HR App Pilot, Chat Genie (by 30 Nov) + case study pages (Release 2)
 - [ ] Mining once the missing information arrives
 - [ ] xCelerate: Ali Abbasi to answer the [CONFIRM] items, then send to design

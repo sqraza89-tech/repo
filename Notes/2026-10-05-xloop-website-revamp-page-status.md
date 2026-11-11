@@ -84,10 +84,10 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - [x] xLab hub v1 (11 Nov)
 - [x] Blog sidebar + footer banner forms (11 Nov): newsletter signup replaced with inquiry forms (no newsletter exists). `Notes/2026-11-11-xloop-blog-sidebar-and-footer-forms-copy.docx`
 - [ ] Sana: check the HBL Asset Management case (reconciliation automation, as on AI Agents + Banking pages, or advisory assistant?) and fix those cards if wrong
-- [ ] Devs: remove xCrowdIQ, xVoltIQ and Meta Human from the xLab menu; 301 their pages to `/xlab` (Sana, 11 Nov). Meta Human becomes an add-on line on the hub, HR App Pilot and Chat Genie pages
+- [ ] Devs: remove xCrowdIQ, xVoltIQ, Meta Human and Chat Genie from the xLab menu and footer; 301 their pages to `/xlab` (Sana, 11 Nov; Chat Genie per Wassay: deprecated). Also remove the Chat Genie link from the blog "How AI Transforms Strategic Decision Making" and from `/llms.txt`. Meta Human becomes an add-on line on the hub, HR App Pilot and Chat Genie pages
 - [ ] Pick n Pay text changes for dev and design: `Notes/2026-11-11-xloop-pick-n-pay-text-changes-for-dev.docx` (blog live first; Predictive Analytics, Data Analytics, Legacy, Data & AI Consulting, Homepage, DT hub in design). Retail page done; md sources updated 11 Nov
 - [ ] HR App Pilot: any client deployment besides xLoop's own internal use (on Odoo; integrates with any HR/ERP system, Sana 11 Nov)
 - [x] xVision product page v1 (11 Nov): `Notes/2026-11-11-xloop-xvision-product-page-content-v1.docx`. Sets the product page pattern
-- [ ] xLab product pages: xServe, HR App Pilot, Chat Genie (by 30 Nov) + case study pages (Release 2)
+- [ ] xLab product pages: xServe, HR App Pilot (by 30 Nov). Chat Genie removed from the site (Wassay, 11 Nov) + case study pages (Release 2)
 - [ ] Mining once the missing information arrives
 - [ ] xCelerate: Ali Abbasi to answer the [CONFIRM] items, then send to design

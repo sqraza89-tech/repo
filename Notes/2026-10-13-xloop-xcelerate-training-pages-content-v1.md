@@ -620,7 +620,7 @@ A full scale bootcamp is an intensive, full time training program that takes par
 | **Full stack web and app development bootcamp** | Bank Alfalah | Three cohorts · more than 70 professionals · 240+ hours each in cloud native and mobile application development |
 | **Mari Digital Skills, Training & Employment Program** | Mari Energies (CSR sponsor) | Cohort I: 44 graduates in AI, agentic development and full stack development. All placed into internships and employment |
 | **Full Stack Engineering and Data Science Bootcamp** | PPL and Dawood Global Foundation (CSR) | Young people from PPL communities trained in AI, data science and full stack engineering. Top performers recruited |
-| **Open bootcamps for graduates** | Individuals | Graduates have joined xLoop's engineering teams and work on its products, including HR App Pilot, Chat Genie and xVision [CONFIRM: wording and number of graduates hired] |
+| **Open bootcamps for graduates** | Individuals | Graduates have joined xLoop's engineering teams and work on its products, including HR App Pilot and xVision [CONFIRM: wording and number of graduates hired] |
 
 **H3:** What Graduates Say
 

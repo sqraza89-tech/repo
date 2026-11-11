@@ -1,12 +1,12 @@
 ---
 date: 2026-11-11
-tags: [xloop, xlab, hub, ai-products, xvision, xserve, hr-app-pilot, chat-genie, site-revamp, seo, aeo]
+tags: [xloop, xlab, hub, ai-products, xvision, xserve, hr-app-pilot, site-revamp, seo, aeo]
 ---
 
 # xLab Hub · Page Content v1 (for design handoff)
 
 **URL:** `/xlab` (keep). `/xlab/design-studio` shows the same page today; **301 it to `/xlab`** (Sana, 11 Nov: xLab is the design studio, one page only)
-**Children:** xVision · xServe · HR App Pilot · Chat Genie. xCrowdIQ, xVoltIQ and Meta Human come off the xLab menu (Sana, 11 Nov)
+**Children:** xVision · xServe · HR App Pilot. xCrowdIQ, xVoltIQ, Meta Human and Chat Genie come off the xLab menu (Sana, 11 Nov)
 **Scope:** xLoop's AI products and the product studio behind them. A routing page: what each product does, who it's for, the proof, and a way to find the right fit. Detail lives on the product pages
 **Design:** the hub layout used for Applied AI Solutions and xSecurity, in the xLab look. Product cards are the main element
 
@@ -17,11 +17,11 @@ tags: [xloop, xlab, hub, ai-products, xvision, xserve, hr-app-pilot, chat-genie,
 | Field | Value |
 |---|---|
 | Title tag | `xLab: AI Products and Custom AI Solutions \| xLoop` |
-| Meta description | `xLab is xLoop's AI product studio: xVision video analytics, xServe AI ordering, HR App Pilot and Chat Genie, or build your own AI product with us.` |
+| Meta description | `xLab is xLoop's AI product studio: xVision video analytics, xServe AI ordering and HR App Pilot for HR teams, or build your own AI product with us.` |
 | H1 | AI Products and Custom AI Solutions |
 | Nav label | xLab (the top level menu label links here) |
 | Breadcrumb | Home › xLab |
-| Schema | `ItemList` of the four products, each as a `SoftwareApplication` (name, description, applicationCategory, url) · Service for custom AI product development · FAQPage · BreadcrumbList |
+| Schema | `ItemList` of the three products, each as a `SoftwareApplication` (name, description, applicationCategory, url) · Service for custom AI product development · FAQPage · BreadcrumbList |
 | Visible "Last updated" date | Yes |
 | Lead form heading | Find the Right xLab Product |
 
@@ -48,7 +48,7 @@ tags: [xloop, xlab, hub, ai-products, xvision, xserve, hr-app-pilot, chat-genie,
 
 **H2:** What Is xLab?
 
-xLab is xLoop's AI product studio. It offers four ready AI products, xVision for video analytics, xServe for AI ordering, HR App Pilot for employee services and Chat Genie for conversational data insights. xLab also builds custom AI products together with clients, from first idea to production.
+xLab is xLoop's AI product studio. It offers three ready AI products, xVision for video analytics, xServe for AI ordering and HR App Pilot for employee services. xLab also builds custom AI products together with clients, from first idea to production.
 
 *Plain text, never collapsed.*
 
@@ -67,7 +67,6 @@ xLoop's xLab products are built from client work, so each one started as a real 
 | **xVision** | Computer vision that turns existing CCTV into live alerts and dashboards for queues, traffic, equipment and security | Banks, retail and other site networks | Monitoring 1,200 bank branches and more than 7,000 cameras across South Asia | [Explore xVision](/xlab/xVision) · [Computer vision services](/services/computer-vision) |
 | **xServe** | An AI ordering agent that takes orders in natural conversation at peak hours, suggests upsells and answers nutrition questions | Quick service restaurant chains | Handling peak hour orders for a leading Saudi Arabian fast food chain, in English, Urdu and Arabic | [Explore xServe](/xlab/xServe) · [AI agents services](/services/ai-agents-and-autonomous-systems) |
 | **HR App Pilot** | An AI assistant that answers policy questions, handles leave, documents and claims, and takes action in your HR and ERP systems | HR teams in mid size and large organizations | In daily use at xLoop on our own Odoo ERP, and connects to the HR and ERP systems you already run | [Explore HR App Pilot](/xlab/hr-app-pilot) · [AI agents services](/services/ai-agents-and-autonomous-systems) |
-| **Chat Genie** | Ask your business data questions in plain language and get answers, charts and summaries, without waiting for a report | Business and operations teams | [CONFIRM: delivered client, in words] | [Explore Chat Genie](/xlab/chat-genie) · [LLM services](/services/large-language-models) |
 
 ---
 
@@ -84,7 +83,6 @@ Start with the problem. If none of these match, xLab can build you a custom prod
 | Recording CCTV across many sites that nobody watches | [xVision](/xlab/xVision) |
 | Losing orders or upsells at peak hours in restaurants | [xServe](/xlab/xServe) |
 | Answering the same HR questions and requests every day | [HR App Pilot](/xlab/hr-app-pilot) |
-| Waiting on analysts for every business question | [Chat Genie](/xlab/chat-genie) |
 | Facing a problem no product solves yet | [A custom product with xLab](#custom) |
 
 ---
@@ -118,7 +116,7 @@ Every xLab product is built to run inside a real business, not just in a demo.
 
 - **Runs on your systems.** Connects to the cameras, ordering channels, HR and ERP systems and databases you already use
 - **Configured to your business.** Your policies, menu, rules and data, not a generic setup
-- **Add a digital human interface.** Our digital human front end can sit on top of an assistant such as HR App Pilot or Chat Genie, so people can talk to it face to face
+- **Add a digital human interface.** Our digital human front end can sit on top of an assistant such as HR App Pilot, so people can talk to it face to face
 - **People stay in charge.** Products hand over to staff for anything that needs judgment
 - **Deploys where you need it.** Cloud, private cloud or on premise, depending on the product and your data rules
 - **Security tested.** Each deployment is tested for data leakage and misuse before it goes live
@@ -148,7 +146,7 @@ xLab products are running in a bank with 1,200 branches across South Asia, a lea
 | | |
 |---|---|
 | What it is | xLoop's AI product studio |
-| Products | xVision · xServe · HR App Pilot · Chat Genie |
+| Products | xVision · xServe · HR App Pilot |
 | Custom build process | Empathize · Profile · Ideate · MVP · Test · Upscale |
 | In use at | A bank with 1,200 branches · a leading Saudi Arabian fast food chain · xLoop (HR App Pilot, internal) |
 | Deployment | Cloud · private cloud · on premise |
@@ -164,7 +162,7 @@ xLab products are running in a bank with 1,200 branches across South Asia, a lea
 *All five go into FAQPage schema, with text identical to the page.*
 
 **What is xLab?**
-xLab is xLoop's AI product studio. It offers ready AI products, xVision, xServe, HR App Pilot and Chat Genie, and builds custom AI products together with clients.
+xLab is xLoop's AI product studio. It offers ready AI products, xVision, xServe and HR App Pilot, and builds custom AI products together with clients.
 
 **Should we use an xLab product or build a custom solution?**
 If an xLab product matches your problem, start with it: it is already proven in production and faster to deploy. If your problem is different, xLab builds a custom product with the same process and foundations.
@@ -190,7 +188,7 @@ In 30 minutes we'll talk through the problem you want to solve and tell you whic
 
 **CTA:** Find the Right xLab Product →
 
-**Form fields:** Name · Work email · Company · Which product? (xVision · xServe · HR App Pilot · Chat Genie · A custom product · Not sure)
+**Form fields:** Name · Work email · Company · Which product? (xVision · xServe · HR App Pilot · A custom product · Not sure)
 
 *Four fields only (27 Oct convention).*
 
@@ -226,11 +224,11 @@ In 30 minutes we'll talk through the problem you want to solve and tell you whic
 
 ### Decisions
 
-- **Four products featured:** xVision, xServe, HR App Pilot and Chat Genie (Sana confirmed all four as products, 15 Sep). Custom builds are a section on the same page, not a separate Design Studio page (Sana, 11 Nov: xLab is the design studio)
+- **Three products featured:** xVision, xServe and HR App Pilot. Chat Genie was a fourth until Wassay confirmed (11 Nov) it is not live and runs on deprecated technology Custom builds are a section on the same page, not a separate Design Studio page (Sana, 11 Nov: xLab is the design studio)
 - **Not featured on the hub:** **xCrowdIQ** (experimental; the Qatar plan is internal and no delivery exists) · **xVoltIQ** (likely partner technology; its 15% and 20% figures are blocked, C10) · **Meta Human** (blocked figures; the brain says decide invest or retire). Recommendation: remove all three from the xLab menu, and either noindex the pages or redirect them to `/xlab`, until each has a decision. **Needs Sana's decision**
 - **HR App Pilot proof card = xLoop's own use (Sana, 11 Nov).** Problem and result wording is assumed; Sana to confirm it matches internal use. Earlier: none confirmed (Sana, 11 Nov).** The case study image (Apr 2026) shows salary slips, provident fund loans, OPD claims and an "Alfalah Kamyab Karobar Account" screen, but names no client and may be a design demo. Sana doesn't know of a bank deployment; the Alfalah Investments work was App Pilot (investment assistant), not HR App Pilot. Card removed. **Confirmed (Sana, 11 Nov): xLoop uses HR App Pilot internally on its own Odoo ERP; Odoo is just our system, and the team can integrate it with any HR or ERP system.** Proof line now says that
 - **Naming:** the brain flags three things called "App Pilot". This page uses **HR App Pilot** only for the HR product. The Alfalah Investments LLM assistant is described as an investment assistant elsewhere, never as App Pilot
-- **Chat Genie proof:** the case study PDF couldn't be read here (no PDF renderer on this machine). [CONFIRM] the delivered client in words. **Possible link:** Irfan's Pick n Pay document describes an executive conversational BI agent and a data discovery agent built on Snowflake Cortex. If those were built as Chat Genie, it would be Chat Genie's strongest proof. Ask Irfan before claiming it
+- **Chat Genie (superseded 11 Nov, removed):** the case study PDF couldn't be read here (no PDF renderer on this machine). [CONFIRM] the delivered client in words. **Possible link:** Irfan's Pick n Pay document describes an executive conversational BI agent and a data discovery agent built on Snowflake Cortex. If those were built as Chat Genie, it would be Chat Genie's strongest proof. Ask Irfan before claiming it
 - **CTA:** "Product Fit Call". No demo or "show it working" promise on the first call (Sana, 11 Nov): a custom build doesn't exist yet, and a configured product can't be shown before setup. The call recommends a product or a custom build
 
 ### Pick n Pay projects (Irfan, 11 Nov) and where they go
@@ -240,7 +238,7 @@ Irfan's document lists four Pick n Pay projects. They are services work, so they
 ### Open [CONFIRM] items
 
 1. Resolved 11 Nov: xCrowdIQ, xVoltIQ and Meta Human off the menu, pages 301 to `/xlab`. Meta Human is an interface, not a product (Sana): an add-on line in "What every xLab product has in common", and on the HR App Pilot and Chat Genie pages. Its 40% and 60% figures are never used
-2. Chat Genie proof line: **asked Wassay (product owner), 11 Nov; waiting.** Has a client used it (and whether the Pick n Pay executive BI agent was Chat Genie). Fallback until then (Sana may paste it): "Connects to your existing databases and BI tools", or no proof line on that card
+2. Resolved 11 Nov: **Chat Genie removed from the website** (Wassay, product owner: not live anywhere, based on deprecated technology, should not be advertised). 301 `/xlab/chat-genie` → `/xlab`
 3. HR App Pilot: any client deployment besides xLoop's own use? (Odoo question resolved 11 Nov)
 4. Irfan: typical deployment time for a configured xLab product
 5. Resolved 11 Nov (Sana): chosen by topic, not product mentions: product vs custom, vendor selection (title says 2025; refresh candidate), AI agents
@@ -249,4 +247,4 @@ Irfan's document lists four Pick n Pay projects. They are services work, so they
 
 - [ ] Sana: review, and decide on xCrowdIQ, xVoltIQ, Meta Human
 - [ ] Devs: replace `/xlab` with this page; 301 `/xlab/design-studio` → `/xlab`; remove "Design Studio" from the xLab menu
-- [ ] Next: the product pages (xVision, xServe, HR App Pilot, Chat Genie)
+- [ ] Next: the product pages (xVision done; xServe, HR App Pilot)

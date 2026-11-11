@@ -187,7 +187,7 @@ In 30 minutes we'll talk through the problem you want to solve and tell you whic
 
 **Proof line (above the button):** Running in a bank with 1,200 branches and a leading Saudi Arabian fast food chain.
 
-**CTA:** Book a 30 Minute Product Fit Call →
+**CTA:** Find the Right xLab Product →
 
 **Form fields:** Name · Work email · Company · Which product? (xVision · xServe · HR App Pilot · Chat Genie · A custom product · Not sure)
 

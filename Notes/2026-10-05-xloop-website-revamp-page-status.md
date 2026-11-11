@@ -76,7 +76,7 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - [ ] Devs, now: lead form heading says "Explore AI Agents for Your Business" on 5 Applied AI leaf pages
 - [x] xLab hub v1 (11 Nov)
 - [ ] Sana: check the HBL Asset Management case (reconciliation automation, as on AI Agents + Banking pages, or advisory assistant?) and fix those cards if wrong
-- [ ] HR App Pilot: confirm any client deployment and the Odoo integration (no proof on the xLab hub until then)
+- [ ] HR App Pilot: any client deployment besides xLoop's own internal use (on Odoo; integrates with any HR/ERP system, Sana 11 Nov)
 - [ ] xLab product pages: xVision, xServe, HR App Pilot, Chat Genie (by 30 Nov) + case study pages (Release 2)
 - [ ] Mining once the missing information arrives
 - [ ] xCelerate: Ali Abbasi to answer the [CONFIRM] items, then send to design

@@ -147,6 +147,16 @@ available.
 | Evidence | C | **Source** case-study document; live portfolio page |
 | Public use | ✅ Already published |
 
+## P-17 · South African retailer: Snowflake, Cortex agents (PENDING, added 2026-11-11)
+| Field | Value |
+|---|---|
+| Client | **Anonymised** — "a leading South African retailer" (Pick n Pay; logo wall only) |
+| Source | Irfan Shaikh, `Pick n Pay - projects (1).pdf`, 11 Nov 2026. Notes: `Notes/2026-11-11-xloop-pick-n-pay-projects-proof.md` |
+| Projects | (1) MySQL → Snowflake, medallion architecture, transformations moved out of Power BI; (2) AI data dictionary + completeness checks, Streamlit in Snowflake; (3) executive conversational BI agent on Cortex Analyst + Cortex Agent; (4) conversational data discovery agent |
+| Measured result | **Power BI semantic model refresh 5–6 hours → 10–15 minutes** (project 1) |
+| Conflict | P-01 / A9 say SAP ERP + SAP BW + app databases → Snowflake on AWS. This document says MySQL. **Do not publish both until Irfan reconciles** |
+| Public use | ⚠️ Pending Irfan: source systems, the "6x" wording, whether the BI agent is Chat Genie, OK to publish the refresh time |
+
 ## P-13 · Client testimonials
 | Client | Quote | Public use |
 |---|---|---|

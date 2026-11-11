@@ -119,7 +119,7 @@ Most forecasting projects that fail, fail on the data. Before we build a model, 
 
 | Client | The problem | What we built | Result |
 |---|---|---|---|
-| **A leading South African retailer** | Data spread across SAP ERP, SAP BW and application databases, with competing sources of truth | Built a centralized lakehouse on Snowflake and AWS, and moved every source into it | Reporting, data analysis, data science models and AI use cases now run from one trusted source |
+| **A leading South African retailer** | Power BI reports ran heavy transformation logic directly on MySQL source databases, so model refreshes took five to six hours and clashed with each other | Migrated the data to Snowflake with a medallion architecture, moved the transformations into Snowflake, and built curated views for Power BI and other teams | Report refresh time cut from five to six hours to 10 to 15 minutes, with simpler maintenance |
 
 *Same card and wording as the Data Analytics and Data & AI Consulting pages. Label above the card: "The data foundation behind forecasting".*
 

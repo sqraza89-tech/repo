@@ -166,7 +166,7 @@ If any of these is missing, fix it first. That's usually a smaller job than it s
 
 | From → To | Client | What we did | Outcome |
 |---|---|---|---|
-| **SAP ERP, SAP BW and app databases → one Snowflake source of truth** | A leading South African retailer | Built a centralized lakehouse on Snowflake and AWS with a medallion architecture, and moved every source into it | Reporting, data analysis, data science models and AI use cases now run from one trusted source |
+| **MySQL reporting → a Snowflake medallion platform** | A leading South African retailer | Migrated the data to Snowflake with a medallion architecture, moved the transformations into Snowflake, and built curated views for Power BI and other teams | Report refresh time cut from five to six hours to 10 to 15 minutes, with simpler maintenance |
 | **Slow SQL, stored-procedure and PySpark pipelines → dependable data** | A water utility | Traced slowdowns to their root causes in the existing pipeline code and re-engineered it, without replacing the platform | Complete, timely data for operational monitoring and decisions, from the platform the utility already owned |
 | **A growing national health platform → data infrastructure at billion-record scale** | One of Pakistan's leading NGOs | Scaled the data infrastructure behind a national digital immunization platform | Over a billion immunization records for 4,000+ frontline health workers |
 | **App database cache and ERP data → a Snowflake platform design** | A technology company | Mapped the current state and designed the target Snowflake architecture, procedures and views | A modernization design the team could build against |
@@ -199,7 +199,7 @@ If any of these is missing, fix it first. That's usually a smaller job than it s
 | Common triggers | Reports that don't match · manual exports · slow pipelines · an AI initiative blocked by data · ERP or platform change |
 | Where to start | 30-minute Data & AI Readiness Review |
 | Services | Data platforms and lakehouses · pipelines and integration · reporting and BI · governance and quality |
-| Delivered | SAP ERP/BW → Snowflake lakehouse · pipeline re-engineering (SQL, stored procedures, PySpark) · billion-record health data infrastructure · Snowflake platform design |
+| Delivered | MySQL → Snowflake (report refresh 5 to 6 hours → 10 to 15 minutes) · pipeline re-engineering (SQL, stored procedures, PySpark) · billion-record health data infrastructure · Snowflake platform design |
 | Platforms | Snowflake · Databricks · AWS · Power BI |
 | Engagement models | Scope-based project · embedded specialists · retainer advisory |
 | Industries | Retail · Energy and utilities · Healthcare · Technology |

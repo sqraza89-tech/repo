@@ -138,7 +138,7 @@ Two rules matter more than the total:
 
 Fix the things that would make the AI's answer untrustworthy, in this order: agree the definitions, consolidate the sources into one trusted place, assign owners, then automate access. Quality tooling and dashboards come after, because they only measure problems the first four steps solve.
 
-In practice, the fix that helps most is usually a single source of truth. One retailer we worked with had data spread across SAP ERP, SAP BW and application databases, with no unified view and several competing versions of the same numbers. We consolidated it into a single Snowflake source of truth, built in layers that keep raw, cleaned and business ready data apart. Reporting, data analysis, data science models and AI use cases now run from one trusted source.
+In practice, the fix that helps most is usually moving the work into one well built platform. One retailer we worked with ran its Power BI reports directly on MySQL source databases, with heavy transformation logic inside the reports, so refreshes took five to six hours. We moved the data to Snowflake, built in layers that keep raw, cleaned and business ready data apart, and moved the transformations into Snowflake. Refreshes now take 10 to 15 minutes.
 
 Sometimes the platform is fine and the pipelines are the problem. For a water utility, operations teams couldn't count on complete, timely data. We traced the slowdowns to root causes in the existing pipeline code and rebuilt it without replacing the platform, so the utility got dependable data for monitoring and decisions from the platform it already owned.
 

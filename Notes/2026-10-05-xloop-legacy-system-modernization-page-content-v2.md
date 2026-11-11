@@ -198,7 +198,7 @@ Our engineers use AI coding assistants, including Cursor and Claude, to read unf
 | From → To | Client | What we did | Outcome |
 |---|---|---|---|
 | **COBOL and RPG on-premise → Java on private cloud** | A financial services firm | Modernized RPG applications, migrated COBOL code to Java using AI-assisted engineering, and moved applications and data to private cloud | Completed with minimal operational disruption |
-| **SAP ERP, SAP BW and app databases → one Snowflake source of truth** | A leading South African retailer | Brought data from every source into a single governed platform | Reporting, analysis, data science and AI now run from one trusted source |
+| **MySQL reporting → a Snowflake medallion platform** | A leading South African retailer | Migrated the data to Snowflake with a medallion architecture, moved the transformations into Snowflake, and built curated views for Power BI and other teams | Report refresh time cut from five to six hours to 10 to 15 minutes, with simpler maintenance |
 | **Java 8 → a modern Java release** | One of Pakistan's leading NGOs | Migrated and modernized a national immunization platform and scaled its data infrastructure | Over a billion immunization records for 4,000+ frontline health workers, on a foundation it can keep building on |
 | **AWS → Azure (migration plan)** | A leading Middle East retail and real estate group | Mapped every application, workload and data dependency, built a total-cost-of-ownership model and sequenced the move into migration waves, jointly with Microsoft | A migration plan the business can fund and run in controlled waves |
 | **Slow SQL, stored-procedure and PySpark pipelines → re-engineered pipelines** | A water utility | Traced slowdowns to root causes in existing code and re-engineered it, without replacing the platform | Dependable data for operational decisions, from the platform the utility already owned |
@@ -224,7 +224,7 @@ Our engineers use AI coding assistants, including Cursor and Claude, to read unf
 | Common triggers | Vendor support ending · data-center exit · AI or analytics blocked · integration backlog · audit findings · maintenance cost |
 | Where to start | Two-week Legacy Modernization Discovery |
 | Approaches | Retain · API layer · Rehost · Replatform · Refactor · Re-architect · Rebuild · Replace · Retire |
-| Delivered from → to | COBOL → Java · RPG → private cloud · Java 8 → modern Java · SAP ERP/BW → Snowflake · single server → AWS · PHP upgrades · cloud-to-cloud |
+| Delivered from → to | COBOL → Java · RPG → private cloud · Java 8 → modern Java · MySQL → Snowflake · single server → AWS · PHP upgrades · cloud-to-cloud |
 | AI in delivery | Cursor and Claude, with every change reviewed by an engineer |
 | Engagement models | Scope-based project · embedded specialists · retainer advisory |
 | Technology partners | AWS · Microsoft · Snowflake · Databricks · Salesforce |

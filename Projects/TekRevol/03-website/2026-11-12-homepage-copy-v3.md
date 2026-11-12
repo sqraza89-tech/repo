@@ -13,11 +13,13 @@ cover_sub: SEO, AEO and GEO spec · November 2026
 
 - **Positioning:** TekRevol is a **software development company**. AI is a feature inside the software we build, not a service line. AI services move to a separate sister brand
 - **Audience:** SMB and mid-market companies in the US first. Founders are no longer the target
-- **Goal:** rank for "software development company" (SEO), be quoted in AI answers (AEO) and show up for US city searches (GEO). Every section moves a visitor toward **Start a project**
+- **Goal:** rank for "software development company" (SEO), be quoted in AI answers (AEO) and show up for US city searches (GEO). Every section moves a visitor toward a **project estimate** (see Offers and calls to action)
 - **Builds on:** the approved homepage mockups (Oct 30), the blueprint ([[2026-11-06-website-blueprint-v1]]) and the custom software page rebuild
 - `CONFIRM` = waiting on TekRevol (see the approvals and access request). Unconfirmed claims ship without the number
 
 **What changed from v2:** audience moved from founders to SMB and mid-market; the AI pillar is now a feature; four service pillars; a "where are you starting from" router; a US offices band for local search; a definition paragraph and an answer-first FAQ for AI engines; one primary call to action.
+
+**Update 2026-11-12 (CTAs):** "Start a project" is replaced with offers that name what the buyer gets: a written project estimate (primary), a systems review and a business case kit. See Offers and calls to action.
 
 ## Page at a glance
 
@@ -41,13 +43,38 @@ cover_sub: SEO, AEO and GEO spec · November 2026
 
 Nine full sections plus three thin bands, close to the eight-section target from the premium review.
 
+## Offers and calls to action
+
+**Rule:** every button names what the buyer gets and when. No "Start a project", "Contact us" or "Learn more". Each offer is something only a real buyer wants, so the form filters for relevance on its own.
+
+| Offer | Button | What they get | When | Who it's for | Fields |
+|---|---|---|---|---|---|
+| **Project estimate** (primary) | Get a project estimate | A written estimate: cost range, timeline, team shape and a phased plan with what to build first | Within 3 business days `CONFIRM` | Has a project in mind (owner-operator, champion) | Name · work email · company · company size · what you need · project details · timeline · budget band (optional) |
+| **Systems review** | Book a systems review | 45 minutes with a senior architect on one system or workflow, then a written report: what to keep, fix, connect or rebuild, with cost ranges | Report within 5 business days `CONFIRM` | Has a problem, not yet a project | Name · work email · company · company size · system or workflow · what's going wrong |
+| **Business case kit** | Get the business case kit | A forwardable pack: one-page business case template, cost ranges by project type, ROI worksheet, security overview, vendor checklist | Instant download | Champion building internal approval | Work email · company size |
+
+**Pillar-specific versions** (same form, different promise, for service pages):
+- Modernization: **Get a modernization roadmap**: stages, risks and cost per stage for one legacy system
+- Teams and support: **Get a team plan**: proposed roles, matching engineer profiles and a monthly cost, within 2 business days `CONFIRM`
+- Web and mobile apps: **Get an app estimate**: features, platforms, cost range and timeline
+
+**Phase 2 (recommended):** a **software cost estimator** on the pricing page. Six questions, an instant planning range on screen, and the detailed breakdown by email. Strong for SMB research traffic; needs a developer build, so not at launch.
+
+**How the offers keep leads relevant**
+- Work email required; personal addresses get a soft prompt ("Use your work email so we can send the estimate") `CONFIRM` with sales whether to block or allow
+- Company size on every form. Leads under 20 employees or under $35K get an automated reply with the pricing guide and the kit, not a sales call. 20+ employees go straight to a senior person
+- Estimate and review forms ask for project details or the system name: low-intent visitors drop off, buyers don't
+- Thank-you pages confirm the deliverable and date, and offer a calendar link to walk through it
+
+**What TekRevol has to commit to** `CONFIRM` with sales and delivery: who writes estimates and reports, the turnaround (3 and 5 business days proposed), and a short template for each so every lead gets the same quality. A promised deliverable that arrives late costs more trust than a vague button.
+
 ## 0. Navigation
 
 | Element | Copy |
 |---|---|
 | Logo | TekRevol mark + wordmark, links to `/` |
 | Links | Services · Industries · Work · How we work · Pricing · Company |
-| Button | **Start a project** (notched, Molten) |
+| Button | **Get an estimate** (notched, Molten; short form of "Get a project estimate") |
 | Services menu | Custom software development · Web and mobile apps · Modernization and integration · Teams and support · All services |
 
 - Sticky header after scroll, button always visible
@@ -60,7 +87,8 @@ Nine full sections plus three thin bands, close to the eight-section target from
 | Label (mono) | SOFTWARE DEVELOPMENT COMPANY |
 | H1 | **Software development for the company you're becoming.** |
 | Lead | TekRevol designs, builds and supports custom software, web and mobile apps for growing and mid-sized companies. Built to an enterprise standard, owned by you, with AI features where they pay off. |
-| Primary button | Start a project |
+| Primary button | Get a project estimate |
+| Under the button (mono) | WRITTEN ESTIMATE IN 3 BUSINESS DAYS · COST, TIMELINE, TEAM `CONFIRM` |
 | Text link | See our work → |
 | Spec row (mono) | SINCE / 2018 `CONFIRM` · PRODUCTS DELIVERED / 800+ `CONFIRM` · CLUTCH / 4.8 from 83 reviews `CONFIRM` · US OFFICES / Houston · New York · San Francisco `CONFIRM` |
 
@@ -181,9 +209,9 @@ Hairline timeline, five steps, one line each.
 
 | Step | Title | Line |
 |---|---|---|
-| 01 | We reply | A senior person reads your brief and replies within [X] working hours. `CONFIRM` |
-| 02 | Straight advice | A 30-minute call on what to build first, and what not to build. |
-| 03 | A fixed quote | Scope, timeline and price in writing, after a short discovery. |
+| 01 | Your written estimate | Cost range, timeline, team and what to build first, within 3 business days. `CONFIRM` |
+| 02 | A walkthrough | 30 minutes with the person who wrote it: what to build first, and what not to build. |
+| 03 | A fixed quote | Scope, timeline and price locked in writing, after a short discovery. |
 | 04 | The first release | A working version in your hands in weeks, not quarters. |
 | 05 | Working software, every sprint | Demos every two weeks. You see progress, not status reports. |
 
@@ -204,8 +232,9 @@ Hairline timeline, five steps, one line each.
 | Support and evolution | Your software is live and needs to keep improving | Monthly plans `CONFIRM` |
 
 - Commitments (mono line): YOU OWN THE CODE AND IP · NDA BEFORE DISCOVERY · SPRINT REVIEWS EVERY TWO WEEKS · ONE ACCOUNTABLE LEAD
-- Primary button: **Start a project**
-- Text links: **See pricing →** · **Get the business case pack →** (one-page summary to share with leadership; work email only)
+- Primary button: **Get a project estimate**
+- Business case kit card (Graphite, beside the table): **Getting sign-off internally?** The business case kit has a one-page template your leadership will read, cost ranges, an ROI worksheet and our security overview. Button (secondary, outline): **Get the business case kit** (work email and company size only)
+- Text link: **See full pricing →**
 
 **Why this section matters:** the mid-market champion needs a number and a document to forward. Showing ranges filters out poor-fit leads and raises trust with the right ones.
 
@@ -286,25 +315,33 @@ TekRevol is headquartered in [Houston, Texas] with offices in [Dallas, New York,
 We stay on. Support and evolution plans cover monitoring, fixes, updates and new features, so the software keeps up with the business. `CONFIRM` plans → Teams and support
 
 - FAQPage schema on these ten questions. The answer text in the schema must match the visible text exactly
-- Sticky left column with the H2 and a link: **Still have a question? Start a project →**
+- Sticky left column with the H2 and a link: **Have a specific question? Get a project estimate and ask it there →**
 
 ## 13. Closing CTA + form
 
 | Element | Copy |
 |---|---|
-| Label (mono) | START A PROJECT |
-| H2 | **Let's build what comes next.** |
-| Line | Share a few details. A senior person replies within [X] working hours. `CONFIRM` |
-| Form fields | Name · Work email · Company · Company size (1 to 19 / 20 to 199 / 200 to 2,000 / 2,000+) · What do you need? (Custom software / Web or mobile app / Modernize or integrate / Extra engineers / Not sure yet) · Project details (optional) · Budget range (optional: under $50K / $50K to $120K / $120K to $350K / $350K+) |
-| Button | **Start a project** |
-| Under the button | We'll sign an NDA before you share anything sensitive. |
+| Label (mono) | GET A PROJECT ESTIMATE |
+| H2 | **Know what it costs before you commit.** |
+| Line | Tell us what you need. Within 3 business days you get a written estimate: cost range, timeline, team and what to build first. `CONFIRM` |
+| What you get (mono list, left column) | COST RANGE · TIMELINE · TEAM SHAPE · PHASED PLAN · WHAT NOT TO BUILD |
+| Form switch (two tabs above the form) | **I have a project** (estimate form, default) · **I have a system that isn't working** (systems review form) |
+| Estimate fields | Name · Work email · Company · Company size (1 to 19 / 20 to 199 / 200 to 2,000 / 2,000+) · What do you need? (Custom software / Web or mobile app / Modernize or integrate / Extra engineers / Not sure yet) · Tell us about the project · Timeline (Within 3 months / 3 to 6 months / Later) · Budget range (optional: under $50K / $50K to $120K / $120K to $350K / $350K+) |
+| Estimate button | **Get my project estimate** |
+| Review fields | Name · Work email · Company · Company size · Which system or workflow? · What's going wrong? |
+| Review button | **Book my systems review** |
+| Under the button | No charge, no commitment. We sign an NDA before you share anything sensitive. |
 | Side (mono) | INFO@TEKREVOL.COM · +1 [one US number] `CONFIRM` |
+
+**Alternate H2s:** "Get a straight number for your project." · "Let's build what comes next." (v3 original, kept as the softer option)
 
 **Form rules**
 - Labels above fields, not placeholder-only. Work email validated inline. No visible captcha (use an invisible check)
-- Hidden fields: page URL, UTM source, medium, campaign, referrer
-- Submit goes to `/start-a-project/thank-you/` with a GA4 `generate_lead` event and the CRM source set
-- Thank-you page: what happens next (three steps), a calendar link to book the call now, and the business case pack
+- Hidden fields: page URL, UTM source, medium, campaign, referrer, offer type
+- Each offer has its own page and thank-you URL: `/get-an-estimate/` → `/get-an-estimate/thank-you/` · `/systems-review/` → `/systems-review/thank-you/` · `/business-case-kit/` → `/business-case-kit/thank-you/`
+- GA4: `generate_lead` with an `offer` parameter (estimate / systems_review / business_case_kit), so leads can be compared by offer; CRM source and offer set on every lead
+- Thank-you pages restate the deliverable and the date ("Your estimate arrives by Thursday"), a calendar link to book the walkthrough now, and the business case kit
+- Routing: under 20 employees or under $35K budget → automated reply with the pricing guide and kit; 20+ employees → senior person, same day `CONFIRM`
 
 ## 14. Footer
 
@@ -313,7 +350,7 @@ We stay on. Support and evolution plans cover monitoring, fixes, updates and new
 | Services | Custom software development · Web and mobile apps · Modernization and integration · Teams and support · Mobile app development · Web development · Product development |
 | Industries | Healthcare · Energy · Manufacturing · Retail · Education · Real estate |
 | Company | About · How we work · Build Standard · Security and compliance · Careers · Reviews · Contact |
-| Resources | Work · Insights · Pricing · Business case pack · Facts |
+| Resources | Work · Insights · Pricing · Business case kit · Systems review · Facts |
 | Locations | Houston · Dallas · New York · San Francisco · Chicago · Miami · Washington, DC · London · Dubai · Riyadh `CONFIRM` |
 | Contact | One US address (headquarters), one US phone, info@tekrevol.com `CONFIRM` |
 | Sister brand | AI services: [AI brand name] → `CONFIRM` |
@@ -328,7 +365,7 @@ We stay on. Support and evolution plans cover monitoring, fixes, updates and new
 | URL | `/` |
 | Title tag (57 characters) | Software Development Company for Growing Teams \| TekRevol |
 | Title alternate (US focus) | Custom Software Development Company in the US \| TekRevol |
-| Meta description (151 characters) | TekRevol builds custom software, web and mobile apps for growing and mid-sized US companies. 800+ products since 2018. Get a fixed quote after scoping. `CONFIRM` numbers |
+| Meta description (152 characters) | TekRevol builds custom software, web and mobile apps for growing and mid-sized US companies. 800+ products since 2018. Get a written estimate in 3 days. `CONFIRM` numbers |
 | H1 | Software development for the company you're becoming. |
 | Primary keyword | software development company |
 | Secondary keywords | custom software development company · software development company in the US · software development services · web and mobile app development company · legacy modernization services |
@@ -391,12 +428,12 @@ We stay on. Support and evolution plans cover monitoring, fixes, updates and new
 
 ## UX and performance standards
 
-- **One primary action:** "Start a project" in the header, hero, Ways to work and the close. Everything else is a text link
+- **One primary action:** "Get a project estimate" in the hero, Ways to work and the close ("Get an estimate" in the header). The systems review and business case kit are the only secondary offers; everything else is a text link
 - **Core Web Vitals targets:** LCP under 2.5 s, INP under 200 ms, CLS under 0.1 on mobile. Hero render as AVIF/WebP with set dimensions; fonts preloaded with `font-display: swap`
 - **Accessibility (WCAG 2.2 AA):** text contrast 4.5:1 (check the grey on Carbon and the Molten button text), visible focus states, keyboard-usable menus and FAQ, alt text on logos, captions and transcript on video
-- **Mobile:** spec row stacks 2 × 2; router rows become full-width tap targets (48 px minimum); results scroll as a list, not a carousel; sticky "Start a project" bar after the hero
+- **Mobile:** spec row stacks 2 × 2; router rows become full-width tap targets (48 px minimum); results scroll as a list, not a carousel; sticky "Get an estimate" bar after the hero
 - **Motion:** one motion moment (the Strata build in the hero). Respect `prefers-reduced-motion`
-- **Tracking:** GA4 events for `generate_lead`, business case download, "See our work", pillar clicks, FAQ opens, phone and email clicks
+- **Tracking:** GA4 events for `generate_lead` (with the offer type), business case kit download, "See our work", pillar clicks, FAQ opens, phone and email clicks
 
 ## Decisions for Sana
 
@@ -405,9 +442,13 @@ We stay on. Support and evolution plans cover monitoring, fixes, updates and new
 3. Healthcare AI operations landing page: keep on TekRevol (as healthcare software) or move to the AI sister brand?
 4. Sister brand: name and URL, and whether it appears in the footer from launch
 5. Karachi delivery center: not mentioned on the homepage. Decide whether the About page names it (recommended: yes, as an engineering center, stated plainly)
+6. Offers: approve the three offers and their promises (estimate in 3 business days, review report in 5), then get sales and delivery to commit to the turnaround
+7. Personal email addresses on forms: soft prompt (recommended) or block
 
 ## Next steps
-- [ ] Sana: decisions 1 to 5
+- [ ] Sana: decisions 1 to 7
+- [ ] TekRevol sales and delivery: name who writes estimates and review reports, and confirm the turnaround
+- [ ] Claude: estimate, systems review and business case kit templates (so every lead gets the same quality), plus the kit itself
 - [ ] TekRevol: answer the `CONFIRM` items (most are already in the approvals and access request; new ones: headquarters address, staffed offices, sister brand name, crawler policy)
 - [ ] Claude: update the blueprint to four pillars (AI moves to a feature)
 - [ ] Claude: rewrite llms.txt and the Facts page once facts are confirmed

@@ -30,6 +30,7 @@ Everything made for TekRevol lives here.
 ## Key links
 - **Website rebuild (current, 2026-11-06):** roadmap `03-website/2026-11-06-website-rebuild-roadmap.md` + blueprint v1 `03-website/2026-11-06-website-blueprint-v1.md` (SMB + mid-market, founders out of nav, 5 pillars, ~31 launch pages on 12 templates; awaiting Sana approval)
 - **Approvals and access request for TekRevol (2026-11-06, shareable):** `03-website/TekRevol-Website-Rebuild-Approvals-and-Access-Request-Cover-A.docx` / `-Cover-B.docx` (+ PDFs), source `03-website/2026-11-06-website-rebuild-approvals-and-access-request.md`; 8 approvals, 12 verifications, 12 access items, 3 developer asks; replies due 11 and 13 Nov
+- **Homepage copy v3 (2026-11-12, current):** `03-website/2026-11-12-homepage-copy-v3.md` + Word `TekRevol-Homepage-Copy-v3-Cover-A/B.docx` (+ PDFs); software development company, AI as a feature (AI services go to a sister brand), US first, 4 pillars, SEO/AEO/GEO + schema + UX spec, live-site fact conflicts (HQ Houston/Dallas/Austin) listed
 - **Brand guidelines:** `01-brand-system/deck-v7/` (Cyan and Mono)
 - Older v2 web page (superseded): https://claude.ai/artifact/HpisETnNbr4fyuqKkUWz5z · font comparison: https://claude.ai/artifact/Fjt5fezUGewSwkuUTLc44D
 - **Brand profile used by the skills:** `Reference/brands/tekrevol.md`

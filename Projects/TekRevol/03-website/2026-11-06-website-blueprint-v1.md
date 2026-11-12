@@ -7,6 +7,8 @@ tags: [tekrevol, website, sitemap, information-architecture, messaging, conversi
 
 Step 1 of [[2026-11-06-website-rebuild-roadmap]]. Updates [[2026-10-08-site-architecture-proposal]] for the new audience: SMB and mid-market companies, not founders. Software development first, AI as a capability, premium tone ([[2026-10-28-homepage-and-custom-software-page-premium-review]]).
 
+**Update 2026-11-12:** AI services move to a separate sister brand. TekRevol = software development company; the "AI and automation" pillar is dropped and AI becomes a feature under custom software, so the site has **four pillars**. US first for geography. See [[2026-11-12-homepage-copy-v3]].
+
 Status: **draft for Sana's approval.** Items marked [CONFIRM] need TekRevol.
 
 ## 1. Who the site is for

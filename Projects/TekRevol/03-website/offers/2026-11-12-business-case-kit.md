@@ -67,7 +67,7 @@ Planning ranges for US companies working with a full-service software developmen
 
 ## 3. ROI worksheet
 
-Fill in your own numbers. Conservative inputs make a stronger case than optimistic ones.
+Fill in your own numbers. Conservative inputs make a stronger case than optimistic ones. A spreadsheet version that does the math (and shows payback if benefits come in 25% lower or higher) comes with this kit: TekRevol-Software-ROI-Worksheet.xlsx.
 
 | Line | Input | Your number |
 |---|---|---|

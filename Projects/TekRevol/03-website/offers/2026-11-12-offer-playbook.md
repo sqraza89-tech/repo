@@ -138,7 +138,7 @@ When the project is ready to scope, reply to this email and we'll send a written
 ## Business case kit follow-up (download, no form beyond email)
 
 - **Immediately:** email with the PDF link and one line: "When you have a project in mind, we'll turn it into a written estimate that fits section 1."
-- **Day 3:** the ROI worksheet as a spreadsheet `CONFIRM` (Excel version to be built)
+- **Day 3:** the ROI worksheet as a spreadsheet (`TekRevol-Software-ROI-Worksheet.xlsx`), with one line: "Fill in the shaded cells; it gives you payback and three-year value for your business case."
 - **Day 10:** offer the project estimate or a systems review, whichever fits their company size
 
 ## What to track in the CRM
@@ -158,6 +158,6 @@ Review monthly with marketing. If one offer brings many leads but few walkthroug
 - [ ] Sales: confirm the triage thresholds (20 employees, $35K)
 - [ ] Sales: confirm the planning ranges used in the kit and estimates
 - [ ] Delivery: confirm the security answers in the kit (section 6)
-- [ ] Marketing: build the ROI worksheet as an Excel file
+- [x] Marketing: build the ROI worksheet as an Excel file (`offers/TekRevol-Software-ROI-Worksheet.xlsx`, builder `_build/roi-xlsx/`)
 - [ ] Marketing: load email templates into the CRM, with offer type as a lead field
 - [ ] Pilot: run 3 internal practice estimates on past projects before launch

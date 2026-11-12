@@ -9,7 +9,11 @@ tags: [xloop, xcelerate, mari, csr, linkedin, facebook, paid, media-plan, govern
 
 **v5 changes (10 Nov):** Ali's email: Nasir wants **Facebook alongside LinkedIn**, within the same budget. Split USD 300 LinkedIn + USD 150 Facebook = USD 450. Launch moved to **Mon 16 Nov** (approval still pending). v4 (6 Nov) was LinkedIn only.
 
-**Approved version (11 Nov):** Sana's own edit, `Notes/Mari ad campaign plan.docx`. It's trimmed (no dates, no claim section, no Ad 1) and has the Facebook part added. This md is the working draft; edit the docx going forward.
+**Approved version (corrected 12 Nov):** `Notes/Mari Testimonial Ad Campaign.docx`, a copy of the Teams chat file (OneDrive - xLoop / Microsoft Teams Chat Files). It targets corporate HR/CSR. Facebook was added on 12 Nov:
+- LinkedIn awareness USD 280 (USD 10/day) + LinkedIn retargeting USD 140 + Facebook USD 80 = USD 500
+- Expected results: LinkedIn 15k to 25k impressions and 3k to 6k views; 50 to 90 page visits from retargeting; Facebook 25k to 50k impressions and 4k to 10k ThruPlays; 1 to 4 inquiries
+
+`Mari ad campaign plan.docx` was an earlier edit and is NOT the approved one. This md is an older working draft.
 
 Related: [[2026-10-19-xloop-mari-cohort-linkedin-video-script]]
 

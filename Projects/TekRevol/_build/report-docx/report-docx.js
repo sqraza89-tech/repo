@@ -3,7 +3,8 @@
 // Writes <name>-Cover-A.docx (abstract gradient) and <name>-Cover-B.docx (glass mark).
 // File name: frontmatter docx_name, else TekRevol-<Title-Cased-Slug>.
 // Cover text comes from the report's frontmatter: cover_label, cover_title, cover_sub
-// (falls back to "REPORT", the # title and the date). Footer reads "TekRevol · <cover_title> · Internal · n".
+// (falls back to "REPORT", the # title and the date). Footer reads "TekRevol · <cover_title> · Internal · n";
+// frontmatter footer_tag changes "Internal" (footer_tag: none drops it, for client-facing documents).
 // Markdown supported: ## / ### headings, paragraphs, - bullets (indent 2+ spaces for level 2),
 // 1. numbered lists, - [ ] checkboxes, | tables |, **bold**, *italic*, `code`, [text](url), [[wikilink]].
 // `VERIFIED` / `INFERRED` / `NEEDS DATA` / `CONFIRM` render as colored tags.
@@ -177,7 +178,7 @@ const stem = fm.docx_name || 'TekRevol-' + base.split('-').map(w => w[0].toUpper
         { properties: { page: { ...page, margin: { top: 1300, bottom: 400, left: 1440, right: 1440 } } }, children: cover },
         { properties: { page: { ...page, margin: { top: 1200, bottom: 1200, left: 1440, right: 1440 } } },
           footers: { default: new Footer({ children: [new Paragraph({ alignment: AlignmentType.RIGHT, children: [
-            new TextRun({ text: `TekRevol · ${cv.title} · Internal · `, font: M, size: 14, color: MUTED }),
+            new TextRun({ text: `TekRevol · ${cv.title} · ${(fm.footer_tag && fm.footer_tag !== 'none') ? fm.footer_tag + ' · ' : (fm.footer_tag === 'none' ? '' : 'Internal · ')}`, font: M, size: 14, color: MUTED }),
             new TextRun({ children: [PageNumber.CURRENT], font: M, size: 14, color: MUTED })] })] }) },
           children: C },
       ],

@@ -66,7 +66,7 @@ Nine full sections plus three thin bands, close to the eight-section target from
 - Estimate and review forms ask for project details or the system name: low-intent visitors drop off, buyers don't
 - Thank-you pages confirm the deliverable and date, and offer a calendar link to walk through it
 
-**What TekRevol has to commit to** `CONFIRM` with sales and delivery: who writes estimates and reports, the turnaround (3 and 5 business days proposed), and a short template for each so every lead gets the same quality. A promised deliverable that arrives late costs more trust than a vague button.
+**What TekRevol has to commit to** `CONFIRM` with sales and delivery (templates and playbook in `offers/`, see [[2026-11-12-offer-playbook]]): who writes estimates and reports, the turnaround (3 and 5 business days proposed), and a short template for each so every lead gets the same quality. A promised deliverable that arrives late costs more trust than a vague button.
 
 ## 0. Navigation
 
@@ -448,7 +448,7 @@ We stay on. Support and evolution plans cover monitoring, fixes, updates and new
 ## Next steps
 - [ ] Sana: decisions 1 to 7
 - [ ] TekRevol sales and delivery: name who writes estimates and review reports, and confirm the turnaround
-- [ ] Claude: estimate, systems review and business case kit templates (so every lead gets the same quality), plus the kit itself
+- [x] Claude: estimate, systems review and business case kit templates, plus the kit and an internal offer playbook (`offers/`)
 - [ ] TekRevol: answer the `CONFIRM` items (most are already in the approvals and access request; new ones: headquarters address, staffed offices, sister brand name, crawler policy)
 - [ ] Claude: update the blueprint to four pillars (AI moves to a feature)
 - [ ] Claude: rewrite llms.txt and the Facts page once facts are confirmed

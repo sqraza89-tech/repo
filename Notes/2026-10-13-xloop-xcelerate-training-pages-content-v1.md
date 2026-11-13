@@ -788,3 +788,12 @@ xCelerate · Corporate AI Training · Sponsored Talent Programs · Careers
 - [ ] Send the docx to design with the Cloud, Data and Legacy docs so the cluster patterns match
 - [ ] Devs: fix or remove the dead "AI Bootcamp II" nav link now, ahead of the rebuild
 - [ ] Update `Notes/2026-10-05-xloop-website-revamp-page-status.md`: xCelerate content written
+
+### Proposed v1.2 additions after the Mari ad campaign (13 Nov, not yet applied)
+
+- [ ] Embed the Mari testimonial video (4 graduates) in the Sponsored page proof block, and optionally in the hub proof section. Add a transcript and VideoObject schema
+- [ ] Add 1 to 2 graduate quotes (first names) from the video
+- [ ] Add a message-match line, e.g. "Fostering careers and lives, not just training"
+- [ ] Devs: LinkedIn Insight Tag + Meta Pixel on the xCelerate pages; a separate form event for the sponsored form. Ads link here with UTMs ([[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]])
+- [x] Mari consent to use the material received (Nov 2026): the courtesy check is done for Mari
+- [ ] Sana to decide: drop PPL from the pages too (the ads no longer mention it)? Keep the Naseem Qamar quote, or swap in graduate quotes?

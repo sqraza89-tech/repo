@@ -24,24 +24,37 @@ Related: [[2026-11-13-xloop-readiness-tool-user-flow-and-emails]] · [[2026-11-1
 - **Written answers** (Compliance Q5, Agentic AI Q5) go to the security team with the lead, for the call. They are not scored and not quoted back in the email
 - **NEPRA visitors (Sana, 13 Nov):** Energy & utilities + Pakistan visitors get the same CTAs as the NEPRA page, which reach Huzaifa: call +92 21 3586 9200 or email xsecurity@xloopdigital.com. No booking link. Their follow-up email swaps the button for these two contacts
 
-## 2. Scoring (as built in the workbook)
+## 2. Scoring (rescaled, Sana 13 Nov)
 
-1. **Answer points:** 1 (weakest practice) to 4 (strongest) per scored question
-2. **Domain %** = points earned ÷ maximum points for that domain. Seven domains have 5 scored questions (20 points max); Compliance & Regulatory Readiness and Agentic AI & Adversarial Robustness have 4 scored (16 points max)
-3. **Overall %** = points earned ÷ 172 (domain weights equal by default, editable)
-4. **Tier** from the overall %:
+**Decision:** the weakest answer counts as 0, so results are accurate. As built, every answer earned at least 1 point, so nobody could score below 25% and the Exposed tier (0 to 25%) was only reachable by choosing the weakest option on all 43 questions. Weak organizations were told they were Foundational, and every score read about a quarter too high.
 
-| Tier | Score | What it means (workbook) |
-|---|---|---|
-| Exposed | 0 to 25% | AI security is largely unmanaged: real, near term risk of data leakage, model misuse or compliance failure |
-| Foundational | 26 to 50% | Basic controls exist but are inconsistent and mostly reactive, not designed for AI specific threats |
-| Managed | 51 to 75% | Core AI security practices are in place and mostly consistent, with some gaps in monitoring or vendor risk |
-| Advanced | 76 to 100% | AI security is proactively managed with strong governance, monitoring and response |
+1. **Answer points:** 1 (weakest practice) to 4 (strongest), unchanged in the questions
+2. **Domain %** = (points earned − questions answered) ÷ (3 × questions answered)
+   - Seven domains have 5 scored questions; Compliance & Regulatory Readiness and Agentic AI & Adversarial Robustness have 4 (the fifth is a written answer)
+   - Workbook formula, using the existing Dashboard columns: **(Your Score − Max Points ÷ 4) ÷ (Max Points × 3 ÷ 4)**
+3. **Overall %** = average of the 9 domain % (equal weights, editable). Replaces "points ÷ 172", which counted the two 16 point domains slightly less than the others
+4. **Tier** from the overall %, thresholds unchanged:
 
-5. **Strongest domain** = highest domain %. **Priority focus area** = lowest domain % (ties: first in the workbook's domain order)
+| Tier | Score | What it means (workbook) | Typical answers |
+|---|---|---|---|
+| Exposed | 0 to 25% | AI security is largely unmanaged: real, near term risk of data leakage, model misuse or compliance failure | Mostly "nothing in place" |
+| Foundational | 26 to 50% | Basic controls exist but are inconsistent and mostly reactive, not designed for AI specific threats | Mostly "informal" or "ad hoc" |
+| Managed | 51 to 75% | Core AI security practices are in place and mostly consistent, with some gaps in monitoring or vendor risk | Mostly "formal, with gaps" |
+| Advanced | 76 to 100% | AI security is proactively managed with strong governance, monitoring and response | Mostly "fully in place" |
+
+5. **Strongest domain** = highest domain %. **Priority focus area** = lowest domain % (ties: first in the workbook's domain order). Unchanged by the rescale: the domain ranking stays the same
 6. **Dashboard target line:** 75% per domain
 
-**Note on the scale:** the lowest answer still scores 1 point, so the minimum possible overall score is 25%, which is "Exposed". The tier logic works, but the scores read higher than a 0 to 3 scale would. **[CONFIRM]** keep as built, or rescale to (points − 43) ÷ 129 so a weakest answer reads as 0%.
+### Before and after
+
+| Answers mostly… | As built | Rescaled |
+|---|---|---|
+| 1, nothing in place (e.g. 30 weakest + 13 informal) | 33%, Foundational | 10%, Exposed |
+| 2, informal or ad hoc | 50%, Foundational (on the Managed boundary) | 33%, Foundational |
+| 3, formal with gaps | 75%, Managed (on the Advanced boundary) | 67%, Managed |
+| 4, fully in place | 100%, Advanced | 100%, Advanced |
+
+**For dev and the workbook:** update the Dashboard "Your %" column and the overall score to the formulas above, and the Scoring & Tiers explanation text ("Overall score % = sum ÷ 172") to match. Overlay thresholds in 4.4 already assume the rescaled percentages.
 
 ## 3. Results page copy
 
@@ -291,7 +304,7 @@ Each block names the lowest scoring domain. The steps follow the workbook's ques
 | Agentic AI block | "We'll also look at the approach to agents you described" | Yes: as above |
 
 **Still open**
-- [ ] **Scale:** keep the 1 to 4 scale as built (minimum overall score 25%), or rescale so the weakest answers read as 0%?
+- [x] **Scale:** rescaled so the weakest answer reads as 0% (Sana, 13 Nov). See section 2
 - [ ] Which of Farrukh or Humza signs, and his title
 - [ ] Security lead: read the promises above and the nine "how we would take it" blocks, and change anything the team wouldn't do
 

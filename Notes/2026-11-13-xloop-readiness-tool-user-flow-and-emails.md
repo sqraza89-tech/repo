@@ -135,7 +135,7 @@ Within 3 months · In 3–6 months · In 6–12 months · No date yet
 **P1. In the last 12 months, has missing, wrong or inconsistent data caused delays, errors or lost deals?**
 Yes, often · Yes, sometimes · Rarely · No · Not sure
 
-- "Yes, often" opens the report (and the email, see 6.3) with what bad data is costing them
+- "Yes, often" opens the report (and the email, see 6.4) with what bad data is costing them
 - "No" with a low Data Foundation score: the report notes the cost may not be visible yet
 
 ## 4. Scoring mechanism

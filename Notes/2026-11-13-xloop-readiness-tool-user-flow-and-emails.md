@@ -9,6 +9,7 @@ For verification by Irfan and the engineers. Source of truth is the v4 workbook
 (`Notes/2026-10-28-xloop-data-ai-readiness-assessment-v4.xlsx`); nothing in the questions or
 scoring has changed. What is new here: the walkthrough in the order a user sees it, and one
 follow-up email per diagnosis. Items marked **[CONFIRM]** need an answer from the reviewers.
+Shareable Word copy (no related links or Next steps): `Notes/2026-11-13-xloop-readiness-tool-user-flow-and-emails.docx`.
 
 Related: [[2026-10-28-xloop-data-ai-readiness-assessment-v4]] ·
 [[2026-10-27-xloop-ai-questionnaires-review]] · [[2026-10-19-xloop-blog-is-your-data-ready-for-ai-checklist]]

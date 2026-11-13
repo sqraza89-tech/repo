@@ -14,7 +14,7 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 1. Homepage: `2026-09-18-xloop-homepage-revamp-v2.docx` + Pick n Pay change list item 6
 2. Hubs linked from the homepage: Digital Transformation `2026-09-16-…-spec-v2.3.docx` (+ change list item 7) · Data & AI Consulting `2026-10-14-xloop-data-ai-consulting-page-content-v1.1.docx` (**not** the 14 Oct AI Consulting & Strategy v1, superseded) · Applied AI hub · xSecurity hub · xLab hub · xCelerate v1.1. Confirm with design whether xLab and xCelerate cards are on the new homepage
 3. Data & AI Readiness tool: `2026-10-28-…-assessment-v4.xlsx` + `2026-11-13-xloop-readiness-tool-user-flow-and-emails.docx`
-4. AI Security tool: **goes live with the homepage Mon 16 Nov** (dev, 13 Nov). SEO pack: `2026-11-13-xloop-ai-security-assessment-seo-pack.md`. Spec still unreviewed: Only `Downloads/AI_Security_Readiness_Assessment_UpdatedV2.xlsx` + `AI_Security_Assessment_UX_Addendum.xlsx` (Aug). Review before dev reaches it
+4. AI Security tool: **goes live with the homepage Mon 16 Nov** (dev, 13 Nov). SEO pack: `2026-11-13-xloop-ai-security-assessment-seo-pack.md`. User flow + 4 tier emails (call with security team): `2026-11-13-xloop-ai-security-assessment-user-flow-and-emails.docx`. Spec still unreviewed: Only `Downloads/AI_Security_Readiness_Assessment_UpdatedV2.xlsx` + `AI_Security_Assessment_UX_Addendum.xlsx` (Aug). Review before dev reaches it
 
 ## Done
 - Homepage v2 (18 Sep) — `Notes/2026-09-18-xloop-homepage-revamp-v2.docx`

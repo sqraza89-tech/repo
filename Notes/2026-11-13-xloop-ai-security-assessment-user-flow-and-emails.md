@@ -20,9 +20,9 @@ Related: [[2026-11-13-xloop-readiness-tool-user-flow-and-emails]] · [[2026-11-1
 | 4. Follow-up email | Sent the moment the report is requested. One email per tier (section 4) | — |
 | 5. Call | 30 minute AI Security Review with xLoop's security team | Calendar booking (phone optional) |
 
-- **Data handling (UX addendum):** "No account required. Your answers are not stored unless you choose to get your report." Show this on the landing page
+- **Data handling (Sana, 13 Nov):** answers are stored only to score the assessment and prepare the diagnosis. Landing page line: "No account required. Your answers are used only to score your assessment and prepare your results." (Replaces the UX addendum's "not stored" line, which isn't accurate)
 - **Written answers** (Compliance Q5, Agentic AI Q5) go to the security team with the lead, for the call. They are not scored and not quoted back in the email
-- **NEPRA exception, same as the readiness tool:** Energy & utilities + Pakistan visitors get the NEPRA contact (phone +92 21 3586 9200, xsecurity@xloopdigital.com) on the results page, alongside the booking link. **[CONFIRM]** whether the readiness tool's "no booking link" rule applies here too
+- **NEPRA visitors (Sana, 13 Nov):** Energy & utilities + Pakistan visitors get the same CTAs as the NEPRA page, which reach Huzaifa: call +92 21 3586 9200 or email xsecurity@xloopdigital.com. No booking link. Their follow-up email swaps the button for these two contacts
 
 ## 2. Scoring (as built in the workbook)
 
@@ -69,9 +69,9 @@ Related: [[2026-11-13-xloop-readiness-tool-user-flow-and-emails]] · [[2026-11-1
 - **One email per tier** (4 emails). Each has a slot for:
   - a **priority domain block** (9 blocks, 4.3): what to fix first, how we would take it, and what the call gives them
   - **overlay lines** (4.4) when they apply
-- **Sender:** a named person from the security team, not "the xLoop team". **[CONFIRM]** who signs
+- **Sender (Sana, 13 Nov):** Farrukh Feroze Ali or Muhammad Humza from the security team, who also answer replies. **[CONFIRM]** which one signs, and his exact title
 - **Button:** the booking keeps one name everywhere: "30 minute AI Security Review". The line above it names what they get
-- **Not sent to:** NEPRA cases if the "phone and email only" rule applies (see 1). Individual learners are not asked in this tool, so no exclusion
+- **NEPRA cases:** same email, but the button becomes "Call +92 21 3586 9200" and "Email xsecurity@xloopdigital.com" (as on the NEPRA page). Individual learners are not asked in this tool, so no exclusion
 - Merge fields: `{first_name}` `{company}` `{overall}` `{tier}` `{strongest_domain}` `{priority_domain}` `{priority_score}` `{low_domains}` (domains under 25%) `{low_count}`
 - **Proof rule:** no client names or AI security results (the red team findings still need client permission). The credential line is the proof: certified ISO 27001 and ISO/IEC 42001 Lead Auditors (individual)
 
@@ -99,7 +99,7 @@ Related: [[2026-11-13-xloop-readiness-tool-user-flow-and-emails]] · [[2026-11-1
 > {sender_name}
 > {sender_title}, xLoop Digital
 >
-> P.S. Not ready for a call? Reply with the one AI risk that worries you most, and our security team will answer it by email.
+> P.S. Not ready for a call? Reply with the one AI risk that worries you most, and I'll answer it by email.
 
 #### Email 2: Foundational
 
@@ -123,7 +123,7 @@ Related: [[2026-11-13-xloop-readiness-tool-user-flow-and-emails]] · [[2026-11-1
 > {sender_name}
 > {sender_title}, xLoop Digital
 >
-> P.S. Not ready for a call? Reply with the one AI risk that worries you most, and our security team will answer it by email.
+> P.S. Not ready for a call? Reply with the one AI risk that worries you most, and I'll answer it by email.
 
 #### Email 3: Managed
 
@@ -147,7 +147,7 @@ Related: [[2026-11-13-xloop-readiness-tool-user-flow-and-emails]] · [[2026-11-1
 > {sender_name}
 > {sender_title}, xLoop Digital
 >
-> P.S. Not ready for a call? Reply with the one AI risk that worries you most, and our security team will answer it by email.
+> P.S. Not ready for a call? Reply with the one AI risk that worries you most, and I'll answer it by email.
 
 #### Email 4: Advanced
 
@@ -171,7 +171,7 @@ Related: [[2026-11-13-xloop-readiness-tool-user-flow-and-emails]] · [[2026-11-1
 > {sender_name}
 > {sender_title}, xLoop Digital
 >
-> P.S. Not ready for a call? Reply with the one AI risk that worries you most, and our security team will answer it by email.
+> P.S. Not ready for a call? Reply with the one AI risk that worries you most, and I'll answer it by email.
 
 ### 4.3 Priority domain blocks (one drops into the slot)
 
@@ -270,16 +270,30 @@ Each block names the lowest scoring domain. The steps follow the workbook's ques
 - **Strong overall, one weak area** (overall ≥ 51% and priority domain under 40%): "Your overall score is solid, but {priority_domain} is well behind the rest. Weak spots like this are where incidents usually start."
 - **Agentic AI low** (Agentic AI under 40%, when it isn't already the priority block): "One more thing: your score on AI agents is low. If agents are live, or about to be, that's worth covering on the same call."
 
-## 5. Questions for the security lead and developers
+## 5. Answers and open questions
 
+**Answered by Sana, 13 Nov**
+- **Sender and replies:** Farrukh Feroze Ali or Muhammad Humza
+- **NEPRA visitors:** NEPRA page CTAs (phone and xsecurity@), which reach Huzaifa; no booking link
+- **Data handling:** answers are stored only for scoring and diagnosis; landing page line updated
+- **Framework badges:** no "NIST aligned" badge. The questions can still be described as referencing OWASP LLM Top 10, MITRE ATLAS and ISO/IEC 42001 in the full report
+- **"How we would take it" steps:** keep them practical and doable; the security lead edits any step the team wouldn't run
+
+**What each email promises from the 30 minute call**
+
+| Tier | The promise | Doable in 30 minutes? |
+|---|---|---|
+| Exposed | "you leave with the three controls to put in place first, in order" | Yes, if the team picks from the low scoring questions in the report |
+| Foundational | "you leave knowing what an audit should cover first" | Yes: a scoping conversation |
+| Managed | "you leave with a short plan to close [your weakest areas]" | Yes, if "plan" means two or three next steps, not a document |
+| Advanced | "you leave with what to test next" | Yes: one or two test areas |
+| Compliance block | "We'll also look at the compliance concern you described" | Yes: the written answer is sent ahead of the call |
+| Agentic AI block | "We'll also look at the approach to agents you described" | Yes: as above |
+
+**Still open**
 - [ ] **Scale:** keep the 1 to 4 scale as built (minimum overall score 25%), or rescale so the weakest answers read as 0%?
-- [ ] **"How we would take it" steps:** are these the steps you would actually run? Change anything you wouldn't do
-- [ ] **What the 30 minute call covers:** each email promises an output ("you leave with…"). Can the team deliver that in 30 minutes from the report alone?
-- [ ] **Sender:** who signs the emails?
-- [ ] **P.S. reply promise:** who answers replies, and how fast?
-- [ ] **NEPRA visitors:** NEPRA contact only, or NEPRA contact plus the booking link?
-- [ ] **Data handling:** confirm answers aren't stored unless the report is requested, as the landing page will say
-- [ ] **Framework badges:** the workbook maps each question to OWASP LLM Top 10, MITRE ATLAS, NIST AI RMF and ISO/IEC 42001. Saying the questions "reference" these is fine; a "NIST aligned" badge needs approval first (brain C11)
+- [ ] Which of Farrukh or Humza signs, and his title
+- [ ] Security lead: read the promises above and the nine "how we would take it" blocks, and change anything the team wouldn't do
 
 ## Internal notes (not for design)
 

@@ -272,8 +272,8 @@ Optional, if Omais has a week free: a 25–30s video version of post 1 for week 
 
 ## Next steps
 
-- [x] **Campaign approved (Sana, 16 Nov 2026).** Live dates and the CR5 move to Thu 3 Dec are in [[2026-11-16-xloop-social-posting-master-schedule]]
-- [ ] Still open: CTA link + offer, Creatio wording sign-off, logo files, signing photo, tagging OK
+- [ ] **Not approved yet (16 Nov 2026):** Nasir wants to discuss the campaign with Huzaifa and Sana. Posts on hold; dates re-slot from approval in [[2026-11-16-xloop-social-posting-master-schedule]]
+- [ ] Still open after that: CTA link + offer, Creatio wording sign-off, logo files, signing photo, tagging OK
 - [ ] Sana sends the Omais brief today (Tue 10 Nov 2026) for the slide 1–3 mockup
 - [ ] Huzaifa sends the inputs above by Wed 11 Nov 2026
 - [ ] Irfan and Humza read their posts and adjust the wording to sound like them

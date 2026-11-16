@@ -27,7 +27,7 @@ this file first, then pull full captions and visual text from the source files b
 - Every Tuesday, People & Culture asks staff to reshare the company post of the week (Advocacy tab)
 - One company page post a day. When two plans collide, the CEO-requested campaign wins and the calendar post moves
 
-## Collisions found and how they're resolved (Sana to confirm)
+## Collisions and how they're resolved (CR rows apply only once Creatio is approved)
 
 | Date | Clash | Resolution |
 |---|---|---|
@@ -38,7 +38,7 @@ this file first, then pull full captions and visual text from the source files b
 
 | Tue 1 Dec | Company page: CR5 legacy CRM carousel + CP35 ISO 42001 carousel | CP35 stays Tue (tied to blog B11 + Humza MH12) · CR5 moves to Thu 3 Dec · CP37 Farrukh quote moves to Wed 9 Dec |
 
-**Creatio campaign approved (Sana, 16 Nov 2026).** CR1 to CR6 run as scheduled from Tue 17 Nov.
+**Creatio campaign NOT approved yet (16 Nov 2026).** Nasir wants to discuss it with Huzaifa and Sana first. Until then, CR1 to CR6 are **on hold**, the collision fixes above for CR posts do not apply, and the calendar runs as written (CP27 Tue 17, CP28 Wed 18, CP29 Thu 19, MN07 Wed 18, IS10 Tue 24, CP37 Thu 3 Dec). Once approved, re-slot CR posts from the approval date, keeping the same order and gaps, and re-apply the one-post-a-day rule.
 
 ## Schedule
 
@@ -49,19 +49,17 @@ this file first, then pull full captions and visual text from the source files b
 | Mon 16 | Wasey | WS07 Keys, secrets and AI coding tools | Text | No |
 | Mon 16 | Company page (LinkedIn + Facebook) | MARI full testimonial video, organic (if ads launch today) | Video (exists) | Editor cutdowns B1 to B3 |
 | Mon 16 | Blog | B8 AI Red Teaming vs Penetration Testing | Blog | — |
-| Tue 17 | Company page | CR1 Creatio announcement | Carousel 7 slides | Yes |
+| Tue 17 | Company page | CP27 AI red teaming vs pentest | Carousel 6 slides | Yes |
 | Tue 17 | Humza | MH09 What I do in an AI red team exercise | Text | No |
-| Wed 18 | Company page | CP27 AI red teaming vs pentest (moved from Tue) | Carousel 6 slides | Yes |
-| Wed 18 | Nasir | CR2 Why Creatio matters for xLoop's direction | Text + signing photo | Light |
-| Wed 18 | Daniyal | Reshare CR1 with one line | Reshare | No |
+| Wed 18 | Company page | CP28 What the AI Security Assessment covers | Carousel 5 slides | Yes |
+| Wed 18 | Nasir | MN07 Shout-out to the security team | Text + team photo | Photo |
 | Wed 18 | Humza | MH10 Why I took the CLLMSE exam | Text + own photo | No |
 | Wed 18 | Blog | B9 What an AI Security Assessment Covers | Blog | — |
-| Thu 19 | Company page | CP28 What the AI Security Assessment covers (moved from Wed) | Carousel 5 slides | Yes |
-| Thu 19 | Huzaifa | CR3 Why we chose Creatio | Text + quote image | Yes |
+| Thu 19 | Company page | CP29 Medallion architecture in plain language | Carousel 6 slides | Yes |
 | Thu 19 | Daniyal | DA08 What I check before an AI agent touches production data | Text | No |
 | Thu 19 | Irfan | IS09 Keep model traffic inside your network | Text | No |
 | Fri 20 | Company page | CP30 Inside our AI security team | Photo carousel | Photos |
-| Fri 20 | Nasir | MN07 shout-out as a reshare of CP30 (moved from Wed) | Reshare + text | No |
+| ON HOLD | Company page, Nasir, Daniyal, Huzaifa | CR1 to CR3 Creatio (waiting on Nasir discussion) | — | Mockup only |
 
 ### W8 · Mon 23 to Fri 27 Nov 2026
 
@@ -71,11 +69,9 @@ this file first, then pull full captions and visual text from the source files b
 | Mon 23 | Blog | B10 Cloud Infrastructure for GenAI (refresh) | Blog | — |
 | Week | Team (2 to 3 people) | MARI week 2: repost the Mari video | Repost | No |
 | Tue 24 | Company page | CP31 Choosing infrastructure for GenAI (B10) | Quote card, Wasey headshot | Yes |
-| Tue 24 | Irfan | CR4 AI agents inside a CRM: what I check first | Text | No |
-| Wed 25 | Company page | CP29 Medallion architecture in plain language (moved from 19 Nov) | Carousel 6 slides | Yes |
+| Tue 24 | Irfan | IS10 Tag everything from day one | Text | No |
 | Wed 25 | Nasir | MN08 Why we rebuilt our website around problems | Text + homepage screenshot | Screenshot. Only if the new site is live |
 | Wed 25 | Humza | MH11 Questions to ask your AI provider | Text | No |
-| Wed 25 | Irfan | IS10 Tag everything from day one (moved from Tue) | Text | No |
 | Wed 25 | Blog | U06 refresh: Small vs Large Language Models | Blog | — |
 | Thu 26 | Company page | CP32 Mobile banking app security (case) | Case card | Yes |
 | Thu 26 | Daniyal | DA09 Fix foundations first | Text (needs real example) | No |
@@ -95,7 +91,7 @@ this file first, then pull full captions and visual text from the source files b
 | Wed 2 | Company page | CP36 UAE National Day greeting | Greeting card |
 | Wed 2 | Nasir | MN09 Trust is built by people, not decks | Text |
 | Wed 2 | Humza | MH13 The AI Security Assessment: who should take it | Text + screenshot |
-| Thu 3 | Company page | CR5 Moving off a legacy CRM (moved from Tue 1) | Carousel 7 slides |
+| Thu 3 | Company page | CP37 Security as the accelerator (Farrukh quote) | Quote card |
 | Thu 3 | Daniyal | DA10 A delivery lesson from a project that went sideways | Text |
 | Thu 3 | Irfan | IS12 Audit logs for AI | Text |
 | Fri 4 | Company page | CP38 Legacy System Modernization page is live | Page mockup. Only if live |
@@ -109,12 +105,10 @@ this file first, then pull full captions and visual text from the source files b
 | Mon 7 | Blog | Pipedrive: Moving from spreadsheets to Pipedrive (partnership plan) | Blog |
 | Week | Company page | MARI week 4: results / thank-you post | Single image or video |
 | Tue 8 | Company page | CP39 Industry weeks opener | Single image |
-| Tue 8 | Humza | **CR6** What an auditor will ask about AI agents in your CRM | Text |
-| Tue 8 | Huzaifa | Reshare CR6 | Reshare |
+| ON HOLD | Humza + Huzaifa reshare | CR6 Creatio auditor post (re-slot after approval) | Text |
 | Tue 8 | Daniyal | DA11 "Have you done this in our industry?" | Text + photo |
-| Wed 9 | Company page | CP37 Security as the accelerator, Farrukh quote (moved from Thu 3) | Quote card |
 | Wed 9 | Nasir | MN10 Why we're showing our work, industry by industry | Text + photo |
-| Wed 9 | Humza | MH14 Securing mobile banking apps (clash with CR6 a day earlier, fine) | Text |
+| Wed 9 | Humza | MH14 Securing mobile banking apps | Text |
 | Thu 10 | Company page | CP40 Financial services: what we've delivered | Carousel |
 | Thu 10 | Daniyal | DA12 LLM assistant for fund reports | Text + image |
 | Thu 10 | Irfan | IS14 Cloud for financial services: 4 compliance questions | Text |
@@ -130,9 +124,8 @@ Industry weeks: healthcare (W11), retail (W12), logistics (W13). Full rows in th
 
 ## Open inputs that block posts
 
-- [x] Creatio campaign approved (confirmed 16 Nov)
-- [ ] Creatio CTA link + offer, and whether Creatio must sign off wording (blocks CR1 going live Tue 17)
-- [ ] Creatio logos, signing photo, Huzaifa photo (CR1, CR2, CR3)
+- [ ] Creatio campaign: Nasir wants to discuss it with Huzaifa + Sana (not approved as of 16 Nov). Then: CTA link + offer, Creatio sign-off on wording, logos, signing photo
+- [ ] (After approval) Creatio logos, signing photo, Huzaifa photo (CR1, CR2, CR3)
 - [ ] Mari ads: did Nasir approve and did ads launch Mon 16 Nov? Editor cutdowns B1 to B3 delivered?
 - [ ] Farrukh confirms scope wording for CP28
 - [ ] Security team photos + 2 to 3 one-liners for CP30
@@ -149,5 +142,5 @@ Industry weeks: healthcare (W11), retail (W12), logistics (W13). Full rows in th
 ## Next steps
 
 - [ ] Sana confirms the collision fixes above
-- [ ] Brief Omais today (Mon 16 Nov) on this week's posts that need design: Creatio carousel, red teaming carousel, assessment carousel, Nasir and Huzaifa visuals, security team photo carousel
+- [ ] Brief Omais today (Mon 16 Nov) on this week's posts that need design: red teaming carousel (Tue), assessment carousel (Wed), medallion carousel (Thu), Nasir team photo (Wed), security team photo carousel (Fri)
 - [ ] Mark posts as done here (or tell Claude) so reminders skip them

@@ -128,6 +128,7 @@ Industry weeks: healthcare (W11), retail (W12), logistics (W13). Full rows in th
 - [ ] (After approval) Creatio logos, signing photo, Huzaifa photo (CR1, CR2, CR3)
 - [ ] Mari ads: did Nasir approve and did ads launch Mon 16 Nov? Editor cutdowns B1 to B3 delivered?
 - [ ] Farrukh confirms scope wording for CP28
+- [ ] **Blogs B8 (red teaming vs pentest) and B9 (AI Security Assessment) not written yet as of 16 Nov.** Both need Farrukh's approval (a couple of days). CP27 + MH09 link to B8, CP28 links to B9: hold them until each blog is live (suggestion: run CP29 medallion on Tue 17 instead). Blog prompt given to Sana on 16 Nov (blog-writer skill, AEO/SEO/agent-accessibility/conversion goals)
 - [ ] Security team photos + 2 to 3 one-liners for CP30
 - [ ] Humza's real reasons for MH10
 - [ ] Wasey approves quote for CP31

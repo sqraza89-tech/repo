@@ -38,7 +38,9 @@ this file first, then pull full captions and visual text from the source files b
 
 | Tue 1 Dec | Company page: CR5 legacy CRM carousel + CP35 ISO 42001 carousel | CP35 stays Tue (tied to blog B11 + Humza MH12) · CR5 moves to Thu 3 Dec · CP37 Farrukh quote moves to Wed 9 Dec |
 
-**Creatio campaign NOT approved yet (16 Nov 2026).** Nasir wants to discuss it with Huzaifa and Sana first. Until then, CR1 to CR6 are **on hold**, the collision fixes above for CR posts do not apply, and the calendar runs as written (CP27 Tue 17, CP28 Wed 18, CP29 Thu 19, MN07 Wed 18, IS10 Tue 24, CP37 Thu 3 Dec). Once approved, re-slot CR posts from the approval date, keeping the same order and gaps, and re-apply the one-post-a-day rule.
+**Creatio v2 (16 Nov 2026, after Nasir + Huzaifa feedback):** v1 organic posts are parked. New plan = sector-focused paid ads (banking from week of Mon 23 Nov, insurance about a week later, Pakistan) + one bold organic announcement on ads launch day + TechJuice/PR + Huzaifa podcast + two-page letter. Content and visual approvals due this week. Full copy and timeline: [[2026-11-16-xloop-creatio-campaign-v2-ads-podcast-letter]]. Reminders should track that timeline (Omais brief Tue 17, approvals Thu 19–Fri 20, ads live Mon 23).
+
+Older note: **Creatio campaign NOT approved yet (16 Nov 2026).** Nasir wants to discuss it with Huzaifa and Sana first. Until then, CR1 to CR6 are **on hold**, the collision fixes above for CR posts do not apply, and the calendar runs as written (CP27 Tue 17, CP28 Wed 18, CP29 Thu 19, MN07 Wed 18, IS10 Tue 24, CP37 Thu 3 Dec). Once approved, re-slot CR posts from the approval date, keeping the same order and gaps, and re-apply the one-post-a-day rule.
 
 ## Schedule
 

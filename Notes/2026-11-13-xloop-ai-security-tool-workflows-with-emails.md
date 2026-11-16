@@ -3,9 +3,9 @@ date: 2026-11-13
 tags: [xloop, ai-security, assessment-tool, user-flow, scoring, email, lead-nurture, review-draft]
 ---
 
-# AI Security Readiness Assessment: user flow, results and follow-up emails
+# AI Security Tool: Workflows with Emails
 
-For review by the security lead and the developers. Source of truth is the approved workbook, `AI_Security_Readiness_Assessment_UpdatedV2.xlsx` (Sana's OneDrive, checked 13 Nov): 45 questions, 9 domains, 4 tiers. Nothing in the questions or scoring changes here. What is new: the journey in the order a user sees it, and one follow-up email per tier, ending in a call with the security team. It mirrors the Data & AI Readiness tool, so both tools behave the same way. Items marked **[CONFIRM]** need an answer.
+For review by the security lead and the developers. Source of truth is the approved workbook, `AI_Security_Readiness_Assessment_UpdatedV2.xlsx` (Sana's OneDrive, checked 13 Nov): 45 questions, 9 domains, 4 tiers. The questions are unchanged; the scoring is rescaled (section 2). Corrected workbook with the new formulas, tested: `2026-11-13-xloop-ai-security-readiness-assessment-v3-rescaled.xlsx`. What is new: the journey in the order a user sees it, and one follow-up email per tier, ending in a call with the security team. It mirrors the Data & AI Readiness tool, so both tools behave the same way. Items marked **[CONFIRM]** need an answer.
 
 Related: [[2026-11-13-xloop-readiness-tool-user-flow-and-emails]] · [[2026-11-13-xloop-ai-security-assessment-seo-pack]] · [[2026-10-27-xloop-ai-security-page-content-v1]]
 

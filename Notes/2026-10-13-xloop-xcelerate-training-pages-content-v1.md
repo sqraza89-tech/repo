@@ -77,15 +77,14 @@ xCelerate is the training division of xLoop, a global AI and data consulting fir
 
 | If you need | Program | Length |
 |---|---|---|
-| Business teams using AI tools well and safely in daily work | AI for Workplace | 5 days |
-| IT staff and analysts building internal assistants and automations | Practical Generative AI and Automation | 10 days |
-| Security and cloud teams able to secure AI systems | AI Cyber Security | 10 days |
-| Administrators new to cloud who understand its security risks | Cloud Security Fundamentals | 5 days |
-| Plant engineers and operations leaders who understand industrial IoT | Introduction to IIoT and Smart Manufacturing | 5 days |
+| Developers who can build web and mobile applications | Full Stack and Mobile Development | 10 days to 20 weeks [CONFIRM with Misbah: Alfalah length] |
 | A curriculum built around your own stack, roles and projects | Custom corporate program | Scoped with you |
-| A CSR investment that ends in jobs, not only certificates | Sponsored talent program | Up to five months |
-| Job ready engineers in AI, cloud, security or full stack development | Full scale bootcamp | 12 weeks, 480 hours |
-| Project experience for your students before they graduate | University internship program | Agreed with the university |
+| A CSR investment that ends in jobs | Sponsored talent program: programming fundamentals, full stack development, and AI and agentic development | 20 weeks |
+| Job ready AI engineers | Artificial Intelligence bootcamp | 20 weeks [CONFIRM with Misbah: Bootcamps page says 12 weeks, 480 hours] |
+| Job ready data engineers | Data Engineering bootcamp | 20 weeks [CONFIRM as above] |
+| Project experience for students before graduation | University internship program | Agreed with the university |
+
+*Updated 16 Nov from Nayab Ahmed: rows now list delivered programs. Corporate (Alfalah, Fusion Training): full stack and mobile development; Fusion was 10 days. CSR (PPL, Mari): programming fundamentals, full stack (web development and programming), AI and agentic development, 20 weeks. Commercial bootcamps: Artificial Intelligence, Data Engineering. The five catalog courses are out of this table pending Sana's decision on whether they are still offered.*
 
 ### 5. Why xLoop
 

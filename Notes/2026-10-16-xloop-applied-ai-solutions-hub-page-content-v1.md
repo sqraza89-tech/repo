@@ -82,14 +82,22 @@ xLoop builds six kinds of applied AI: generative AI, large language models, AI a
 
 The right AI capability depends on the job: language models for documents and questions, agents for processes, computer vision for images and video, and predictive models for forecasts. Start from the job, not the technology.
 
+| [Machine Learning](/services/machine-learning) |
+| [Predictive Analytics](/services/predictive-analytics) |
+| [Computer Vision](/services/computer-vision) |
+| [AI Agents & Autonomous Systems](/services/ai-agents-and-autonomous-systems) |
+| [Generative AI](/services/generative-ai) |
+| [Large Language Models](/services/large-language-models) |
+*Design (Sana, 16 Nov): each row is one link to its capability page; arrow ↗ after the capability name and a hover state on the row. Keep the answer sentence above the table, not only the short line.*
+
 | If you need to | Start with |
 |---|---|
-| Answer questions from thousands of internal documents | Large Language Models |
-| Draft, summarize or rewrite content in your own voice and format | Generative AI |
-| Take a repeatable process off people's desks, with approvals where they matter | AI Agents & Autonomous Systems |
-| Inspect products, monitor sites or count from cameras | Computer Vision |
-| Forecast demand, risk or churn from historical data | Predictive Analytics |
-| Classify, detect anomalies or recommend from your own data | Machine Learning |
+| Answer questions from thousands of internal documents | [Large Language Models](/services/large-language-models) |
+| Draft, summarize or rewrite content in your own voice and format | [Generative AI](/services/generative-ai) |
+| Take a repeatable process off people's desks, with approvals where they matter | [AI Agents & Autonomous Systems](/services/ai-agents-and-autonomous-systems) |
+| Inspect products, monitor sites or count from cameras | [Computer Vision](/services/computer-vision) |
+| Forecast demand, risk or churn from historical data | [Predictive Analytics](/services/predictive-analytics) |
+| Classify, detect anomalies or recommend from your own data | [Machine Learning](/services/machine-learning) |
 
 **Line below:** Not sure which use case to start with? See [Data & AI Consulting](/ai-consultancy).
 

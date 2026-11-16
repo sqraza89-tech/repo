@@ -36,7 +36,9 @@ this file first, then pull full captions and visual text from the source files b
 | Tue 24 Nov | Irfan: CR4 AI agents in CRM + IS10 tagging | CR4 Tue · IS10 moves to Wed 25 |
 | Mon 16 Nov | Mari organic video on company page (week 1) | Goes on Mon 16 (or the day ads launch), so it doesn't take a calendar slot |
 
-If the Creatio campaign was **not** approved on Fri 13 Nov, the calendar runs as written and CR posts shift by a week.
+| Tue 1 Dec | Company page: CR5 legacy CRM carousel + CP35 ISO 42001 carousel | CP35 stays Tue (tied to blog B11 + Humza MH12) · CR5 moves to Thu 3 Dec · CP37 Farrukh quote moves to Wed 9 Dec |
+
+**Creatio campaign approved (Sana, 16 Nov 2026).** CR1 to CR6 run as scheduled from Tue 17 Nov.
 
 ## Schedule
 
@@ -89,12 +91,11 @@ If the Creatio campaign was **not** approved on Fri 13 Nov, the calendar runs as
 | Mon 30 | Blog | B11 ISO 42001 Readiness Checklist | Blog |
 | Week | Company page | MARI week 3: one graduate cutdown, organic | Video (editor) |
 | Tue 1 | Company page | CP35 ISO 42001 in 6 slides | Carousel |
-| Tue 1 | Company page | **CR5 Moving off a legacy CRM** (clash with CP35: move CR5 to Thu 3 or CP37 to next week) | Carousel 7 slides |
 | Tue 1 | Humza | MH12 ISO 42001: what auditors ask first | Text or carousel |
 | Wed 2 | Company page | CP36 UAE National Day greeting | Greeting card |
 | Wed 2 | Nasir | MN09 Trust is built by people, not decks | Text |
 | Wed 2 | Humza | MH13 The AI Security Assessment: who should take it | Text + screenshot |
-| Thu 3 | Company page | CP37 Security as the accelerator (Farrukh quote) | Quote card |
+| Thu 3 | Company page | CR5 Moving off a legacy CRM (moved from Tue 1) | Carousel 7 slides |
 | Thu 3 | Daniyal | DA10 A delivery lesson from a project that went sideways | Text |
 | Thu 3 | Irfan | IS12 Audit logs for AI | Text |
 | Fri 4 | Company page | CP38 Legacy System Modernization page is live | Page mockup. Only if live |
@@ -111,6 +112,7 @@ If the Creatio campaign was **not** approved on Fri 13 Nov, the calendar runs as
 | Tue 8 | Humza | **CR6** What an auditor will ask about AI agents in your CRM | Text |
 | Tue 8 | Huzaifa | Reshare CR6 | Reshare |
 | Tue 8 | Daniyal | DA11 "Have you done this in our industry?" | Text + photo |
+| Wed 9 | Company page | CP37 Security as the accelerator, Farrukh quote (moved from Thu 3) | Quote card |
 | Wed 9 | Nasir | MN10 Why we're showing our work, industry by industry | Text + photo |
 | Wed 9 | Humza | MH14 Securing mobile banking apps (clash with CR6 a day earlier, fine) | Text |
 | Thu 10 | Company page | CP40 Financial services: what we've delivered | Carousel |
@@ -128,7 +130,8 @@ Industry weeks: healthcare (W11), retail (W12), logistics (W13). Full rows in th
 
 ## Open inputs that block posts
 
-- [ ] Creatio campaign approved on Fri 13 Nov? CTA link and Creatio sign-off decided? (blocks CR1 to CR6)
+- [x] Creatio campaign approved (confirmed 16 Nov)
+- [ ] Creatio CTA link + offer, and whether Creatio must sign off wording (blocks CR1 going live Tue 17)
 - [ ] Creatio logos, signing photo, Huzaifa photo (CR1, CR2, CR3)
 - [ ] Mari ads: did Nasir approve and did ads launch Mon 16 Nov? Editor cutdowns B1 to B3 delivered?
 - [ ] Farrukh confirms scope wording for CP28

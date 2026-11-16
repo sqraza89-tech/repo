@@ -138,7 +138,13 @@ Industry weeks: healthcare (W11), retail (W12), logistics (W13). Full rows in th
 - [ ] Is the new homepage live by Wed 25 Nov? (MN08)
 - [ ] Daniyal's real anonymized example (DA09)
 
+## Reminders
+
+- Scheduled tasks: `xloop-daily-social-reminder` (weekdays 08:30) and `xloop-friday-social-brief` (Fri 10:00, saves a weekly brief in Notes)
+- Related: [[2026-11-10-xloop-creatio-signing-social-campaign-draft-v1]], [[2026-10-27-xloop-creatio-pipedrive-partnership-marketing-plan]], [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]], [[2026-09-28-xloop-linkedin-thought-leadership-plan-q2]]
+
 ## Next steps
 
 - [ ] Sana confirms the collision fixes above
+- [ ] Brief Omais today (Mon 16 Nov) on this week's posts that need design: Creatio carousel, red teaming carousel, assessment carousel, Nasir and Huzaifa visuals, security team photo carousel
 - [ ] Mark posts as done here (or tell Claude) so reminders skip them

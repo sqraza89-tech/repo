@@ -453,12 +453,11 @@ Yes, often · Yes, sometimes · Rarely · No · Not sure
   you would not do
 - [ ] **What the 30-minute review covers:** each email promises a specific output ("you leave
   with…"). Can an engineer deliver that in 30 minutes from the report alone?
-- [ ] **AI Security Assessment:** the routing tab says it is built; the 27 Oct security page note
-  says `/ai-security-assessment` returned 404. Which link does the Safe button go to?
+- [x] **AI Security Assessment:** goes live with the homepage (dev, 13 Nov) at `/ai-security-assessment`; the Safe button links there (still 404 on 16 Nov morning; check after launch)
 - [ ] **Proof:** confirm the anonymous descriptors for A14 (legacy RPG) and A11 (10,000 users), and
   pick A12 or A18 for Use Case & Value
 - [ ] **P.S. reply promise:** who answers the email replies, and how fast?
-- [ ] **Sender:** who signs the Data/AI emails and who signs the Safe emails
+- [ ] **Sender:** who signs the Data/AI emails? Safe emails: Farrukh Feroze Ali or Muhammad Humza (Sana, 13 Nov, same as the AI Security tool)
 
 ## Next steps
 

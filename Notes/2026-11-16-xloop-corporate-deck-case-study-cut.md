@@ -12,11 +12,12 @@ Deck: Omais's "Corporate Deck - Updated.pptx" on SharePoint (51 slides on 16 Nov
 - Using Data for Better Water Management
 - Data Visibility & Reporting Enhancement Accuracy (Power BI)
 - Wefi Tech: Data Estate Modernization & Snowflake Migration Strategy
+- Majid Al Futtaim: AWS-to-Azure Migration Assessment (Sana's call, 16 Nov: keep)
 
 ## Remove
 - RPG Applications to Private Cloud; AI-Powered Funds Information Discovery; Canadian Healthcare Patient Interaction; Food Ordering & Restaurant Mgmt; Automating Project Workflows; Container Depot (titled data, but really an app); Infrastructure Modernization
 - App Engineering x3: Alec5, Travel Emergencies, Earned Wage Access
-- Majid Al Futtaim AWS-to-Azure (cloud migration; MAF internal-only); HBL Asset Management automation
+- HBL Asset Management automation
 - Security: Healthcare Cyber Risks; Mobile Apps for Banking
 - xCelerate "Success Stories" stays (training outcomes, not a client case)
 

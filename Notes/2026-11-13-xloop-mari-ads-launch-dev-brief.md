@@ -85,6 +85,10 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
 - **Optional AND:** company size 201+. Drop it if the audience falls under ~15k
 - **Audience Expansion:** OFF
 - **Target audience size:** ~20k to 100k
+- **17 Nov setup check:**
+  - First build came to 1.1M+, because it included the industries Oil, Gas & Mining / Wind / Hydro and had no seniority filter
+  - Fix: remove those industries, add seniority, drop the HSE Supervisor and Project HSE Manager titles
+- **Cost watch:** LinkedIn forecast USD 30 to 60 CPM. At USD 10/day that's only ~5k to 9k impressions in a month, below the approved doc's 15k to 25k. Re-check after 3 days of data and correct Ali's forecast if needed
 
 ## Next steps
 

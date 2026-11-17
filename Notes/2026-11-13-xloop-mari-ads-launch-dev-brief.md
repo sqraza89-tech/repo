@@ -114,7 +114,11 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
     - The campaign runs 17 Nov to 14 Dec, so the original plan stands: awareness USD 10/day to 14 Dec, retargeting 1 to 14 Dec at USD 10/day
     - The 8 Dec / USD 12.70 fallback was **not** used
   - LinkedIn Audience Network: untick it (off-LinkedIn placements give low-quality views)
-  - UTMs are set in the ad set's URL parameters section
+  - UTMs:
+    - Account level already adds `utm_id={{AD_SET_ID}}&utm_source=linkedin&utm_medium=paid-social`
+    - Ad set adds only `utm_campaign=mari-testimonials`
+    - Ad level: `utm_content=full-video` / `b1` / `b2` / `b3`
+    - GA4 medium is `paid-social` (hyphen) on LinkedIn; use the same on Meta
 - **Cost watch (superseded by the line above):** LinkedIn forecast USD 30 to 60 CPM. At USD 10/day that's only ~5k to 9k impressions in a month, below the approved doc's 15k to 25k. Re-check after 3 days of data and correct Ali's forecast if needed
 
 ## Next steps

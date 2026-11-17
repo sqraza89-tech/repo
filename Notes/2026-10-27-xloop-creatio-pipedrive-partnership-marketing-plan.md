@@ -184,3 +184,4 @@ Nothing ships until these are confirmed in writing. Owner in brackets.
 - [ ] Decide where the CTA links while the CRM page is unbuilt
 - [ ] Draft the campaign for the CEO review
 - Campaign first draft: [[2026-11-10-xloop-creatio-signing-social-campaign-draft-v1]]. Public "Creatio vs Salesforce" blog dropped: Salesforce is a listed xLoop technology partner (A2)
+- [ ] Sana: list xLoop in the Creatio partner directory via the partner portal (Huzaifa asked, 17 Nov). Get portal login from Huzaifa; send Claude a screenshot of the profile form to draft fields. No tier, no "certified", no Creatio case study until confirmed. Public catalog: creatio.com/partners

@@ -92,6 +92,13 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
   - Seniority had been added as literal Job Titles ("Manager", "Director"…). It must use Job Experience → Job Seniorities
   - The energy industries were still in. Use video views with per-view billing
   - If CPM stays above ~USD 40, tell Ali before launch and correct the LinkedIn forecast
+- **Final structure (LinkedIn won't AND Job Seniorities with Job Titles):**
+  - Any of:
+    - Job Functions: Human Resources, Community and Social Services, Media and Communication
+    - OR NGO industries
+    - OR energy company names
+  - AND Job Seniorities: Manager, Director, VP, CXO, Owner, Partner
+  - Job Titles dropped. Energy industries removed. Expected size ~30k to 120k
 - **Cost watch:** LinkedIn forecast USD 30 to 60 CPM. At USD 10/day that's only ~5k to 9k impressions in a month, below the approved doc's 15k to 25k. Re-check after 3 days of data and correct Ali's forecast if needed
 
 ## Next steps

@@ -63,6 +63,21 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
 - **Facebook:** same link with `utm_source=facebook`
 - **Cutdowns:** change `utm_content` to `b1`, `b2`, `b3` per ad
 
+## LinkedIn audience settings (17 Nov)
+
+- **Location:** Pakistan · **Language:** English
+- **Industries AND box:** removed. Using it would exclude HR/CSR people outside those industries
+- **Job titles (OR group):**
+  - HR Manager, Head of HR, HR Director, CHRO
+  - L&D Specialist / Manager, Head of L&D
+  - CSR Manager / Lead, Sustainability Manager, Corporate Communications Manager
+  - CEO, MD, Founder
+- **+ OR Industries:** Non-profit Organizations · Philanthropic Fundraising Services · Civic and Social Organizations · International Trade and Development
+- **AND Seniority:** Manager, Director, VP, CXO, Owner, Partner
+- **Optional AND:** company size 201+. Drop it if the audience falls under ~15k
+- **Audience Expansion:** OFF
+- **Target audience size:** ~20k to 100k
+
 ## Next steps
 
 - [ ] Ali: OK the landing page switch (press page now, Sponsored page later)

@@ -42,6 +42,8 @@ from Nasir and Huzaifa (shared by Sana, Mon 16 Nov 2026). Parent plan:
 - **"Leading banking CRM":** we can't say it as our own claim. Ask Creatio for their approved boilerplate (e.g. their Gartner/Forrester wording) and use that. Until then: "the banking CRM with AI agents built in"
 - Never claim a Creatio project, tier or certification (none confirmed yet)
 
+**Design handoff (17 Nov 2026):** `Notes/2026-11-17-xloop-creatio-ads-design-brief.docx` is the copy-only doc for design. It holds the final wording for B1 to B8, I1 to I3 and the A1 announcement, plus specs and visual directions. If ad copy changes, change both files.
+
 ## Paid ads: banking (launch week of Mon 23 Nov)
 
 Format: single image 1080×1350 (4:5) for LinkedIn + Facebook feed. Every visual: big headline, one subline,

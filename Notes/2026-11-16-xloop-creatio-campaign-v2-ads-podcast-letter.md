@@ -42,6 +42,8 @@ from Nasir and Huzaifa (shared by Sana, Mon 16 Nov 2026). Parent plan:
 - **"Leading banking CRM":** we can't say it as our own claim. Ask Creatio for their approved boilerplate (e.g. their Gartner/Forrester wording) and use that. Until then: "the banking CRM with AI agents built in"
 - Never claim a Creatio project, tier or certification (none confirmed yet)
 
+**CTA decision (Sana, 17 Nov 2026):** every ad and the announcement end with a NEPRA style CTA strip: "Book a Creatio call for your bank" (insurers: "for your insurance company") + "Huzaifa Valika, VP Enterprise Sales · 0322 2009713"; post text adds huzaifa.valika@xloopdigital.com. Facebook button = Call now (+92 322 2009713); LinkedIn = lead form to Huzaifa (it has no call button). Replaces the 30 minute demo offer and headline below.
+
 **Design handoff (17 Nov 2026):** `Notes/2026-11-17-xloop-creatio-ads-design-brief.docx` is the copy-only doc for design. It holds the final wording for B1 to B8, I1 to I3 and the A1 announcement, plus specs and visual directions. If ad copy changes, change both files.
 
 ## Paid ads: banking (launch week of Mon 23 Nov)
@@ -187,7 +189,8 @@ Same model as the NEPRA letters (printed, CEO-level, care of Huzaifa). Huzaifa +
 - [ ] Ad budget and duration (memory says no paid budget this quarter; Mari ads were USD 500 for 4 weeks. LinkedIn minimum is about USD 10/day per campaign)
 - [ ] Use B5 (complaints) or not
 - [ ] Lead forms (recommended) or a landing page
-- [ ] Demo offer: who runs the 30 minute demo (xLoop, Creatio, or both)?
+- [x] CTA: call Huzaifa (decided 17 Nov), no demo offer
+- [ ] Huzaifa OK with his mobile number on public paid ads
 - [ ] Creatio's approved wording for "leading", Gartner mention, logo rules, sign-off
 - [ ] TechJuice: sponsored (paid) or press release only
 

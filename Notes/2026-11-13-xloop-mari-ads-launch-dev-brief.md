@@ -73,6 +73,14 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
   - CSR Manager / Lead, Sustainability Manager, Corporate Communications Manager
   - CEO, MD, Founder
 - **+ OR Industries:** Non-profit Organizations · Philanthropic Fundraising Services · Civic and Social Organizations · International Trade and Development
+- **Energy / power CSR buyers (added 17 Nov):**
+  - Titles: HSE Manager, Director HSE, Head of HSE, Community Relations Manager, Social Investment Manager, Community Development Manager
+  - **+ OR Company names:**
+    - Oil and gas: OGDCL, PPL, POL, Mari Energies, United Energy Pakistan, Shell Pakistan, PSO, Attock Petroleum, Attock Refinery, Pakistan Refinery, Cnergyico, SSGC, SNGPL
+    - Power: K-Electric, HUBCO, KAPCO, Engro Energy, Lucky Electric, Nishat Power
+    - Nearby sectors: Engro Corp, Fauji Fertilizer
+  - Company names, not industries: targeting the "Oil and Gas" industry would also reach engineers and finance staff
+  - CSR framing only, never energy-delivery framing
 - **AND Seniority:** Manager, Director, VP, CXO, Owner, Partner
 - **Optional AND:** company size 201+. Drop it if the audience falls under ~15k
 - **Audience Expansion:** OFF

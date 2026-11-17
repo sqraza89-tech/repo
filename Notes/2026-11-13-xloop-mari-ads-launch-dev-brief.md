@@ -108,6 +108,8 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
 - **Schedule (LinkedIn campaign budget USD 420):**
   - Awareness ad set: 17 Nov to 14 Dec, USD 10/day = USD 280, optimization goal Video views (not Reach)
   - Retargeting ad set: ~1 Dec to 14 Dec, USD 10/day = USD 140
+  - The campaign was built with the Brand Awareness objective (goal = Reach, billed per impression). Kept rather than rebuilt, to launch on time. Video views still reported
+  - The campaign end date must also be set to 14 Dec, or the ad set dates conflict
 - **Cost watch (superseded by the line above):** LinkedIn forecast USD 30 to 60 CPM. At USD 10/day that's only ~5k to 9k impressions in a month, below the approved doc's 15k to 25k. Re-check after 3 days of data and correct Ali's forecast if needed
 
 ## Next steps

@@ -99,7 +99,13 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
     - OR energy company names
   - AND Job Seniorities: Manager, Director, VP, CXO, Owner, Partner
   - Job Titles dropped. Energy industries removed. Expected size ~30k to 120k
-- **Cost watch:** LinkedIn forecast USD 30 to 60 CPM. At USD 10/day that's only ~5k to 9k impressions in a month, below the approved doc's 15k to 25k. Re-check after 3 days of data and correct Ali's forecast if needed
+- **Built 17 Nov:** 160k+ audience
+  - LinkedIn's "cost per 1,000 reached" (USD 130 to 260) ÷ frequency (6.7 to 13) gives a real CPM of about USD 20
+  - USD 280 awareness ≈ 14k impressions, plus retargeting ≈ 19k to 21k total, in line with the approved doc. **No forecast correction needed**
+  - The earlier CPM worry was a misread
+  - OGDCL had dropped out of the company list and needs adding back
+  - Bidding: maximum delivery
+- **Cost watch (superseded by the line above):** LinkedIn forecast USD 30 to 60 CPM. At USD 10/day that's only ~5k to 9k impressions in a month, below the approved doc's 15k to 25k. Re-check after 3 days of data and correct Ali's forecast if needed
 
 ## Next steps
 

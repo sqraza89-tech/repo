@@ -121,6 +121,21 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
     - GA4 medium is `paid-social` (hyphen) on LinkedIn; use the same on Meta
 - **Cost watch (superseded by the line above):** LinkedIn forecast USD 30 to 60 CPM. At USD 10/day that's only ~5k to 9k impressions in a month, below the approved doc's 15k to 25k. Re-check after 3 days of data and correct Ali's forecast if needed
 
+## LinkedIn ad as built (17 Nov)
+
+- **Campaign:** "Mari Testimonial Brand Awareness" (Brand Awareness objective, goal Reach, maximum delivery)
+- **Ad set:** 17 Nov to 14 Dec, USD 10/day = USD 280. Campaign group lifetime budget USD 420. Audience Network off
+- **Ad:** `Ad_1_17Nov2026`
+  - Video: "Testimonial Ad - 3rd Draft.mp4"
+  - Intro text: Ad 1 copy from the approved doc
+  - Headline: **"44 Graduates. 100% Placement. Skills That Lead to Real Careers."** Sana's first version said "Guaranteed Jobs", changed under the no-guarantee rule
+  - CTA: Learn more
+  - Link: the Mari press page
+- **Still to do:**
+  - Facebook ad set (USD 80, 17 Nov to 14 Dec, `utm_source=facebook`)
+  - LinkedIn retargeting ad set from 1 Dec
+  - Confirm the devs added the CTA to the press page
+
 ## Next steps
 
 - [ ] Ali: OK the landing page switch (press page now, Sponsored page later)

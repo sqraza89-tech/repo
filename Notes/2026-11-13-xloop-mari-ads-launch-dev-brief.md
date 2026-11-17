@@ -131,7 +131,9 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
   - Headline: **"44 Graduates. 100% Placement. Skills That Lead to Real Careers."** Sana's first version said "Guaranteed Jobs", changed under the no-guarantee rule
   - CTA: Learn more
   - Link: the Mari press page
+- **Status:** submitted for LinkedIn review on 17 Nov (live on approval; LinkedIn emails within 24 to 48 h if there's a problem)
 - **Still to do:**
+  - Create the LinkedIn video audience "Mari video viewers 50%" (Plan › Audiences › Video) so it fills before 1 Dec
   - Facebook ad set (USD 80, 17 Nov to 14 Dec, `utm_source=facebook`)
   - LinkedIn retargeting ad set from 1 Dec
   - Confirm the devs added the CTA to the press page

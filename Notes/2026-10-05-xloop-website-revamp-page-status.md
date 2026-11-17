@@ -91,6 +91,7 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - [x] Contact page audit + content v1 (27 Oct)
 - [x] Healthcare, Transport & Logistics, Retail & eCommerce v1 (10 Nov). Industries done except Mining
 - [ ] Devs: 301 Smart Cities, Telco/ICT, EdTech; Manufacturing → Mining in menu once Mining is written; render the repeated challenges sections once (Transport, Retail); fix the banking text on the live Healthcare Population Health card
+- [ ] Creatio logo on the sitewide partner strip (homepage + hubs), plain logo, no tier badge; also add "· Creatio" to the text "Technology partners" lines. Waiting on Huzaifa for logo files + brand guidelines (17 Nov). Pipedrive stays off
 - [ ] Devs: contact form changes (routing dropdown, required fields, invisible CAPTCHA, GA4 generate_lead), one H1, ContactPage schema
 - [ ] Devs: NEPRA fixes still open: descriptive H1 rendered in HTML, doubled title suffix. (Sana, 27 Oct: keep Regulations 4 to 11, no Reg 12 row; "eight countries" stays, xLoop has served clients in 8 countries)
 - [ ] Devs, now: lead form heading says "Explore AI Agents for Your Business" on 5 Applied AI leaf pages

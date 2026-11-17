@@ -39,7 +39,7 @@ from Nasir and Huzaifa (shared by Sana, Mon 16 Nov 2026). Parent plan:
 | F8 | Creatio is investing USD 300 million in Creatio Bank.AI (2026–2028), with pre-built banking AI agents | Creatio announcement |
 | F9 | Creatio featured in Gartner *Innovation Insight: Agentic AI in CRM* (Feb 2026) | Creatio news page. **Confirm with Creatio** before use; Gartner has strict quoting rules |
 
-- **"Leading banking CRM":** we can't say it as our own claim. Ask Creatio for their approved boilerplate (e.g. their Gartner/Forrester wording) and use that. Until then: "the AI-native CRM built for banks"
+- **"Leading banking CRM":** we can't say it as our own claim. Ask Creatio for their approved boilerplate (e.g. their Gartner/Forrester wording) and use that. Until then: "the banking CRM with AI agents built in"
 - Never claim a Creatio project, tier or certification (none confirmed yet)
 
 ## Paid ads: banking (launch week of Mon 23 Nov)
@@ -53,19 +53,41 @@ xLoop × Creatio lockup, small source line, CTA button. No stock handshakes, no 
 | B2 | **AI agents for banks.** Onboarding. Lending. Service. | AI does the routine work. Your people approve the decisions that matter. | — |
 | B3 | **132 million+ mobile banking and wallet accounts.** | One CRM to serve every one of them, with AI built in. | State Bank of Pakistan, Mar 2026 |
 | B4 | **Creatio is investing $300 million in AI for banking.** | xLoop implements it in Pakistan. | Creatio, 2026 |
-| B5 (optional) | **35,130 complaints reached the Banking Mohtasib in 2025.** | AI-powered service that resolves them first. | Banking Mohtasib Annual Report 2025 |
+| B5 (optional) | **35,130 complaints reached the Banking Mohtasib in 2025.** | AI service that resolves them first. | Banking Mohtasib Annual Report 2025 |
 
 B5 is the hardest-hitting but points at the audience's own complaints. Nasir to decide.
+
+### Huzaifa's input (17 Nov 2026) and how it's used
+
+Huzaifa sent these as "hard-hitting facts": banks lack an end-to-end CRM (basic complaint tools for phone banking, limited outbound sales data, sales/service/branches in silos, no 360-degree view); front-desk staff switch between disconnected apps (slow responses, fragmented lead tracking); an academic ECRM case study on Askari Commercial Bank (high internet costs, Kb/s speeds, low computer literacy, low trust); siloed legacy core banking and standalone call-center software.
+
+Assessment:
+- These are **problems, not facts**. No numbers, no source, so they can't run as "facts" in an ad. Nasir asked to drop problems, so they're turned into **bold capability lines** (B6–B8 below). The insight is strong and true to what buyers feel
+- **Askari study: don't use.** It's dated (internet speed in Kb/s, low computer literacy) and contradicted by today's numbers (92% digital payments, 132 million+ mobile banking registrations). It also names a real bank negatively. Fine as internal context for Huzaifa's sales calls only
+- Best upgrade: if Huzaifa can give a real, anonymized pattern from his bank meetings with a number ("most banks we've met run service, sales and branches on separate systems"), that becomes our own fact. Needs his confirmation of what he actually saw
+
+| Ad | Big text on visual | Subline on visual |
+|---|---|---|
+| B6 | **One customer. One view. Every department.** | Sales, service and branches on one Creatio CRM, with AI agents built in. Implemented by xLoop. |
+| B7 | **One screen for your front desk.** | Accounts, cases and leads in one place, so your teams serve customers faster. |
+| B8 | **Works with your core banking. No rip and replace.** | We connect Creatio to your existing core banking and call center systems. |
+
+Intro text:
+- B6: Sales, service and branches finally see the same customer. Creatio's banking CRM with AI agents, implemented and connected by xLoop.
+- B7: Your front desk shouldn't need a different app for every task. Creatio puts accounts, cases and leads on one screen. Implemented by xLoop.
+- B8: Keep your core banking. xLoop connects Creatio to it and to your call center, then adds AI agents with your people signing off.
+
+Suggested final banking set for Nasir: **B1 (fact), B2 (AI agents), B6 (360 view), B8 (no rip and replace)**, with B3/B4/B7 as spares to rotate in week 2.
 
 **Intro text (post copy above the ad), first line under 125 characters:**
 
 - B1: Pakistan's customers have gone digital. Creatio brings banks a CRM with AI agents built in. xLoop sets it up, moves your data and connects it to core banking.
-- B2: AI agents for onboarding, lending and service, with your team signing off every decision. Creatio's AI-native CRM for banks, implemented by xLoop.
+- B2: AI agents for onboarding, lending and service, with your team signing off every decision. Creatio's banking CRM, implemented by xLoop.
 - B3: 132 million+ mobile banking and wallet accounts in Pakistan. Serve them from one CRM with AI agents built in. Creatio, implemented by xLoop.
 - B4: Creatio is putting $300 million into AI for banking. xLoop is its implementation partner in Pakistan: setup, data migration, core banking integration, AI agents.
-- B5: 35,130 complaints reached the Banking Mohtasib in 2025. Creatio's AI-powered service desk helps banks resolve them first. Implemented by xLoop.
+- B5: 35,130 complaints reached the Banking Mohtasib in 2025. Creatio's AI service desk helps banks resolve them first. Implemented by xLoop.
 
-**Headline (under the image):** See Creatio for Banking in a 30-Minute Demo
+**Headline (under the image):** See Creatio for Banking in a 30 Minute Demo
 **CTA button:** Request demo (or "Learn more" if we use a page)
 
 ## Paid ads: insurance (second phase, about a week after banking)
@@ -82,7 +104,7 @@ B5 is the hardest-hitting but points at the audience's own complaints. Nasir to 
 - I2: AI agents for policy sales, claims intake and renewals, with your team approving every decision. Creatio for insurance, implemented by xLoop.
 - I3: Pakistan's insurers paid over a million claims in 2025. Creatio with AI agents helps you handle the next million faster. Implemented by xLoop.
 
-**Headline:** See Creatio for Insurance in a 30-Minute Demo
+**Headline:** See Creatio for Insurance in a 30 Minute Demo
 
 ## Targeting
 
@@ -95,9 +117,9 @@ B5 is the hardest-hitting but points at the audience's own complaints. Nasir to 
 - Company page, the day ads launch. Bold announcement, single image (reuse B4 or B2 visual):
   > xLoop is now a Creatio partner in Pakistan.
   >
-  > Creatio is the AI-native CRM built for banks and insurers. We set it up, move your data, connect it to your core systems and build AI agents that work inside your workflows, with your people signing off.
+  > Creatio is the CRM built for banks and insurers, with AI agents inside. We set it up, move your data, connect it to your core systems and build AI agents that work inside your workflows, with your people signing off.
   >
-  > Banks and insurers: see it in a 30-minute demo. 👉 [form / link in first comment]
+  > Banks and insurers: see it in a 30 minute demo. 👉 [form / link in first comment]
   >
   > #Creatio #Banking #Insurance #AIAgents #Pakistan
 - Nasir and Huzaifa reshare with one line each. Creatio tagged in all posts
@@ -130,7 +152,7 @@ Same model as the NEPRA letters (printed, CEO-level, care of Huzaifa). Huzaifa +
 
 **Page 1**
 - Address block: CEO (plus a cc to Head of Digital / CIO where known)
-- Subject: AI-powered CRM for [Bank name]: Creatio implementation in Pakistan
+- Subject: A CRM with AI agents for [Bank name]: Creatio implementation in Pakistan
 - Opening (2 lines): xLoop is now Creatio's implementation partner in Pakistan
 - 3 hard facts in a band (banks: F1, F2, F4 · insurers: F5, F6, F7)
 - What Creatio + xLoop deliver, by sector:
@@ -140,7 +162,7 @@ Same model as the NEPRA letters (printed, CEO-level, care of Huzaifa). Huzaifa +
 
 **Page 2**
 - Why xLoop: setup + data migration + core system integration + AI agents + governance (individual ISO 27001 / ISO 42001 Lead Auditors; never "xLoop is ISO certified"), Pakistan delivery team + Dubai office, data automation proof for HBL Asset Management (approved to name, no figures)
-- Offer: 30-minute Creatio demo tailored to the bank / insurer
+- Offer: 30 minute Creatio demo tailored to the bank / insurer
 - Signature: Huzaifa Valika, VP Enterprise Sales, email + phone. Ask Creatio if they will co-sign or add a line
 - **Recipient list:** SBP scheduled banks (commercial, Islamic, microfinance) and SECP-registered life and general insurers, CEO names + addresses, same research method as NEPRA
 
@@ -163,7 +185,7 @@ Same model as the NEPRA letters (printed, CEO-level, care of Huzaifa). Huzaifa +
 - [ ] Ad budget and duration (memory says no paid budget this quarter; Mari ads were USD 500 for 4 weeks. LinkedIn minimum is about USD 10/day per campaign)
 - [ ] Use B5 (complaints) or not
 - [ ] Lead forms (recommended) or a landing page
-- [ ] Demo offer: who runs the 30-minute demo (xLoop, Creatio, or both)?
+- [ ] Demo offer: who runs the 30 minute demo (xLoop, Creatio, or both)?
 - [ ] Creatio's approved wording for "leading", Gartner mention, logo rules, sign-off
 - [ ] TechJuice: sponsored (paid) or press release only
 

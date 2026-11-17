@@ -194,6 +194,8 @@ Same model as the NEPRA letters (printed, CEO-level, care of Huzaifa). Huzaifa +
 - [ ] Sana sends this ad copy to Nasir + Huzaifa today
 - [ ] Sana briefs Omais on banking visuals Tue 17 Nov
 - [ ] Huzaifa gets Creatio inputs + starts the letter content with Creatio
+- [ ] Ask Huzaifa for one real, numbered pattern from his bank meetings (becomes our own hard fact); Askari study stays internal only
+- [ ] Nasir picks the launch set (suggested B1, B2, B6, B8)
 - [ ] Claude: find podcast booking contacts + draft Huzaifa's pitch email (on request)
 - [ ] Claude: build bank + insurer recipient list for the letter (on request)
 - [ ] Email TechJuice for rates (Sana, after Nasir confirms paid vs PR)

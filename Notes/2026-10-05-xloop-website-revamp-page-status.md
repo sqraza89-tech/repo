@@ -10,6 +10,13 @@ This tracks content only. Dev build status is not tracked here.
 
 Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2026-09-23-xloop-marketing-scrum-q2-q3-plan]] · [[2026-09-16-digital-transformation-pillar-seo-aeo-review]]
 
+## Dev status (Zeeshan, 17 Nov)
+- **Live:** Legacy System Modernization, LLMs (scroll and hover interactions), blog updates (specialist form, footer banner, Summarize with AI). Legacy still shows the SAP ERP/BW wording: send Pick n Pay change list item 4
+- **Next:** Digital Transformation (send change list item 7 before launch)
+- **Built, waiting on Sana:** Homepage (needs meta) and AI Security Assessment (needs final tier and email text). Homepage meta written 17 Nov: title `Enterprise Data, AI and Security Consulting | xLoop Digital` (59) · description `xLoop fixes enterprise data, builds AI that runs in production and keeps it secure: data and AI consulting, cloud, modernization and AI security.` (145). Assessment: send the workflows doc, and make sure dev uses the **rescaled** scoring
+- **Data & AI Readiness tool:** questions, scoring and emails built; waiting on Omais's designs
+- **xCelerate:** revised design from Omais due 17 Nov; it is based on Sana's v1.1 docx (14 Oct), which lacks later md changes
+
 ## Dev priority (Sana, 13 Nov) and the file to use
 1. Homepage: `2026-09-18-xloop-homepage-revamp-v2.docx` + Pick n Pay change list item 6
 2. Hubs linked from the homepage: Digital Transformation `2026-09-16-…-spec-v2.3.docx` (+ change list item 7) · Data & AI Consulting `2026-10-14-xloop-data-ai-consulting-page-content-v1.1.docx` (**not** the 14 Oct AI Consulting & Strategy v1, superseded) · Applied AI hub · xSecurity hub · xLab hub · xCelerate v1.1. Confirm with design whether xLab and xCelerate cards are on the new homepage

@@ -69,6 +69,7 @@ Older note: **Creatio campaign NOT approved yet (16 Nov 2026).** Nasir wants to 
 |---|---|---|---|---|
 | Mon 23 | Wasey | WS08 Where teams overspend on GenAI infrastructure | Text | No |
 | Mon 23 | Blog | B10 Cloud Infrastructure for GenAI (refresh) | Blog | — |
+| Mon 23 | Company page + paid (LinkedIn, Facebook) | Creatio v2: A1 announcement + banking ads B1, B2, B6, B8 (only if approved Fri 20) | Single images | Yes, per design brief |
 | Week | Team (2 to 3 people) | MARI week 2: repost the Mari video | Repost | No |
 | Tue 24 | Company page | CP31 Choosing infrastructure for GenAI (B10) | Quote card, Wasey headshot | Yes |
 | Tue 24 | Irfan | IS10 Tag everything from day one | Text | No |

@@ -152,6 +152,10 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
   - Page: xLoop. Same video, text and headline as LinkedIn. CTA: Learn more
   - URL parameters: `utm_source=facebook&utm_medium=paid-social&utm_campaign=mari-testimonials&utm_content=full-video`
   - Advantage+ creative enhancements off
+- **Meta account watch-out:**
+  - The xCelerate ad account (1747502385935873) still holds the old student campaigns ("Mari & xCelerate…"). One has unpublished edits; 2 drafts are pending
+  - When publishing, tick only the new "Mari Testimonials - FB" so the old ones don't restart
+  - Billing to be set up after the campaign is built
   - LinkedIn retargeting ad set from 1 Dec
   - Confirm the devs added the CTA to the press page
 

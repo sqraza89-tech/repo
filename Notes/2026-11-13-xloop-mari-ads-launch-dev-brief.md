@@ -160,6 +160,13 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
     - Follow-up: connect the xLoop Facebook page to ad account 1747502385935873 for future campaigns
   - Audience: switch from Advantage+ to the original audience options
     - Cities instead of all of Pakistan; age 25 to 55; Advantage detailed targeting off
+    - **Actual (18 Nov):** Meta had no "original audience" switch, so Advantage+ stays on, with hard controls of 4 cities and minimum age 25
+    - "Reach more people" location expansion unticked
+    - Detailed targeting:
+      - Human resources (field of study), Community and Social Services (industry)
+      - Job titles: Entrepreneurship, Training and Development Manager
+      - Nonprofit organization, plus CSR interest
+    - "Education (social concept)" removed as too broad. City-expansion suggestion not applied
   - Frequency cap 3 per 7 days
   - LinkedIn retargeting ad set from 1 Dec
   - Confirm the devs added the CTA to the press page

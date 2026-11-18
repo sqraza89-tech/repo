@@ -102,6 +102,7 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - [ ] Pick n Pay text changes for dev and design: `Notes/2026-11-11-xloop-pick-n-pay-text-changes-for-dev.docx` (blog live first; Predictive Analytics, Data Analytics, Legacy, Data & AI Consulting, Homepage, DT hub in design). Retail page done; md sources updated 11 Nov
 - [ ] HR App Pilot: any client deployment besides xLoop's own internal use (on Odoo; integrates with any HR/ERP system, Sana 11 Nov)
 - [x] xVision product page v1 (11 Nov): `Notes/2026-11-11-xloop-xvision-product-page-content-v1.docx`. Sets the product page pattern
-- [ ] xLab product pages: xServe, HR App Pilot (by 30 Nov). Chat Genie removed from the site (Wassay, 11 Nov) + case study pages (Release 2)
+- [x] xServe product page v1 (18 Nov): `Notes/2026-11-18-xloop-xserve-product-page-content-v1.docx`. 6 [CONFIRM]s for the xServe owner
+- [ ] xLab product pages: HR App Pilot (by 30 Nov). Chat Genie removed from the site (Wassay, 11 Nov) + case study pages (Release 2)
 - [ ] Mining once the missing information arrives
 - [ ] xCelerate: Ali Abbasi to answer the [CONFIRM] items, then send to design

@@ -165,7 +165,9 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
     - Detailed targeting:
       - Human resources (field of study), Community and Social Services (industry)
       - Job titles: Entrepreneurship, Training and Development Manager
-      - Nonprofit organization, plus CSR interest
+      - Nonprofit organization, Sustainability, HR Director, HR Manager
+      - Meta no longer offers a "Corporate social responsibility" interest, so Sustainability stands in for it
+    - The estimate stays ~23M because Advantage+ shows the wider pool; cities and age 25+ are the hard limits
     - "Education (social concept)" removed as too broad. City-expansion suggestion not applied
   - Frequency cap 3 per 7 days
   - LinkedIn retargeting ad set from 1 Dec

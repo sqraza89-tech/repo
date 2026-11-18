@@ -49,13 +49,15 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - Energy & Utilities industry v1 (27 Oct): `Notes/2026-10-27-xloop-energy-utilities-industry-page-content-v1.docx`. Proof = wind IPP audit + water utility pipelines; Mari and xVoltIQ not used
 - Contact page audit + content v1 (27 Oct, added by Sana): `Notes/2026-10-27-xloop-contact-page-audit-and-content-v1.docx`. Routing dropdown, 4 required fields, reply time, other routes, GA4 generate_lead
 - xLab hub v1 (11 Nov): `Notes/2026-11-11-xloop-xlab-hub-page-content-v1.docx`. 4 products + custom builds on one page (xLab = design studio; 301 /xlab/design-studio → /xlab, Sana 11 Nov); xCrowdIQ, xVoltIQ, Meta Human not featured (Sana to decide). Pick n Pay projects from Irfan logged in `Notes/2026-11-11-xloop-pick-n-pay-projects-proof.md` (conflicts with SAP wording; 5 questions for Irfan)
+- xVision product page v1 (11 Nov) · xServe product page v1 (18 Nov)
+- Blog sidebar + footer banner forms (11 Nov) · AI Security Assessment SEO pack, workflows + emails, rescaled workbook (13 Nov) · Data & AI Readiness tool user flow + emails (13 Nov)
 - Healthcare, Transport & Logistics, Retail & eCommerce industry v1 (10 Nov): `Notes/2026-11-10-xloop-{healthcare,transport-logistics,retail-ecommerce}-industry-page-content-v1.docx`. Industries complete except Mining (blocked)
 - Banking & Finance industry v1 (27 Oct): `Notes/2026-10-27-xloop-banking-finance-industry-page-content-v1.docx`. First of the 6 industry pages; sets the industry pattern. 7 anonymous cases, live stats and counters removed
 
 ## Not written yet
 - Mining industry page. Blocked: Harmony Gold details and naming permission
 - Case study pages (Release 2)
-- xLab hub + 7 product pages
+- xLab: HR App Pilot product page (xLab hub, xVision, xServe done; Chat Genie, xCrowdIQ, xVoltIQ, Meta Human, Design Studio removed or merged)
 
 ## Added to the revamp (Sana, 11 Nov)
 - About Us
@@ -65,7 +67,7 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - Contact Us: done 27 Oct, waiting on Sana's review
 
 ## Written in August, now out of date
-- xCrowdIQ (experimental) and xVoltIQ (possible partner outcomes): check before featuring
+- (resolved 11 Nov: xCrowdIQ and xVoltIQ off the menu)
 
 ## Next steps
 - [x] Data Analytics (5 Oct)

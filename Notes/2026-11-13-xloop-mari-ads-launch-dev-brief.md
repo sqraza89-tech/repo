@@ -156,6 +156,8 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
   - The xCelerate ad account (1747502385935873) still holds the old student campaigns ("Mari & xCelerate…"). One has unpublished edits; 2 drafts are pending
   - When publishing, tick only the new "Mari Testimonials - FB" so the old ones don't restart
   - Billing to be set up after the campaign is built
+  - Facebook Page defaults to "XCelerate Bootcamps" (the student-campaign page). Use the xLoop page for the CSR/HR audience if it's available
+  - Frequency cap 3 per 7 days
   - LinkedIn retargeting ad set from 1 Dec
   - Confirm the devs added the CTA to the press page
 

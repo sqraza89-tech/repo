@@ -158,6 +158,8 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
     - Vertical crop: Original (no 9:16 cut)
     - Square 1:1 only if the captions and end card fit
   - **Editor follow-up:** future cutdowns should be 4:5 or 1:1 masters, so platforms don't have to crop
+- **Status (18 Nov):** the FB ad is fully built ("Mari - Full video A - FB", landscape full video, URL params set) and ready to publish
+  - It won't deliver until billing is added. Set the USD 80 account spending limit once the card is on
 - **Meta account watch-out:**
   - The xCelerate ad account (1747502385935873) still holds the old student campaigns ("Mari & xCelerate…"). One has unpublished edits; 2 drafts are pending
   - When publishing, tick only the new "Mari Testimonials - FB" so the old ones don't restart

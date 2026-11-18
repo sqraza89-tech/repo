@@ -129,7 +129,8 @@ Industry weeks: healthcare (W11), retail (W12), logistics (W13). Full rows in th
 
 - [ ] Creatio campaign: Nasir wants to discuss it with Huzaifa + Sana (not approved as of 16 Nov). Then: CTA link + offer, Creatio sign-off on wording, logos, signing photo
 - [ ] (After approval) Creatio logos, signing photo, Huzaifa photo (CR1, CR2, CR3)
-- [ ] Mari ads: did Nasir approve and did ads launch Mon 16 Nov? Editor cutdowns B1 to B3 delivered?
+- [x] Mari ads launched: LinkedIn submitted 17 Nov, Facebook published 18 Nov (see "Mari paid ads: management checklist" below)
+- [ ] Editor cutdowns B1 to B3 delivered?
 - [ ] Farrukh confirms scope wording for CP28
 - [ ] **Blogs B8 (red teaming vs pentest) and B9 (AI Security Assessment) not written yet as of 16 Nov.** Both need Farrukh's approval (a couple of days). CP27 + MH09 link to B8, CP28 links to B9: hold them until each blog is live (suggestion: run CP29 medallion on Tue 17 instead). Blog prompt given to Sana on 16 Nov (blog-writer skill, AEO/SEO/agent-accessibility/conversion goals)
 - [ ] Security team photos + 2 to 3 one-liners for CP30
@@ -138,6 +139,51 @@ Industry weeks: healthcare (W11), retail (W12), logistics (W13). Full rows in th
 - [ ] Wasey approves quote for CP31
 - [ ] Is the new homepage live by Wed 25 Nov? (MN08)
 - [ ] Daniyal's real anonymized example (DA09)
+
+## Mari paid ads: management checklist
+
+Live setup and settings: [[2026-11-13-xloop-mari-ads-launch-dev-brief]]
+
+**Campaigns:**
+
+- **LinkedIn:** "Mari Testimonial Brand Awareness", USD 10/day, 17 Nov to 14 Dec
+- **Facebook:** "Mari Testimonials - FB", USD 80 lifetime, 18 Nov to 14 Dec (XCelerate Bootcamps page)
+
+### Every weekday (2 minutes)
+
+- **Spend pacing:** about USD 10/day on LinkedIn and USD 3/day on Facebook. Neither stuck at 0, nor far over
+- **Delivery status:** "Active", not "Rejected", "Learning limited" or "Paused"
+- **Comments on the ads (both platforms):** reply the same day; hide spam. Questions about the next cohort go to the training team
+- **No edits in an ad's first 3 to 4 days.** Edits restart the platform's learning
+
+### Dated
+
+| Date | Task |
+|---|---|
+| Thu 19 Nov | Both ads show Active? If rejected, send the reason to Claude |
+| Thu 19 Nov | Facebook billing card added; account spending limit USD 80 |
+| Thu 19 Nov | LinkedIn audience "Mari video viewers 50%" created (Plan › Audiences › Video) |
+| Thu 19 Nov | Devs: "Plan your training program" CTA live on the Mari press page |
+| Thu 19 Nov | Click your own ad once; check GA4 Realtime shows source linkedin / facebook |
+| Fri 20 Nov | First look only, no changes. Note LinkedIn CPM and view rate, and Facebook cost per ThruPlay |
+| Fri 20 Nov | Chase the editor for cutdowns B1 to B3 (needed by Mon 23 Nov) |
+| **Mon 23 Nov** | **Week 1 numbers to Ali.** Per platform: spend, impressions, reach, frequency, video views / ThruPlays, clicks, CTR, GA4 visits, form leads |
+| Mon 23 Nov | Apply the swap rules: frequency above 4, view rate down by a third, or a clearly weak video → rotate |
+| Tue 24 Nov | Add cutdowns B1 + B2 as new ads (both platforms), if delivered |
+| Thu 26 Nov | Check the LinkedIn "Mari video viewers 50%" audience has 300+ members (needed for retargeting) |
+| **Mon 30 Nov** | **Week 2 numbers to Ali.** Pause the weakest video; add B3 |
+| Mon 30 Nov | Build the LinkedIn retargeting ad set |
+| **Mon 7 Dec** | **Week 3 numbers to Ali.** Keep the two best videos running |
+| Fri 11 Dec | Ask Claude to draft the final report and the week 4 results / thank-you post |
+| Mon 14 Dec | Campaigns end. Confirm both stopped and spend is within USD 500 |
+| **Tue 15 Dec** | **Final report to Ali:** totals vs the approved forecast, best video, leads, recommendation for Cohort II |
+
+**Retargeting ad set details (built Mon 30 Nov):**
+
+- Runs Tue 1 Dec to Mon 14 Dec at USD 10/day
+- Audience: "Mari video viewers 50%"
+- Ad 6 copy from the approved doc
+- Same campaign group; remaining budget USD 140
 
 ## Reminders
 

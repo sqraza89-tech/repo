@@ -20,7 +20,7 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 ## Dev priority (Sana, 13 Nov) and the file to use
 1. Homepage: `2026-09-18-xloop-homepage-revamp-v2.docx` + Pick n Pay change list item 6
 2. Hubs linked from the homepage: Digital Transformation `2026-09-16-…-spec-v2.3.docx` (+ change list item 7) · Data & AI Consulting `2026-10-14-xloop-data-ai-consulting-page-content-v1.1.docx` (**not** the 14 Oct AI Consulting & Strategy v1, superseded) · Applied AI hub · xSecurity hub · xLab hub · xCelerate v1.1. Confirm with design whether xLab and xCelerate cards are on the new homepage
-3. Data & AI Readiness tool: `2026-10-28-…-assessment-v4.xlsx` + `2026-11-13-xloop-readiness-tool-user-flow-and-emails.docx`. **No SEO pack yet** (title, meta, H1, intro). Waiting on Irfan + engineers (section 7) and sales lead rules
+3. Data & AI Readiness tool: `2026-10-28-…-assessment-v4.xlsx` + `2026-11-13-xloop-readiness-tool-user-flow-and-emails.docx`. SEO pack: `2026-11-18-xloop-data-ai-readiness-assessment-seo-pack.md`. Waiting on Irfan + engineers (section 7) and sales lead rules
 4. AI Security tool: **goes live with the homepage Mon 16 Nov** (dev, 13 Nov). SEO pack: `2026-11-13-xloop-ai-security-assessment-seo-pack.md`. User flow + 4 tier emails (call with security team): `2026-11-13-xloop-ai-security-tool-workflows-with-emails.docx`. Corrected workbook (rescaled scoring, tested): `2026-11-13-xloop-ai-security-readiness-assessment-v3-rescaled.xlsx`. Spec still unreviewed: Only `Downloads/AI_Security_Readiness_Assessment_UpdatedV2.xlsx` + `AI_Security_Assessment_UX_Addendum.xlsx` (Aug). Review before dev reaches it
 
 ## Done
@@ -55,15 +55,15 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - Banking & Finance industry v1 (27 Oct): `Notes/2026-10-27-xloop-banking-finance-industry-page-content-v1.docx`. First of the 6 industry pages; sets the industry pattern. 7 anonymous cases, live stats and counters removed
 
 ## Not written yet
-- Mining industry page. Blocked: Harmony Gold details and naming permission
+- Mining industry page: **v1 done 18 Nov** (`2026-11-18-xloop-mining-industry-page-content-v1.docx`). Harmony Gold anonymous ("one of the largest gold mining companies in South Africa"); assessment + roadmap, 30%/50% held back pending confirmation
 - Case study pages (Release 2)
 - xLab: HR App Pilot product page (xLab hub, xVision, xServe done; Chat Genie, xCrowdIQ, xVoltIQ, Meta Human, Design Studio removed or merged)
 
 ## Added to the revamp (Sana, 11 Nov)
-- About Us
-- Careers
+- About Us: **v1 done 18 Nov** (with Careers)
+- Careers: **v1 done 18 Nov**, `2026-11-18-xloop-about-us-and-careers-content-v1.docx`. HR [CONFIRM]s; devs can fix the "Smart Surveillance" benefits heading now
 - Media & Mentions (listing) and the PR pages under it
-- Privacy Policy and Terms (carry the ISO 27001 cookie and privacy gaps G1 to G13, logged 29 Sep)
+- Privacy Policy and Terms: **draft v1 done 18 Nov** (`2026-11-18-xloop-privacy-policy-and-terms-content-v1.docx`), needs legal review + 8 [CONFIRM]s; dev: cookie banner Accept/Decline, GA4 after consent, Cookie settings link
 - Contact Us: done 27 Oct, waiting on Sana's review
 
 ## Written in August, now out of date
@@ -105,6 +105,6 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - [ ] HR App Pilot: any client deployment besides xLoop's own internal use (on Odoo; integrates with any HR/ERP system, Sana 11 Nov)
 - [x] xVision product page v1 (11 Nov): `Notes/2026-11-11-xloop-xvision-product-page-content-v1.docx`. Sets the product page pattern
 - [x] xServe product page v1 (18 Nov): `Notes/2026-11-18-xloop-xserve-product-page-content-v1.docx`. 6 [CONFIRM]s for the xServe owner
-- [ ] xLab product pages: HR App Pilot (by 30 Nov). Chat Genie removed from the site (Wassay, 11 Nov) + case study pages (Release 2)
-- [ ] Mining once the missing information arrives
+- [x] HR App Pilot product page v1 (18 Nov): `Notes/2026-11-18-xloop-hr-app-pilot-product-page-content-v1.docx`. xLab complete. 4 [CONFIRM]s for the owner. Chat Genie removed from the site (Wassay, 11 Nov) + case study pages (Release 2)
+- [x] Mining v1 (18 Nov). Open: delivered or plan only; are 30%/50% measured
 - [ ] xCelerate: Ali Abbasi to answer the [CONFIRM] items, then send to design

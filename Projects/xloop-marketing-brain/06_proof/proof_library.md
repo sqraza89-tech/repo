@@ -165,6 +165,15 @@ available.
 | Outcome | Delivered and signed off; client satisfied (Sana, 2026-11-11). **No measured results** |
 | Public use | ✅ Anonymised, words only |
 
+## P-19 · Gold miner: DataStage to Cloud Pak for Data assessment and roadmap (added 2026-11-18)
+| Field | Value |
+|---|---|
+| Client | **Anonymised** — "one of the largest gold mining companies in South Africa" (Harmony Gold; never name, Sana 18 Nov) |
+| Source | `Downloads/Harmony Gold.pptx` (one slide) |
+| Intervention | ISX estate discovery; compatibility and BASIC routine audit; containerized target architecture on IBM Cloud Pak for Data + Red Hat OpenShift; automated wave migration sequencing; executive roadmap + TCO |
+| Measured result | Slide shows 30% faster workloads, 50% lower ops cost: **read as business case projections, not used** until confirmed |
+| Public use | ✅ Anonymised, as an assessment and plan (never "migrated") |
+
 ## P-13 · Client testimonials
 | Client | Quote | Public use |
 |---|---|---|

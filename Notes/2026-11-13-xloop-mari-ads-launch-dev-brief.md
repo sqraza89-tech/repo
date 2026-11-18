@@ -135,6 +135,23 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
 - **Still to do:**
   - Create the LinkedIn video audience "Mari video viewers 50%" (Plan › Audiences › Video) so it fills before 1 Dec
   - Facebook ad set (USD 80, 17 Nov to 14 Dec, `utm_source=facebook`)
+
+## Facebook setup (18 Nov)
+
+- **Account:** spending limit USD 80
+- **Campaign:** "Mari Testimonials - FB"
+  - Objective: Awareness. No special ad category. Advantage campaign budget off
+- **Ad set:**
+  - Goal: maximize ThruPlay views. Lifetime budget USD 80, runs 18 Nov to 14 Dec
+  - Audience (original audience options, not Advantage+):
+    - Locations: Karachi, Lahore, Islamabad, Rawalpindi · age 25 to 55
+    - Interests: HR, training and development, CSR, nonprofit, education, entrepreneurship
+    - Exclude past Mari applicants if that audience exists
+  - Placements: manual, **Facebook only** (Feeds, Video feeds, Reels). No Instagram, Audience Network, Messenger or Threads
+- **Ad:** "Mari - Full video A - FB"
+  - Page: xLoop. Same video, text and headline as LinkedIn. CTA: Learn more
+  - URL parameters: `utm_source=facebook&utm_medium=paid-social&utm_campaign=mari-testimonials&utm_content=full-video`
+  - Advantage+ creative enhancements off
   - LinkedIn retargeting ad set from 1 Dec
   - Confirm the devs added the CTA to the press page
 

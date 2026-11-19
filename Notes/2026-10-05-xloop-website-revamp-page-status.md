@@ -108,3 +108,5 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - [x] HR App Pilot product page v1 (18 Nov): `Notes/2026-11-18-xloop-hr-app-pilot-product-page-content-v1.docx`. xLab complete. 4 [CONFIRM]s for the owner. Chat Genie removed from the site (Wassay, 11 Nov) + case study pages (Release 2)
 - [x] Mining v1 (18 Nov). Open: delivered or plan only; are 30%/50% measured
 - [ ] xCelerate: Ali Abbasi to answer the [CONFIRM] items, then send to design
+- [x] xCelerate hub aligned to the new "Which Program Fits" table (19 Nov, Zeeshan feedback): from 10 days corporate, 20 weeks sponsored + bootcamps (AI, Data Engineering). Paste list given to Sana for her docx
+- [ ] xCelerate inner pages still conflict with the hub: Corporate (5 catalog courses), Bootcamps (12 weeks, 480 hours, 4 tracks), Sponsored ("up to five months"). Waiting on Sana: keep catalog courses? Go with 20 weeks?

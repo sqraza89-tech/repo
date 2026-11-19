@@ -121,7 +121,7 @@ In 2026 we ran an internship program with FAST-NUCES, Karachi Campus. Students w
 |---|---|---|
 | **Bank Alfalah** | Full stack web and app development bootcamp | Three cohorts and more than 70 professionals. Each participant completed 240+ hours of training in cloud native and mobile application development, ending in capstone projects |
 | **Mari Energies** (CSR program) | Mari Digital Skills, Training & Employment Program | Cohort I: 44 graduates, including five women, from underserved communities. 20 weeks of AI, agentic development and full stack development. All graduates placed into internships and employment |
-| **PPL and Dawood Global Foundation** (CSR program) | Digital Literacy Program for Youth in PPL Communities: Full Stack Engineering and Data Science Bootcamp | Young people from underprivileged backgrounds in communities around PPL's operations, trained in AI, data science and full stack engineering. Graduates received certificates, and the top performers were recruited [CONFIRM: number of graduates and year] |
+| **PPL and Dawood Global Foundation** (CSR program) | Digital Literacy Program for Youth in PPL Communities: Full Stack Engineering and Data Science Bootcamp | Young people from underprivileged backgrounds in communities around PPL's operations, trained in AI, data science and full stack engineering. Graduates received certificates, and the top performers were recruited |
 | **FAST-NUCES, Karachi Campus** | University internship program | Students completed assigned projects alongside xLoop's AI and cyber security teams. Concluded in August 2026. |
 
 ### 8. FAQ
@@ -169,34 +169,36 @@ Corporate AI Training · Sponsored Talent Programs · Bootcamps · Data & AI Con
 
 ## Page 2 · Corporate AI Training
 
+*Rewritten 19 Nov (Sana): the five catalog courses are replaced with what xLoop has delivered for corporate clients. URL unchanged.*
+
 ### Page setup
 
 | Field | Value |
 |---|---|
-| Title tag | `Corporate AI Training for Teams \| xCelerate by xLoop` |
-| Meta description | `Corporate AI training for business, IT and security teams. Five standard programs of one or two weeks, or a custom program built around your stack and roles.` |
-| H1 | Corporate AI Training for Teams |
+| Title tag | `Corporate AI and Technology Training for Teams \| xCelerate by xLoop` |
+| Meta description | `Corporate training in full stack and mobile development, AI and data, built around your stack and roles. From 10 days, online, on site or hybrid.` |
+| H1 | Corporate AI and Technology Training for Teams |
 | Breadcrumb | Home › xCelerate › Corporate AI Training |
-| Schema | Service · Course (one per standard program) · FAQPage · BreadcrumbList |
+| Schema | Service · Course (Full Stack and Mobile Development) · FAQPage · BreadcrumbList |
 
 ### 1. Hero
 
 **Eyebrow:** xCelerate
 
-**H1:** Corporate AI Training for Teams
+**H1:** Corporate AI and Technology Training for Teams
 
-**Subhead:** You bought the tools. Adoption is uneven, IT can't build with them yet, and security hasn't signed off. We train business, technical and security teams to use, build and govern AI, in one or two weeks or in a program built around your own work.
+**Subhead:** Your technology plans need people who can build them. We train your developers and technical teams in full stack and mobile development, AI and data, in programs built around your own stack, from 10 days.
 
 **Primary CTA:** Book a 30 Minute Training Review →
-**Small line under the CTA:** Tell us the roles and the outcome. We'll tell you which program fits and what it takes.
+**Small line under the CTA:** Tell us the roles and the outcome. We'll tell you which program fits.
 
 **Trust line (text):** Delivered for Bank Alfalah · Training partner: Emeritus
 
 ### 2. Answer block
 
-**H2:** What Is Corporate AI Training?
+**H2:** What Is Corporate Technology Training?
 
-Corporate AI training teaches an organization's existing staff to work with AI in their own roles. Business teams learn to use AI tools safely for daily work. Technical teams learn to build assistants and automations. Security teams learn to protect AI systems. It is delivered to a cohort from one employer, online or on site.
+Corporate technology training teaches an organization's existing staff the skills its technology plans depend on. xCelerate, xLoop's training division, runs live, instructor led programs for a cohort from one employer, in full stack and mobile development, AI and data, online or on site. Programs start at 10 days and are built around the employer's own stack.
 
 *Plain text, never collapsed.*
 
@@ -208,40 +210,32 @@ Corporate AI training teaches an organization's existing staff to work with AI i
 
 | You're hearing | What's usually underneath | What we do | CTA |
 |---|---|---|---|
-| "We rolled out AI tools and most people barely use them." | Staff were given access, not training. Nobody showed them where AI fits in their own tasks, or what they must not paste into it | Train business teams on prompting, AI assisted reporting and documentation, task automation and responsible use | See AI for Workplace → |
-| "Our IT team can't build with generative AI yet." | Strong engineers with no hands on time with models, APIs and retrieval. Every internal AI idea waits for an outside vendor | Train IT staff and analysts to build internal copilots, assistants and automated workflows | See Practical Generative AI → |
-| "Security can't sign off on AI." | The security team knows networks and cloud, but not prompt injection, model poisoning or how to assess an AI system | Train security, cloud and risk teams to recognize attacks on AI systems and apply mitigations | See AI Cyber Security → |
-| "We keep hiring outside for skills we should have in house." | Roles are changing faster than hiring can keep up, and generic courses don't match your stack | Build a custom program around your stack and roles, with a capstone on your own use cases | Plan a custom program → |
+| "Our developers need to build modern web and mobile apps." | Strong people trained on older stacks, and every new app goes to an outside vendor | Train your developers in full stack and mobile development, ending in capstone projects on realistic work | See full stack training → |
+| "We want our own team building with AI." | No hands on time with models, APIs and agent tools, so every AI idea waits for a vendor | Build a program in AI and agentic development around your stack and use cases | Plan an AI program → |
+| "We keep hiring outside for skills we should have in house." | Roles change faster than hiring keeps up, and generic courses don't match your tools | Design a custom program around your stack and roles, for one team or several cohorts | Plan a custom program → |
 
-### 4. Standard programs
+### 4. Programs
 
 **H2:** Our Corporate Training Programs
 
-Five standard programs, each one or two weeks. All are live and instructor led, and all can be adjusted to your industry and audience.
-
-*Design: five cards or a sticky sub nav with one panel per program. Show length and audience at the top of each. The three AI programs come first.*
+xCelerate runs one standard corporate program and builds custom programs around your stack.
 
 | Program | Length | Who it's for | What it covers | What your team can do afterward |
 |---|---|---|---|---|
-| **AI for Workplace** | 5 days · 40 hours | Managers and executives, business owners, operations leaders and public sector officers. No technical background needed | Practical prompt engineering · AI assisted reporting, documentation and communication · automating routine marketing and operations tasks · AI agents for business workflows · safe and responsible AI use, including data privacy | Use AI tools to cut repetitive manual work, shorten decision cycles and raise the quality of everyday output |
-| **Practical Generative AI and Automation** | 10 days · 80 hours | IT staff, analysts, digital teams and early career professionals | How AI models and APIs work in practice · RAG fundamentals · building internal copilots and assistants · AI workflows and task automation · implementation exercises built on real use cases | Design and deploy targeted AI automations for internal operations and business workflows |
-| **AI Cyber Security** | 10 days · 80 hours | SOC staff, IT and cloud teams, DevSecOps, risk and governance | Core AI, machine learning and generative AI concepts for security teams · attacks on AI systems such as prompt injection and model poisoning · mitigations using frameworks such as the NIST AI RMF · using AI safely in security operations | Explain how AI systems are attacked, recognize those attacks and apply basic mitigations, without months of retraining |
-| **Cloud Security Fundamentals** | 5 days · 40 hours | System administrators, IT staff, technology managers and teams new to cloud | The shared responsibility model · common cloud attack patterns and risk scenarios · identity and access management risks and misconfigurations · logging, monitoring and detection principles | Spot critical cloud vulnerabilities, strengthen defensive controls and reduce operational risk |
-| **Introduction to IIoT and Smart Manufacturing** | 5 days · 40 hours | Engineers, technicians, operations leaders and managers in industrial and plant operations | Sensor data and connectivity fundamentals · edge and cloud architecture models · predictive maintenance and analytics use cases · the smart factory technology landscape · industrial cybersecurity awareness | Apply IIoT to improve operational efficiency and equipment reliability, and make decisions from plant data |
+| **Full Stack and Mobile Development** | From 10 days; longer programs of 240+ hours per participant | Developers and technical staff moving to modern web and mobile development | Front end and back end web development · mobile application development · cloud native application development · a capstone project | Build and ship modern web and mobile applications in house |
+| **Custom program** | Scoped with you | Any technical team | Built around your stack, roles and projects, in full stack development, AI and agentic development, or data engineering | The outcome we agree with you at the start |
 
-**Line below:** Securing AI in production? See [AI Security Services](/services/ai-security-service). Need the data foundation first? See [Data Analytics & Engineering](/services/data-analytics).
+**Line below:** Need people hired job ready rather than retrained? See [Bootcamps](/xcelerate/bootcamps).
 
 ### 5. Custom programs
 
 **H2:** Custom Training Programs
 
-When a standard program doesn't match your stack or your roles, we build one that does.
+When your team needs something specific, we build the program around it.
 
-We start with the roles you want to train and what each should be able to do at the end. We assess where the group is today, then design the curriculum, the exercises and the capstone around your tools and your use cases. Programs can run for a few days or several months, for one team or several cohorts.
+We start with the roles you want to train and what each should be able to do at the end. We assess where the group is today, then design the curriculum, the exercises and the capstone around your tools and your use cases. Programs can run for 10 days or several months, for one team or several cohorts.
 
-For Bank Alfalah we ran a full stack web and app development bootcamp across three cohorts. More than 70 of the bank's professionals each completed 240+ hours of training in cloud native and mobile application development, and finished with capstone projects.
-
-**Subjects we build custom programs in:** AI and machine learning · generative AI and large language models · data science and analytics · cloud computing · cyber security · full stack web and app development · project management · UI/UX and design thinking
+**Subjects we build programs in:** full stack web and mobile development · AI and agentic development · data engineering · programming fundamentals
 
 **CTA:** Plan a custom program →
 
@@ -253,21 +247,19 @@ For Bank Alfalah we ran a full stack web and app development bootcamp across thr
 |---|---|
 | Format | Online, on premise at your offices, or hybrid |
 | Teaching | Live and instructor led. Recorded sessions stay available until the program ends |
-| Cohort size | Up to 25 participants per cohort [CONFIRM] |
-| Practice | Exercises in every session. Graded assignments and quizzes. A project or capstone in longer programs |
-| Trainers | Certified trainers, in partnership with Emeritus [CONFIRM: current wording for the Emeritus partnership] |
+| Cohort size | Up to 50 participants per cohort |
+| Practice | Exercises in every session. Graded assignments. A capstone project in longer programs |
+| Trainers | Certified trainers, in partnership with Emeritus |
 | Certificate | Certificate of completion for each participant |
 
 ### 7. How it works
 
 **H2:** How Corporate Training Works
 
-*Design: four step timeline, same pattern as "How we work" on the service pages.*
-
 | Step | What happens | You get |
 |---|---|---|
 | **1. Training review (30 min)** | We look at the roles you want to train, what they do today and what they should be able to do afterward | A recommended program and format |
-| **2. Assess and design** | We check the group's current level and agree outcomes for each role. For custom programs we build the curriculum around your stack and use cases | An agreed syllabus, schedule and success measures |
+| **2. Assess and design** | We check the group's current level and agree outcomes for each role, then shape the curriculum around your stack | An agreed syllabus, schedule and success measures |
 | **3. Deliver** | Live sessions with daily practice, graded tasks and instructor support. Weekly feedback lets us adjust the pace | A cohort that has practiced on realistic work |
 | **4. Measure and report** | We report results against the measures agreed in step 2 | A training report you can take to leadership |
 
@@ -290,43 +282,43 @@ We agree the measures with you before the program starts, then report at four le
 
 | Client | Program | What we delivered |
 |---|---|---|
-| **Bank Alfalah** | Full stack web and app development bootcamp | Three cohorts · more than 70 professionals · 240+ hours each · cloud native and mobile application development · capstone projects |
+| **Bank Alfalah** | Full stack web and app development | Three cohorts · more than 70 professionals · 240+ hours each · cloud native and mobile application development · capstone projects |
 
-*Design: one full width case block with photos from the Bank Alfalah cohorts, same pattern as the Mari block on the Sponsored page.*
+*Design: one full width case block with photos from the Bank Alfalah cohorts.*
 
 ### 10. At a glance
 
-**H2:** Corporate AI Training at a Glance
+**H2:** Corporate Training at a Glance
 
 | | |
 |---|---|
-| Who it's for | L&D and HR leaders, CIOs, CTOs, CISOs and heads of digital at mid size and large organizations |
-| Common triggers | AI tools rolled out with low adoption · IT can't build with generative AI · security can't assess AI systems · skills hired from outside again and again |
+| Who it's for | L&D and HR leaders, CIOs, CTOs and heads of engineering at mid size and large organizations |
+| Common triggers | New apps going to outside vendors · no in house AI skills · the same skills hired from outside again and again |
 | Where to start | 30 minute training review |
-| Standard programs | AI for Workplace · Practical Generative AI and Automation · AI Cyber Security · Cloud Security Fundamentals · Introduction to IIoT and Smart Manufacturing |
-| Length | 5 or 10 days for standard programs. Custom programs are scoped with you |
+| Programs | Full Stack and Mobile Development · custom programs in AI and agentic development, data engineering and full stack development |
+| Length | From 10 days |
 | Format | Online · on premise · hybrid |
 | Measurement | Reaction · Learning · Behavior · Results |
 | Delivered for | Bank Alfalah |
-| Related | Bootcamps · Sponsored Talent Programs · Data & AI Consulting · AI Security |
+| Related | Bootcamps · Sponsored Talent Programs · Data & AI Consulting |
 
 ### 11. FAQ
 
-**H2:** Corporate AI Training FAQ
+**H2:** Corporate Training FAQ
 
-*All eight go into FAQPage schema, with text identical to the page.*
+*All seven go into FAQPage schema, with text identical to the page.*
 
-**How long does corporate AI training take?**
-Standard programs take 5 or 10 working days, which is 40 or 80 hours. Custom programs are scoped to the outcome. For Bank Alfalah, each participant completed more than 240 hours.
+**How long does corporate training take?**
+Programs start at 10 days. Longer programs are scoped to the outcome: for Bank Alfalah, each participant completed more than 240 hours.
 
-**Do participants need a technical background?**
-Not for AI for Workplace, which is built for business teams. Practical Generative AI and Automation, AI Cyber Security and Cloud Security Fundamentals are for people already working in IT, data or security roles.
+**What can our team be trained in?**
+Full stack web and mobile development as a standard program, and custom programs in AI and agentic development, data engineering and full stack development, built around your stack.
 
 **Can the training use our own tools and use cases?**
-Yes. In a custom program we build the exercises and the capstone around your stack and the problems your teams work on. We agree at the start what data can be used in exercises.
+Yes. We build the exercises and the capstone around your stack and the problems your teams work on, and agree at the start what data can be used in exercises.
 
 **How many people can join a cohort?**
-Up to 25 per cohort, so that every participant gets instructor time. Larger groups are split into several cohorts. [CONFIRM]
+Up to 50 per cohort, so that every participant gets instructor time. Larger groups are split into several cohorts.
 
 **Is the training online or at our offices?**
 Either, or a mix. Sessions are live and instructor led in every format, and recordings stay available until the program ends.
@@ -334,25 +326,22 @@ Either, or a mix. Sessions are live and instructor led in every format, and reco
 **How do you measure whether the training worked?**
 At four levels: how participants responded, what they learned, whether they applied it, and what changed for the business. We agree the business measures with you before the program starts.
 
-**How much does corporate AI training cost?**
-It depends on the program, the number of cohorts and the format. After the 30 minute review we send a proposal for the program and format you choose.
-
 **Can training follow an xLoop project?**
 Yes. When xLoop delivers an AI, data or cloud system, we can train your team to run and extend it, so the capability stays with you.
 
 ### 12. CTA band
 
-**H2:** Plan Your Team's AI Training
+**H2:** Plan Your Team's Training
 
 In 30 minutes we'll look at the roles you want to train and what they should be able to do afterward. You'll leave with a recommended program, a format and a clear next step.
 
 **CTA:** Book a 30 Minute Training Review →
 
-**Form fields:** Name · Work email · Company · Company size (Under 50 · 50 to 499 · 500 to 999 · 1,000+) · Teams to train (Business · IT and data · Security · Leadership) · Number of people · What should they be able to do afterward? (one line)
+**Form fields:** Name · Work email · Company · Number of people to train
 
 ### 13. Related
 
-xCelerate · Bootcamps · Sponsored Talent Programs · Data & AI Consulting · AI Security · Data Analytics & Engineering
+xCelerate · Bootcamps · Sponsored Talent Programs · Data & AI Consulting
 
 ---
 
@@ -363,7 +352,7 @@ xCelerate · Bootcamps · Sponsored Talent Programs · Data & AI Consulting · A
 | Field | Value |
 |---|---|
 | Title tag | `Sponsored AI & Digital Skills Programs \| xCelerate by xLoop` |
-| Meta description | `Fund a digital skills cohort that ends in jobs. We select on merit, train for up to five months in AI and full stack development, and support placement.` |
+| Meta description | `Fund a digital skills cohort that ends in jobs. We select on merit, train for 20 weeks in AI, full stack development and programming fundamentals, and support placement.` |
 | H1 | Sponsored AI and Digital Skills Programs |
 | Breadcrumb | Home › xCelerate › Sponsored Talent Programs |
 | Schema | Service · FAQPage · BreadcrumbList |
@@ -374,7 +363,7 @@ xCelerate · Bootcamps · Sponsored Talent Programs · Data & AI Consulting · A
 
 **H1:** Sponsored AI and Digital Skills Programs
 
-**Subhead:** Many skills programs end with a certificate and no job. You fund the cohort. We recruit on merit, train for up to five months in AI and software development, and take graduates through to internships and employment.
+**Subhead:** Many skills programs end with a certificate and no job. You fund the cohort. We recruit on merit, train for 20 weeks in programming fundamentals, full stack development, and AI and agentic development, and take graduates through to internships and employment.
 
 **Primary CTA:** Plan a sponsored cohort (30 min) →
 **Small line under the CTA:** For CSR, sustainability and community investment teams, foundations and public sector programs.
@@ -415,7 +404,7 @@ We run the program from first design to the graduate's first job.
 |---|---|---|
 | **1. Program design** | Agree the communities, the cohort size, the tracks and the outcomes with your CSR team | A program plan under your name |
 | **2. Outreach and merit selection** | Promote the program in the target areas, test applicants and select on merit | A cohort chosen through a transparent process |
-| **3. Training** | Live, instructor led training in tracks such as AI, agentic development and full stack development | Participants who build working software |
+| **3. Training** | Live, instructor led training in programming fundamentals, full stack development, and AI and agentic development | Participants who build working software |
 | **4. Career readiness** | Communication, teamwork, workplace conduct and interview preparation alongside the technical work | Graduates who are ready for a workplace, not only a test |
 | **5. Placement** | Certification, paid internship opportunities, job placement assistance, mentoring and career counseling. Top performers may be offered roles at xLoop | A route from the classroom into work |
 | **6. Reporting and events** | Progress reports for each cohort, plus an inauguration and a graduation ceremony | Evidence for your board and your annual report |
@@ -433,10 +422,10 @@ Mari Energies funds this program for young people from underserved communities n
 | Sponsor | Mari Energies Limited |
 | Participants | Young people from rural and underserved communities, selected on merit |
 | Cost to participants | None. The program is fully funded |
-| Length | Five months |
-| Tracks | Artificial intelligence · agentic development · full stack development · career readiness |
+| Length | 20 weeks |
+| Tracks | Programming fundamentals · full stack development · AI and agentic development · career readiness |
 | Cohort I result | 44 graduates, including five women. All placed into internships and employment |
-| Status | Cohort I graduated in August 2026. Cohort II began in September 2026 [CONFIRM: start date] |
+| Status | Cohort I graduated in August 2026. Cohort II began in September 2026 |
 
 > "This was not just a training or certificate program. The key objective was to create a pathway from learning to employment and sustainable livelihoods. Our partnership with xLoop has helped connect the training with practical employment opportunities."
 > Naseem Qamar, Director HSE, Mari Energies
@@ -450,7 +439,7 @@ PPL and Dawood Global Foundation funded this program for young people from under
 | Sponsors | Pakistan Petroleum Limited (PPL) · Dawood Global Foundation |
 | Participants | Young people from underprivileged backgrounds in PPL communities |
 | Program | Full Stack Engineering and Data Science Bootcamp, with hands on work in AI applications, data analysis and problem solving |
-| Result | Graduates received certificates at a ceremony at xLoop's Karachi office. The top performers were recruited [CONFIRM: number of graduates, year, and who recruited them] |
+| Result | Graduates received certificates at a ceremony at xLoop's Karachi office. The top performers were recruited. |
 
 **Links:** [44 Graduates Complete AI and Digital Skills Bootcamp](/insights/media-and-mentions/mari-energies-xloop-ai-digital-skills-bootcamp-graduation) · [Program inauguration](/insights/media-and-mentions/mari-energies-xloop-ai-education)
 
@@ -462,7 +451,7 @@ PPL and Dawood Global Foundation funded this program for young people from under
 - **Selection you can defend.** Open outreach, a test and merit ranking, documented
 - **Outcomes you can report.** Enrollment, completion, assessment and placement figures for every cohort
 - **One partner from design to placement.** Curriculum, trainers, facility, events and employer connections from one team
-- **Flexibility on location.** Training at xLoop's facility in Karachi, online, or hybrid for participants who can't relocate [CONFIRM: remote delivery for sponsored cohorts]
+- **Flexibility on location.** Training at xLoop's facility in Karachi, online, or hybrid for participants who can't relocate.
 
 ### 7. At a glance
 
@@ -472,8 +461,8 @@ PPL and Dawood Global Foundation funded this program for young people from under
 |---|---|
 | Who it's for | CSR, sustainability, HSE and community investment leaders · foundations · public sector and development programs |
 | What you fund | A cohort's training, from selection to placement support |
-| Length | Up to five months |
-| Tracks | AI and agentic development · full stack development · cloud · data engineering · cyber security |
+| Length | 20 weeks |
+| Tracks | Programming fundamentals · full stack development · AI and agentic development |
 | Selection | Open outreach and merit testing |
 | After training | Certification · internship opportunities · job placement assistance · mentoring and career counseling |
 | Delivered | Mari Digital Skills, Training & Employment Program: 44 graduates in Cohort I, all placed · Digital Literacy Program for Youth in PPL Communities, with Dawood Global Foundation |
@@ -496,7 +485,7 @@ Through open outreach in the communities you choose, followed by testing and sel
 The program is built to end in employment. Graduates receive placement support, and top performers may be offered roles at xLoop. In Cohort I of the Mari Energies program, all 44 graduates were placed into internships and employment. In the PPL program, the top performers were recruited.
 
 **How long does a program run?**
-Up to five months for a full program that takes participants from fundamentals to a job ready level. Shorter programs are possible for a narrower goal.
+20 weeks, taking participants from programming fundamentals to a job ready level.
 
 **Can participants from remote areas take part?**
 Yes. The Mari Energies program drew its participants from rural and underserved communities, including interior Sindh and Waziristan.
@@ -522,13 +511,15 @@ xCelerate · Bootcamps · Corporate AI Training · Media & Mentions
 
 ## Page 4 · Bootcamps
 
+*Rewritten 19 Nov (Sana): 20 weeks (Nayab), two tracks, Artificial Intelligence and Data Engineering. The deck's 12 weeks, 480 hours and five tracks are retired.*
+
 ### Page setup
 
 | Field | Value |
 |---|---|
-| Title tag | `AI, Cloud and Full Stack Bootcamps \| xCelerate by xLoop` |
-| Meta description | `Full scale bootcamps in AI, cloud, cyber security and full stack development. 480 hours of live, instructor led training with a six week team capstone.` |
-| H1 | AI, Cloud and Full Stack Bootcamps |
+| Title tag | `AI and Data Engineering Bootcamps \| xCelerate by xLoop` |
+| Meta description | `20 week bootcamps in Artificial Intelligence and Data Engineering. Live, instructor led training that ends in a team capstone project.` |
+| H1 | AI and Data Engineering Bootcamps |
 | Breadcrumb | Home › xCelerate › Bootcamps |
 | Schema | Service · Course (one per track) · FAQPage · BreadcrumbList |
 | Redirect | 301 from `/xcelerate/performance` (the dead "AI Bootcamp II" link) to this page |
@@ -537,9 +528,9 @@ xCelerate · Bootcamps · Corporate AI Training · Media & Mentions
 
 **Eyebrow:** xCelerate
 
-**H1:** AI, Cloud and Full Stack Bootcamps
+**H1:** AI and Data Engineering Bootcamps
 
-**Subhead:** Short courses teach the vocabulary. Building software takes practice. Our full scale bootcamps are 480 hours of live, instructor led training over 12 weeks, with the second half spent building a working product in a team.
+**Subhead:** Short courses teach the vocabulary. Building software takes practice. Our bootcamps are 20 weeks of live, instructor led training in Artificial Intelligence or Data Engineering, ending with a team building a working product.
 
 **Primary CTA:** Talk to our training team (30 min) →
 **Secondary CTA:** Applying as an individual? Register your interest →
@@ -550,7 +541,7 @@ xCelerate · Bootcamps · Corporate AI Training · Media & Mentions
 
 **H2:** What Is a Full Scale Bootcamp?
 
-A full scale bootcamp is an intensive, full time training program that takes participants to a job ready level in one technology track. At xCelerate it runs for 12 weeks at 40 hours a week. The first six weeks combine theory and practice. In the last six, teams of four to six build a real application as their capstone.
+A bootcamp is an intensive training program that takes participants to a job ready level in one technology track. At xCelerate it runs for 20 weeks, in Artificial Intelligence or Data Engineering. Participants combine theory and practice, then work in teams of four to six to build a real application as their capstone.
 
 *Plain text, never collapsed.*
 
@@ -563,24 +554,21 @@ A full scale bootcamp is an intensive, full time training program that takes par
 | Audience | The need | How it works | CTA |
 |---|---|---|---|
 | **Employers building a talent pipeline** | You need engineers who can contribute from their first month, and graduate hires take too long to get there | We train a cohort of your new or future hires on your stack before they join their teams | Train a hiring cohort → |
-| **Teams changing roles** | Your developers, testers or analysts need to move into AI, cloud or modern full stack work | We run the bootcamp for your existing staff, as we did across three cohorts for Bank Alfalah | Reskill a team → |
+| **Teams changing roles** | Your developers, testers or analysts need to move into AI or data engineering | We run the bootcamp for your existing staff. For full stack and mobile skills, see [Corporate Training](/xcelerate/corporate-ai-training) | Reskill a team → |
 | **Individuals** | You are a graduate or a working professional moving into a technology role | Register your interest in a track. We'll write to you when the next open cohort is scheduled | Register your interest → |
 
 ### 4. Tracks
 
 **H2:** Bootcamp Tracks
 
-*Design: five cards. [CONFIRM: which tracks are open for booking now]*
+*Design: two cards.*
 
 | Track | What participants learn |
 |---|---|
-| **AI and Machine Learning** | Python, machine learning models, neural networks, natural language processing, large language models and generative AI, through to building and shipping an AI application |
-| **Cloud Computing** | Cloud native development, containers and orchestration, DevOps practice, and building scalable, secure and cost aware systems |
-| **Cyber Security** | Offensive and defensive security, network security, cloud security and securing applications |
-| **Web and App Development (Full Stack)** | Modern JavaScript and React on the front end, microservice back ends, mobile development with React Native, testing and deployment |
-| **Data Engineering and Analytics** | Data ingestion, pipelines, production Python, analytics and machine learning essentials on modern data platforms |
+| **Artificial Intelligence** | Python, machine learning, natural language processing, large language models, generative AI and agentic development, through to building and shipping an AI application |
+| **Data Engineering** | Data ingestion, pipelines, production Python, and analytics on modern data platforms |
 
-**Tools participants work with:** Python · PyTorch · TensorFlow · Hugging Face · Databricks · Snowflake · Apache Spark · AWS · Microsoft Azure · Google Cloud · Kubernetes · Spring Boot · React · React Native [CONFIRM: current tool list per track]
+**Tools participants work with:** Python · PyTorch · TensorFlow · Hugging Face · Databricks · Snowflake · Apache Spark [CONFIRM: current tool list per track]
 
 ### 5. Structure
 
@@ -590,14 +578,14 @@ A full scale bootcamp is an intensive, full time training program that takes par
 
 | Phase | Weeks | What happens |
 |---|---|---|
-| **Theory and practice** | 1 to 6 | Live sessions with lectures, group activities and instructor led demos, followed by independent work on coding exercises and assignments |
-| **Capstone project** | 7 to 12 | Teams of four to six build a real application. Instructors act as coaches and project managers |
+| **Theory and practice** | First phase [CONFIRM: weeks] | Live sessions with lectures, group activities and instructor led demos, followed by independent work on coding exercises and assignments |
+| **Capstone project** | Final phase [CONFIRM: weeks] | Teams of four to six build a real application. Instructors act as coaches and project managers |
 
-**Commitment:** 40 hours a week for 12 weeks. 480 hours in total.
+**Commitment:** 20 weeks [CONFIRM: hours a week].
 
 **A typical day:** Morning stand up on the day's goals → Live session with lectures, group work and demos → Break → Independent work on exercises and assignments, with instructors available for one to one support
 
-**Line below:** Sponsored programs run longer, up to five months, and add career readiness and placement support. See [Sponsored Talent Programs](/xcelerate/sponsored-talent-programs).
+**Line below:** Sponsored programs also run for 20 weeks, and add career readiness and placement support. See [Sponsored Talent Programs](/xcelerate/sponsored-talent-programs).
 
 ### 6. How we teach
 
@@ -607,7 +595,7 @@ A full scale bootcamp is an intensive, full time training program that takes par
 - **Pair programming and peer feedback.** Participants solve problems together, the way engineering teams work
 - **Graded assignments and quizzes.** Regular assessment shows who needs help, and lets instructors adjust the pace
 - **Office hours and group sessions.** Instructors give individual feedback and help apply each skill to real scenarios
-- **A capstone that works like a job.** Six weeks in a team, with a backlog, stand ups and a final presentation
+- **A capstone that works like a job.** Several weeks in a team, with a backlog, stand ups and a final presentation
 - **Workplace skills alongside technical ones.** Communication, teamwork and professional conduct are part of the program
 
 ### 7. Proof
@@ -619,7 +607,7 @@ A full scale bootcamp is an intensive, full time training program that takes par
 | **Full stack web and app development bootcamp** | Bank Alfalah | Three cohorts · more than 70 professionals · 240+ hours each in cloud native and mobile application development |
 | **Mari Digital Skills, Training & Employment Program** | Mari Energies (CSR sponsor) | Cohort I: 44 graduates in AI, agentic development and full stack development. All placed into internships and employment |
 | **Full Stack Engineering and Data Science Bootcamp** | PPL and Dawood Global Foundation (CSR) | Young people from PPL communities trained in AI, data science and full stack engineering. Top performers recruited |
-| **Open bootcamps for graduates** | Individuals | Graduates have joined xLoop's engineering teams and work on its products, including HR App Pilot and xVision [CONFIRM: wording and number of graduates hired] |
+| **Open bootcamps for graduates** | Individuals | Graduates have joined xLoop's engineering teams and currently work on its products, including HR App Pilot and xVision |
 
 **H3:** What Graduates Say
 
@@ -644,7 +632,7 @@ Register your interest in a track. We'll write to you with dates, eligibility an
 
 **CTA:** Register Your Interest →
 
-**Form fields (separate form from the organization form):** Name · Email · City · Track (AI and Machine Learning · Cloud Computing · Cyber Security · Web and App Development · Data Engineering and Analytics) · I am a (Student · Recent graduate · Working professional)
+**Form fields (separate form from the organization form):** Name · Email · City · Track (Artificial Intelligence · Data Engineering) · I am a (Student · Recent graduate · Working professional)
 
 ### 9. At a glance
 
@@ -653,9 +641,9 @@ Register your interest in a track. We'll write to you with dates, eligibility an
 | | |
 |---|---|
 | Who it's for | Employers training new hires · teams changing roles · individuals moving into technology |
-| Length | 12 weeks · 40 hours a week · 480 hours |
-| Structure | Six weeks of theory and practice · six weeks of team capstone |
-| Tracks | AI and Machine Learning · Cloud Computing · Cyber Security · Web and App Development · Data Engineering and Analytics |
+| Length | 20 weeks |
+| Structure | Theory and practice, then a team capstone |
+| Tracks | Artificial Intelligence · Data Engineering |
 | Format | In person in Karachi · online · on premise · hybrid |
 | Teaching | Live and instructor led, with pair programming, graded tasks and office hours |
 | Delivered for | Bank Alfalah · Mari Energies (CSR) · PPL and Dawood Global Foundation (CSR) |
@@ -669,16 +657,16 @@ Register your interest in a track. We'll write to you with dates, eligibility an
 *All seven go into FAQPage schema, with text identical to the page.*
 
 **How long is a bootcamp?**
-A full scale bootcamp runs for 12 weeks at 40 hours a week, which is 480 hours. Sponsored programs can run up to five months because they add career readiness and placement support.
+20 weeks. Sponsored programs also run for 20 weeks and add career readiness and placement support.
 
 **Is the bootcamp full time?**
-Yes. Expect 40 hours a week of live sessions and independent work. For working teams, the hours can be spread over a longer period, as agreed with the employer.
+[CONFIRM with Misbah: full time or part time, and hours a week.] For working teams, the schedule is agreed with the employer.
 
 **Who can join?**
 Employers can enroll a cohort of new hires or existing staff. Individuals can register for open cohorts. Each track has its own entry requirements, which we share when a cohort opens.
 
 **What is the capstone project?**
-In the last six weeks, teams of four to six build a real application from requirements to a final presentation. Instructors act as coaches and project managers.
+In the final weeks, teams of four to six build a real application from requirements to a final presentation. Instructors act as coaches and project managers.
 
 **Can you run a bootcamp for our company only?**
 Yes. We ran a full stack web and app development bootcamp for Bank Alfalah across three cohorts. A private bootcamp can be adjusted to your stack and your projects.
@@ -698,7 +686,7 @@ In 30 minutes we'll look at the roles you need, the track that fits and when a c
 **CTA:** Book a 30 Minute Training Review →
 **Secondary link:** Applying as an individual? Register your interest →
 
-**Form fields:** Name · Work email · Company · Track · Number of participants · New hires or existing staff · Target start date
+**Form fields:** Name · Work email · Company · Number of participants
 
 ### 12. Related
 

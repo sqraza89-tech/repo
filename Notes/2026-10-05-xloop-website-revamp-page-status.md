@@ -109,4 +109,4 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - [x] Mining v1 (18 Nov). Open: delivered or plan only; are 30%/50% measured
 - [ ] xCelerate: Ali Abbasi to answer the [CONFIRM] items, then send to design
 - [x] xCelerate hub aligned to the new "Which Program Fits" table (19 Nov, Zeeshan feedback): from 10 days corporate, 20 weeks sponsored + bootcamps (AI, Data Engineering). Paste list given to Sana for her docx
-- [ ] xCelerate inner pages still conflict with the hub: Corporate (5 catalog courses), Bootcamps (12 weeks, 480 hours, 4 tracks), Sponsored ("up to five months"). Waiting on Sana: keep catalog courses? Go with 20 weeks?
+- [x] xCelerate inner pages aligned (19 Nov, Sana): catalog courses replaced by delivered programs; bootcamps 20 weeks, tracks AI + Data Engineering; sponsored 20 weeks. Full set: `2026-11-19-xloop-xcelerate-pages-content-v1.2.docx` (includes Sana's v1.1 edits). Open for Misbah: bootcamp hours/week, capstone weeks, tool list, open cohort scheduling

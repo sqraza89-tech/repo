@@ -31,7 +31,7 @@ Four pages replace the two live xCelerate nav items. They are organized by the k
 | Field | Value |
 |---|---|
 | Title tag | `AI Training and Upskilling Programs \| xCelerate by xLoop` |
-| Meta description | `AI and technology training for working teams, sponsored digital skills programs, and 20 week bootcamps in AI and data engineering. Online, on site or hybrid.` |
+| Meta description | `AI and technology training for working teams, sponsored digital skills programs, and 20 week bootcamps in AI and data engineering, on site or as agreed with you.` |
 | H1 | AI Training and Upskilling Programs |
 | Breadcrumb | Home › xCelerate |
 | Schema | Organization · Service · FAQPage · BreadcrumbList |
@@ -53,7 +53,7 @@ Four pages replace the two live xCelerate nav items. They are organized by the k
 
 **H2:** What Is xCelerate?
 
-xCelerate is the training division of xLoop, a global AI and data consulting firm. It runs three kinds of programs: corporate AI training for working teams, sponsored digital skills programs that organizations fund for their communities, and full scale bootcamps that prepare people for technology roles. Programs run online, on premise or hybrid. xLoop also hosts university internship programs, where students complete projects alongside its engineering teams.
+xCelerate is the training division of xLoop, a global AI and data consulting firm. It runs three kinds of programs: corporate AI training for working teams, sponsored digital skills programs that organizations fund for their communities, and full scale bootcamps that prepare people for technology roles. Programs run on site at the employer's offices or where agreed with the sponsor. xLoop also hosts university internship programs, where students complete projects alongside its engineering teams.
 
 *Plain text, never collapsed.*
 
@@ -67,7 +67,7 @@ xCelerate is the training division of xLoop, a global AI and data consulting fir
 |---|---|---|---|
 | **Corporate AI Training** | L&D, HR and technology leaders who need existing teams to work with AI | Full stack and mobile development programs from 10 days, plus custom programs built around your stack, your roles and your projects | See corporate training → |
 | **Sponsored Talent Programs** | CSR, sustainability and development leaders who want their funding to end in jobs | You fund a cohort. We select on merit, train for 20 weeks in programming fundamentals, full stack development, and AI and agentic development, and support graduates into internships and employment | See sponsored programs → |
-| **Bootcamps** | Employers building a talent pipeline, and individuals moving into technology roles | 20 weeks of live, instructor led training in Artificial Intelligence or Data Engineering, ending in a team capstone project | See bootcamps → |
+| **Bootcamps** | Employers building a talent pipeline, and teams moving into AI or data roles | 20 weeks of live, instructor led training in Artificial Intelligence or Data Engineering, ending in a team capstone project | See bootcamps → |
 
 ### 4. Which program fits
 
@@ -84,7 +84,6 @@ xCelerate is the training division of xLoop, a global AI and data consulting fir
 | Job ready data engineers | Data Engineering bootcamp | 20 weeks |
 | Project experience for students before graduation | University internship program | Agreed with the university |
 
-*Hub aligned to this table on 19 Nov (dev feedback: durations didn't match). Still to confirm with Misbah: the Bank Alfalah program length (the proof card says 240+ hours per participant), and that bootcamps are 20 weeks (the Bootcamps page still says 12 weeks, 480 hours). Updated 16 Nov from Nayab Ahmed: rows now list delivered programs. Corporate (Alfalah, Fusion Training): full stack and mobile development; Fusion was 10 days. CSR (PPL, Mari): programming fundamentals, full stack (web development and programming), AI and agentic development, 20 weeks. Commercial bootcamps: Artificial Intelligence, Data Engineering. The five catalog courses are out of this table pending Sana's decision on whether they are still offered.*
 
 ### 5. Why xLoop
 
@@ -134,10 +133,10 @@ In 2026 we ran an internship program with FAST-NUCES, Karachi Campus. Students w
 Three kinds. Corporate training for working teams, in full stack and mobile development from 10 days, or as a custom program. Sponsored digital skills programs of 20 weeks that an organization funds for a community. Bootcamps of 20 weeks in Artificial Intelligence and Data Engineering.
 
 **Who is xCelerate for?**
-Mostly organizations: employers upskilling their teams, companies funding CSR programs, and employers who want job ready hires. Individuals can register for open bootcamp cohorts.
+Organizations: employers upskilling their teams, companies funding CSR programs, and employers who want job ready hires. Individuals can register their interest, and we'll tell them when a program they can join opens.
 
 **Is the training online or on site?**
-Both. Programs run online, on premise at your offices, or hybrid. Sponsored programs and bootcamps can also run at xLoop's training facility in Karachi.
+On site. Corporate programs run at the employer's offices, and sponsored programs run where we agree with the sponsor, including xLoop's training facility in Karachi. Online or hybrid sessions can be added when a program needs them.
 
 **Can you build a program around our own tools and use cases?**
 Yes. Custom programs start with the roles you want to train and the work they do. We then build the curriculum, exercises and capstone around your stack and your use cases.
@@ -149,7 +148,7 @@ Yes. Participants who complete a program receive a certificate of completion.
 Yes. We host internship programs where students complete assigned projects alongside our AI and cyber security teams. In 2026 we ran one with FAST-NUCES, Karachi Campus.
 
 **How do individuals apply?**
-Through the [Bootcamps](/xcelerate/bootcamps) page. Register your interest in a track and we'll write to you when the next open cohort is scheduled.
+Through the [Bootcamps](/xcelerate/bootcamps) page. Register your interest and we'll write to you when a program you can join opens.
 
 ### 9. CTA band
 
@@ -159,7 +158,7 @@ In 30 minutes we'll look at who needs training, what they need to be able to do 
 
 **CTA:** Book a 30 Minute Training Review →
 
-**Form fields:** Name · Work email · Company · I'm interested in (Corporate training · Sponsored program · Bootcamp for our hires · University partnership · Applying as an individual) · Number of people to train · What should they be able to do afterward? (one line)
+**Form fields:** Name · Work email · Company · I'm interested in (Corporate training · Sponsored program · Bootcamp for our hires · University partnership · Registering as an individual) · Number of people to train · What should they be able to do afterward? (one line)
 
 ### 10. Related
 
@@ -176,7 +175,7 @@ Corporate AI Training · Sponsored Talent Programs · Bootcamps · Data & AI Con
 | Field | Value |
 |---|---|
 | Title tag | `Corporate AI and Technology Training for Teams \| xCelerate by xLoop` |
-| Meta description | `Corporate training in full stack and mobile development, AI and data, built around your stack and roles. From 10 days, online, on site or hybrid.` |
+| Meta description | `Corporate training in full stack and mobile development, AI and data, built around your stack and roles. From 10 days, on site at your offices.` |
 | H1 | Corporate AI and Technology Training for Teams |
 | Breadcrumb | Home › xCelerate › Corporate AI Training |
 | Schema | Service · Course (Full Stack and Mobile Development) · FAQPage · BreadcrumbList |
@@ -198,7 +197,7 @@ Corporate AI Training · Sponsored Talent Programs · Bootcamps · Data & AI Con
 
 **H2:** What Is Corporate Technology Training?
 
-Corporate technology training teaches an organization's existing staff the skills its technology plans depend on. xCelerate, xLoop's training division, runs live, instructor led programs for a cohort from one employer, in full stack and mobile development, AI and data, online or on site. Programs start at 10 days and are built around the employer's own stack.
+Corporate technology training teaches an organization's existing staff the skills its technology plans depend on. xCelerate, xLoop's training division, runs live, instructor led programs for a cohort from one employer, in full stack and mobile development, AI and data, on site at the employer's offices. Programs start at 10 days and are built around the employer's own stack.
 
 *Plain text, never collapsed.*
 
@@ -245,7 +244,7 @@ We start with the roles you want to train and what each should be able to do at 
 
 | | |
 |---|---|
-| Format | Online, on premise at your offices, or hybrid |
+| Format | On site at your offices. Online or hybrid sessions can be added when the program needs them |
 | Teaching | Live and instructor led. Recorded sessions stay available until the program ends |
 | Cohort size | Up to 50 participants per cohort |
 | Practice | Exercises in every session. Graded assignments. A capstone project in longer programs |
@@ -297,7 +296,7 @@ We agree the measures with you before the program starts, then report at four le
 | Where to start | 30 minute training review |
 | Programs | Full Stack and Mobile Development · custom programs in AI and agentic development, data engineering and full stack development |
 | Length | From 10 days |
-| Format | Online · on premise · hybrid |
+| Format | On site at your offices |
 | Measurement | Reaction · Learning · Behavior · Results |
 | Delivered for | Bank Alfalah |
 | Related | Bootcamps · Sponsored Talent Programs · Data & AI Consulting |
@@ -321,7 +320,7 @@ Yes. We build the exercises and the capstone around your stack and the problems 
 Up to 50 per cohort, so that every participant gets instructor time. Larger groups are split into several cohorts.
 
 **Is the training online or at our offices?**
-Either, or a mix. Sessions are live and instructor led in every format, and recordings stay available until the program ends.
+At your offices. You set the hours, the frequency and what the program needs to cover, and we build the schedule around it. Online or hybrid sessions can be added when needed.
 
 **How do you measure whether the training worked?**
 At four levels: how participants responded, what they learned, whether they applied it, and what changed for the business. We agree the business measures with you before the program starts.
@@ -555,7 +554,7 @@ A bootcamp is an intensive training program that takes participants to a job rea
 |---|---|---|---|
 | **Employers building a talent pipeline** | You need engineers who can contribute from their first month, and graduate hires take too long to get there | We train a cohort of your new or future hires on your stack before they join their teams | Train a hiring cohort → |
 | **Teams changing roles** | Your developers, testers or analysts need to move into AI or data engineering | We run the bootcamp for your existing staff. For full stack and mobile skills, see [Corporate Training](/xcelerate/corporate-ai-training) | Reskill a team → |
-| **Individuals** | You are a graduate or a working professional moving into a technology role | Register your interest in a track. We'll write to you when the next open cohort is scheduled | Register your interest → |
+| **Individuals** | You are a graduate or a working professional moving into a technology role | Our bootcamps run for employers and sponsors. Register your interest and we'll tell you when a program you can join opens, such as a sponsored program in your area | Register your interest → |
 
 ### 4. Tracks
 
@@ -568,20 +567,18 @@ A bootcamp is an intensive training program that takes participants to a job rea
 | **Artificial Intelligence** | Python, machine learning, natural language processing, large language models, generative AI and agentic development, through to building and shipping an AI application |
 | **Data Engineering** | Data ingestion, pipelines, production Python, and analytics on modern data platforms |
 
-**Tools participants work with:** Python · PyTorch · TensorFlow · Hugging Face · Databricks · Snowflake · Apache Spark [CONFIRM: current tool list per track]
-
 ### 5. Structure
 
 **H2:** How the Bootcamp Is Structured
 
 *Design: two phase timeline, then "A typical day" as a horizontal strip.*
 
-| Phase | Weeks | What happens |
-|---|---|---|
-| **Theory and practice** | First phase [CONFIRM: weeks] | Live sessions with lectures, group activities and instructor led demos, followed by independent work on coding exercises and assignments |
-| **Capstone project** | Final phase [CONFIRM: weeks] | Teams of four to six build a real application. Instructors act as coaches and project managers |
+| Phase | What happens |
+|---|---|
+| **Theory and practice** | Live sessions with lectures, group activities and instructor led demos, followed by independent work on coding exercises and assignments |
+| **Capstone project** | Teams of four to six build a real application. Instructors act as coaches and project managers |
 
-**Commitment:** 20 weeks [CONFIRM: hours a week].
+**Commitment:** 20 weeks, usually full time. The hours and frequency are set with the employer or sponsor.
 
 **A typical day:** Morning stand up on the day's goals → Live session with lectures, group work and demos → Break → Independent work on exercises and assignments, with instructors available for one to one support
 
@@ -607,7 +604,7 @@ A bootcamp is an intensive training program that takes participants to a job rea
 | **Full stack web and app development bootcamp** | Bank Alfalah | Three cohorts · more than 70 professionals · 240+ hours each in cloud native and mobile application development |
 | **Mari Digital Skills, Training & Employment Program** | Mari Energies (CSR sponsor) | Cohort I: 44 graduates in AI, agentic development and full stack development. All placed into internships and employment |
 | **Full Stack Engineering and Data Science Bootcamp** | PPL and Dawood Global Foundation (CSR) | Young people from PPL communities trained in AI, data science and full stack engineering. Top performers recruited |
-| **Open bootcamps for graduates** | Individuals | Graduates have joined xLoop's engineering teams and currently work on its products, including HR App Pilot and xVision |
+| **Graduates hired by xLoop** | xLoop | Top graduates of our programs have joined xLoop's engineering teams and work on its products, including HR App Pilot and xVision |
 
 **H3:** What Graduates Say
 
@@ -626,9 +623,7 @@ A bootcamp is an intensive training program that takes participants to a job rea
 
 **H2:** Applying as an Individual
 
-Open cohorts are for graduates and working professionals who want to move into a technology role. We schedule an open cohort when a track has enough registered interest. [CONFIRM: how open cohorts are scheduled, and fees]
-
-Register your interest in a track. We'll write to you with dates, eligibility and fees when the next cohort opens.
+Our bootcamps run for employers, who train their own staff or new hires, and for sponsors, who fund programs for their communities. If you're a graduate or working professional who wants to join one, register your interest. We'll write to you when a program you can join opens, such as a sponsored program in your area.
 
 **CTA:** Register Your Interest →
 
@@ -644,7 +639,7 @@ Register your interest in a track. We'll write to you with dates, eligibility an
 | Length | 20 weeks |
 | Structure | Theory and practice, then a team capstone |
 | Tracks | Artificial Intelligence · Data Engineering |
-| Format | In person in Karachi · online · on premise · hybrid |
+| Format | On site at the employer's offices, or where agreed with the sponsor |
 | Teaching | Live and instructor led, with pair programming, graded tasks and office hours |
 | Delivered for | Bank Alfalah · Mari Energies (CSR) · PPL and Dawood Global Foundation (CSR) |
 | Training partner | Emeritus |
@@ -660,10 +655,10 @@ Register your interest in a track. We'll write to you with dates, eligibility an
 20 weeks. Sponsored programs also run for 20 weeks and add career readiness and placement support.
 
 **Is the bootcamp full time?**
-[CONFIRM with Misbah: full time or part time, and hours a week.] For working teams, the schedule is agreed with the employer.
+Usually, but it depends on the engagement. Employers set the hours, the frequency and what the program needs to cover. For sponsored programs, we agree the schedule with the sponsor, and adjust it to the participants' level and interests.
 
 **Who can join?**
-Employers can enroll a cohort of new hires or existing staff. Individuals can register for open cohorts. Each track has its own entry requirements, which we share when a cohort opens.
+Employers enroll a cohort of new hires or existing staff, and sponsors fund cohorts selected on merit from their communities. Individuals can register their interest for future programs.
 
 **What is the capstone project?**
 In the final weeks, teams of four to six build a real application from requirements to a final presentation. Instructors act as coaches and project managers.
@@ -672,10 +667,10 @@ In the final weeks, teams of four to six build a real application from requireme
 Yes. We ran a full stack web and app development bootcamp for Bank Alfalah across three cohorts. A private bootcamp can be adjusted to your stack and your projects.
 
 **Is the bootcamp online or in person?**
-Both are available. Cohorts run in person at xLoop's training facility in Karachi, on premise at an employer's offices, online or hybrid.
+In person. Corporate cohorts run at the employer's offices, and sponsored cohorts run where we agree with the sponsor, including xLoop's training facility in Karachi.
 
 **How do I apply as an individual?**
-Register your interest in a track on this page. We'll write to you with dates, eligibility and fees when the next open cohort is scheduled.
+Register your interest on this page. We'll write to you when a program you can join opens, such as a sponsored program in your area.
 
 ### 11. CTA band
 
@@ -784,3 +779,8 @@ xCelerate · Corporate AI Training · Sponsored Talent Programs · Careers
 - [ ] Devs: LinkedIn Insight Tag + Meta Pixel on the xCelerate pages; a separate form event for the sponsored form. Ads link here with UTMs ([[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]])
 - [x] Mari consent to use the material received (Nov 2026): the courtesy check is done for Mari
 - [ ] Sana to decide: drop PPL from the pages too (the ads no longer mention it)? Keep the Naseem Qamar quote, or swap in graduate quotes?
+
+### 19 Nov: Misbah answers (via Sana)
+- Bootcamps usually full time, but hours and frequency are set by the engagement (employer or sponsor)
+- No week split for theory vs capstone, no tool list on the site
+- No open cohorts for individuals have run: corporate (Bank Alfalah) defines hours, needs and frequency, all on site; CSR programs are decided jointly with sponsors and adjusted to students. Copy changed: individuals can only register interest; format is on site

@@ -329,3 +329,5 @@ Each leaf page follows the hub, so the cluster reads as one set:
 - [ ] Devs, now: fix the lead form heading on five leaf pages ("Explore AI Agents for Your Business")
 - [ ] Data & AI Consulting: drop the stage names [CONFIRM], using the published names
 - [ ] Next: the six leaf pages, starting with Generative AI
+
+**Dev Q&A (Zeeshan, 20 Nov):** xVision bank card confirmed (xVision case study, Jul 2025), keep, words only · LLM investment assistant stays anonymous ("A leading asset management firm in Pakistan") · "Last updated" date visible on page (small grey line), schema dateModified to match; schema only is the fallback · Navbar description for Applied AI Solutions: "Generative AI, LLMs, agents, computer vision and ML, built for production."

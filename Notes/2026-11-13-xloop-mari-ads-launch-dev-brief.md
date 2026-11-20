@@ -185,6 +185,12 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
   - LinkedIn retargeting ad set from 1 Dec
   - Confirm the devs added the CTA to the press page
 
+## Results log
+
+| Date | Platform | Spend | Reach | Cost / 1k reached | Eng. rate | CTR | Note |
+|---|---|---|---|---|---|---|---|
+| 20 Nov (day 3 to 4) | LinkedIn | USD 34 | 8.9k | USD 3.79 | 0.35% | 0.26% | Far cheaper than the forecast (USD 20 to 40). Check professional demographics for audience quality. No changes yet |
+
 ## Next steps
 
 - [ ] Ali: OK the landing page switch (press page now, Sponsored page later)

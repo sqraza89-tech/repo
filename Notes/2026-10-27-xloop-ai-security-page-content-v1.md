@@ -294,4 +294,4 @@ In 30 minutes our AI security team will look at one AI system or tool you use, h
 - [ ] Devs: fix the doubled title suffix; render the H1 in server HTML
 - [ ] Next: xSecurity hub (no AI Security Assessment CTA until the tool is live)
 
-**Design tweak (20 Nov, Sana):** tried a "YOU GET" line in the process strip highlight card instead of "Current focus 01/04"; **reverted**. The counter works as a progress indicator for the moving card and looks cleaner. Keep "CURRENT FOCUS · 0X / 04".
+**Design tweak (20 Nov, Sana):** process strip highlight card. "YOU GET" lines tried and dropped (too much text). Keep the small 01 to 04 above each stage name. Sana still dislikes "0X / 04" repeating it; proposed instead, same small light style: CURRENT FOCUS · Inventory (Discover) · Red teaming (Assess) · Guardrails (Control) · Monitoring (Report). Alternative: a four segment progress bar. Pending her pick.

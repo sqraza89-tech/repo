@@ -18,7 +18,7 @@ Checked the live pages against the approved copy after Zeeshan's launch note. Re
 
 | # | Issue | Fix | Priority |
 |---|---|---|---|
-| 1 | Proof card "Snowflake Lakehouse" still says "SAP ERP, SAP BW and application databases… lakehouse on Snowflake and AWS" | Item 5 of the Pick n Pay change list: problem, what we did, result. Retitle the card "Snowflake Reporting Platform" | High |
+| 1 | Proof card 02 "Snowflake Lakehouse" still says "SAP ERP, SAP BW and application databases… lakehouse on Snowflake and AWS" | Title → "Snowflake Reporting Platform". Problem → "Power BI reports ran heavy transformation logic directly on MySQL source databases, so model refreshes took five to six hours and clashed with each other". What we did → "Migrated the data to Snowflake with a medallion architecture, moved the transformations into Snowflake, and built curated views for Power BI and other teams". Result → "Report refresh time cut from five to six hours to 10 to 15 minutes, with simpler maintenance". Also At a glance "Delivered": "Snowflake single source of truth for AI use cases" → "Snowflake reporting platform (refresh time cut from hours to minutes)" | High |
 | 2 | Hero: "Most AI programs don't fail on the model, they stall because…" (comma splice, open since Oct) | "Most AI programs don't fail on the model. They stall because…" | Medium |
 | 3 | xServe card: "A popular Saudi Arabian fast food chain" | "A leading Saudi Arabian fast food chain", as on every other page | Low |
 | 4 | Form has 6 required fields (adds Role and Company size) | Four fields: Name, Work email, Company, the one line question. Role and size can be asked on the call | Medium |

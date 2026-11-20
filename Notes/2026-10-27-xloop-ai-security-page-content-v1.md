@@ -294,4 +294,4 @@ In 30 minutes our AI security team will look at one AI system or tool you use, h
 - [ ] Devs: fix the doubled title suffix; render the H1 in server HTML
 - [ ] Next: xSecurity hub (no AI Security Assessment CTA until the tool is live)
 
-**Design tweak (20 Nov, Sana):** process strip highlight card shows "YOU GET" instead of "Current focus 01/04", as a short headline (longer lines felt like too much text): Discover = A complete AI inventory · Assess = Ranked, proven findings · Control = Tested guardrails · Report = Reports and ongoing monitoring. Optional: end the Discover description at "deployment environments"
+**Design tweak (20 Nov, Sana):** tried a "YOU GET" line in the process strip highlight card instead of "Current focus 01/04"; **reverted**. The counter works as a progress indicator for the moving card and looks cleaner. Keep "CURRENT FOCUS · 0X / 04".

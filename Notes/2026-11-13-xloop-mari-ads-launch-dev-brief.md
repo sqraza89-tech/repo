@@ -191,6 +191,17 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
 |---|---|---|---|---|---|---|---|
 | 20 Nov (day 3 to 4) | LinkedIn | USD 34 | 8.9k | USD 3.79 | 0.35% | 0.26% | Far cheaper than the forecast (USD 20 to 40). Check professional demographics for audience quality. No changes yet |
 
+**20 Nov LinkedIn detail:**
+
+- ~18k impressions, ~47 clicks, 7,096 video views (view rate ~39%), frequency ~2
+- **By job function:**
+  - HR is the top function: 10.8% of impressions, 14.9% of clicks, CTR 0.36%
+  - HR + Media & Communication + Community & Social Services ≈ 22% of impressions but ≈ 36% of clicks (CTR 0.36 to 0.5%)
+  - Business Development / Operations (from the NGO and energy-company groups) have a lower CTR (0.2%)
+- Verdict: audience quality is good
+- Completions and view rate are in the Advertise table, Columns › Video (not in the performance chart)
+- Seniority check pending
+
 ## Next steps
 
 - [ ] Ali: OK the landing page switch (press page now, Sponsored page later)

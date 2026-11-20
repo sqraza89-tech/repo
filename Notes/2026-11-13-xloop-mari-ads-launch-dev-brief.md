@@ -206,7 +206,12 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
 - **Video columns (ad set):**
   - 18,074 impressions · 20,822 plays · 7,099 views · view rate 39.28%
   - 47 clicks · CTR 0.26% · **avg dwell 4.91 s on a 60 s video**
-- **Implication:** most people drop off early, so the 15 to 20 s cutdowns B1 to B3 are a priority for week 2 (chase the editor). Completion % (25/50/75/100) still to pull: scroll right in Columns › Video
+- **Implication:** most people drop off early, so the 15 to 20 s cutdowns B1 to B3 are a priority for week 2 (chase the editor)
+- **Watch-through (20 Nov):**
+  - Avg watch 7.34 s, total watch time 4 h 34 m
+  - Views at 25%: 574 · at 50%: 215 · at 75%: 142 · completions: **108** (1.5% of views)
+  - The big drop is between 25% and 50% (−63%). Of people who reach 50%, half finish
+- **Read:** the content holds people who get past ~30 s, but the opening doesn't hook. The cutdowns must lead with the outcome ("44 graduates, all placed") in the first 3 s
 
 ## Next steps
 

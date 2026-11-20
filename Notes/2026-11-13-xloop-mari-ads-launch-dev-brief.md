@@ -200,7 +200,13 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
   - Business Development / Operations (from the NGO and energy-company groups) have a lower CTR (0.2%)
 - Verdict: audience quality is good
 - Completions and view rate are in the Advertise table, Columns › Video (not in the performance chart)
-- Seniority check pending
+- **Seniority:**
+  - Manager 14.9%, Director 10.5%, Owner 3.8%, CXO 2.7%, VP 2.7%, Partner 0.9%
+  - Only 4 impressions at "Senior". The ~36% reported is LinkedIn's privacy minimum. The seniority filter works
+- **Video columns (ad set):**
+  - 18,074 impressions · 20,822 plays · 7,099 views · view rate 39.28%
+  - 47 clicks · CTR 0.26% · **avg dwell 4.91 s on a 60 s video**
+- **Implication:** most people drop off early, so the 15 to 20 s cutdowns B1 to B3 are a priority for week 2 (chase the editor). Completion % (25/50/75/100) still to pull: scroll right in Columns › Video
 
 ## Next steps
 

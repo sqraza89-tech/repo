@@ -212,6 +212,11 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
   - Views at 25%: 574 · at 50%: 215 · at 75%: 142 · completions: **108** (1.5% of views)
   - The big drop is between 25% and 50% (−63%). Of people who reach 50%, half finish
 - **Read:** the content holds people who get past ~30 s, but the opening doesn't hook. The cutdowns must lead with the outcome ("44 graduates, all placed") in the first 3 s
+- **Decision (20 Nov):**
+  - Don't change the approved full video; it keeps running
+  - Cutdowns B1 to B3 are already in Ali's approved plan, so they're framed as delivery of approved items (trims of approved footage, approved line, same end card)
+  - Format: 4:5, 15 to 20 s, the graduate's strongest line first
+  - All 3 go to Ali in one approval round. Editor deadline Tue 24 Nov; skip if not approved by Mon 30 Nov
 
 ## Next steps
 

@@ -192,10 +192,10 @@ It answers from the HR policies you load. When a policy changes, you update it o
 It passes the request to the right HR officer, with the full conversation attached, so the employee doesn't have to explain it again.
 
 **Can employees see other people's data?**
-[CONFIRM: "No. Each employee sees only their own payslips, balances and requests."]
+No. Each employee sees only their own pay slips, balances and requests.
 
 **How long does it take to deploy?**
-[CONFIRM with the product owner: typical time to go live, including connecting a non Odoo system. The live page says "a few weeks".]
+About 30 days for the full solution. A single feature, such as leave requests or payslips, can go live in about two weeks.
 
 ---
 
@@ -251,7 +251,7 @@ In 30 minutes we'll talk through the requests your HR team handles most and the 
 ### Open [CONFIRM] items (HR App Pilot owner)
 
 1. Per employee data access (employees see only their own payslips and requests)
-2. Typical time to deploy, including a non Odoo system
+2. Resolved 20 Nov (Wassay): about 30 days for the full solution, about two weeks for a single feature. Sana also confirmed per employee access in her docx (18 Nov)
 3. Problem and result wording on the proof card match xLoop's internal use
 4. Security testing done before go live
 
@@ -259,3 +259,5 @@ In 30 minutes we'll talk through the requests your HR team handles most and the 
 
 - [ ] Sana: review, and ask the HR App Pilot owner the four items
 - [ ] Next: Data & AI Readiness tool SEO pack
+
+**Docx note (20 Nov):** Sana edited the docx on 18 Nov (problem tile names, features, at a glance, CTA "Book a Product Fit Call"). Edit the docx in place; a rebuild from this md would lose her edits.

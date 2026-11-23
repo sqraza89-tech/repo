@@ -231,7 +231,17 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
   - Views at 25%: 833 · 50%: 297 · 75%: 186 · completions 140 (0.53%) · full-screen plays 16
 - **Already above the approved doc's LinkedIn full-month forecast** (15 to 25k impressions, 3 to 6k views)
 - Retargeting audience (50%+ viewers) is at 297, needs 300
-- Week 1 update drafted for Ali (23 Nov). The Facebook line is pending billing/data; inquiries unknown
+- Week 1 update drafted for Ali (23 Nov)
+
+**Facebook, 18 to 22 Nov:**
+
+- Spend USD 14.78 of 80 (on pace)
+- Reach 47,680 · impressions 69,862 (frequency ~1.5) · **9,222 ThruPlays** at USD 0.002 each
+- Rankings: quality above average; engagement below average (bottom 35%); conversion ranking not relevant
+- **Already above the approved FB full-month forecast** (25 to 50k impressions, 4 to 10k ThruPlays)
+- **Combined to 23 Nov:** ~96k impressions, ~19.7k views/ThruPlays, USD ~76 spent of 500
+- **Cutdowns B1 to B3:** approved by Ali/Nasir (23 Nov). Upload Tue 24 Nov as new ads in the existing ad sets
+- Meta banner: add contact info so rejection and limit alerts reach Sana
 
 ## Next steps
 

@@ -167,7 +167,7 @@ Live setup and settings: [[2026-11-13-xloop-mari-ads-launch-dev-brief]]
 | Thu 19 Nov | Click your own ad once; check GA4 Realtime shows source linkedin / facebook |
 | Fri 20 Nov | First look only, no changes. Note LinkedIn CPM and view rate, and Facebook cost per ThruPlay |
 | Fri 20 Nov | Brief the editor on cutdowns B1 to B3 |
-| Tue 24 Nov | Cutdowns due from the editor. Forward all 3 to Ali in one go for a quick OK |
+| Tue 24 Nov | ~~Cutdowns due from the editor~~ **Done 23 Nov: delivered and approved.** Upload them Tue 24 |
 | Mon 30 Nov | If the cutdowns are still unapproved, skip them; the approved full video runs to 14 Dec |
 | **Mon 23 Nov** | **Week 1 numbers to Ali.** Per platform: spend, impressions, reach, frequency, video views / ThruPlays, clicks, CTR, GA4 visits, form leads |
 | Mon 23 Nov | Apply the swap rules: frequency above 4, view rate down by a third, or a clearly weak video → rotate |

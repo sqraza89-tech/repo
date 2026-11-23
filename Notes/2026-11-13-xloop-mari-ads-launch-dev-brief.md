@@ -218,6 +218,13 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
   - Format: 4:5, 15 to 20 s, the graduate's strongest line first
   - All 3 go to Ali in one approval round. Editor deadline Tue 24 Nov; skip if not approved by Mon 30 Nov
 
+**23 Nov (week 1, 17 to 23 Nov), LinkedIn:**
+
+- 10,463 video views total
+- Daily views peaked at ~2.6k on 18 Nov, then ~1k/day on 21 and 22 Nov (weekend dip)
+- Watch Tue/Wed: if views stay ~1k/day, the audience is saturating → cutdowns matter
+- Week 1 report to Ali pending: needs LinkedIn Performance + Video columns, Facebook row, GA4 traffic and inquiries
+
 ## Next steps
 
 - [ ] Ali: OK the landing page switch (press page now, Sponsored page later)

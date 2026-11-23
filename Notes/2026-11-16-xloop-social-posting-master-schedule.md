@@ -173,9 +173,9 @@ Live setup and settings: [[2026-11-13-xloop-mari-ads-launch-dev-brief]]
 | Mon 23 Nov | Apply the swap rules: frequency above 4, view rate down by a third, or a clearly weak video → rotate |
 | Tue 24 Nov | Add cutdowns B1 + B2 as new ads (both platforms) once Ali OKs them. Add them as new ads in the same ad set; never edit or replace the full-video ad. LinkedIn: Create ad in the ad set. Facebook: duplicate the ad and swap the video. `utm_content=b1` / `b2`. Keep the full video running |
 | Thu 26 Nov | Check the LinkedIn "Mari video viewers 50%" audience has 300+ members (needed for retargeting) |
-| **Mon 30 Nov** | **Week 2 numbers to Ali.** Pause the weakest video; add B3 |
+| **Mon 30 Nov** | **Week 2 status to Ali (short, outcome-only: reach, right audience, budget, next).** Pause the weakest video; add B3 |
 | Mon 30 Nov | Build the LinkedIn retargeting ad set |
-| **Mon 7 Dec** | **Week 3 numbers to Ali.** Keep the two best videos running |
+| **Mon 7 Dec** | **Week 3 status to Ali (short, outcome-only).** Keep the two best videos running |
 | Fri 11 Dec | Ask Claude to draft the final report and the week 4 results / thank-you post |
 | Mon 14 Dec | Campaigns end. Confirm both stopped and spend is within USD 500 |
 | **Tue 15 Dec** | **Final report to Ali:** totals vs the approved forecast, best video, leads, recommendation for Cohort II |

@@ -223,7 +223,15 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
 - 10,463 video views total
 - Daily views peaked at ~2.6k on 18 Nov, then ~1k/day on 21 and 22 Nov (weekend dip)
 - Watch Tue/Wed: if views stay ~1k/day, the audience is saturating → cutdowns matter
-- Week 1 report to Ali pending: needs LinkedIn Performance + Video columns, Facebook row, GA4 traffic and inquiries
+- **Week 1 LinkedIn totals (to 23 Nov):**
+  - Spend USD 60.80 (slightly under the USD 10/day pace)
+  - Reach 15,543 (USD 3.91 per 1k) · impressions 26,500 (frequency ~1.7) · plays 30,245
+  - Views 10,466 · view rate 39.49% · CPV USD 0.01
+  - Clicks 67 · CTR 0.25% · dwell 4.75 s · avg watch 6.84 s · total watch 17 h 33 m
+  - Views at 25%: 833 · 50%: 297 · 75%: 186 · completions 140 (0.53%) · full-screen plays 16
+- **Already above the approved doc's LinkedIn full-month forecast** (15 to 25k impressions, 3 to 6k views)
+- Retargeting audience (50%+ viewers) is at 297, needs 300
+- Week 1 update drafted for Ali (23 Nov). The Facebook line is pending billing/data; inquiries unknown
 
 ## Next steps
 

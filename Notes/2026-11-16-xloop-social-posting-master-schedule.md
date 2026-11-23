@@ -171,7 +171,7 @@ Live setup and settings: [[2026-11-13-xloop-mari-ads-launch-dev-brief]]
 | Mon 30 Nov | If the cutdowns are still unapproved, skip them; the approved full video runs to 14 Dec |
 | **Mon 23 Nov** | **Week 1 numbers to Ali.** Per platform: spend, impressions, reach, frequency, video views / ThruPlays, clicks, CTR, GA4 visits, form leads |
 | Mon 23 Nov | Apply the swap rules: frequency above 4, view rate down by a third, or a clearly weak video → rotate |
-| Tue 24 Nov | Add cutdowns B1 + B2 as new ads (both platforms), if delivered |
+| Tue 24 Nov | Add cutdowns B1 + B2 as new ads (both platforms) once Ali OKs them. Add them as new ads in the same ad set; never edit or replace the full-video ad. LinkedIn: Create ad in the ad set. Facebook: duplicate the ad and swap the video. `utm_content=b1` / `b2`. Keep the full video running |
 | Thu 26 Nov | Check the LinkedIn "Mari video viewers 50%" audience has 300+ members (needed for retargeting) |
 | **Mon 30 Nov** | **Week 2 numbers to Ali.** Pause the weakest video; add B3 |
 | Mon 30 Nov | Build the LinkedIn retargeting ad set |

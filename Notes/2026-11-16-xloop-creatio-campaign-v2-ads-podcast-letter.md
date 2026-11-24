@@ -222,3 +222,4 @@ Same model as the NEPRA letters (printed, CEO-level, care of Huzaifa). Huzaifa +
 - [Thought Behind Things: Moiz Jangda](https://www.castfox.net/podcast/thought-behind-things-2308919/episode/we-finally-built-paypal-for-pakistan-moiz-jangda-tbt-512-1233826)
 - [Exclusive Waves: Zafar Masud](https://zafarmasud.com/?p=5728)
 - [The MoneyPot: JazzCash](https://themoneypot.buzzsprout.com/2186757/episodes/18407829-the-moneypot-live-the-role-of-jazzcash-in-pakistan-s-digital-payment-landscape-with-murtaza-ali-president-of-jazzcash?t=0)
+- **v3 (Tue 24 Nov 2026):** Huzaifa asked for product punch lines; stat-led ads replaced: [[2026-11-24-xloop-creatio-ads-product-punch-lines-v3]]

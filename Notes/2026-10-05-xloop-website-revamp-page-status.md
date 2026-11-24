@@ -72,7 +72,7 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 - About Us: **v1 done 18 Nov** (with Careers)
 - Careers: **v1 done 18 Nov**, `2026-11-18-xloop-about-us-and-careers-content-v1.docx`. HR [CONFIRM]s; devs can fix the "Smart Surveillance" benefits heading now
 - Media & Mentions (listing) and the PR pages under it
-- Privacy Policy and Terms: **draft v1 done 18 Nov** (`2026-11-18-xloop-privacy-policy-and-terms-content-v1.docx`), needs legal review + 8 [CONFIRM]s; dev: cookie banner Accept/Decline, GA4 after consent, Cookie settings link
+- Privacy Policy and Terms: **final 24 Nov** (Sana's docx `2026-11-18-xloop-privacy-policy-and-terms-content-v1.docx`, no legal department, all placeholders filled). Dev: cookie banner Accept/Decline, GA4 after consent; fill publish date
 - Contact Us: done 27 Oct, waiting on Sana's review
 
 ## Written in August, now out of date

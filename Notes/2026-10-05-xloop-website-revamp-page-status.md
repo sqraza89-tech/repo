@@ -12,6 +12,13 @@ Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2
 
 ## Live audit 21 Nov: Data & AI Consulting + xCelerate live (`2026-11-21-xloop-live-audit-data-ai-consulting-and-xcelerate.docx`). xCelerate missing Misbah changes; Data & AI card still SAP; menu still pre revamp
 
+## Homepage link answers (24 Nov, for Zeeshan)
+- "See Our Case Studies" → homepage case studies section anchor, NOT /portfolio (portfolio pages still have template bugs: HBL Beythak/Upwork, Eatsy 9GAG/Fueled, Alfalah "Digital Dining"; and they name clients)
+- "Take a Deep Dive" → /insights/blogs
+- "Start the Diagnostic" / "AI Readiness Assessment" → Version A: "Book a Data & AI Readiness Review →" to /contact-us (topic preselected) until the readiness tool is live
+- Footer: hide "Case Studies" until Release 2; "Corporate Training & Upskilling" → /xcelerate; readiness link hidden until live, then renamed "Data & AI Readiness Assessment"
+- Homepage title: `Enterprise Data, AI and Security Consulting | xLoop Digital`
+
 ## Dev status (Zeeshan, 17 Nov)
 - **Live:** Legacy System Modernization, LLMs (scroll and hover interactions), blog updates (specialist form, footer banner, Summarize with AI). Legacy still shows the SAP ERP/BW wording: send Pick n Pay change list item 4
 - **Next:** Digital Transformation (send change list item 7 before launch)

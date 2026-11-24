@@ -3,7 +3,7 @@ date: 2026-11-24
 tags: [xloop, creatio, paid-ads, banking, insurance, ad-copy, feedback]
 ---
 
-# xLoop × Creatio ads v3: product punch lines
+# xLoop × Creatio ads v3: product punch lines (SUPERSEDED by [[2026-11-24-xloop-creatio-ads-product-features-v4]])
 
 Responds to Huzaifa's email (Tue 24 Nov 2026, cc Nasir): "We need more focused on product punch lines."
 Builds on [[2026-11-16-xloop-creatio-campaign-v2-ads-podcast-letter]] and the design brief

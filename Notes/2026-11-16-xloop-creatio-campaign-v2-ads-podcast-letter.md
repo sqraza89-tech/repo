@@ -223,3 +223,4 @@ Same model as the NEPRA letters (printed, CEO-level, care of Huzaifa). Huzaifa +
 - [Exclusive Waves: Zafar Masud](https://zafarmasud.com/?p=5728)
 - [The MoneyPot: JazzCash](https://themoneypot.buzzsprout.com/2186757/episodes/18407829-the-moneypot-live-the-role-of-jazzcash-in-pakistan-s-digital-payment-landscape-with-murtaza-ali-president-of-jazzcash?t=0)
 - **v3 (Tue 24 Nov 2026):** Huzaifa asked for product punch lines; stat-led ads replaced: [[2026-11-24-xloop-creatio-ads-product-punch-lines-v3]]
+- **v4 (Tue 24 Nov 2026):** product name + feature ticks on every ad: [[2026-11-24-xloop-creatio-ads-product-features-v4]]

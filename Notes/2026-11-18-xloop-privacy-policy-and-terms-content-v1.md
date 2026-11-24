@@ -228,3 +228,8 @@ Questions about these terms: [CONFIRM: info@xloopdigital.com or a legal contact]
 - [ ] Legal: review, confirm items 1, 6 and 7
 - [ ] Dev: cookie banner and footer changes above
 - [ ] Next: About Us
+
+### 24 Nov: Sana edits in the docx + answers (no legal department)
+- Entity: xLoop Digital Services Private Ltd · offices US, UAE, Qatar, Pakistan · privacy contact info@xloopdigital.com · retention 24 \/ 24 \/ 12 months · reply 60 days (Sana)
+- Suggested to Sana: transfers "including in the United States, the United Arab Emirates, Qatar and Pakistan"; contact = entity + Karachi Clifton address (check registered address); governing law Pakistan, courts of Karachi; GA4 retention must be 2 or 14 months (12 is not an option, check GA4 setting); reply 30 days (GDPR one month); add cookie change line (clear cookies, banner asks again); optional name Google reCAPTCHA
+- **Docx is Sana's edited copy: edit in place, do not rebuild from this md**

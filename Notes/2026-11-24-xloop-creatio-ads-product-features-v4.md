@@ -105,3 +105,4 @@ Creatio's insurance-specific product names aren't confirmed yet, so these use ge
 - [Creatio: banking software](https://www.creatio.com/landings/banking-software)
 
 **Label note:** "Creatio for Banking", "Creatio for Insurance" and "Creatio no-code platform" are descriptive labels, not confirmed official product names. Swap in Creatio's official names once Huzaifa confirms them.
+- **Approved (Tue 24 Nov 2026):** Nasir approved F1, F2, F3. Launch plan: [[2026-11-24-xloop-creatio-ads-f1-f3-launch-plan]]

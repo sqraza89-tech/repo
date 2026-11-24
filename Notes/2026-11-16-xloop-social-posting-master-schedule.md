@@ -197,3 +197,5 @@ Live setup and settings: [[2026-11-13-xloop-mari-ads-launch-dev-brief]]
 - [ ] Sana confirms the collision fixes above
 - [ ] Brief Omais today (Mon 16 Nov) on this week's posts that need design: red teaming carousel (Tue), assessment carousel (Wed), medallion carousel (Thu), Nasir team photo (Wed), security team photo carousel (Fri)
 - [ ] Mark posts as done here (or tell Claude) so reminders skip them
+
+**Creatio update (Tue 24 Nov 2026):** Nasir approved **F1, F2, F3** (product + features ads), replacing the B1–B8 / I1–I3 set. Launch target **Mon 30 Nov 2026** with the A1 announcement, if budget (~USD 500, 4 weeks) and Creatio name/logo confirmations land. Plan, setup and daily checks: [[2026-11-24-xloop-creatio-ads-f1-f3-launch-plan]]. Omais brief: `Notes/2026-11-24-xloop-creatio-ads-f1-f3-design-brief.docx` (drafts Thu 26, approval Fri 27). Once live, add both Creatio campaigns to the daily ad checks next to Mari.

@@ -119,9 +119,27 @@ tag Creatio, then Nasir and Huzaifa reshare with one line each.
 >
 > Nasir, the proposal is about USD 500 for four weeks (LinkedIn USD 420, Facebook USD 80), the same as the Mari campaign. OK to go ahead?
 
+## Update Tue 24 Nov 2026: LinkedIn only, USD 200, 4 weeks
+
+Nasir: start the Creatio ads **this week on LinkedIn only**, for 4 weeks. Facebook is dropped. He floated USD 200.
+
+**Does USD 200 work? Yes, with three changes:**
+
+- **Lifetime budget, not daily.** LinkedIn's minimum daily budget is USD 10, so 4 weeks of daily spend is USD 280 minimum. A USD 200 lifetime budget (minimum USD 100) is allowed and paces at about USD 7 a day
+- **Narrow audience.** Upload the SBP scheduled bank list as a company list, and target IT, digital, operations and lending heads (Director, VP, CXO). A small, exact audience sees the ads several times; a broad one sees them once
+- **Ads support the letter.** The same CTOs and CIOs get the printed letter, so the ads make the name familiar before Huzaifa calls. Measure reach in banks plus leads and calls, not lead volume alone
+
+**What to expect (estimate; LinkedIn's forecast confirms at setup):** roughly 8,000 to 12,000 impressions inside Pakistani banks, a few leads, not dozens.
+
+**New dates:** visuals Thu 26 Nov, approval and launch **Fri 27 Nov**, end Thu 24 Dec 2026. All three ads in one campaign, rotate evenly; after week 2, move spend to the best performer.
+
+**Budget email sent to Nasir:** see chat draft, 24 Nov.
+
 ## Next steps
 
-- [ ] Send both messages above
+- [ ] Email Nasir for USD 200 approval (LinkedIn, lifetime budget, 27 Nov to 24 Dec)
+- [ ] Get the SBP scheduled bank list ready for the company list upload
+- [ ] Send both messages above (drop the Facebook and USD 500 line from Huzaifa's email)
 - [ ] Nasir approves the budget
 - [ ] Creatio confirms names, logos and sign-off
 - [ ] Build the lead form and campaigns as drafts (Wed 25 Nov)

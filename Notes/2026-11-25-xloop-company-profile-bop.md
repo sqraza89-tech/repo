@@ -64,3 +64,6 @@ tags: [xloop, bank-of-punjab, bop, xvision, company-profile, computer-vision, ba
 - Achievements now show 50+ solutions and 30% in place of the two xVision numbers
 - The website keeps the existing wording for now (Sana's call)
 - Why xLoop (page 10) reworked (Sana, 26 Nov 2026) to stress leadership, industry experience and technical expertise. The xVision product point was removed
+- "Achievements in numbers" on page 3 was renamed "xLoop in numbers" and uses company-level figures only, no case-study stats (Sana, 26 Nov 2026)
+  - The six figures: 90 people in 4 years · 3 continents · 4 international entities (from Atir's LinkedIn) · 15+ partners (7 platform, Emeritus, 10 SA partners) · 6 industries · 3 own AI products (xVision, xServe, App Pilot)
+  - Not used, because no confirmed figure exists: revenue growth, recurring revenue, repeat-client rate, headcount growth rate. Revenue is also off-limits in prospect documents under Nasir's deck rule

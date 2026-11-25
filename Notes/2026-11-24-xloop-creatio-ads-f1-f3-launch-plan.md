@@ -150,3 +150,5 @@ Nasir: start the Creatio ads **this week on LinkedIn only**, for 4 weeks. Facebo
 - [ ] Remove "Huzaifa Valika, VP Enterprise Sales" from the F1–F3 CTA strips and intro texts; use "Book a Creatio call for your bank · 0322 2009713" (or "with xLoop")
 - [ ] Lead form thank-you message: no name ("Our team will be in touch within one working day")
 Related: [[2026-11-25-xloop-linkedin-restart-plan-and-site-status]]
+
+**Update Wed 25 Nov 2026 (later):** Sana says Nasir approved, go live today. Setup in LinkedIn ad account 513466226 (xLoop, Active; 514458295 is on hold). Open before building: which visual (B1/B2.png still show Huzaifa's name), privacy policy URL for the lead form, confirm USD 200 lifetime 27 Nov–24 Dec.

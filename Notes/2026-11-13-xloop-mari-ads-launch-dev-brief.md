@@ -242,6 +242,7 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
 - **Combined to 23 Nov:** ~96k impressions, ~19.7k views/ThruPlays, USD ~76 spent of 500
 - **Cutdowns B1 to B3:** approved by Ali/Nasir (23 Nov). Upload Tue 24 Nov as new ads in the existing ad sets
 - Meta banner: add contact info so rejection and limit alerts reach Sana
+- **25 Nov:** cutdown files = `Downloads/Ad Snippet 1.mp4`, `2`, `3` (= B1–B3, one graduate each, 54–63 MB). Upload to LinkedIn awareness ad set + FB "Mari Testimonials - FB" ad set, full video keeps running. Intro text needs each graduate's first name + strongest line (Sana to send). `utm_content=b1/b2/b3`
 
 ## Next steps
 

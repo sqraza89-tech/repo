@@ -265,7 +265,7 @@ Bring an idea, an app that isn't growing or a roadmap you need help delivering. 
 | No answer sentence under several H2s; no Last updated; plain Related labels | Answer first line naming xLoop under each H2, Last updated line, descriptive Related links, words only proof line above the final button | Page conventions (27 Oct) |
 
 ### Open questions
-- **Named testimonials (Skillforte, FitLynk):** still open since 23 Oct whether named testimonials fall under the anonymity rule. They carry no project details, so they stay for now. If the answer is "no names", attribute as role + sector ("Founder, an edtech company")
+- **Named testimonials: DECIDED (Sana, 25 Nov 2026): keep names.** Testimonial quotes may carry the client name as long as the quote describes no project details
 - **Booking name:** "30 Minute Product Review" is new. If there's a shared booking name for Digital Transformation pages, use that instead (one name per booking across pages)
 - **Eatsy numbers (23% payment gateway growth, 40% reduced staff contact)** and **Beythak "PKR 50 Million credit enabled"**: still unsourced, still off the page
 
@@ -286,5 +286,5 @@ Still the old page: title "Web & App Development Services | Enterp…", no new c
 
 ## Next steps
 - [ ] Sana: review v2 docx and send to design
-- [ ] Sana: decide named testimonials (keep names, or role + sector)
+- [x] Named testimonials: keep names (Sana, 25 Nov)
 - [ ] Devs: remove the 9GAG/Fueled leftover text from `/portfolio/eatsy` (still open since 8 Oct), or unpublish the portfolio pages

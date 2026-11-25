@@ -34,7 +34,11 @@ Zeeshan's Teams message (25 Nov, 1:50 am) asked for decisions before the homepag
 - Open item still in that doc: Irfan as signer of the Data/AI emails is "[Sana to confirm]"
 - `/contact-us` as the booking link until the calendar link exists: fine
 
-### 3. AI Security tool: recommendation
+### 3. AI Security tool: DECIDED 25 Nov 2026, full v2 flow first (Sana)
+
+Sana chose to build the full v2 flow before launch (scoring rescale + results before form + report form + 9-domain PDF + 4 tier emails, Farrukh signs). The two-step option below was not taken.
+
+#### Original recommendation (not taken)
 **Launch in two steps (Sana to decide):**
 - **Now:** v3 rescaled scoring (0–100%: weakest answer = 0, formula in the 13 Nov workflows doc and the `v3-rescaled.xlsx`), results on screen before any form (overall score, tier, 9 domain bars, strongest and priority domain), primary CTA "Book a 30 Minute AI Security Review", Farrukh Feroze as signer. Hide "Get the full report" until the PDF exists
 - **Next sprint:** report form → 9-domain PDF → 4 tier emails (copy already written in the 13 Nov workflows doc)
@@ -46,7 +50,7 @@ Zeeshan's Teams message (25 Nov, 1:50 am) asked for decisions before the homepag
 >
 > 1. Homepage: happy to review this morning. I'll check the case cards and logo strip for client names, and that no CTA points to a page that isn't live yet.
 > 2. Readiness tool: attaching the v4 workbook (2026-10-28-xloop-data-ai-readiness-assessment-v4.xlsx) and the latest wording doc (2026-11-24-xloop-readiness-tool-dev-answers.docx). It has the blocker short names, initiative wording, page links, proof lines and the lead rating rules (Exclude → C → A → B). /contact-us is fine as the booking link for now. One change: please remove the "Individual learner" role option and the xCelerate learner email from the tool. The diagnostic is only for senior professionals, and xCelerate is a separate audience. Students who take it anyway land in C nurture through the personal email rule.
-> 3. AI Security tool: please switch to the v3 rescaled scoring (0–100%) with Farrukh Feroze as signer and take it live with results on screen and the "Book a 30 Minute AI Security Review" CTA. Hide "Get the full report" for now. The full v2 flow (report form, 9-domain PDF, 4 tier emails) can follow as the next step. The scoring formula and email copy are in the workflows doc and the v3-rescaled workbook; I'll send both.
+> 3. AI Security tool: please build the full v2 flow before it goes live, so it works the same way as the Data & AI tool: v3 rescaled scoring (0–100%), results on screen before any form, the report form, the 9-domain PDF and the 4 tier emails, signed by Farrukh Feroze. Please don't go live on the old 25–100% scale in the meantime. The scoring formula, results copy and email copy are in the attached workflows doc and the v3-rescaled workbook, and the title/meta/intro are in the SEO pack. Can you share a target date?
 
 ## Next steps
 - [ ] Sana: confirm the AI Security launch path, then send the reply + 4 files (v4 xlsx, dev answers docx, workflows docx, v3-rescaled xlsx)

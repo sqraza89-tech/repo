@@ -10,13 +10,13 @@ Dev asked for title, meta, H1 and a short intro. **Approved tool (Sana, 13 Nov):
 | Element | Copy |
 |---|---|
 | Title tag | `Free AI Security Readiness Assessment \| xLoop` (use `AI Security Readiness Assessment \| xLoop` if results are gated) |
-| Meta description | `Answer 45 questions across nine areas, from governance to prompt injection testing, and get your AI security readiness score, tier and top priorities.` |
+| Meta description | `See how well your organization protects its AI, from governance to prompt injection testing. Get your free AI security readiness score, tier and top priorities.` |
 | H1 | AI Security Readiness Assessment |
-| Intro | xLoop's AI Security Readiness Assessment shows how well your organization protects its AI systems, from governance and data handling to prompt injection testing and incident response. Answer 45 questions across nine areas about how you work today, and get an overall readiness score and tier, a breakdown by area and the first things to fix. You'll see your results straight away, with no account needed. |
+| Intro | xLoop's AI Security Readiness Assessment shows how well your organization protects its AI systems, from governance and data handling to prompt injection testing and incident response. Tell us how you work today across nine areas, and get an overall readiness score and tier, a breakdown by area and the first things to fix. You'll see your results straight away, with no account needed. |
 
 ## Check with dev before sending
 - [ ] Results shown before any form, no account (UX addendum). If not, cut the intro's last sentence and drop "Free" from the title
-- [x] Question and domain count: 45 questions, 9 domains (approved workbook, checked 13 Nov)
+- [x] Question and domain count: 45 questions, 9 domains (approved workbook, checked 13 Nov). **Internal only (Sana, 25 Nov 2026): never state the question count in public copy; say "nine areas" and show progress as Area 1 of 9**
 - [ ] Framework badges: "references OWASP LLM Top 10, MITRE ATLAS, NIST AI RMF, ISO/IEC 42001" is fine; "NIST aligned" badge is blocked (brain C11) until the security lead approves
 
 ## Follow-ups

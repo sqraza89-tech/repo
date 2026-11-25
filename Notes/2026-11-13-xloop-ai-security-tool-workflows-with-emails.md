@@ -13,7 +13,7 @@ Related: [[2026-11-13-xloop-readiness-tool-user-flow-and-emails]] · [[2026-11-1
 
 | Stage | What the user sees | What we ask for |
 |---|---|---|
-| 0. Landing | Title, intro (SEO pack), "45 questions across nine areas, results before any form, no account needed", the four tiers | Nothing |
+| 0. Landing | Title, intro (SEO pack), "Nine areas, results before any form, no account needed" (never state the question count on screen; show progress as Area 1 of 9), the four tiers | Nothing |
 | 1. Assessment | 45 questions in 9 sections, 5 per section. 43 are scored on a 1 to 4 scale; 2 are short written answers (Compliance, Agentic AI) | Nothing personal |
 | 2. Instant results | Overall score and tier, a bar for each of the 9 domains, strongest domain, priority focus area, primary CTA, "Get the full report" | Nothing |
 | 3. Full report | PDF: each domain explained, what good looks like for every low scoring question, the recommended next step for the tier | First name, work email, company, company size, country (pre-filled), consent |

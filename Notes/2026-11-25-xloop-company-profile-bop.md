@@ -37,8 +37,15 @@ tags: [xloop, bank-of-punjab, bop, xvision, company-profile, computer-vision, ba
 
 - [ ] **Timeline.** Only 2022 (founded), 2024 (AI native shift begins) and 2026 come from confirmed facts. The middle steps carry no year
 - [x] **xVision features (Sana, 25 Nov 2026):** on site processing is confirmed. Face blurring is NOT available, so it was removed. VIP client recognition is available and is shown as an opt-in the bank controls
-- [x] **Leader bios (25 Nov 2026):** written from LinkedIn and now on pages 9 and 10: Nasir, Eyhab Burki (CEO xLoop Digital ME, computer vision), Daniyal, Sarosh, Huzaifa, Irfan, Farrukh Feroze Ali (Head of AI Security), Humza. Wasey was dropped as too junior. Not named: Blutech (a competitor) and C Square (on Huzaifa's LinkedIn). Open: Huzaifa's LinkedIn shows him as CEO of C Square with no xLoop role; the CTO's name is unknown
+- [x] **Leader bios (25 Nov 2026):** written from LinkedIn and now on pages 9 and 10: Nasir, Eyhab Burki (CEO xLoop Digital ME, computer vision), Daniyal, Sarosh, Huzaifa, Irfan, Farrukh Feroze Ali (Head of AI Security), Humza. Wasey was dropped as too junior. Not named: Blutech (a competitor) and C Square (on Huzaifa's LinkedIn). Decided (Sana, 26 Nov 2026): no CTO on the page. Huzaifa will update his LinkedIn to match his profile bio, and the suggested text is below
 - [ ] **Timeline years:** Sana will confirm them with Nasir later
 
 ## Next steps
 - [ ] Sana: review v2 and send it to the bid owner before Thu 10 Dec 2026
+
+## Huzaifa's LinkedIn update (suggested, to match the profile)
+- **Headline:** VP Enterprise Sales at xLoop | Data, AI and Computer Vision for Banks | 20+ years in Banking IT and Risk Consulting
+- **New experience entry:** xLoop · VP Enterprise Sales · [start month and year] to Present · Karachi
+  - "I lead enterprise relationships at xLoop, with a focus on banks and financial institutions. I help banks put data, AI and computer vision to work, including xVision, our AI video analytics product for branch networks, and Creatio CRM for banking."
+- **About, first line:** "More than 20 years in IT and risk consulting for banks and enterprises, from the State Bank of Pakistan's Real Time Gross Settlement system to ERP and solution sales. Today I lead enterprise sales at xLoop."
+- If C Square is still active, keep it as a second current role. Otherwise end that role

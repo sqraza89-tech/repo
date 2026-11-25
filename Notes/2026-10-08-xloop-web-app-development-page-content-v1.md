@@ -272,4 +272,4 @@ Digital Transformation · Legacy System Modernization · Cloud & Hyperscaling ·
 - [ ] Delivery confirms the stack items and the feature chips flagged above
 - [ ] Decide Digital Engineering's scope versus this page
 
-**Design review (25 Nov, Sana):** answer block H2 shortened to "What Is Web and App Development?" (was too long in design); paragraph opens "Web and app development is taking a product from idea to launch and beyond…". Flagged: hero trust line "Built for Bank Alfalah, Beythak and Abhi" names clients in text; suggested "Built for banks, fintechs and lenders in Pakistan" or logos only.
+**Design review (25 Nov, Sana):** answer block H2 → "What Do App Development Services Include?" (buyer intent over "What is…", which attracts learners; two balanced lines; H1 already has "web"). Paragraph unchanged. Hero trust line: show Bank Alfalah, Beythak and Abhi as logos, not text (anonymity rule; logos are stronger buyer proof).

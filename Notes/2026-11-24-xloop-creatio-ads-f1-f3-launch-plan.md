@@ -145,3 +145,8 @@ Nasir: start the Creatio ads **this week on LinkedIn only**, for 4 weeks. Facebo
 - [ ] Build the lead form and campaigns as drafts (Wed 25 Nov)
 - [ ] Approve visuals Fri 27 Nov, launch Mon 30 Nov 2026
 - [ ] Add the Creatio campaigns to the master schedule's daily ad checks
+
+**Update Wed 25 Nov 2026:** Huzaifa consents to his number on public ads/posts but **not his name**. Before launch Mon 30 Nov:
+- [ ] Remove "Huzaifa Valika, VP Enterprise Sales" from the F1–F3 CTA strips and intro texts; use "Book a Creatio call for your bank · 0322 2009713" (or "with xLoop")
+- [ ] Lead form thank-you message: no name ("Our team will be in touch within one working day")
+Related: [[2026-11-25-xloop-linkedin-restart-plan-and-site-status]]

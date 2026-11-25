@@ -111,3 +111,4 @@ From Mon 7 Dec: back on the calendar (W10, financial services week), **but** CP4
 
 - Creatio announcement: Sana's edited copy ("AI-native CRM platform trusted by banks and insurers worldwide", "Book a Creatio consultation with xLoop", phone only) handed over to post today. Suggested: add Huzaifa's name next to the number, tag @Creatio, add hashtags
 - Dev questions on homepage + both tools: see [[2026-11-25-xloop-homepage-and-tools-dev-clarifications]]
+- Huzaifa (25 Nov) asked to add AI agents and bots to the Creatio announcement. Revised copy given in chat: agents section (onboarding, loan preparation, lending, renewals, retention; "Loan Servicing" name avoided until Creatio confirms) + AI chatbots line + people-approve line; Huzaifa's name added beside the number. Open: does Huzaifa mean a specific Creatio bot feature (WhatsApp/web chat)?

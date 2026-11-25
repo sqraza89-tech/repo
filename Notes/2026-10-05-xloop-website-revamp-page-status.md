@@ -10,6 +10,8 @@ This tracks content only. Dev build status is not tracked here.
 
 Related: [[2026-10-05-xloop-legacy-system-modernization-page-content-v2]] · [[2026-09-23-xloop-marketing-scrum-q2-q3-plan]] · [[2026-09-16-digital-transformation-pillar-seo-aeo-review]]
 
+## Cloud & Hyperscaling updates (25 Nov): not live yet; change list for design in `2026-11-25-xloop-cloud-page-updates-since-approval.docx` (Snowflake wording, CTAs, answer first lines, 4 field form)
+
 ## Live audit 21 Nov: Data & AI Consulting + xCelerate live (`2026-11-21-xloop-live-audit-data-ai-consulting-and-xcelerate.docx`). xCelerate missing Misbah changes; Data & AI card still SAP; menu still pre revamp
 
 ## Homepage link answers (24 Nov, for Zeeshan)

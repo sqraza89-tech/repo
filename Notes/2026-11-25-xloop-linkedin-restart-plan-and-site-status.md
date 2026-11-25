@@ -106,3 +106,8 @@ From Mon 7 Dec: back on the calendar (W10, financial services week), **but** CP4
 - [ ] Sana: reply to Sarosh with the restart plan (draft in chat)
 - [ ] Sana: publish B8 (final docx ready 25 Nov) on Mon 30 Nov so CP27 can run Tue 1 Dec
 - [ ] Sana → Zeeshan: priority list for the dev side: homepage + AI Security tool, then the menu update (removes Chat Genie, Digital Twin, old industries), then the AI Security page stats
+
+## Update (Wed 25 Nov 2026)
+
+- Creatio announcement: Sana's edited copy ("AI-native CRM platform trusted by banks and insurers worldwide", "Book a Creatio consultation with xLoop", phone only) handed over to post today. Suggested: add Huzaifa's name next to the number, tag @Creatio, add hashtags
+- Dev questions on homepage + both tools: see [[2026-11-25-xloop-homepage-and-tools-dev-clarifications]]

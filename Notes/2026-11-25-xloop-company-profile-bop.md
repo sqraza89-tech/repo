@@ -34,10 +34,10 @@ tags: [xloop, bank-of-punjab, bop, xvision, company-profile, computer-vision, ba
 - US spelling. No dashes in the prose, and none of the banned words
 
 ## Worth checking
-- [ ] **Leader descriptions.** These are role-based lines I wrote, not bios. Real bios (years of experience, past companies) would build more trust if Sana can get them
+
 - [ ] **Timeline.** Only 2022 (founded), 2024 (AI native shift begins) and 2026 come from confirmed facts. The middle steps carry no year
 - [x] **xVision features (Sana, 25 Nov 2026):** on site processing is confirmed. Face blurring is NOT available, so it was removed. VIP client recognition is available and is shown as an opt-in the bank controls
-- [ ] **Leader bios:** waiting for Sana to open the LinkedIn profiles
+- [x] **Leader bios (25 Nov 2026):** written from LinkedIn and now on pages 9 and 10: Nasir, Eyhab Burki (CEO xLoop Digital ME, computer vision), Daniyal, Sarosh, Huzaifa, Irfan, Farrukh Feroze Ali (Head of AI Security), Humza. Wasey was dropped as too junior. Not named: Blutech (a competitor) and C Square (on Huzaifa's LinkedIn). Open: Huzaifa's LinkedIn shows him as CEO of C Square with no xLoop role; the CTO's name is unknown
 - [ ] **Timeline years:** Sana will confirm them with Nasir later
 
 ## Next steps

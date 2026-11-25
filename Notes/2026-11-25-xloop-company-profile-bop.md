@@ -60,6 +60,6 @@ tags: [xloop, bank-of-punjab, bop, xvision, company-profile, computer-vision, ba
 ## xVision proof corrected (Sana, 26 Nov 2026)
 - The "1,200 branches / 7,000+ cameras / ~20 min per branch" case was a **proof of concept for Bank Alfalah**, not a deployment
 - Removed from this profile everywhere: cover, timeline, achievements, page 6, banking cases and why xLoop
-- Replacement wording: "proofs of concept with leading Pakistani banks", with no figures
+- Replacement wording (revised the same day): no "proof of concept" wording, since Sana felt it read as weak. Kept vague instead: "working with leading Pakistani banks", "built for bank branch networks", "xVision branch analytics"
 - Achievements now show 50+ solutions and 30% in place of the two xVision numbers
 - The website keeps the existing wording for now (Sana's call)

@@ -37,7 +37,7 @@ tags: [xloop, bank-of-punjab, bop, xvision, company-profile, computer-vision, ba
 
 - [ ] **Timeline.** Only 2022 (founded), 2024 (AI native shift begins) and 2026 come from confirmed facts. The middle steps carry no year
 - [x] **xVision features (Sana, 25 Nov 2026):** on site processing is confirmed. Face blurring is NOT available, so it was removed. VIP client recognition is available and is shown as an opt-in the bank controls
-- [x] **Leader bios (25 Nov 2026):** written from LinkedIn and now on pages 9 and 10: Nasir, Eyhab Burki (CEO xLoop Digital ME, computer vision), Daniyal, Sarosh, Huzaifa, Irfan, Farrukh Feroze Ali (Head of AI Security), Humza. Wasey was dropped as too junior. Not named: Blutech (a competitor) and C Square (on Huzaifa's LinkedIn). Decided (Sana, 26 Nov 2026): no CTO on the page. Huzaifa will update his LinkedIn to match his profile bio, and the suggested text is below
+- [x] **Leader bios (25 Nov 2026):** written from LinkedIn and now on page 9 (11 pages in total). Eyhab Burki was removed (Sana, 26 Nov 2026): this is a local bid, so no Middle East leadership: Nasir, Daniyal, Sarosh, Huzaifa, Irfan, Farrukh Feroze Ali (Head of AI Security), Humza. Wasey was dropped as too junior. Not named: Blutech (a competitor) and C Square (on Huzaifa's LinkedIn). Decided (Sana, 26 Nov 2026): no CTO on the page. Huzaifa will update his LinkedIn to match his profile bio, and the suggested text is below
 - [ ] **Timeline years:** Sana will confirm them with Nasir later
 
 ## Next steps

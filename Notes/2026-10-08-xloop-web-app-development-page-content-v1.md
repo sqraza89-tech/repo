@@ -271,3 +271,5 @@ Digital Transformation · Legacy System Modernization · Cloud & Hyperscaling ·
 - [ ] Sana: source the Eatsy 23% / 40% figures, or drop them
 - [ ] Delivery confirms the stack items and the feature chips flagged above
 - [ ] Decide Digital Engineering's scope versus this page
+
+**Design review (25 Nov, Sana):** answer block H2 shortened to "What Is Web and App Development?" (was too long in design); paragraph opens "Web and app development is taking a product from idea to launch and beyond…". Flagged: hero trust line "Built for Bank Alfalah, Beythak and Abhi" names clients in text; suggested "Built for banks, fintechs and lenders in Pakistan" or logos only.

@@ -53,3 +53,14 @@ Zeeshan's Teams message (25 Nov, 1:50 am) asked for decisions before the homepag
 - [ ] Sana: homepage review call with Zeeshan (checklist above)
 - [ ] Sana: confirm Irfan as signer of the Data/AI readiness emails
 - [ ] Once tools are live: AI Security tool post + Humza MH13 go back on the LinkedIn schedule
+
+## Handoff status (Wed 25 Nov 2026, 10:20)
+
+Sana sent Zeeshan the v4 workbook + dev answers docx. Both were updated at ~10:15 (learner removal) and the workbook again at 10:20 (section E / A9 case now the South African retailer MySQL → Snowflake line, SAP wording gone). If the send was before that, resend both.
+
+Still to send / answer:
+- [ ] Readiness: `2026-11-18-xloop-data-ai-readiness-assessment-seo-pack.md` (title, meta, intro; the dev answers doc references it)
+- [ ] Readiness: confirm Irfan Shaikh as signer of the Data/AI emails
+- [ ] Readiness: calendar booking link (later; `/contact-us` until then)
+- [ ] AI Security: launch decision + `2026-11-13-xloop-ai-security-tool-workflows-with-emails.docx` + `2026-11-13-xloop-ai-security-readiness-assessment-v3-rescaled.xlsx` + `2026-11-13-xloop-ai-security-assessment-seo-pack.md`
+- [ ] Homepage: review call (checklist above)

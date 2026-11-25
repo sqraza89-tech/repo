@@ -49,3 +49,9 @@ tags: [xloop, bank-of-punjab, bop, xvision, company-profile, computer-vision, ba
   - "I lead enterprise relationships at xLoop, with a focus on banks and financial institutions. I help banks put data, AI and computer vision to work, including xVision, our AI video analytics product for branch networks, and Creatio CRM for banking."
 - **About, first line:** "More than 20 years in IT and risk consulting for banks and enterprises, from the State Bank of Pakistan's Real Time Gross Settlement system to ERP and solution sales. Today I lead enterprise sales at xLoop."
 - If C Square is still active, keep it as a second current role. Otherwise end that role
+
+## Leadership, final (Sana, 26 Nov 2026)
+- Five people only, all on page 9: Mir Nasir (featured), Daniyal Abbasi, Sarosh Syed, Huzaifa Valika and Atir Ahsan (General Manager Finance)
+- The financial backing box sits under them. The profile is 11 pages
+- Removed: Irfan, Farrukh, Humza, Muhammad Ali Abbasi and the practice leads page. Their bios are still in memory if needed
+- Atir's bio does not name ZUE, Fazal e Rabbi or MTBC (MTBC is described as "a NASDAQ listed healthcare IT company"). Arthur Lawrence is named

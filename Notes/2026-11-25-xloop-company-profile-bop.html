@@ -1,0 +1,492 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>xLoop Company Profile · The Bank of Punjab</title>
+<style>
+@font-face{font-family:"P";font-weight:300;src:local("Poppins Light"),url("file:///C:/Users/Sana%20Qazi/AppData/Local/Microsoft/Windows/Fonts/Poppins-Light.ttf")}
+@font-face{font-family:"P";font-weight:400;src:local("Poppins"),local("Poppins Regular"),url("file:///C:/Users/Sana%20Qazi/AppData/Local/Microsoft/Windows/Fonts/Poppins-Regular.ttf")}
+@font-face{font-family:"P";font-weight:500;src:local("Poppins Medium"),url("file:///C:/Users/Sana%20Qazi/AppData/Local/Microsoft/Windows/Fonts/Poppins-Medium.ttf")}
+@font-face{font-family:"P";font-weight:600;src:local("Poppins SemiBold"),url("file:///C:/Users/Sana%20Qazi/AppData/Local/Microsoft/Windows/Fonts/Poppins-SemiBold.ttf")}
+@font-face{font-family:"P";font-weight:700;src:local("Poppins Bold"),url("file:///C:/Users/Sana%20Qazi/AppData/Local/Microsoft/Windows/Fonts/Poppins-Bold.ttf")}
+
+:root{
+  --indigo:#22205D; --blue:#0061F6; --electric:#0098D8; --blizzard:#50BFE6;
+  --aqua:#5CC3AE; --grey:#E6E6E6; --ink:#1B1A3A; --muted:#5B5A7A; --line:#DCDCE6;
+  --mint:#00E6C3;
+  --grad:linear-gradient(90deg,#00E6C3 0%,#0098D8 50%,#0061F6 100%);
+}
+@page{size:A4;margin:0}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{background:#fff}
+body{font-family:"P",Poppins,Avenir,"Segoe UI",sans-serif;color:var(--ink);font-size:9.6pt;line-height:1.55;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+.page{width:210mm;height:297mm;position:relative;overflow:hidden;page-break-after:always;break-after:page;padding:20mm 18mm 18mm}
+.page:last-child{page-break-after:auto;break-after:auto}
+
+/* running header / footer */
+.hdr{position:absolute;top:10mm;left:18mm;right:18mm;display:flex;justify-content:space-between;align-items:center;font-size:7pt;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.hdr img{height:6.5mm}
+.ftr{position:absolute;bottom:9mm;left:18mm;right:18mm;display:flex;justify-content:space-between;font-size:7pt;color:var(--muted);border-top:.6pt solid var(--line);padding-top:2.5mm}
+.ftr b{color:var(--indigo);font-weight:600}
+
+/* type */
+.eyebrow{font-size:7.5pt;letter-spacing:.2em;text-transform:uppercase;font-weight:600;color:var(--electric);margin-bottom:3mm;display:flex;align-items:center;gap:3mm}
+.eyebrow:before{content:"";width:8mm;height:1.6pt;background:var(--grad);display:inline-block}
+h1{font-size:25pt;line-height:1.12;font-weight:600;color:var(--indigo);letter-spacing:-.01em}
+h2{font-size:20pt;line-height:1.15;font-weight:600;color:var(--indigo);letter-spacing:-.01em;margin-bottom:4mm}
+h3{font-size:11pt;font-weight:600;color:var(--indigo);margin-bottom:1.5mm;line-height:1.3}
+h4{font-size:7.5pt;letter-spacing:.16em;text-transform:uppercase;font-weight:600;color:var(--muted);margin-bottom:2.5mm}
+p{margin-bottom:2.6mm}
+.lead{font-size:11.5pt;line-height:1.55;color:var(--ink);font-weight:300}
+.lead b{font-weight:600;color:var(--indigo)}
+.muted{color:var(--muted)}
+.small{font-size:8.2pt}
+.grad-text{color:var(--blue)}
+.cover .grad-text{color:var(--blizzard)}
+.body{margin-top:8mm}
+
+/* cover */
+.cover{background:var(--indigo);color:#fff;padding:0}
+.cover .art{position:absolute;inset:0}
+.cover .logo{position:absolute;top:20mm;left:20mm;height:13mm}
+.cover .tag{position:absolute;top:22.5mm;right:20mm;font-size:7.5pt;letter-spacing:.2em;text-transform:uppercase;color:rgba(255,255,255,.7)}
+.cover .title{position:absolute;left:20mm;right:20mm;top:118mm}
+.cover .title .k{font-size:8pt;letter-spacing:.24em;text-transform:uppercase;color:var(--mint);font-weight:600;margin-bottom:5mm}
+.cover .title h1{color:#fff;font-size:44pt;font-weight:600;line-height:1.02;letter-spacing:-.02em}
+.cover .title .sub{margin-top:6mm;font-size:12.5pt;font-weight:300;color:rgba(255,255,255,.86);max-width:150mm;line-height:1.5}
+.cover .for{position:absolute;left:20mm;right:20mm;bottom:22mm;display:grid;grid-template-columns:1fr 1fr auto;gap:8mm;border-top:.6pt solid rgba(255,255,255,.25);padding-top:6mm;font-size:8.4pt;color:rgba(255,255,255,.85)}
+.cover .for .l{font-size:6.8pt;letter-spacing:.18em;text-transform:uppercase;color:rgba(255,255,255,.5);margin-bottom:1.2mm}
+.cover .for b{color:#fff;font-weight:500}
+
+/* stats */
+.stats{display:grid;grid-template-columns:repeat(4,1fr);border-top:.6pt solid var(--line);border-bottom:.6pt solid var(--line);margin:7mm 0}
+.stat{padding:5mm 4mm 5mm 0}
+.stat+.stat{padding-left:5mm;border-left:.6pt solid var(--line)}
+.stat .n{font-size:28pt;font-weight:600;line-height:1;letter-spacing:-.02em}
+.stat .t{font-size:8pt;color:var(--muted);margin-top:2mm;line-height:1.35}
+
+/* tables */
+table{width:100%;border-collapse:collapse}
+.kv td{padding:2.3mm 0;border-bottom:.6pt solid var(--line);vertical-align:top;font-size:8.8pt}
+.kv td:first-child{width:46mm;color:var(--muted);font-size:7.6pt;letter-spacing:.06em;text-transform:uppercase;padding-top:2.7mm}
+.kv td b{font-weight:600;color:var(--indigo)}
+
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:6mm 8mm}
+.grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:5mm 6mm}
+
+/* business lines */
+.line-item{border-top:1.6pt solid var(--indigo);padding-top:3.5mm}
+.line-item .code{font-size:14pt;font-weight:600;color:var(--indigo);letter-spacing:-.01em}
+.line-item .code span{color:var(--electric)}
+.line-item .what{font-size:7.4pt;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:.5mm 0 2mm}
+.line-item p{font-size:8.8pt}
+
+.cap{padding:4mm 0 0;border-top:.6pt solid var(--line)}
+.cap h3{font-size:9.6pt}
+.cap p{font-size:8.3pt;color:var(--muted);margin:0}
+
+/* xvision */
+.band{background:var(--indigo);color:#fff;border-radius:3mm;padding:7mm 8mm;position:relative;overflow:hidden}
+.band h3{color:#fff}
+.band .big{display:flex;gap:12mm;align-items:flex-start}
+.band .big .n{font-size:34pt;font-weight:600;line-height:1;letter-spacing:-.02em}
+.band .big .t{font-size:8pt;color:rgba(255,255,255,.75);margin-top:1.5mm}
+
+.mon{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-top:.6pt solid var(--line)}
+.mon div{padding:4mm 4mm 4mm 0;border-bottom:.6pt solid var(--line)}
+.mon div:not(:nth-child(3n+1)){padding-left:4mm;border-left:.6pt solid var(--line)}
+.mon .num{font-size:7pt;font-weight:600;color:var(--electric);letter-spacing:.1em}
+.mon h3{font-size:9.4pt;margin:1mm 0}
+.mon p{font-size:8pt;color:var(--muted);margin:0;line-height:1.45}
+
+.steps{display:grid;grid-template-columns:repeat(4,1fr);gap:4mm;counter-reset:s}
+.step{position:relative;padding-top:6mm}
+.step:before{counter-increment:s;content:"0" counter(s);position:absolute;top:0;left:0;font-size:7.5pt;font-weight:600;color:var(--electric);letter-spacing:.1em}
+.step:after{content:"";position:absolute;top:1.6mm;left:7mm;right:-2mm;height:.6pt;background:var(--line)}
+.step h3{font-size:9.2pt}
+.step p{font-size:8pt;color:var(--muted);margin:0;line-height:1.45}
+
+.ba td,.ba th{padding:2.6mm 3mm;border-bottom:.6pt solid var(--line);font-size:8.6pt;text-align:left;vertical-align:top}
+.ba th{font-size:7pt;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);font-weight:600;border-bottom:1.2pt solid var(--indigo)}
+.ba td:first-child{color:var(--muted);width:50%}
+.ba td:last-child{color:var(--indigo);font-weight:500}
+
+.checks{list-style:none}
+.checks li{position:relative;padding-left:5.5mm;margin-bottom:2.2mm;font-size:8.7pt}
+.checks li:before{content:"";position:absolute;left:0;top:1.9mm;width:2.4mm;height:2.4mm;border-radius:50%;background:var(--grad)}
+.checks li b{color:var(--indigo);font-weight:600}
+
+/* cases */
+.case{border-top:.6pt solid var(--line);padding:4.2mm 0;display:grid;grid-template-columns:44mm 1fr 34mm;gap:6mm;align-items:start}
+.case:last-child{border-bottom:.6pt solid var(--line)}
+.case .who{font-size:7.4pt;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);line-height:1.45}
+.case h3{font-size:9.8pt;margin-bottom:1mm}
+.case p{font-size:8.4pt;margin:0;color:var(--ink)}
+.case .out{font-size:8.2pt;color:var(--indigo);font-weight:500;line-height:1.4}
+.case .out b{display:block;font-size:16pt;font-weight:600;line-height:1.05;margin-bottom:.8mm}
+
+.phase{border-left:1.6pt solid var(--indigo);padding:0 0 0 4mm}
+.phase .when{font-size:7pt;letter-spacing:.14em;text-transform:uppercase;color:var(--electric);font-weight:600}
+.phase h3{font-size:9.6pt;margin:.8mm 0 1mm}
+.phase p{font-size:8.2pt;color:var(--muted);margin:0}
+
+.chips{display:flex;flex-wrap:wrap;gap:2mm}
+.chip{border:.6pt solid var(--line);border-radius:10mm;padding:1.2mm 3.6mm;font-size:8.4pt;color:var(--indigo);font-weight:500}
+
+.person{border-top:.6pt solid var(--line);padding-top:3mm}
+.person b{display:block;color:var(--indigo);font-weight:600;font-size:9.4pt}
+.person span{font-size:8pt;color:var(--muted)}
+
+.why{display:grid;grid-template-columns:1fr 1fr;gap:4.5mm 8mm}
+.why div{border-top:.6pt solid var(--line);padding-top:3mm}
+.why h3{font-size:9.4pt;margin-bottom:.8mm}
+.why p{font-size:8.2pt;color:var(--muted);margin:0}
+
+/* back */
+.back{background:var(--indigo);color:#fff}
+.back h1{color:#fff;font-size:30pt;max-width:150mm}
+.back .lead{color:rgba(255,255,255,.85)}
+.back .contact{position:absolute;left:18mm;right:18mm;bottom:24mm;display:grid;grid-template-columns:repeat(4,1fr);gap:6mm;border-top:.6pt solid rgba(255,255,255,.25);padding-top:6mm;font-size:8.4pt;color:rgba(255,255,255,.88)}
+.back .contact .l{font-size:6.8pt;letter-spacing:.18em;text-transform:uppercase;color:var(--mint);margin-bottom:1.5mm;font-weight:600}
+.back .contact b{color:#fff;font-weight:500}
+</style>
+</head>
+<body>
+
+<!-- ============ 1 · COVER ============ -->
+<section class="page cover">
+  <svg class="art" viewBox="0 0 210 297" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="#00E6C3"/><stop offset=".5" stop-color="#0098D8"/><stop offset="1" stop-color="#0061F6"/>
+      </linearGradient>
+      <radialGradient id="glow" cx=".85" cy=".2" r=".7">
+        <stop offset="0" stop-color="#0061F6" stop-opacity=".55"/><stop offset="1" stop-color="#22205D" stop-opacity="0"/>
+      </radialGradient>
+      <pattern id="dots" width="6" height="6" patternUnits="userSpaceOnUse">
+        <circle cx="1" cy="1" r=".35" fill="#ffffff" fill-opacity=".14"/>
+      </pattern>
+    </defs>
+    <rect width="210" height="297" fill="url(#glow)"/>
+    <rect x="96" y="26" width="114" height="82" fill="url(#dots)"/>
+    <!-- detection frames: a nod to computer vision -->
+    <g fill="none" stroke="url(#g)" stroke-width=".7">
+      <path d="M118 44 h5 M118 44 v5  M156 44 h-5 M156 44 v5  M118 82 h5 M118 82 v-5  M156 82 h-5 M156 82 v-5"/>
+      <path d="M164 58 h4 M164 58 v4  M190 58 h-4 M190 58 v4  M164 92 h4 M164 92 v-4  M190 92 h-4 M190 92 v-4" stroke-opacity=".7"/>
+    </g>
+    <g fill="none" stroke="#ffffff" stroke-opacity=".18" stroke-width=".35">
+      <rect x="118" y="44" width="38" height="38"/><rect x="164" y="58" width="26" height="34"/>
+    </g>
+    <text x="118" y="41.5" font-family="Poppins, sans-serif" font-size="2.6" fill="#5CC3AE" letter-spacing=".3">QUEUE · 6 · 4m 10s</text>
+    <text x="164" y="55.5" font-family="Poppins, sans-serif" font-size="2.6" fill="#50BFE6" letter-spacing=".3">COUNTER · STAFFED</text>
+    <rect x="0" y="292.6" width="210" height="4.4" fill="url(#g)"/>
+  </svg>
+  <img class="logo" src="2026-11-25-xloop-company-profile-bop-assets/logo-white.png" alt="xLoop">
+  <div class="tag">Company Profile · 2026</div>
+  <div class="title">
+    <div class="k">Bid submission · The Bank of Punjab</div>
+    <h1>Data &amp; AI<br>Consulting<br><span class="grad-text">and Engineering</span></h1>
+    <div class="sub">Company profile of xLoop Digital Services Private Ltd, submitted with our proposal of xVision for the Implementation of AI Powered CCTV Based Service Quality Monitoring.</div>
+  </div>
+  <div class="for">
+    <div><div class="l">Prepared for</div><b>The Bank of Punjab</b></div>
+    <div><div class="l">Proposed solution</div><b>xVision</b> · AI video analytics for existing CCTV</div>
+    <div><div class="l">Date</div><b>December 2026</b></div>
+  </div>
+</section>
+
+<!-- ============ 2 · AT A GLANCE ============ -->
+<section class="page">
+  <div class="hdr"><img src="2026-11-25-xloop-company-profile-bop-assets/logo-color.png" alt="xLoop"><span>Company Profile</span></div>
+  <div class="body">
+    <div class="eyebrow">About xLoop</div>
+    <h1>We modernize data, then build and secure the AI that runs on it.</h1>
+    <p class="lead" style="margin-top:6mm">xLoop Digital is a data and AI consulting and engineering company. Since 2022 we have helped banks, asset managers, retailers, healthcare providers and logistics operators move their data to modern platforms, put AI into production and secure the systems they depend on. Our largest delivery center is in <b>Karachi</b>, and our own AI products, including <b>xVision</b>, are built and supported there.</p>
+
+    <div class="stats">
+      <div class="stat"><div class="n grad-text">90</div><div class="t">engineers and consultants</div></div>
+      <div class="stat"><div class="n grad-text">50+</div><div class="t">solutions delivered</div></div>
+      <div class="stat"><div class="n grad-text">8</div><div class="t">countries served</div></div>
+      <div class="stat"><div class="n grad-text">4</div><div class="t">offices: San Mateo, Dubai, Doha, Karachi</div></div>
+    </div>
+
+    <h4>Corporate information</h4>
+    <table class="kv">
+      <tr><td>Legal name</td><td><b>xLoop Digital Services Private Ltd</b></td></tr>
+      <tr><td>Registration</td><td>Private limited company, registered in Pakistan</td></tr>
+      <tr><td>Year founded</td><td>2022</td></tr>
+      <tr><td>Registered office</td><td>1st Floor, Marine Tower, Block 4 Clifton, Karachi, Pakistan</td></tr>
+      <tr><td>Offices</td><td>San Mateo, California (HQ) · Dubai, IFZA (Regional HQ) · Doha, QFC (Regional HQ) · Karachi (Delivery Center)</td></tr>
+      <tr><td>Business lines</td><td>xTend · xLab · xSecurity · xCelerate</td></tr>
+      <tr><td>Industries</td><td>Banking and financial services · Retail · Real estate · Healthcare · Logistics · Travel</td></tr>
+      <tr><td>Shareholders</td><td>Backed by established Pakistani business groups: Gul Ahmed, ACT Group and Akhtar Group</td></tr>
+      <tr><td>Web · Email</td><td>xloopdigital.com · info@xloopdigital.com</td></tr>
+    </table>
+  </div>
+  <div class="ftr"><span><b>xLoop Digital</b> · Company Profile for The Bank of Punjab</span><span>02</span></div>
+</section>
+
+<!-- ============ 3 · WHAT WE DO ============ -->
+<section class="page">
+  <div class="hdr"><img src="2026-11-25-xloop-company-profile-bop-assets/logo-color.png" alt="xLoop"><span>What we do</span></div>
+  <div class="body">
+    <div class="eyebrow">What we do</div>
+    <h2>Four business lines, one team</h2>
+    <p class="lead" style="margin-bottom:7mm">Data, cloud, AI, security and training sit under one roof, so a bank can take a solution from assessment to production and keep it secure with one accountable partner.</p>
+
+    <div class="grid2">
+      <div class="line-item">
+        <div class="code">x<span>Tend</span></div><div class="what">Data, cloud and AI engineering</div>
+        <p>Data platforms on Azure, AWS, Snowflake and Databricks, cloud migration, legacy modernization, AI agents and application engineering, plus dedicated engineering teams for long term programs.</p>
+      </div>
+      <div class="line-item">
+        <div class="code">x<span>Lab</span></div><div class="what">AI products</div>
+        <p>Products we build, own and support: <b>xVision</b> for AI video analytics on existing CCTV, xServe for AI ordering, and App Pilot assistants for HR and investor support.</p>
+      </div>
+      <div class="line-item">
+        <div class="code">x<span>Security</span></div><div class="what">Cybersecurity and AI security</div>
+        <p>Penetration testing, application security, IT and OT compliance audits, AI red teaming and AI security audits, led by certified ISO 27001 and ISO 42001 Lead Auditors.</p>
+      </div>
+      <div class="line-item">
+        <div class="code">x<span>Celerate</span></div><div class="what">Training and talent</div>
+        <p>Employment based bootcamps in AI, data science and full stack engineering, delivered for banks and national energy companies, with Emeritus as our training partner.</p>
+      </div>
+    </div>
+
+    <h4 style="margin-top:11mm">Capabilities relevant to this project</h4>
+    <div class="grid3">
+      <div class="cap"><h3>Computer vision</h3><p>Object detection and tracking on live video, using convolutional neural networks and YOLO models.</p></div>
+      <div class="cap"><h3>Edge and hybrid deployment</h3><p>Analytics on site, in the cloud or both, sized to the bank's network and data residency needs.</p></div>
+      <div class="cap"><h3>Dashboards and alerting</h3><p>Live control panels, multi KPI dashboards and alerts by email, SMS or API into existing systems.</p></div>
+      <div class="cap"><h3>Data engineering</h3><p>Pipelines that turn events into trusted, reportable data across hundreds of sites.</p></div>
+      <div class="cap"><h3>Security by design</h3><p>Role based access, audit logs and security testing built into delivery, not added at the end.</p></div>
+      <div class="cap"><h3>Operate and support</h3><p>Local engineering in Karachi for rollout, model tuning, monitoring and ongoing support.</p></div>
+    </div>
+  </div>
+  <div class="ftr"><span><b>xLoop Digital</b> · Company Profile for The Bank of Punjab</span><span>03</span></div>
+</section>
+
+<!-- ============ 4 · XVISION ============ -->
+<section class="page">
+  <div class="hdr"><img src="2026-11-25-xloop-company-profile-bop-assets/logo-color.png" alt="xLoop"><span>Proposed solution</span></div>
+  <div class="body">
+    <div class="eyebrow">xVision · from xLab</div>
+    <h2>AI video analytics for existing branch CCTV</h2>
+    <p class="lead">Branch cameras record every hour of the day, but people can only review a fraction of it. <b>xVision</b> analyzes every feed continuously, flags service and security issues as they happen, and shows how every branch is performing on one dashboard, using the cameras already installed.</p>
+
+    <h4 style="margin-top:8mm">What xVision monitors in each branch</h4>
+    <div class="mon">
+      <div><span class="num">01</span><h3>Queues and wait times</h3><p>Measures queue length and how long customers wait, and alerts branch staff when lines build up.</p></div>
+      <div><span class="num">02</span><h3>Customer traffic</h3><p>Counts footfall and shows busy hours, so staffing matches demand at each branch.</p></div>
+      <div><span class="num">03</span><h3>Staff at counters</h3><p>Shows whether tellers and service desks are staffed while customers are waiting.</p></div>
+      <div><span class="num">04</span><h3>ATM status</h3><p>Spots ATMs and equipment that are down or out of service, so they get fixed sooner.</p></div>
+      <div><span class="num">05</span><h3>Suspicious activity</h3><p>Flags unusual behavior and unauthorized access for the security team to review.</p></div>
+      <div><span class="num">06</span><h3>Cleanliness and upkeep</h3><p>Picks up maintenance and housekeeping issues before customers notice them.</p></div>
+    </div>
+
+    <h4 style="margin-top:9mm">How it works</h4>
+    <div class="steps">
+      <div class="step"><h3>Connect cameras</h3><p>Connects to existing CCTV and NVR feeds; most modern IP cameras work through standard streams.</p></div>
+      <div class="step"><h3>Detect events</h3><p>Computer vision models analyze each feed for the service and security events the bank selects.</p></div>
+      <div class="step"><h3>Alert the right team</h3><p>Events go to a live control panel, branch managers and regional teams, with the clip attached.</p></div>
+      <div class="step"><h3>Compare every branch</h3><p>A multi KPI dashboard ranks branches on wait times, traffic, staffing and upkeep.</p></div>
+    </div>
+
+    <div class="band" style="margin-top:9mm">
+      <h4 style="color:rgba(255,255,255,.6)">Why it fits service quality monitoring</h4>
+      <p style="font-size:9.6pt;font-weight:300;margin:0;color:rgba(255,255,255,.9)">Service quality in a branch comes down to how long customers wait, whether counters are staffed, whether ATMs work and whether the branch is kept up. xVision measures all four, at every branch, every day, and gives head office the same view of the whole network instead of periodic spot checks and mystery shopping.</p>
+    </div>
+  </div>
+  <div class="ftr"><span><b>xLoop Digital</b> · Company Profile for The Bank of Punjab</span><span>04</span></div>
+</section>
+
+<!-- ============ 5 · XVISION IN PRODUCTION ============ -->
+<section class="page">
+  <div class="hdr"><img src="2026-11-25-xloop-company-profile-bop-assets/logo-color.png" alt="xLoop"><span>Proposed solution</span></div>
+  <div class="body">
+    <div class="eyebrow">xVision in production</div>
+    <h2>Proven at the scale of a national branch network</h2>
+
+    <div class="band" style="margin-top:6mm">
+      <h4 style="color:rgba(255,255,255,.6)">A bank with 1,200 branches across South Asia</h4>
+      <div class="big" style="margin:4mm 0 5mm">
+        <div><div class="n">1,200</div><div class="t">branches monitored</div></div>
+        <div><div class="n">7,000+</div><div class="t">existing cameras analyzed</div></div>
+        <div><div class="n">~20 min</div><div class="t">monthly manual review per branch, now continuous</div></div>
+      </div>
+      <p style="font-size:8.8pt;margin:0;color:rgba(255,255,255,.85)">The bank had more than 7,000 cameras, but manual review covered about 20 minutes per branch each month, so security gaps, long waits and upkeep issues went unseen. xLoop deployed xVision on the existing CCTV to track wait times, customer traffic, ATM status, staff on the floor and suspicious activity, with alerts to a live control panel and dashboards for management.</p>
+    </div>
+
+    <table class="ba" style="margin-top:7mm">
+      <tr><th>Before xVision</th><th>After xVision</th></tr>
+      <tr><td>About 20 minutes of monitoring per branch each month</td><td>Continuous coverage across 1,200 branches</td></tr>
+      <tr><td>Manual oversight only</td><td>Automated monitoring with live alerts</td></tr>
+      <tr><td>Limited security coverage</td><td>Security events flagged as they happen</td></tr>
+      <tr><td>Inconsistent service across branches</td><td>Wait times and service tracked at every branch</td></tr>
+    </table>
+
+    <div class="grid2" style="margin-top:9mm">
+      <div>
+        <h4>Privacy and data control</h4>
+        <ul class="checks">
+          <li><b>No identification by default.</b> xVision counts, measures and flags events without identifying customers.</li>
+          <li><b>Footage stays in the branch.</b> Video can be analyzed at the edge, so only events and measures leave the premises.</li>
+          <li><b>Blurring.</b> Faces can be blurred in stored footage and dashboards.</li>
+          <li><b>Retention the bank sets.</b> Store events, not hours of footage, for the periods the bank defines.</li>
+          <li><b>Controlled access.</b> Role based access and logs for everyone who views footage or alerts.</li>
+        </ul>
+      </div>
+      <div>
+        <h4>Deployment at a glance</h4>
+        <table class="kv">
+          <tr><td style="width:28mm">Cameras</td><td>Existing CCTV; most modern IP cameras</td></tr>
+          <tr><td style="width:28mm">Technology</td><td>CNN and YOLO object detection</td></tr>
+          <tr><td style="width:28mm">Deployment</td><td>Edge · on premises · cloud · hybrid</td></tr>
+          <tr><td style="width:28mm">Outputs</td><td>Live control panel · alerts by email, SMS or API · multi KPI dashboard</td></tr>
+          <tr><td style="width:28mm">Banking POCs</td><td>Proof of concept agreements with leading Pakistani banks; signed MOUs enclosed with this bid</td></tr>
+        </table>
+      </div>
+    </div>
+  </div>
+  <div class="ftr"><span><b>xLoop Digital</b> · Company Profile for The Bank of Punjab</span><span>05</span></div>
+</section>
+
+<!-- ============ 6 · BANKING EXPERIENCE ============ -->
+<section class="page">
+  <div class="hdr"><img src="2026-11-25-xloop-company-profile-bop-assets/logo-color.png" alt="xLoop"><span>Experience</span></div>
+  <div class="body">
+    <div class="eyebrow">Banking and financial services</div>
+    <h2>Work for banks and financial institutions</h2>
+    <p class="lead" style="margin-bottom:6mm">Banking and financial services is a core sector for xLoop. Client names are withheld under our confidentiality commitments; references can be arranged on request.</p>
+
+    <div class="case">
+      <div class="who">A bank with 1,200 branches across South Asia</div>
+      <div><h3>xVision branch monitoring</h3><p>AI video analytics on existing CCTV for wait times, customer traffic, ATM status, staffing and security across the full branch network.</p></div>
+      <div class="out"><b class="grad-text">7,000+</b>cameras under continuous monitoring</div>
+    </div>
+    <div class="case">
+      <div class="who">A major commercial bank</div>
+      <div><h3>AI HR assistant</h3><p>A retrieval augmented assistant with custom LLM orchestration and multi language support, giving every employee instant answers from bank policy.</p></div>
+      <div class="out"><b class="grad-text">50,000+</b>policy documents searchable</div>
+    </div>
+    <div class="case">
+      <div class="who">A leading asset management company in Pakistan</div>
+      <div><h3>AI investor support assistant</h3><p>An LLM and RAG assistant that answers investor queries from the firm's own fund documents, including 40 page fund reports.</p></div>
+      <div class="out"><b class="grad-text">30%</b>higher resolution rates</div>
+    </div>
+    <div class="case">
+      <div class="who">One of the largest asset management companies in Pakistan</div>
+      <div><h3>Reconciliation and NAV tagging automation</h3><p>Manual spreadsheet reconciliation replaced with automated ingestion and matching, rule based NAV tagging, exception reporting, role based access and a management dashboard.</p></div>
+      <div class="out">Manual reconciliation automated end to end</div>
+    </div>
+    <div class="case">
+      <div class="who">A leading banking platform in Pakistan</div>
+      <div><h3>Mobile banking application security</h3><p>Insecure APIs and data leakage found and fixed, with SAST and DAST built into the delivery pipeline.</p></div>
+      <div class="out">Guided to PCI DSS and State Bank compliance</div>
+    </div>
+    <div class="case">
+      <div class="who">A leading Pakistani commercial bank</div>
+      <div><h3>Full stack engineering bootcamp</h3><p>Cloud native and mobile application development training for the bank's own technology professionals.</p></div>
+      <div class="out"><b class="grad-text">70+</b>professionals across 3 cohorts</div>
+    </div>
+  </div>
+  <div class="ftr"><span><b>xLoop Digital</b> · Company Profile for The Bank of Punjab</span><span>06</span></div>
+</section>
+
+<!-- ============ 7 · SECURITY + DELIVERY ============ -->
+<section class="page">
+  <div class="hdr"><img src="2026-11-25-xloop-company-profile-bop-assets/logo-color.png" alt="xLoop"><span>Security and delivery</span></div>
+  <div class="body">
+    <div class="eyebrow">Security and governance</div>
+    <h2>Built for a regulated bank</h2>
+    <p class="lead" style="margin-bottom:6mm">A system that watches branch video has to meet the same security bar as any other banking system. Our security practice works alongside the delivery team from the first day.</p>
+
+    <div class="grid2">
+      <ul class="checks">
+        <li><b>Certified Lead Auditors.</b> Our team includes certified ISO 27001 (information security) and ISO 42001 (AI management) Lead Auditors.</li>
+        <li><b>Penetration testing.</b> VAPT delivered across 200+ domains for a healthcare platform, with every high risk finding given a prioritized fix.</li>
+        <li><b>Banking compliance.</b> Mobile banking security work guided to PCI DSS and State Bank of Pakistan requirements.</li>
+      </ul>
+      <ul class="checks">
+        <li><b>AI security.</b> AI red teaming and AI security audits for vision and language systems.</li>
+        <li><b>IT and OT audits.</b> Compliance audit of IT and plant control systems for a 30 MW wind power producer, across head office and two sites.</li>
+        <li><b>Engineering discipline.</b> Our engineers build with AI coding assistants, and an engineer reviews and tests every change.</li>
+      </ul>
+    </div>
+
+    <div class="eyebrow" style="margin-top:11mm">How we deliver</div>
+    <h2 style="font-size:16pt">From pilot branches to the full network</h2>
+    <div class="grid2" style="gap:6mm 10mm;margin-top:5mm">
+      <div class="phase"><div class="when">Phase 1</div><h3>Site and camera assessment</h3><p>We review camera positions, resolution, lighting, NVRs and network capacity at representative branches, and agree the KPIs and alert rules with the bank.</p></div>
+      <div class="phase"><div class="when">Phase 2</div><h3>Pilot branches</h3><p>xVision goes live at an agreed set of branches. Detection is tuned to each layout and results are measured against the agreed KPIs.</p></div>
+      <div class="phase"><div class="when">Phase 3</div><h3>Phased rollout</h3><p>Branches are added in waves by region, with dashboards and alerts set up for branch, regional and head office teams.</p></div>
+      <div class="phase"><div class="when">Phase 4</div><h3>Operate and support</h3><p>Local support from Karachi, ongoing model tuning, health monitoring of cameras and feeds, and regular service reviews with the bank.</p></div>
+    </div>
+  </div>
+  <div class="ftr"><span><b>xLoop Digital</b> · Company Profile for The Bank of Punjab</span><span>07</span></div>
+</section>
+
+<!-- ============ 8 · PARTNERS, LEADERSHIP, WHY ============ -->
+<section class="page">
+  <div class="hdr"><img src="2026-11-25-xloop-company-profile-bop-assets/logo-color.png" alt="xLoop"><span>Partners and people</span></div>
+  <div class="body">
+    <div class="eyebrow">Partners</div>
+    <h2>The partners we work with</h2>
+    <div class="grid3" style="grid-template-columns:1.1fr 1fr 1fr;margin-top:3mm">
+      <div><h4>Cloud and data platforms</h4><div class="chips"><span class="chip">AWS</span><span class="chip">Microsoft</span><span class="chip">Snowflake</span><span class="chip">Databricks</span></div></div>
+      <div><h4>Business platforms</h4><div class="chips"><span class="chip">Salesforce</span><span class="chip">Creatio</span><span class="chip">Pipedrive</span></div></div>
+      <div><h4>Training</h4><div class="chips"><span class="chip">Emeritus</span></div></div>
+    </div>
+
+    <div class="eyebrow" style="margin-top:10mm">Leadership</div>
+    <div class="grid3">
+      <div class="person"><b>Mir Nasir</b><span>Chief Executive Officer</span></div>
+      <div class="person"><b>Daniyal Abbasi</b><span>Chief Operating Officer</span></div>
+      <div class="person"><b>Huzaifa Valika</b><span>VP Enterprise Sales</span></div>
+      <div class="person"><b>Irfan Shaikh</b><span>Senior Solution Architect</span></div>
+      <div class="person"><b>Wasey Siddique</b><span>Principal Cloud Engineer</span></div>
+      <div class="person"><b>Muhammad Humza</b><span>ISO 42001 and ISO 27001 Lead Auditor</span></div>
+    </div>
+
+    <div class="eyebrow" style="margin-top:10mm">Why xLoop</div>
+    <div class="why">
+      <div><h3>A product already in banks</h3><p>xVision is not a prototype. It runs across a 1,200 branch network today.</p></div>
+      <div><h3>Local team, global standards</h3><p>Delivery and support from Karachi, with experience across 8 countries.</p></div>
+      <div><h3>Security under the same roof</h3><p>Certified Lead Auditors and a security practice that tests what we build.</p></div>
+      <div><h3>Financially strong backing</h3><p>Shareholders include Gul Ahmed, ACT Group and Akhtar Group.</p></div>
+      <div><h3>AI native engineering</h3><p>Data, cloud, AI, security and training skills in one team of 90.</p></div>
+      <div><h3>Long term partner</h3><p>Clients return for follow on projects and long term dedicated teams.</p></div>
+    </div>
+
+    <div class="eyebrow" style="margin-top:10mm">Industries we serve</div>
+    <div class="chips"><span class="chip">Banking and financial services</span><span class="chip">Retail</span><span class="chip">Real estate</span><span class="chip">Healthcare</span><span class="chip">Logistics</span><span class="chip">Travel</span></div>
+  </div>
+  <div class="ftr"><span><b>xLoop Digital</b> · Company Profile for The Bank of Punjab</span><span>08</span></div>
+</section>
+
+<!-- ============ 9 · BACK ============ -->
+<section class="page back">
+  <svg class="art" style="position:absolute;inset:0" viewBox="0 0 210 297" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="g2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00E6C3"/><stop offset=".5" stop-color="#0098D8"/><stop offset="1" stop-color="#0061F6"/></linearGradient>
+      <radialGradient id="glow2" cx=".1" cy=".95" r=".8"><stop offset="0" stop-color="#0098D8" stop-opacity=".45"/><stop offset="1" stop-color="#22205D" stop-opacity="0"/></radialGradient>
+    </defs>
+    <rect width="210" height="297" fill="url(#glow2)"/>
+    <rect x="0" y="0" width="210" height="4.4" fill="url(#g2)"/>
+  </svg>
+  <img src="2026-11-25-xloop-company-profile-bop-assets/logo-white.png" alt="xLoop" style="position:absolute;top:20mm;left:18mm;height:12mm">
+  <div style="position:absolute;top:110mm;left:18mm;right:18mm">
+    <div class="eyebrow" style="color:#00E6C3">Thank you</div>
+    <h1>Every branch, measured every day.</h1>
+    <p class="lead" style="margin-top:6mm;max-width:150mm">We look forward to bringing xVision to The Bank of Punjab's branch network, and to working with the bank's teams on a service quality program that lasts.</p>
+  </div>
+  <div class="contact">
+    <div><div class="l">Contact</div><b>Huzaifa Valika</b><br>VP Enterprise Sales<br>0322 2009713</div>
+    <div><div class="l">Email</div><b>info@xloopdigital.com</b></div>
+    <div><div class="l">Web</div><b>xloopdigital.com</b></div>
+    <div><div class="l">Registered office</div>1st Floor, Marine Tower, Block 4 Clifton, Karachi</div>
+  </div>
+</section>
+
+</body>
+</html>

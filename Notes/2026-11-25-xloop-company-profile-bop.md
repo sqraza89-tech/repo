@@ -67,3 +67,4 @@ tags: [xloop, bank-of-punjab, bop, xvision, company-profile, computer-vision, ba
 - "Achievements in numbers" on page 3 was renamed "xLoop in numbers" and uses company-level figures only, no case-study stats (Sana, 26 Nov 2026)
   - The six figures: 90 people in 4 years · 3 continents · 4 international entities (from Atir's LinkedIn) · 15+ partners (7 platform, Emeritus, 10 SA partners) · 6 industries · 3 own AI products (xVision, xServe, App Pilot)
   - Not used, because no confirmed figure exists: revenue growth, recurring revenue, repeat-client rate, headcount growth rate. Revenue is also off-limits in prospect documents under Nasir's deck rule
+- 26 Nov 2026: page 3 numbers taken from the corporate deck's At a Glance slide: 90+ engineers, 8 countries, 4 offices, 57+ projects, 32+ clients, 40 certifications. Page 2 stats were updated to match. Revenue figure not yet pulled, because the SharePoint deck would not load in the browser

@@ -199,3 +199,5 @@ Live setup and settings: [[2026-11-13-xloop-mari-ads-launch-dev-brief]]
 - [ ] Mark posts as done here (or tell Claude) so reminders skip them
 
 **Creatio update (Tue 24 Nov 2026):** Nasir approved **F1, F2, F3** (product + features ads), replacing the B1–B8 / I1–I3 set. Launch target **Mon 30 Nov 2026** with the A1 announcement, if budget (~USD 500, 4 weeks) and Creatio name/logo confirmations land. Plan, setup and daily checks: [[2026-11-24-xloop-creatio-ads-f1-f3-launch-plan]]. Omais brief: `Notes/2026-11-24-xloop-creatio-ads-f1-f3-design-brief.docx` (drafts Thu 26, approval Fri 27). Once live, add both Creatio campaigns to the daily ad checks next to Mari.
+
+**Restart (Wed 25 Nov 2026):** the company page had no posts from 23 Oct to 25 Nov. From today the company page follows the restart schedule in [[2026-11-25-xloop-linkedin-restart-plan-and-site-status]] (Creatio announcement Wed 25, Legacy page Thu 26, Applied AI Fri 27, Security Day Mon 30, … medallion Fri 4 Dec) until Fri 4 Dec 2026, then returns to W10 above. Reminders should read that table for those dates.

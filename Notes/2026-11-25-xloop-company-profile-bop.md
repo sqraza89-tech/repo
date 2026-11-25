@@ -36,7 +36,9 @@ tags: [xloop, bank-of-punjab, bop, xvision, company-profile, computer-vision, ba
 ## Worth checking
 - [ ] **Leader descriptions.** These are role-based lines I wrote, not bios. Real bios (years of experience, past companies) would build more trust if Sana can get them
 - [ ] **Timeline.** Only 2022 (founded), 2024 (AI native shift begins) and 2026 come from confirmed facts. The middle steps carry no year
-- [ ] **xVision features.** Edge processing and face blurring are still [CONFIRM] items from the product page
+- [x] **xVision features (Sana, 25 Nov 2026):** on site processing is confirmed. Face blurring is NOT available, so it was removed. VIP client recognition is available and is shown as an opt-in the bank controls
+- [ ] **Leader bios:** waiting for Sana to open the LinkedIn profiles
+- [ ] **Timeline years:** Sana will confirm them with Nasir later
 
 ## Next steps
 - [ ] Sana: review v2 and send it to the bid owner before Thu 10 Dec 2026

@@ -85,7 +85,7 @@ Check in this order: **Exclude → C → A → B.** Anything left over is B.
 
 | Priority | Rule | What happens |
 |---|---|---|
-| **Exclude** | Role = individual learner, or a competitor or vendor email domain | Learner email (5b). Never counted as a lead |
+| **Exclude** | Competitor or vendor email domain | Results only, no follow-up email. Never counted as a lead |
 | **C** | Personal email, or company size under 50, or result "Starting Out" with no timeline | Automated nurture only |
 | **A** | Work email **and** company size at or above the role's floor **and** a fit market **and** initiative is not "Not decided yet" **and** (timeline within 6 months **or** budget set aside for rollout (A1.2 = 3) **or** review booked) | Sales follows up within 1 business day |
 | **B** | Everything else with a work email | Nurture by priority domain; SDR checks fit |
@@ -94,24 +94,13 @@ Check in this order: **Exclude → C → A → B.** Anything left over is B.
 
 **Fit markets:** Pakistan, UAE, Saudi Arabia, Qatar, USA, Canada, South Africa, UK, Poland, Hungary, Kuwait, Bahrain, Oman.
 
-## 5b. Email to individual learners
+## 5b. No learner option, no xCelerate email (Sana, 25 Nov 2026)
 
-**Subject:** Your Data & AI Readiness results, and a next step for your career
-**Preview:** Thanks for taking the assessment. Here's where xCelerate comes in.
+The tool is for senior professionals who buy services, not students or career starters. xCelerate serves a different market (students, early career people entering IT, CSR programs), so the tool never routes to it.
 
-> Hi {first_name},
->
-> Thanks for taking the Data & AI Readiness Assessment. Your results are on the page you just saw, and you can come back to them anytime.
->
-> You told us you're exploring a career in AI. xCelerate, xLoop's training division, runs 20 week programs in Artificial Intelligence and Data Engineering, with a team capstone project at the end. Our programs run with employers and sponsors, including fully funded programs for young people in the communities where our sponsors work.
->
-> Register your interest and we'll let you know when a program you can join opens.
->
-> **[Register your interest]** → `https://www.xloopdigital.com/xcelerate`
->
-> The xCelerate team, xLoop
-
-*No open cohorts have run yet (Misbah, 19 Nov), so the email promises a heads up, not a start date.*
+- **Remove "Individual learner, or exploring an AI career"** from the role question (X2). The remaining options stay as they are
+- **Drop the learner email** and any xCelerate link from the tool, results page, report and emails
+- Students who take it anyway: personal email → **C** (automated nurture only), same as any other personal email
 
 ## Defaults: what's fine, and one change
 

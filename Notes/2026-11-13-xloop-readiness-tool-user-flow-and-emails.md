@@ -54,11 +54,10 @@ Intro line: *"Three quick questions so we can tailor your result."*
 - CISO, head of security, risk or compliance
 - Business unit or operations leader
 - Engineering, product or platform lead
-- Individual learner, or exploring an AI career
 - Other
 
 *Used for:* which score the report shows first (head of data sees Data first, CISO sees Safe first).
-Individual learners still get results but are excluded from the pipeline and offered xCelerate.
+The tool is for senior professionals buying services; there is no learner option and no xCelerate routing (Sana, 25 Nov 2026).
 
 ### X3. Which industry are you in?
 - Banking & financial services
@@ -207,7 +206,7 @@ Yes, often · Yes, sometimes · Rarely · No · Not sure
   for Data and AI blocks, the security lead for Safe blocks
 - **Button:** keeps the booking's one name across the site ("30 minute Data & AI Readiness
   Review"); the line above it names what they get
-- **Not sent to:** excluded leads (learners get an xCelerate email instead), NEPRA cases (phone and
+- **Not sent to:** excluded leads (competitor or vendor domains), NEPRA cases (phone and
   email only)
 - Priority A leads still get this email; sales follows up personally within 1 business day
 - Merge fields: `{first_name}` `{initiative}` (X1 answer in plain words) `{data}` `{ai}` `{safe}`

@@ -30,6 +30,7 @@ Zeeshan's Teams message (25 Nov, 1:50 am) asked for decisions before the homepag
 ### 2. Data & AI Readiness tool: files to send
 - **v4 workbook:** `Notes/2026-10-28-xloop-data-ai-readiness-assessment-v4.xlsx`
 - **Latest wording doc** (blocker short names, initiative wording, page routing, proof lines, lead rating Exclude → C → A → B, learner email): `Notes/2026-11-24-xloop-readiness-tool-dev-answers.docx`
+- **Learner routing removed (Sana, 25 Nov):** no "Individual learner" role, no xCelerate email or link. Updated in the dev answers md/docx, the 13 Nov flow md/docx and the v4 workbook (lead rules + role option). The 13 Nov flow PDF is now stale; don't send it
 - Open item still in that doc: Irfan as signer of the Data/AI emails is "[Sana to confirm]"
 - `/contact-us` as the booking link until the calendar link exists: fine
 
@@ -44,7 +45,7 @@ Zeeshan's Teams message (25 Nov, 1:50 am) asked for decisions before the homepag
 > Thanks Zeeshan, great progress.
 >
 > 1. Homepage: happy to review this morning. I'll check the case cards and logo strip for client names, and that no CTA points to a page that isn't live yet.
-> 2. Readiness tool: attaching the v4 workbook (2026-10-28-xloop-data-ai-readiness-assessment-v4.xlsx) and the latest wording doc (2026-11-24-xloop-readiness-tool-dev-answers.docx). It has the blocker short names, initiative wording, page links, proof lines and the lead rating rules (Exclude → C → A → B). /contact-us is fine as the booking link for now.
+> 2. Readiness tool: attaching the v4 workbook (2026-10-28-xloop-data-ai-readiness-assessment-v4.xlsx) and the latest wording doc (2026-11-24-xloop-readiness-tool-dev-answers.docx). It has the blocker short names, initiative wording, page links, proof lines and the lead rating rules (Exclude → C → A → B). /contact-us is fine as the booking link for now. One change: please remove the "Individual learner" role option and the xCelerate learner email from the tool. The diagnostic is only for senior professionals, and xCelerate is a separate audience. Students who take it anyway land in C nurture through the personal email rule.
 > 3. AI Security tool: please switch to the v3 rescaled scoring (0–100%) with Farrukh Feroze as signer and take it live with results on screen and the "Book a 30 Minute AI Security Review" CTA. Hide "Get the full report" for now. The full v2 flow (report form, 9-domain PDF, 4 tier emails) can follow as the next step. The scoring formula and email copy are in the workflows doc and the v3-rescaled workbook; I'll send both.
 
 ## Next steps

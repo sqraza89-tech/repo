@@ -63,3 +63,4 @@ tags: [xloop, bank-of-punjab, bop, xvision, company-profile, computer-vision, ba
 - Replacement wording (revised the same day): no "proof of concept" wording, since Sana felt it read as weak. Kept vague instead: "working with leading Pakistani banks", "built for bank branch networks", "xVision branch analytics"
 - Achievements now show 50+ solutions and 30% in place of the two xVision numbers
 - The website keeps the existing wording for now (Sana's call)
+- Why xLoop (page 10) reworked (Sana, 26 Nov 2026) to stress leadership, industry experience and technical expertise. The xVision product point was removed

@@ -56,3 +56,10 @@ tags: [xloop, bank-of-punjab, bop, xvision, company-profile, computer-vision, ba
 - Removed: Irfan, Farrukh, Humza, Muhammad Ali Abbasi and the practice leads page. Their bios are still in memory if needed
 - Atir's bio does not name ZUE, Fazal e Rabbi or MTBC (MTBC is described as "a NASDAQ listed healthcare IT company"). Arthur Lawrence is named
 - Atir's title stays General Manager Finance, not CFO (Sana, 26 Nov 2026)
+
+## xVision proof corrected (Sana, 26 Nov 2026)
+- The "1,200 branches / 7,000+ cameras / ~20 min per branch" case was a **proof of concept for Bank Alfalah**, not a deployment
+- Removed from this profile everywhere: cover, timeline, achievements, page 6, banking cases and why xLoop
+- Replacement wording: "proofs of concept with leading Pakistani banks", with no figures
+- Achievements now show 50+ solutions and 30% in place of the two xVision numbers
+- The website keeps the existing wording for now (Sana's call)

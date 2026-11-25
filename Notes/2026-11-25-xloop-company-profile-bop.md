@@ -55,3 +55,4 @@ tags: [xloop, bank-of-punjab, bop, xvision, company-profile, computer-vision, ba
 - The financial backing box sits under them. The profile is 11 pages
 - Removed: Irfan, Farrukh, Humza, Muhammad Ali Abbasi and the practice leads page. Their bios are still in memory if needed
 - Atir's bio does not name ZUE, Fazal e Rabbi or MTBC (MTBC is described as "a NASDAQ listed healthcare IT company"). Arthur Lawrence is named
+- Atir's title stays General Manager Finance, not CFO (Sana, 26 Nov 2026)

@@ -322,3 +322,5 @@ Each block names the lowest scoring domain. The steps follow the workbook's ques
 - [ ] Decide whether a day 4 nudge follows for people who haven't booked (same open question as the readiness tool)
 
 **Dev answers (26 Nov, Zeeshan):** same 5 size bands as the readiness tool; Exclude (competitor/vendor domain) → C (personal email or Under 50) → A (work email AND 500+ AND fit market AND (tier Exposed/Foundational OR review booked)) → B (rest). Booking button "Book an AI Security Review" → /contact-us with "Security (AI security, cybersecurity, NEPRA)" preselected until the calendar link exists.
+
+**Dev answers (26 Nov, round 2):** A = work email + 500+ + fit market + tier Exposed/Foundational only (booking isn't known at submit); a lead who later books on /contact-us is moved up to A by sales by hand. NEPRA detection open: the tool has no industry question; suggested using the source page (NEPRA page or blog) instead.

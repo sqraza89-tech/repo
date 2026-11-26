@@ -122,3 +122,9 @@ trusted_numbers: your trusted reporting · forecasting: your forecasting and dec
 ## 26 Nov dev answers
 - Offer name everywhere: "Data & AI Readiness Review" (no "30 minute" in buttons): Data & AI Consulting page button and Blog 57 footer button change; email body sentence "In 30 minutes, our engineer…" stays. Other pages' review buttons unchanged for now
 - Blog 57 end CTA button opens the tool (no lead form before it); until the tool is live, /contact-us with "Data & AI consulting" preselected
+
+## 26 Nov dev answers (round 2)
+- **"Review booked" can't be known at submit:** A uses timeline within 6 months or budget set aside only; a B lead who later books on /contact-us is moved up to A by sales by hand (same in the AI Security tool)
+- **Role order (my suggestion, Sana to approve; only head of data and CISO were decided before):** CEO/MD/founder: AI · Data · Safe · CIO/CTO/CDO/head of digital: Data · AI · Safe · Head of data: Data · AI · Safe · CISO: Safe · Data · AI · Business unit leader: AI · Data · Safe · Engineering/product/platform: Data · AI · Safe · Other: Data · AI · Safe. Guardrails overlay (Safe < 50%) still puts Safe fixes first
+- **NEPRA line final:** Energy & utilities + Pakistan (country from IP at the results stage), replaces the booking button and report form: "Working toward the NEPRA IT/OT Regulations? Book a NEPRA scoping call. Call (021) 35869200 or email xsecurity@xloopdigital.com." tel/mailto as on /services/nepra; no follow-up email
+- **Open:** the AI Security tool has no industry question; suggested showing the NEPRA line only for visitors arriving from the NEPRA page or blog (Sana to decide)

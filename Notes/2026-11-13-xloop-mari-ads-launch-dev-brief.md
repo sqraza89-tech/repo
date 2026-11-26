@@ -249,6 +249,7 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
   - Quote: "As a fresh graduate, I wanted to learn practical skills instead of theoretical knowledge and this bootcamp gave me exactly that."
   - Destination: Sana confirmed the link as set is correct (26 Nov); don't re-flag. Same link for B2/B3
   - B2 + B3 uploaded the same day to the same ad set, so all three are reviewed and start together; budget unchanged (USD 10/day across 4 ads). Facebook next, then Creatio
+  - **No ad-level `utm_content`** (Sana, 26 Nov: skip UTMs unless required). Compare cutdowns in LinkedIn/Meta per-ad reports instead. Don't ask for UTMs on future ad uploads
   - [ ] Confirm Ad_1 full video is still Active alongside the cutdowns
 
 ## Next steps

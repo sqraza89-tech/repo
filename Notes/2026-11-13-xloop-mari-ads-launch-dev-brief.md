@@ -247,7 +247,8 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
 - Correction: the cutdowns Sana is uploading are **4:5 (1080×1350), ~26 s**, not the landscape "Ad Snippet" files in Downloads
 - B1 graduate = **Laiba** (LinkedIn ad `Ad_B1_Laiba_26Nov2026`, ID 1650331873, submitted 26 Nov). B2/B3 names still to confirm
   - Quote: "As a fresh graduate, I wanted to learn practical skills instead of theoretical knowledge and this bootcamp gave me exactly that."
-  - [ ] Fix: destination was the homepage with no `utm_content`. Change to the Mari press page + `utm_content=b1` (or recreate and pause this one)
+  - Destination: Sana confirmed the link as set is correct (26 Nov); don't re-flag. Same link for B2/B3
+  - B2 + B3 uploaded the same day to the same ad set, so all three are reviewed and start together; budget unchanged (USD 10/day across 4 ads). Facebook next, then Creatio
   - [ ] Confirm Ad_1 full video is still Active alongside the cutdowns
 
 ## Next steps

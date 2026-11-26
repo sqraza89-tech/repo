@@ -160,4 +160,5 @@ Related: [[2026-11-25-xloop-linkedin-restart-plan-and-site-status]]
 - Open: landing URL (no Creatio page on site) and intro text/headline approval, then add the 3 ads and submit
 - **26 Nov:** Sana's team already made the ads and will run it themselves; Claude gave a step-by-step guide instead. The draft campaign above has no ads (no spend): use it or delete it so there are no duplicates
 - **Recommended destination:** `xloopdigital.com/contact?source=creatio-ads&utm_content=oneview|aiagents|92pct` (not /ai-consultancy: wrong story; not homepage). Later: ask devs for a Creatio section/page and switch the link
+- [ ] 26 Nov: Creatio ads must go live today. Fastest path = add the 3 image ads to Claude's saved campaign (ad set 909432393) and Launch; delete it if a separate campaign was made
 - [ ] Optional: upload SBP scheduled-banks list as an AND condition, to match the December letter recipients

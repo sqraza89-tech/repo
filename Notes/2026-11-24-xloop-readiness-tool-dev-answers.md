@@ -115,3 +115,6 @@ The tool is for senior professionals who buy services, not students or career st
 ## Next steps
 - [ ] Sana: confirm Irfan as the Data & AI signer, then send this to Zeeshan
 - [ ] Update the workbook nurture track (section E) case to the South African retailer line
+
+## Second noun form per initiative (26 Nov, approved for PDF template sentences only)
+trusted_numbers: your trusted reporting · forecasting: your forecasting and decision support work · legacy: your legacy modernization · documents: your document assistant · customer_assistant: your customer assistant · agents: your AI agent project · visual: your computer vision project · not_decided: your first AI initiative. Must be singular ("…to its data sources", "The data [form] needs").

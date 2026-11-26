@@ -245,7 +245,10 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
 - **25 Nov:** cutdown files = `Downloads/Ad Snippet 1.mp4`, `2`, `3` (= B1–B3, one graduate each, 54–63 MB). Upload to LinkedIn awareness ad set + FB "Mari Testimonials - FB" ad set, full video keeps running. Intro text needs each graduate's first name + strongest line (Sana to send). `utm_content=b1/b2/b3`
 - **26 Nov:** snippets are landscape 16:9 (1920×1080), 28–33 s, not the planned 4:5 / 15–20 s. OK on both platforms; keep crop "Original" in Meta. Sana uploads them herself (step guide given): LinkedIn = new video ads in the existing awareness ad set, `Ad_B1_[Name]_26Nov2026`, same headline as Ad 1; FB = duplicate "Mari - Full video A - FB", swap video, Advantage+ enhancements off, publish only the 3 new ads. Retargeting ad set (1 Dec) should use cutdowns, not the full video. Mon 30 Nov: pause the weakest by view rate / avg watch (benchmark ~39% / ~7 s)
 - Correction: the cutdowns Sana is uploading are **4:5 (1080×1350), ~26 s**, not the landscape "Ad Snippet" files in Downloads
-- B1 graduate = **Laiba** (LinkedIn ad `Ad_B1_Laiba_26Nov2026`, being built 26 Nov). B2/B3 names still to confirm
+- B1 graduate = **Laiba** (LinkedIn ad `Ad_B1_Laiba_26Nov2026`, ID 1650331873, submitted 26 Nov). B2/B3 names still to confirm
+  - Quote: "As a fresh graduate, I wanted to learn practical skills instead of theoretical knowledge and this bootcamp gave me exactly that."
+  - [ ] Fix: destination was the homepage with no `utm_content`. Change to the Mari press page + `utm_content=b1` (or recreate and pause this one)
+  - [ ] Confirm Ad_1 full video is still Active alongside the cutdowns
 
 ## Next steps
 

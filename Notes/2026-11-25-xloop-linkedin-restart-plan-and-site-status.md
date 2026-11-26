@@ -117,3 +117,21 @@ From Mon 7 Dec: back on the calendar (W10, financial services week), **but** CP4
 - **Huzaifa: number yes, name no (25 Nov).** He agreed to his number (0322 2009713) on public posts but not his name, so the CTA stays "Book a Creatio consultation with xLoop". Caption given in chat without his name
 - **Caption rule (Sana, 25 Nov):** caption must not repeat the visual's text. Final caption angle: why it matters (92% of retail payments digital, SBP FY2025-26 → teams still juggle separate systems → three outcome lines → number). Text in chat
 - **Final caption (Sana's version, 25 Nov):** 92% digital payments hook (SBP, FY2025-26) → disconnected systems → "That's where our partnership with @Creatio comes in" → 3 ✅ outcomes → "less time switching between systems" → "Banks and insurers, let's talk… 📞 0322 2009713" → #Creatio #AIAgents #DigitalBanking #BankingTransformation #Pakistan. Approved to post with minor fixes (source inside sentence, ✅ spacing, retype @Creatio tag)
+- **Not posted 25 Nov** (design sent back); posting Thu 26 Nov. Full caption with the fixes applied:
+
+> Pakistan's banking customers have already gone digital. Today, 92% of retail payments are digital, according to the State Bank of Pakistan (FY2025-26).
+>
+> But for many banks, customer data, service requests and sales interactions still live across disconnected systems.
+>
+> That's where our partnership with @Creatio comes in. 🤝
+>
+> ✅ A single view of every customer
+> ✅ AI-powered workflows that reduce manual effort
+> ✅ Faster service, smarter decisions, better experiences
+>
+> So your teams spend less time switching between systems and more time serving customers.
+>
+> Banks and insurers, let's talk about what this could look like for your organization.
+> 📞 0322 2009713
+>
+> #Creatio #AIAgents #DigitalBanking #BankingTransformation #Pakistan

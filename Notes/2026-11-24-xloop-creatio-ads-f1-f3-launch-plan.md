@@ -152,3 +152,9 @@ Nasir: start the Creatio ads **this week on LinkedIn only**, for 4 weeks. Facebo
 Related: [[2026-11-25-xloop-linkedin-restart-plan-and-site-status]]
 
 **Update Wed 25 Nov 2026 (later):** Sana says Nasir approved, go live today. Setup in LinkedIn ad account 513466226 (xLoop, Active; 514458295 is on hold). Open before building: which visual (B1/B2.png still show Huzaifa's name), privacy policy URL for the lead form, confirm USD 200 lifetime 27 Nov–24 Dec.
+
+**Built 25 Nov 2026 (LinkedIn, account 513466226):** now **brand awareness, not lead gen** (pairs with the December letters). Images = Nasir-approved "One customer. One view.", "AI Agents for Banks", "92%" (number only, no name); PNGs in `Notes/2026-11-25-creatio-ads-images/`.
+- Campaign "Creatio Banking & Insurance Brand Awareness" (group 1264466623), lifetime USD 200, 25 Nov–24 Dec
+- Ad set "Creatio Banking & Insurance - Image ads - Pakistan" (909432393): Pakistan, English; Company Industries Banking + Insurance AND seniority Manager/Director/VP/CXO/Partner/Owner; expansion off; ~120k audience; single image; feed only (Right Rail + Audience Network off); `utm_campaign=creatio-banking-awareness`
+- **Budget:** LinkedIn needs USD 300 for 30 days (USD 10/day minimum), so Sana chose USD 200 over **20 days, 25 Nov–14 Dec**. Forecast: reach 7.5k–15k, frequency 2.3–4.7
+- Open: landing URL (no Creatio page on site) and intro text/headline approval, then add the 3 ads and submit

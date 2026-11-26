@@ -158,3 +158,6 @@ Related: [[2026-11-25-xloop-linkedin-restart-plan-and-site-status]]
 - Ad set "Creatio Banking & Insurance - Image ads - Pakistan" (909432393): Pakistan, English; Company Industries Banking + Insurance AND seniority Manager/Director/VP/CXO/Partner/Owner; expansion off; ~120k audience; single image; feed only (Right Rail + Audience Network off); `utm_campaign=creatio-banking-awareness`
 - **Budget:** LinkedIn needs USD 300 for 30 days (USD 10/day minimum), so Sana chose USD 200 over **20 days, 25 Nov–14 Dec**. Forecast: reach 7.5k–15k, frequency 2.3–4.7
 - Open: landing URL (no Creatio page on site) and intro text/headline approval, then add the 3 ads and submit
+- **26 Nov:** Sana's team already made the ads and will run it themselves; Claude gave a step-by-step guide instead. The draft campaign above has no ads (no spend): use it or delete it so there are no duplicates
+- **Recommended destination:** `xloopdigital.com/contact?source=creatio-ads&utm_content=oneview|aiagents|92pct` (not /ai-consultancy: wrong story; not homepage). Later: ask devs for a Creatio section/page and switch the link
+- [ ] Optional: upload SBP scheduled-banks list as an AND condition, to match the December letter recipients

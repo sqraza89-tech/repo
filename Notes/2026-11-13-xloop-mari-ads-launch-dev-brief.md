@@ -243,6 +243,7 @@ Plan: [[2026-11-06-xloop-mari-testimonial-linkedin-ads-plan]] · approved doc `N
 - **Cutdowns B1 to B3:** approved by Ali/Nasir (23 Nov). Upload Tue 24 Nov as new ads in the existing ad sets
 - Meta banner: add contact info so rejection and limit alerts reach Sana
 - **25 Nov:** cutdown files = `Downloads/Ad Snippet 1.mp4`, `2`, `3` (= B1–B3, one graduate each, 54–63 MB). Upload to LinkedIn awareness ad set + FB "Mari Testimonials - FB" ad set, full video keeps running. Intro text needs each graduate's first name + strongest line (Sana to send). `utm_content=b1/b2/b3`
+- **26 Nov:** snippets are landscape 16:9 (1920×1080), 28–33 s, not the planned 4:5 / 15–20 s. OK on both platforms; keep crop "Original" in Meta. Sana uploads them herself (step guide given): LinkedIn = new video ads in the existing awareness ad set, `Ad_B1_[Name]_26Nov2026`, same headline as Ad 1; FB = duplicate "Mari - Full video A - FB", swap video, Advantage+ enhancements off, publish only the 3 new ads. Retargeting ad set (1 Dec) should use cutdowns, not the full video. Mon 30 Nov: pause the weakest by view rate / avg watch (benchmark ~39% / ~7 s)
 
 ## Next steps
 

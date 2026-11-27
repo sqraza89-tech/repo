@@ -72,6 +72,8 @@ Yes. xLoop is a Creatio partner in Pakistan. We set up Creatio for your sales, s
 - Same claim limits as the full page: no Creatio project claimed, no tier, no "certified", no Loan Servicing agent name, no Creatio numbers
 - [CONFIRM] free consultation; Creatio logo on the site
 
+- 27 Nov: the dev said he didn't have it. Sent both this section and the full 27 Oct Banking & Finance page doc ([[2026-10-27-xloop-banking-finance-industry-page-content-v1]]), since the section sits inside that revamp
+
 ## Next steps
 
 - [ ] Sana: review

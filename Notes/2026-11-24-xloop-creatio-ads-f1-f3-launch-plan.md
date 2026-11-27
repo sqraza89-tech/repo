@@ -161,4 +161,9 @@ Related: [[2026-11-25-xloop-linkedin-restart-plan-and-site-status]]
 - **26 Nov:** Sana's team already made the ads and will run it themselves; Claude gave a step-by-step guide instead. The draft campaign above has no ads (no spend): use it or delete it so there are no duplicates
 - **Recommended destination:** `xloopdigital.com/contact?source=creatio-ads&utm_content=oneview|aiagents|92pct` (not /ai-consultancy: wrong story; not homepage). Later: ask devs for a Creatio section/page and switch the link
 - [ ] 26 Nov: Creatio ads must go live today. Fastest path = add the 3 image ads to Claude's saved campaign (ad set 909432393) and Launch; delete it if a separate campaign was made
+- 27 Nov: Sana adding the 3 ads to that campaign via "Edit & launch". Ad copy given:
+  - Creatio_1_OneView: "Sales, service and branches each hold a piece of your customer. Creatio brings them onto one CRM, with AI agents built in. xLoop implements it for banks and insurers in Pakistan. Book a Creatio call: 0322 2009713" / One Customer View for Every Department
+  - Creatio_2_AIAgents: "Creatio's AI agents handle routine onboarding, lending and service work. Your people approve the decisions that matter. Implemented by xLoop for banks and insurers in Pakistan. Book a Creatio call: 0322 2009713" / AI Agents for Banks, With Human Approval
+  - Creatio_3_92pct: "92% of Pakistan's retail payments are now digital, according to the State Bank of Pakistan (FY2025-26). Your CRM should keep up. Creatio banking CRM with AI agents, implemented by xLoop. Book a Creatio call: 0322 2009713" / Creatio Banking CRM, Implemented by xLoop
+  - Link: /contact (or same as Mari). CTA Learn more. If start date errors, set to today → ~USD 11/day to 14 Dec
 - [ ] Optional: upload SBP scheduled-banks list as an AND condition, to match the December letter recipients

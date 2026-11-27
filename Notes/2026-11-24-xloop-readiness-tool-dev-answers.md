@@ -128,3 +128,8 @@ trusted_numbers: your trusted reporting · forecasting: your forecasting and dec
 - **Role order (final, Sana delegated the call 26 Nov):** CEO/MD/founder: AI · Data · Safe · CIO/CTO/CDO/head of digital: Data · AI · Safe · Head of data: Data · AI · Safe · CISO: Safe · Data · AI · Business unit leader: AI · Data · Safe · Engineering/product/platform: Data · AI · Safe · Other: Data · AI · Safe. Guardrails overlay (Safe < 50%) still puts Safe fixes first
 - **NEPRA line final:** Energy & utilities + Pakistan (country from IP at the results stage), replaces only the booking button and report form; the on screen results (scores, bars, blocker names) still show in full: "Working toward the NEPRA IT/OT Regulations? Book a NEPRA scoping call. Call (021) 35869200 or email xsecurity@xloopdigital.com." tel/mailto as on /services/nepra; no follow-up email
 - **AI Security NEPRA (final):** the tool has no industry question, so the NEPRA line shows for visitors arriving from /services/nepra or the NEPRA blog (source tag)
+
+## 27 Nov dev answers
+- **Engineering/product lead at 5,000+ = B:** intended. At that size engineering leads rarely hold the budget; SDR checks fit
+- **AI Security button in the Data & AI email:** only when the priority domain is Shadow AI & Data Protection or Governance & Oversight (signed by Farrukh). Button renamed to **"Book an AI Security Review"** (matches the AI Security tool), `?service=AI+Security` preselects Security on /contact-us. All other blocks: "Book a Data & AI Readiness Review", signed by Irfan
+- **Leads sheet:** OK to add a Data & AI tab and a new type in the same Apps Script, without touching existing tabs; test with a dummy lead before going live

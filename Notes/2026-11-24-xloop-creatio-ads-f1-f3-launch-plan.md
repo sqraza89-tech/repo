@@ -170,6 +170,7 @@ Related: [[2026-11-25-xloop-linkedin-restart-plan-and-site-status]]
 - **27 Nov: all 3 ads saved** in ad set 909432393: Creatio_OneView (1650377483), Creatio_AIAgents (1650464213), Creatio_92pct (1650484013). Next: Review & Launch → Launch
   - LinkedIn's link box shows `xloopdigital.com?source=...` without `/contact` (same display as Mari). [ ] Click-test one link lands on the contact page
   - **`/contact` is an "Under development" placeholder. The real form is `/contact-us`.** Correct URL for all 3 ads: `https://www.xloopdigital.com/contact-us?source=creatio-ads` (checked 27 Nov: name, company, email, phone, message form)
+- [ ] Devs: redirect `/contact` → `/contact-us` (placeholder page is live at /contact)
 - [ ] Devs: simple Creatio section/page on the site (what it is, AI agents, implemented by xLoop, booking form); then swap the 3 ads' URL to it
 - [ ] Check the contact form records `source=creatio-ads`
 - **27 Nov: Nasir wants 4 weeks.** 4 weeks (27 Nov–24 Dec) at LinkedIn's USD 10/day minimum = USD 280, so USD 200 won't save. Plan: launch now 27 Nov–16 Dec at USD 200 (20 days); ask Nasir for +USD 80

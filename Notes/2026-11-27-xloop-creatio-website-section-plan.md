@@ -30,6 +30,8 @@ Proposal given to Sana, 27 Nov 2026. Revises the October plan's single shared "C
 
 Recommended both, in order: (1) this week, a Creatio section on the Banking & Finance page (quick, beats sending ad traffic to /contact-us); (2) within 1–2 weeks, the separate page (message match for ads/letters, ranks for "Creatio partner Pakistan", one link for sales, measurable). The Banking section then becomes a teaser linking to it.
 
+**Approved by Sana (27 Nov): both.** Copy v1 written: [[2026-11-27-xloop-creatio-implementation-page-content-v1]] (+ .docx) and [[2026-11-27-xloop-banking-finance-creatio-section-v1]] (+ .docx).
+
 ## Next steps
 
 - [ ] Sana approves the plan / URL

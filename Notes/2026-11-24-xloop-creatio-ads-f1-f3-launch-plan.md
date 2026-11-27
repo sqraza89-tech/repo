@@ -166,6 +166,9 @@ Related: [[2026-11-25-xloop-linkedin-restart-plan-and-site-status]]
   - Creatio_2_AIAgents: "Creatio's AI agents handle routine onboarding, lending and service work. Your people approve the decisions that matter. Implemented by xLoop for banks and insurers in Pakistan. Book a Creatio call: 0322 2009713" / AI Agents for Banks, With Human Approval
   - Creatio_3_92pct: "92% of Pakistan's retail payments are now digital, according to the State Bank of Pakistan (FY2025-26). Your CRM should keep up. Creatio banking CRM with AI agents, implemented by xLoop. Book a Creatio call: 0322 2009713" / Creatio Banking CRM, Implemented by xLoop
   - Link: /contact (or same as Mari). CTA Learn more. If start date errors, set to today → ~USD 11/day to 14 Dec
+  - **Changed 27 Nov (Sana):** "Learn more" → contact page is a mismatch (no Creatio info there). Now CTA **Request demo** + `https://www.xloopdigital.com/contact?source=creatio-ads` on all 3 ads. Ad set dates set to 27 Nov–16 Dec, USD 200
+- [ ] Devs: simple Creatio section/page on the site (what it is, AI agents, implemented by xLoop, booking form); then swap the 3 ads' URL to it
+- [ ] Check the contact form records `source=creatio-ads`
 - **27 Nov: Nasir wants 4 weeks.** 4 weeks (27 Nov–24 Dec) at LinkedIn's USD 10/day minimum = USD 280, so USD 200 won't save. Plan: launch now 27 Nov–16 Dec at USD 200 (20 days); ask Nasir for +USD 80
 - [ ] If Nasir OKs +USD 80: raise budget to USD 280 and end date to 24 Dec at **both** campaign and ad set level (ads keep running)
 - [ ] Optional: upload SBP scheduled-banks list as an AND condition, to match the December letter recipients

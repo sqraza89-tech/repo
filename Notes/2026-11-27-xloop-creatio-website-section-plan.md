@@ -26,6 +26,10 @@ Proposal given to Sana, 27 Nov 2026. Revises the October plan's single shared "C
 
 **Don't claim:** a delivered Creatio project (none yet), a partner tier or "certified", the "Loan Servicing Agent" name.
 
+## Section vs separate page
+
+Recommended both, in order: (1) this week, a Creatio section on the Banking & Finance page (quick, beats sending ad traffic to /contact-us); (2) within 1–2 weeks, the separate page (message match for ads/letters, ranks for "Creatio partner Pakistan", one link for sales, measurable). The Banking section then becomes a teaser linking to it.
+
 ## Next steps
 
 - [ ] Sana approves the plan / URL

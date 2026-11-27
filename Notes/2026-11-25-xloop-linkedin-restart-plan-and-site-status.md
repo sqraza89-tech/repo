@@ -122,6 +122,7 @@ From Mon 7 Dec: back on the calendar (W10, financial services week), **but** CP4
   - **New visuals (Sarosh, drafted with Claude, 27 Nov): use these.** Two images:
     - Img 2 "We're now a Creatio partner." (lowercase p, no tier) / "Bringing the AI-native CRM trusted by banks and insurers worldwide to Pakistan, from rollout to AI agents." / Book a free consultation
     - Img 1 "AI does the work. You sign off." Fixes: subline "xLoop is now a Creatio partner, bringing the AI-native CRM trusted by banks and insurers worldwide."; "A-native" → "AI-native"; "Human approve" → "Humans approve"; chips "Data migration · Core banking integration · AI agents & chatbots"; drop the fake card buttons and the repeated bottom line
+    - Sana rejected the Img 1 headline "AI does the work. You sign off." Alternates offered; recommended **"One CRM for your bank. / AI agents built in."** (card heading then "Connect sales, service and branches." / "Every customer in one place."). Final choice pending
     - Post as a 2-image carousel (Img 2 first). Caption = the 92% caption with the last lines changed to "👉 Book a free consultation: https://www.xloopdigital.com/contact-us?source=creatio"
     - [ ] Confirm "free" with Huzaifa · [ ] Creatio logo OK · [ ] Send final to Sarosh + Huzaifa together with a deadline
   - [ ] Repost the Creatio announcement with a link CTA (`/contact-us?source=creatio`, or the Creatio page once live), approver agreed first
